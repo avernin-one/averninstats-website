@@ -198,6 +198,8 @@ main {
       main .content .player .avatar {
         grid-area: avatar;
         padding: 0 2em 0 0; }
+        main .content .player .avatar .medals {
+          text-align: center; }
       main .content .player .stats {
         display: grid;
         grid-template-columns: auto 1fr;
