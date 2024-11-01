@@ -170,18 +170,19 @@ main {
       main .content .stats_grid .stats_table {
         display: grid;
         grid-template-columns: auto auto;
+        grid-template-rows: min-content min-content;
         grid-auto-flow: row; }
         main .content .stats_grid .stats_table .stats_table_header {
-          font-size: 0.8em;
+          font-size: .9em;
           color: var(--highlight);
           padding: .4em 0; }
-        main .content .stats_grid .stats_table .more_space {
-          line-height: 2em; }
         main .content .stats_grid .stats_table .count {
           text-align: right; }
-        main .content .stats_grid .stats_table .player_name .entry img {
-          padding: .4em;
-          vertical-align: middle; }
+        main .content .stats_grid .stats_table .player_name {
+          padding: .4em 0 .4em .4em; }
+          main .content .stats_grid .stats_table .player_name .entry img {
+            margin-right: .4em;
+            vertical-align: middle; }
         main .content .stats_grid .stats_table .player_count {
           display: flex;
           padding-right: .4em;
@@ -189,25 +190,54 @@ main {
           align-items: center; }
     main .content .player {
       display: grid;
+      grid-auto-columns: auto auto;
+      grid-auto-rows: 1fr;
+      grid-template-columns: min-content 1fr;
+      grid-template-rows: auto;
+      grid-template-areas: "avatar stats_tables";
+      gap: 0 1em; }
+      main .content .player .avatar {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: min-content min-content 1fr;
+        gap: 1em 0em;
+        grid-template-areas: "avatar_body" "medals" "custom_stats";
+        grid-area: avatar; }
+        main .content .player .avatar .avatar_body {
+          grid-area: avatar_body;
+          text-align: center; }
+        main .content .player .avatar .medals {
+          grid-area: medals;
+          text-align: center; }
+          main .content .player .avatar .medals span {
+            padding: 0 .5em; }
+        main .content .player .avatar .custom_stats {
+          grid-area: custom_stats; }
+      main .content .player .stats_tables {
+        grid-area: stats_tables; }
+        main .content .player .stats_tables h3:not(:first-of-type) {
+          margin-top: 2em; }
+    main .content .playerX {
+      display: grid;
       grid-auto-flow: column;
       grid-auto-columns: 1fr;
       grid-auto-rows: min-content;
       grid-template-columns: auto 1fr;
       grid-template-rows: auto;
       grid-template-areas: "avatar stats"; }
-      main .content .player .avatar {
+      main .content .playerX .avatarX {
         grid-area: avatar;
         padding: 0 2em 0 0; }
-        main .content .player .avatar .medals {
+        main .content .playerX .avatarX .medals {
           text-align: center; }
-      main .content .player .stats {
+      main .content .playerX .statsX {
         display: grid;
         grid-template-columns: auto 1fr;
         grid-template-rows: auto;
         grid-area: stats; }
-        main .content .player .stats div:nth-child(odd) {
+        main .content .playerX .statsX div:nth-child(odd) {
           padding: 0 2em 0 0; }
-        main .content .player .stats div:nth-child(even) {
+        main .content .playerX .statsX div:nth-child(even) {
           font-family: monospace; }
 
 footer {
