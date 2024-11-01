@@ -171,7 +171,8 @@ main {
         display: grid;
         grid-template-columns: auto auto;
         grid-template-rows: min-content min-content;
-        grid-auto-flow: row; }
+        grid-auto-flow: row;
+        grid-auto-rows: min-content; }
         main .content .stats_grid .stats_table .stats_table_header {
           font-size: .9em;
           color: var(--highlight);
