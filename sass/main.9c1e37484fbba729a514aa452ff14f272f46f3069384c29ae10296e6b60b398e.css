@@ -7,6 +7,7 @@
   --black-line: #1e1e1e;
   --highlight: #01579b;
   --highlight-table: #e91e63;
+  --slightly-dark: #797979;
   --dark: #414141;
   --darker: #313131;
   --darkest: #212121; }
@@ -174,11 +175,13 @@ main {
         grid-auto-flow: row;
         grid-auto-rows: min-content; }
         main .content .stats_grid .stats_table .stats_table_header {
-          font-size: .9em;
+          font-size: 1em;
           color: var(--highlight);
           padding: .4em 0; }
         main .content .stats_grid .stats_table .count {
-          text-align: right; }
+          color: var(--slightly-dark);
+          text-align: right;
+          font-family: "Source Code Pro", monospace; }
         main .content .stats_grid .stats_table .player_name {
           padding: .4em 0 .4em .4em; }
           main .content .stats_grid .stats_table .player_name .entry img {
@@ -189,7 +192,8 @@ main {
           display: flex;
           padding-right: .4em;
           justify-content: end;
-          align-items: center; }
+          align-items: center;
+          font-family: "Source Code Pro", monospace; }
     main .content .player {
       display: grid;
       grid-auto-columns: auto auto;
@@ -212,7 +216,8 @@ main {
           grid-area: medals;
           text-align: center; }
           main .content .player .avatar .medals span {
-            padding: 0 .5em; }
+            padding: 0 .5em;
+            font-family: "Source Code Pro", monospace; }
         main .content .player .avatar .custom_stats {
           grid-area: custom_stats; }
       main .content .player .stats_tables {
@@ -227,16 +232,47 @@ main {
       align-content: center;
       font-size: 0px; }
       main .content .heads_grid a {
+        display: inline-block;
+        position: relative;
+        width: 96px;
         border: none;
         margin: 0;
         padding: 0; }
+        main .content .heads_grid a img {
+          display: block;
+          width: 100%;
+          height: auto;
+          border: 0;
+          margin: 0;
+          padding: 0; }
+        main .content .heads_grid a .head_text_overlay {
+          position: absolute;
+          display: grid;
+          grid-template-columns: 1fr;
+          grid-template-rows: 1fr;
+          gap: 0em 0em;
+          justify-items: center;
+          align-items: center;
+          padding: .3em;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          height: 100%;
+          width: 100%;
+          opacity: 0;
+          background-color: var(--black);
+          color: var(--text-color);
+          font-size: initial;
+          text-align: center; }
+          main .content .heads_grid a .head_text_overlay:hover {
+            opacity: .75; }
+          main .content .heads_grid a .head_text_overlay .header_text {
+            width: 100%;
+            font: 300 1em "Source Code Pro", monospace;
+            word-break: break-all; }
       main .content .heads_grid a:hover {
         border: none;
-        margin: 0;
-        padding: 0; }
-      main .content .heads_grid img {
-        display: inline-block;
-        border: 0;
         margin: 0;
         padding: 0; }
 
