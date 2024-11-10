@@ -183,7 +183,8 @@ main {
           padding: .4em 0 .4em .4em; }
           main .content .stats_grid .stats_table .player_name .entry img {
             margin-right: .4em;
-            vertical-align: middle; }
+            vertical-align: middle;
+            max-width: 30px; }
         main .content .stats_grid .stats_table .player_count {
           display: flex;
           padding-right: .4em;
@@ -218,6 +219,26 @@ main {
         grid-area: stats_tables; }
         main .content .player .stats_tables h3:not(:first-of-type) {
           margin-top: 2em; }
+    main .content .heads_grid {
+      display: grid;
+      grid-template-columns: 50%;
+      grid-template-rows: auto;
+      justify-content: center;
+      align-content: center;
+      font-size: 0px; }
+      main .content .heads_grid a {
+        border: none;
+        margin: 0;
+        padding: 0; }
+      main .content .heads_grid a:hover {
+        border: none;
+        margin: 0;
+        padding: 0; }
+      main .content .heads_grid img {
+        display: inline-block;
+        border: 0;
+        margin: 0;
+        padding: 0; }
 
 footer {
   grid-area: footer;
