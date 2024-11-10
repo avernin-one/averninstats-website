@@ -218,28 +218,6 @@ main {
         grid-area: stats_tables; }
         main .content .player .stats_tables h3:not(:first-of-type) {
           margin-top: 2em; }
-    main .content .playerX {
-      display: grid;
-      grid-auto-flow: column;
-      grid-auto-columns: 1fr;
-      grid-auto-rows: min-content;
-      grid-template-columns: auto 1fr;
-      grid-template-rows: auto;
-      grid-template-areas: "avatar stats"; }
-      main .content .playerX .avatarX {
-        grid-area: avatar;
-        padding: 0 2em 0 0; }
-        main .content .playerX .avatarX .medals {
-          text-align: center; }
-      main .content .playerX .statsX {
-        display: grid;
-        grid-template-columns: auto 1fr;
-        grid-template-rows: auto;
-        grid-area: stats; }
-        main .content .playerX .statsX div:nth-child(odd) {
-          padding: 0 2em 0 0; }
-        main .content .playerX .statsX div:nth-child(even) {
-          font-family: monospace; }
 
 footer {
   grid-area: footer;
