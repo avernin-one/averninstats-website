@@ -193,7 +193,8 @@ main {
           padding-right: .4em;
           justify-content: end;
           align-items: center;
-          font-family: "Source Code Pro", monospace; }
+          font-family: "Source Code Pro", monospace;
+          word-spacing: -.4em; }
     main .content .player {
       display: grid;
       grid-auto-columns: auto auto;
