@@ -1,0 +1,90 @@
+{
+  "name": "dark_oak_leaves",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "leekcookie",
+        "nitram1572",
+        "Makishi25"
+      ],
+      "18": [
+        "__kreck"
+      ],
+      "2": [
+        "KleeneEle"
+      ],
+      "3": [
+        "philxpx"
+      ]
+    },
+    "mined": {
+      "140": [
+        "__kreck"
+      ],
+      "22": [
+        "philxpx"
+      ],
+      "23": [
+        "Mandahaya"
+      ],
+      "30": [
+        "chaos1989"
+      ],
+      "34": [
+        "Makishi25"
+      ],
+      "340": [
+        "iurie"
+      ],
+      "36": [
+        "XeonVirus"
+      ],
+      "49": [
+        "StofftierAnabol"
+      ],
+      "64": [
+        "Warhazarder"
+      ],
+      "876": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "nitram1572"
+      ],
+      "10": [
+        "leekcookie"
+      ],
+      "139": [
+        "__kreck"
+      ],
+      "16": [
+        "iurie"
+      ],
+      "2": [
+        "KleeneEle",
+        "Makishi25"
+      ],
+      "3": [
+        "philxpx",
+        "XeonVirus"
+      ],
+      "7": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "1": [
+        "Makishi25"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "7": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

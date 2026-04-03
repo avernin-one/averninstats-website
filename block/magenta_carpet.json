@@ -1,0 +1,76 @@
+{
+  "name": "magenta_carpet",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1770": [
+        "__kreck"
+      ],
+      "3": [
+        "Mamuschkaz"
+      ],
+      "3308": [
+        "Iglo"
+      ],
+      "81": [
+        "nitram1572"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "__Iglo"
+      ],
+      "44": [
+        "__kreck"
+      ],
+      "512": [
+        "Iglo"
+      ]
+    },
+    "mined": {
+      "1": [
+        "SuperXXLProfi"
+      ],
+      "111": [
+        "nitram1572"
+      ],
+      "2": [
+        "Iglo"
+      ],
+      "3": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "SuperXXLProfi",
+        "__Iglo"
+      ],
+      "111": [
+        "nitram1572"
+      ],
+      "3607": [
+        "Iglo"
+      ],
+      "631": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1": [
+        "SuperXXLProfi",
+        "__Iglo"
+      ],
+      "1119": [
+        "__kreck"
+      ],
+      "151": [
+        "nitram1572"
+      ],
+      "3": [
+        "Mamuschkaz",
+        "Iglo"
+      ]
+    }
+  }
+}

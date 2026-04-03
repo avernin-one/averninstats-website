@@ -1,0 +1,124 @@
+{
+  "name": "golden_sword",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Der_Sani",
+        "SnuvomBodensatz",
+        "iurie",
+        "Telinnor",
+        "StofftierAnabol",
+        "DornDasBrot"
+      ],
+      "2": [
+        "Cpt_looper"
+      ]
+    },
+    "crafted": {
+      "4": [
+        "iurie"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "11": [
+        "imabaldman"
+      ],
+      "175": [
+        "__kreck"
+      ],
+      "20": [
+        "santemjocko"
+      ],
+      "265": [
+        "__Iglo"
+      ],
+      "3": [
+        "minenicknick"
+      ],
+      "4": [
+        "lodoss2011"
+      ],
+      "46": [
+        "iurie"
+      ],
+      "7": [
+        "Lord_HoruS"
+      ],
+      "71": [
+        "leekcookie"
+      ],
+      "9": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "13": [
+        "imabaldman"
+      ],
+      "14": [
+        "Iglo"
+      ],
+      "183": [
+        "__kreck"
+      ],
+      "24": [
+        "santemjocko"
+      ],
+      "260": [
+        "__Iglo"
+      ],
+      "29": [
+        "leekcookie"
+      ],
+      "48": [
+        "iurie"
+      ],
+      "5": [
+        "SnuvomBodensatz",
+        "nitram1572"
+      ],
+      "6": [
+        "lodoss2011"
+      ],
+      "7": [
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "11": [
+        "__kreck"
+      ],
+      "12": [
+        "leekcookie"
+      ],
+      "150": [
+        "SnuvomBodensatz"
+      ],
+      "17": [
+        "lodoss2011"
+      ],
+      "24": [
+        "Der_Sani"
+      ],
+      "33": [
+        "Cpt_looper"
+      ],
+      "4": [
+        "Telinnor"
+      ],
+      "6": [
+        "DornDasBrot"
+      ],
+      "8": [
+        "__Iglo"
+      ],
+      "9": [
+        "iurie"
+      ]
+    }
+  }
+}

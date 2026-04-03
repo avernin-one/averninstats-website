@@ -1,0 +1,40 @@
+{
+  "name": "evoker",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "10700": [
+        "owac"
+      ],
+      "1298": [
+        "imabaldman"
+      ],
+      "1759": [
+        "philxpx"
+      ],
+      "208": [
+        "obvBasti"
+      ],
+      "232": [
+        "iurie"
+      ],
+      "28": [
+        "Warhazarder"
+      ],
+      "3": [
+        "Lord_HoruS"
+      ],
+      "4": [
+        "chaos1989",
+        "__Iglo",
+        "__kreck"
+      ],
+      "6": [
+        "SnuvomBodensatz"
+      ],
+      "94812": [
+        "leekcookie"
+      ]
+    }
+  }
+}

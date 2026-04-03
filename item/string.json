@@ -1,0 +1,106 @@
+{
+  "name": "string",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "119": [
+        "owac"
+      ],
+      "144": [
+        "santemjocko"
+      ],
+      "167": [
+        "leekcookie"
+      ],
+      "1670": [
+        "Lord_HoruS"
+      ],
+      "1963": [
+        "__kreck"
+      ],
+      "219": [
+        "imabaldman"
+      ],
+      "357": [
+        "minenicknick"
+      ],
+      "3832": [
+        "__Iglo"
+      ],
+      "401": [
+        "philxpx"
+      ],
+      "85": [
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "1035": [
+        "Lord_HoruS"
+      ],
+      "1194": [
+        "Sayder13xr"
+      ],
+      "1358": [
+        "leekcookie"
+      ],
+      "1457": [
+        "__Iglo"
+      ],
+      "1804": [
+        "__kreck"
+      ],
+      "380": [
+        "minenicknick"
+      ],
+      "434": [
+        "santemjocko"
+      ],
+      "498": [
+        "iurie"
+      ],
+      "520": [
+        "philxpx"
+      ],
+      "634": [
+        "Iglo"
+      ]
+    },
+    "used": {
+      "2": [
+        "philxpx",
+        "JonasderGamer",
+        "Sayder13xr"
+      ],
+      "3": [
+        "imabaldman"
+      ],
+      "31": [
+        "nitram1572"
+      ],
+      "4": [
+        "SuperXXLProfi"
+      ],
+      "468": [
+        "__kreck"
+      ],
+      "5": [
+        "santemjocko"
+      ],
+      "691": [
+        "leekcookie"
+      ],
+      "7": [
+        "iurie",
+        "XeonVirus"
+      ],
+      "87": [
+        "owac"
+      ],
+      "9": [
+        "Makishi25",
+        "__Iglo"
+      ]
+    }
+  }
+}

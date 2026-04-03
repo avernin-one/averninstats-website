@@ -1,0 +1,171 @@
+{
+  "name": "smithing_table",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Mandahaya",
+        "santemjocko",
+        "chaos1989",
+        "ScimMLG",
+        "Temeraiere",
+        "iurie",
+        "Telinnor",
+        "Lord_HoruS",
+        "DornDasBrot",
+        "Sayder13xr",
+        "XeonVirus"
+      ],
+      "1781": [
+        "leekcookie"
+      ],
+      "2": [
+        "minenicknick",
+        "Mamuschkaz",
+        "TrashSuperstar",
+        "Cpt_looper",
+        "Makishi25",
+        "imabaldman",
+        "__kreck"
+      ],
+      "3": [
+        "lodoss2011",
+        "owac"
+      ],
+      "4": [
+        "Iglo",
+        "nitram1572"
+      ],
+      "5": [
+        "Teayo"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "owac"
+      ],
+      "327": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "TrashSuperstar",
+        "DornDasBrot",
+        "XeonVirus"
+      ],
+      "10": [
+        "__Iglo"
+      ],
+      "103": [
+        "nitram1572"
+      ],
+      "16": [
+        "Makishi25"
+      ],
+      "2": [
+        "SuperXXLProfi",
+        "Telinnor",
+        "StofftierAnabol",
+        "Cpt_looper"
+      ],
+      "3": [
+        "minenicknick",
+        "philxpx",
+        "iurie",
+        "imabaldman"
+      ],
+      "4": [
+        "lodoss2011",
+        "Mamuschkaz",
+        "__kreck",
+        "Teayo"
+      ],
+      "43": [
+        "owac"
+      ],
+      "8": [
+        "Warhazarder"
+      ],
+      "99": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "TrashSuperstar",
+        "DornDasBrot",
+        "XeonVirus"
+      ],
+      "10": [
+        "__Iglo",
+        "Warhazarder"
+      ],
+      "103": [
+        "nitram1572"
+      ],
+      "16": [
+        "Makishi25"
+      ],
+      "2": [
+        "SuperXXLProfi",
+        "Telinnor",
+        "StofftierAnabol",
+        "Cpt_looper"
+      ],
+      "3": [
+        "philxpx",
+        "iurie",
+        "imabaldman"
+      ],
+      "4": [
+        "lodoss2011",
+        "minenicknick",
+        "Mamuschkaz",
+        "__kreck",
+        "Teayo"
+      ],
+      "43": [
+        "owac"
+      ],
+      "466": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "10": [
+        "__Iglo"
+      ],
+      "105": [
+        "nitram1572"
+      ],
+      "1621": [
+        "leekcookie"
+      ],
+      "18": [
+        "Makishi25"
+      ],
+      "4": [
+        "SuperXXLProfi",
+        "Cpt_looper"
+      ],
+      "43": [
+        "owac"
+      ],
+      "5": [
+        "minenicknick"
+      ],
+      "6": [
+        "Mamuschkaz",
+        "__kreck"
+      ],
+      "7": [
+        "lodoss2011",
+        "Warhazarder"
+      ],
+      "9": [
+        "Teayo"
+      ]
+    }
+  }
+}

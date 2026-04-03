@@ -1,0 +1,41 @@
+{
+  "name": "white_glazed_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "nitram1572"
+      ],
+      "22": [
+        "owac"
+      ],
+      "40": [
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "1": [
+        "iurie"
+      ],
+      "2": [
+        "owac"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ],
+      "3": [
+        "leekcookie"
+      ],
+      "5": [
+        "owac"
+      ]
+    }
+  }
+}

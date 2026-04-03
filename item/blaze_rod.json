@@ -1,0 +1,56 @@
+{
+  "name": "blaze_rod",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "13": [
+        "Sayder13xr"
+      ],
+      "2": [
+        "Iglo"
+      ],
+      "5": [
+        "__kreck"
+      ],
+      "6": [
+        "Lord_HoruS",
+        "imabaldman"
+      ],
+      "8": [
+        "owac"
+      ]
+    },
+    "picked_up": {
+      "118": [
+        "Lord_HoruS"
+      ],
+      "131": [
+        "lodoss2011"
+      ],
+      "137": [
+        "Sayder13xr"
+      ],
+      "155": [
+        "santemjocko"
+      ],
+      "209": [
+        "leekcookie"
+      ],
+      "283": [
+        "Mamuschkaz"
+      ],
+      "81": [
+        "Warhazarder"
+      ],
+      "86": [
+        "Iglo"
+      ],
+      "90": [
+        "chaos1989"
+      ],
+      "91": [
+        "iurie"
+      ]
+    }
+  }
+}

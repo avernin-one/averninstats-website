@@ -1,0 +1,41 @@
+{
+  "name": "jukebox",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Telinnor",
+        "DornDasBrot"
+      ],
+      "10": [
+        "__kreck"
+      ],
+      "2": [
+        "iurie",
+        "Sayder13xr"
+      ]
+    },
+    "mined": {
+      "2": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "Telinnor",
+        "DornDasBrot"
+      ],
+      "2": [
+        "Sayder13xr"
+      ],
+      "3": [
+        "iurie"
+      ]
+    }
+  }
+}

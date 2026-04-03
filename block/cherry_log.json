@@ -1,0 +1,44 @@
+{
+  "name": "cherry_log",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "7": [
+        "__Iglo"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1201": [
+        "leekcookie"
+      ],
+      "16": [
+        "__Iglo"
+      ],
+      "354": [
+        "KleeneEle"
+      ]
+    },
+    "picked_up": {
+      "375": [
+        "KleeneEle"
+      ],
+      "3778": [
+        "leekcookie"
+      ],
+      "7": [
+        "__Iglo"
+      ]
+    },
+    "used": {
+      "604": [
+        "leekcookie"
+      ],
+      "9": [
+        "KleeneEle"
+      ]
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "name": "iron_bars",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "128": [
+        "nitram1572"
+      ],
+      "1904": [
+        "leekcookie"
+      ],
+      "208": [
+        "iurie"
+      ],
+      "256": [
+        "lodoss2011"
+      ],
+      "320": [
+        "imabaldman"
+      ],
+      "448": [
+        "Iglo"
+      ],
+      "464": [
+        "chaos1989"
+      ],
+      "7541": [
+        "__kreck"
+      ],
+      "80": [
+        "DornDasBrot"
+      ],
+      "96": [
+        "philxpx"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "imabaldman"
+      ],
+      "140": [
+        "Iglo"
+      ],
+      "145": [
+        "leekcookie"
+      ],
+      "194": [
+        "__kreck"
+      ],
+      "3": [
+        "iurie",
+        "nitram1572"
+      ],
+      "4": [
+        "lodoss2011"
+      ],
+      "5": [
+        "Lord_HoruS"
+      ],
+      "59": [
+        "__Iglo"
+      ],
+      "8": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "104": [
+        "lodoss2011"
+      ],
+      "11": [
+        "DornDasBrot"
+      ],
+      "155": [
+        "iurie"
+      ],
+      "16": [
+        "chaos1989"
+      ],
+      "180": [
+        "__kreck"
+      ],
+      "32": [
+        "__Iglo"
+      ],
+      "38": [
+        "imabaldman"
+      ],
+      "46": [
+        "nitram1572"
+      ],
+      "57": [
+        "Iglo"
+      ],
+      "74": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "107": [
+        "lodoss2011"
+      ],
+      "11": [
+        "DornDasBrot"
+      ],
+      "13": [
+        "Makishi25"
+      ],
+      "197": [
+        "Iglo"
+      ],
+      "29": [
+        "iurie"
+      ],
+      "42": [
+        "nitram1572"
+      ],
+      "424": [
+        "__kreck"
+      ],
+      "45": [
+        "__Iglo"
+      ],
+      "533": [
+        "leekcookie"
+      ],
+      "83": [
+        "imabaldman"
+      ]
+    },
+    "used": {
+      "158": [
+        "iurie"
+      ],
+      "168": [
+        "Iglo"
+      ],
+      "197": [
+        "imabaldman"
+      ],
+      "226": [
+        "lodoss2011"
+      ],
+      "254": [
+        "chaos1989"
+      ],
+      "30": [
+        "SuperXXLProfi"
+      ],
+      "35": [
+        "DornDasBrot",
+        "__Iglo"
+      ],
+      "57": [
+        "nitram1572"
+      ],
+      "750": [
+        "leekcookie"
+      ],
+      "7554": [
+        "__kreck"
+      ]
+    }
+  }
+}

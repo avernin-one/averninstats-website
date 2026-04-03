@@ -1,0 +1,145 @@
+{
+  "name": "birch_trapdoor",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "106": [
+        "leekcookie"
+      ],
+      "12": [
+        "__kreck"
+      ],
+      "14": [
+        "lodoss2011"
+      ],
+      "16": [
+        "DornDasBrot"
+      ],
+      "20": [
+        "ScimMLG"
+      ],
+      "30": [
+        "imabaldman"
+      ],
+      "4": [
+        "Iglo",
+        "Lord_HoruS"
+      ],
+      "52": [
+        "__Iglo"
+      ],
+      "8": [
+        "Mandahaya"
+      ],
+      "92": [
+        "Warhazarder"
+      ]
+    },
+    "dropped": {
+      "13": [
+        "leekcookie"
+      ],
+      "2": [
+        "__Iglo"
+      ],
+      "4": [
+        "DornDasBrot"
+      ],
+      "8": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Lord_HoruS"
+      ],
+      "10": [
+        "__kreck"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "15": [
+        "__Iglo"
+      ],
+      "21": [
+        "DornDasBrot"
+      ],
+      "3": [
+        "Iglo"
+      ],
+      "37": [
+        "ScimMLG"
+      ],
+      "4": [
+        "lodoss2011"
+      ],
+      "5": [
+        "imabaldman"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Lord_HoruS"
+      ],
+      "14": [
+        "santemjocko"
+      ],
+      "15": [
+        "__kreck"
+      ],
+      "17": [
+        "__Iglo"
+      ],
+      "25": [
+        "DornDasBrot"
+      ],
+      "3": [
+        "lodoss2011",
+        "Iglo"
+      ],
+      "36": [
+        "leekcookie"
+      ],
+      "37": [
+        "ScimMLG"
+      ],
+      "5": [
+        "imabaldman"
+      ]
+    },
+    "used": {
+      "12": [
+        "lodoss2011"
+      ],
+      "14": [
+        "Iglo"
+      ],
+      "35": [
+        "DornDasBrot",
+        "imabaldman"
+      ],
+      "37": [
+        "ScimMLG"
+      ],
+      "5": [
+        "Lord_HoruS"
+      ],
+      "54": [
+        "__Iglo"
+      ],
+      "64": [
+        "leekcookie"
+      ],
+      "8": [
+        "Mandahaya"
+      ],
+      "9": [
+        "__kreck"
+      ],
+      "92": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

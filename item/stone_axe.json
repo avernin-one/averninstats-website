@@ -1,0 +1,180 @@
+{
+  "name": "stone_axe",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "LumpenBrot",
+        "Iglo",
+        "egoplayer_Felix",
+        "StofftierAnabol",
+        "Cpt_looper",
+        "__kreck",
+        "XeonVirus"
+      ],
+      "13": [
+        "Warhazarder"
+      ],
+      "2": [
+        "Der_Sani",
+        "chaos1989",
+        "Austriana",
+        "owac",
+        "iurie",
+        "DornDasBrot",
+        "Makishi25"
+      ],
+      "22": [
+        "nitram1572"
+      ],
+      "38": [
+        "Teayo"
+      ],
+      "5": [
+        "SnuvomBodensatz"
+      ],
+      "6": [
+        "Mamuschkaz"
+      ],
+      "7": [
+        "leekcookie"
+      ],
+      "8": [
+        "lodoss2011",
+        "Lord_HoruS"
+      ],
+      "9": [
+        "Mandahaya"
+      ]
+    },
+    "crafted": {
+      "10": [
+        "chaos1989"
+      ],
+      "12": [
+        "lodoss2011"
+      ],
+      "14": [
+        "owac"
+      ],
+      "20": [
+        "leekcookie"
+      ],
+      "22": [
+        "Warhazarder"
+      ],
+      "39": [
+        "Teayo"
+      ],
+      "42": [
+        "nitram1572"
+      ],
+      "6": [
+        "Mamuschkaz",
+        "DornDasBrot"
+      ],
+      "7": [
+        "SnuvomBodensatz"
+      ],
+      "9": [
+        "Lord_HoruS"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "lodoss2011",
+        "Temeraiere",
+        "Lord_HoruS",
+        "Sayder13xr",
+        "Teayo"
+      ],
+      "10": [
+        "Warhazarder"
+      ],
+      "11": [
+        "owac"
+      ],
+      "22": [
+        "leekcookie"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "34": [
+        "nitram1572"
+      ],
+      "8": [
+        "chaos1989"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Lukas_126",
+        "StofftierAnabol",
+        "Cpt_looper",
+        "Marvin1099",
+        "XeonVirus"
+      ],
+      "12": [
+        "DornDasBrot",
+        "Warhazarder"
+      ],
+      "19": [
+        "leekcookie"
+      ],
+      "2": [
+        "chaos1989",
+        "owac",
+        "Temeraiere",
+        "Teayo"
+      ],
+      "26": [
+        "nitram1572"
+      ],
+      "3": [
+        "Austriana",
+        "Lord_HoruS"
+      ],
+      "4": [
+        "SnuvomBodensatz",
+        "lodoss2011",
+        "iurie"
+      ],
+      "7": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1133": [
+        "leekcookie"
+      ],
+      "1178": [
+        "Lord_HoruS"
+      ],
+      "1186": [
+        "Mandahaya"
+      ],
+      "1284": [
+        "lodoss2011"
+      ],
+      "1575": [
+        "Warhazarder"
+      ],
+      "3339": [
+        "nitram1572"
+      ],
+      "5101": [
+        "Teayo"
+      ],
+      "514": [
+        "chaos1989"
+      ],
+      "790": [
+        "SnuvomBodensatz"
+      ],
+      "813": [
+        "Mamuschkaz"
+      ]
+    }
+  }
+}

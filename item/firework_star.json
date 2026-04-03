@@ -1,0 +1,11 @@
+{
+  "name": "firework_star",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "9": [
+        "Teayo"
+      ]
+    }
+  }
+}

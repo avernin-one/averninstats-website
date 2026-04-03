@@ -1,0 +1,98 @@
+{
+  "name": "netherite_shovel",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "lodoss2011",
+        "minenicknick",
+        "owac",
+        "iurie",
+        "TrashSuperstar",
+        "Cpt_looper",
+        "Lord_HoruS"
+      ],
+      "6": [
+        "philxpx"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "Mamuschkaz",
+        "__kreck"
+      ],
+      "2": [
+        "santemjocko",
+        "minenicknick",
+        "philxpx"
+      ],
+      "3": [
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "obvBasti",
+        "leekcookie",
+        "Iglo",
+        "TrashSuperstar"
+      ],
+      "15": [
+        "Mamuschkaz"
+      ],
+      "2": [
+        "__kreck"
+      ],
+      "21": [
+        "lodoss2011"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "6": [
+        "philxpx",
+        "Lord_HoruS"
+      ],
+      "7": [
+        "minenicknick",
+        "__Iglo"
+      ],
+      "9": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "15839": [
+        "TrashSuperstar"
+      ],
+      "31755": [
+        "Mamuschkaz"
+      ],
+      "35333": [
+        "lodoss2011"
+      ],
+      "43418": [
+        "santemjocko"
+      ],
+      "44469": [
+        "__Iglo"
+      ],
+      "5428": [
+        "minenicknick"
+      ],
+      "5556": [
+        "philxpx"
+      ],
+      "6518": [
+        "Cpt_looper"
+      ],
+      "68005": [
+        "iurie"
+      ],
+      "8778": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

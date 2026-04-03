@@ -1,0 +1,64 @@
+{
+  "name": "acacia_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1900": [
+        "lodoss2011"
+      ],
+      "388": [
+        "Telinnor"
+      ],
+      "4": [
+        "Warhazarder"
+      ]
+    },
+    "dropped": {
+      "11": [
+        "Telinnor"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Cpt_looper"
+      ],
+      "141": [
+        "lodoss2011"
+      ],
+      "56": [
+        "Telinnor"
+      ],
+      "613": [
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Cpt_looper"
+      ],
+      "140": [
+        "lodoss2011"
+      ],
+      "72": [
+        "santemjocko"
+      ],
+      "73": [
+        "Telinnor"
+      ],
+      "983": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "139": [
+        "Warhazarder"
+      ],
+      "1799": [
+        "lodoss2011"
+      ],
+      "392": [
+        "Telinnor"
+      ]
+    }
+  }
+}

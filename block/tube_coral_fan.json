@@ -1,0 +1,80 @@
+{
+  "name": "tube_coral_fan",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "lodoss2011",
+        "leekcookie"
+      ],
+      "3": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "1": [
+        "TrashSuperstar",
+        "Makishi25"
+      ],
+      "11": [
+        "leekcookie"
+      ],
+      "3": [
+        "Lord_HoruS"
+      ],
+      "5": [
+        "santemjocko"
+      ],
+      "6": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "lodoss2011",
+        "Cpt_looper",
+        "XeonVirus"
+      ],
+      "104": [
+        "leekcookie"
+      ],
+      "11": [
+        "__kreck"
+      ],
+      "13": [
+        "Lord_HoruS"
+      ],
+      "15": [
+        "iurie"
+      ],
+      "28": [
+        "santemjocko"
+      ],
+      "3": [
+        "Makishi25"
+      ],
+      "4": [
+        "Sayder13xr"
+      ]
+    },
+    "used": {
+      "1": [
+        "Cpt_looper",
+        "__kreck"
+      ],
+      "15": [
+        "iurie"
+      ],
+      "2": [
+        "Makishi25",
+        "Sayder13xr"
+      ],
+      "20": [
+        "santemjocko"
+      ],
+      "23": [
+        "leekcookie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "name": "Sayder13xr",
+  "uuid": "e610b5a5-68ba-4da7-8380-deaaa97875e4",
+  "medals": {
+    "gold": 1,
+    "silver": 1,
+    "bronze": 2
+  },
+  "stats": {
+    "animals_bred": 160,
+    "aviate_one_cm": 34906471,
+    "bell_ring": 80,
+    "boat_one_cm": 1692724,
+    "climb_one_cm": 676912,
+    "crouch_one_cm": 2983263,
+    "damage_absorbed": 200,
+    "damage_dealt": 286886,
+    "damage_taken": 60935,
+    "deaths": 16,
+    "drop": 1185,
+    "enchant_item": 164,
+    "fall_one_cm": 980805,
+    "fill_cauldron": 1,
+    "fly_one_cm": 6552302,
+    "horse_one_cm": 1210,
+    "inspect_dispenser": 135,
+    "inspect_dropper": 164,
+    "inspect_hopper": 585,
+    "interact_with_anvil": 55,
+    "interact_with_beacon": 2,
+    "interact_with_brewingstand": 35,
+    "interact_with_crafting_table": 621,
+    "interact_with_furnace": 406,
+    "interact_with_grindstone": 72,
+    "interact_with_lectern": 3,
+    "interact_with_smithing_table": 6,
+    "interact_with_smoker": 60,
+    "interact_with_stonecutter": 21,
+    "jump": 45315,
+    "leave_game": 193,
+    "minecart_one_cm": 2163,
+    "mob_kills": 14512,
+    "open_chest": 4063,
+    "open_enderchest": 213,
+    "open_shulker_box": 1743,
+    "play_time": 6785718,
+    "raid_trigger": 1,
+    "sleep_in_bed": 135,
+    "sneak_time": 770183,
+    "sprint_one_cm": 7595389,
+    "swim_one_cm": 1219470,
+    "talked_to_villager": 181,
+    "time_since_death": 23789,
+    "time_since_rest": 15343,
+    "total_world_time": 6785718,
+    "traded_with_villager": 309,
+    "trigger_trapped_chest": 74,
+    "tune_noteblock": 210,
+    "use_cauldron": 31,
+    "walk_on_water_one_cm": 909999,
+    "walk_one_cm": 7439606,
+    "walk_under_water_one_cm": 1267870
+  },
+  "scores": {
+    "block": {
+      "crafted": {
+        "10468": [
+          "oak_planks"
+        ],
+        "1341": [
+          "deepslate_bricks"
+        ],
+        "2252": [
+          "iron_block"
+        ],
+        "2256": [
+          "cobblestone_slab"
+        ],
+        "2308": [
+          "wheat"
+        ]
+      },
+      "dropped": {
+        "1737": [
+          "poppy"
+        ],
+        "213": [
+          "cobblestone"
+        ],
+        "223": [
+          "moss_carpet"
+        ],
+        "294": [
+          "netherrack"
+        ],
+        "444": [
+          "azalea"
+        ]
+      },
+      "mined": {
+        "10970": [
+          "netherrack"
+        ],
+        "24982": [
+          "stone"
+        ],
+        "3305": [
+          "granite"
+        ],
+        "5035": [
+          "deepslate"
+        ],
+        "7421": [
+          "dirt"
+        ]
+      },
+      "picked_up": {
+        "10457": [
+          "dirt"
+        ],
+        "12357": [
+          "stone"
+        ],
+        "21693": [
+          "cobblestone"
+        ],
+        "6342": [
+          "netherrack"
+        ],
+        "7527": [
+          "cobbled_deepslate"
+        ]
+      },
+      "used": {
+        "2108": [
+          "cobblestone_slab"
+        ],
+        "2463": [
+          "deepslate_tiles"
+        ],
+        "3571": [
+          "dirt"
+        ],
+        "3869": [
+          "glass"
+        ],
+        "5234": [
+          "cobblestone"
+        ]
+      }
+    },
+    "entity": {
+      "crafted": {
+        "1248": [
+          "firework_rocket"
+        ],
+        "17": [
+          "oak_boat"
+        ],
+        "21": [
+          "tnt"
+        ],
+        "26": [
+          "hopper_minecart"
+        ],
+        "28": [
+          "minecart"
+        ]
+      },
+      "dropped": {
+        "1058": [
+          "ender_pearl"
+        ],
+        "1764": [
+          "arrow"
+        ],
+        "2": [
+          "minecart"
+        ],
+        "3": [
+          "rabbit"
+        ],
+        "8": [
+          "chicken"
+        ]
+      },
+      "killed": {
+        "1247": [
+          "skeleton"
+        ],
+        "2591": [
+          "cave_spider"
+        ],
+        "2644": [
+          "zombie"
+        ],
+        "280": [
+          "wither_skeleton"
+        ],
+        "7033": [
+          "enderman"
+        ]
+      },
+      "killed_by": {
+        "1": [
+          "zombie",
+          "wither"
+        ],
+        "2": [
+          "enderman",
+          "skeleton"
+        ]
+      },
+      "mined": {
+        "1": [
+          "tnt"
+        ]
+      },
+      "picked_up": {
+        "1071": [
+          "ender_pearl"
+        ],
+        "1080": [
+          "arrow"
+        ],
+        "144": [
+          "snowball"
+        ],
+        "458": [
+          "firework_rocket"
+        ],
+        "66": [
+          "oak_boat"
+        ]
+      },
+      "used": {
+        "1036": [
+          "firework_rocket"
+        ],
+        "26": [
+          "hopper_minecart"
+        ],
+        "31": [
+          "minecart"
+        ],
+        "70": [
+          "oak_boat"
+        ],
+        "73": [
+          "ender_pearl"
+        ]
+      }
+    },
+    "item": {
+      "broken": {
+        "1": [
+          "stone_hoe",
+          "iron_shovel",
+          "stone_shovel"
+        ],
+        "2": [
+          "iron_sword"
+        ],
+        "5": [
+          "iron_pickaxe"
+        ]
+      },
+      "crafted": {
+        "1248": [
+          "firework_rocket"
+        ],
+        "2308": [
+          "wheat"
+        ],
+        "3178": [
+          "iron_ingot"
+        ],
+        "36306": [
+          "bone_meal"
+        ],
+        "7910": [
+          "stick"
+        ]
+      },
+      "dropped": {
+        "1058": [
+          "ender_pearl"
+        ],
+        "1226": [
+          "carrot"
+        ],
+        "1764": [
+          "arrow"
+        ],
+        "347": [
+          "potato"
+        ],
+        "831": [
+          "bread"
+        ]
+      },
+      "mined": {
+        "154": [
+          "wheat"
+        ],
+        "20": [
+          "nether_wart"
+        ],
+        "4": [
+          "brewing_stand"
+        ]
+      },
+      "picked_up": {
+        "1949": [
+          "raw_copper"
+        ],
+        "1997": [
+          "bone_meal"
+        ],
+        "2234": [
+          "redstone"
+        ],
+        "2348": [
+          "lapis_lazuli"
+        ],
+        "4052": [
+          "carrot"
+        ]
+      },
+      "used": {
+        "11548": [
+          "diamond_shovel"
+        ],
+        "2463": [
+          "netherite_shovel"
+        ],
+        "2781": [
+          "diamond_axe"
+        ],
+        "28735": [
+          "diamond_pickaxe"
+        ],
+        "34652": [
+          "netherite_pickaxe"
+        ]
+      }
+    }
+  }
+}

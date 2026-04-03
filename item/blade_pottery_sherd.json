@@ -1,0 +1,11 @@
+{
+  "name": "blade_pottery_sherd",
+  "type": "item",
+  "scores": {
+    "picked_up": {
+      "4": [
+        "iurie"
+      ]
+    }
+  }
+}

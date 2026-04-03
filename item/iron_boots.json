@@ -1,0 +1,134 @@
+{
+  "name": "iron_boots",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Lukas_126",
+        "santemjocko",
+        "Lord_HoruS"
+      ],
+      "3": [
+        "Mandahaya"
+      ]
+    },
+    "crafted": {
+      "10": [
+        "__Iglo"
+      ],
+      "11": [
+        "Cpt_looper",
+        "__kreck"
+      ],
+      "13": [
+        "leekcookie"
+      ],
+      "22": [
+        "owac"
+      ],
+      "39": [
+        "Iglo"
+      ],
+      "4": [
+        "nitram1572",
+        "Sayder13xr"
+      ],
+      "5": [
+        "iurie"
+      ],
+      "51": [
+        "DornDasBrot"
+      ],
+      "6": [
+        "Mandahaya",
+        "Lord_HoruS"
+      ],
+      "7": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "10": [
+        "philxpx"
+      ],
+      "12": [
+        "iurie"
+      ],
+      "14": [
+        "imabaldman"
+      ],
+      "17": [
+        "minenicknick"
+      ],
+      "18": [
+        "leekcookie"
+      ],
+      "244": [
+        "__kreck"
+      ],
+      "31": [
+        "owac"
+      ],
+      "34": [
+        "Iglo"
+      ],
+      "349": [
+        "__Iglo"
+      ],
+      "9": [
+        "obvBasti"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "lodoss2011",
+        "Lord_HoruS"
+      ],
+      "15": [
+        "santemjocko"
+      ],
+      "16": [
+        "philxpx"
+      ],
+      "18": [
+        "minenicknick"
+      ],
+      "19": [
+        "imabaldman"
+      ],
+      "21": [
+        "Mandahaya"
+      ],
+      "22": [
+        "iurie"
+      ],
+      "25": [
+        "owac"
+      ],
+      "58": [
+        "__Iglo"
+      ],
+      "87": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1": [
+        "obvBasti",
+        "PopCat007",
+        "Iglo",
+        "Temeraiere",
+        "iurie",
+        "Telinnor",
+        "Makishi25",
+        "Sayder13xr"
+      ],
+      "2": [
+        "leekcookie"
+      ],
+      "3": [
+        "JonasderGamer"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "echo_shard",
+  "type": "item",
+  "scores": {
+    "picked_up": {
+      "45": [
+        "iurie"
+      ]
+    }
+  }
+}

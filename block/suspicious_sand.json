@@ -1,0 +1,14 @@
+{
+  "name": "suspicious_sand",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "KleeneEle"
+      ],
+      "2": [
+        "iurie"
+      ]
+    }
+  }
+}

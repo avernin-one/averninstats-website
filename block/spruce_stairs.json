@@ -1,0 +1,158 @@
+{
+  "name": "spruce_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "108": [
+        "chaos1989"
+      ],
+      "144": [
+        "SuperXXLProfi"
+      ],
+      "184": [
+        "TrashSuperstar"
+      ],
+      "224": [
+        "Mandahaya"
+      ],
+      "2405": [
+        "lodoss2011"
+      ],
+      "292": [
+        "leekcookie"
+      ],
+      "488": [
+        "__kreck"
+      ],
+      "5312": [
+        "Warhazarder"
+      ],
+      "676": [
+        "Makishi25"
+      ],
+      "704": [
+        "Mamuschkaz"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Ivenor"
+      ],
+      "115": [
+        "Mamuschkaz"
+      ],
+      "3": [
+        "JonasderGamer"
+      ],
+      "5": [
+        "Warhazarder"
+      ],
+      "58": [
+        "XeonVirus"
+      ],
+      "64": [
+        "leekcookie"
+      ],
+      "92": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "121": [
+        "Mamuschkaz"
+      ],
+      "237": [
+        "leekcookie"
+      ],
+      "32": [
+        "__kreck"
+      ],
+      "37": [
+        "owac"
+      ],
+      "425": [
+        "lodoss2011"
+      ],
+      "43": [
+        "SuperXXLProfi"
+      ],
+      "436": [
+        "Warhazarder"
+      ],
+      "46": [
+        "Mandahaya"
+      ],
+      "49": [
+        "chaos1989"
+      ],
+      "67": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "159": [
+        "__kreck"
+      ],
+      "198": [
+        "Mamuschkaz"
+      ],
+      "37": [
+        "owac"
+      ],
+      "370": [
+        "leekcookie"
+      ],
+      "372": [
+        "Makishi25"
+      ],
+      "39": [
+        "SuperXXLProfi"
+      ],
+      "431": [
+        "Warhazarder"
+      ],
+      "46": [
+        "Mandahaya",
+        "chaos1989"
+      ],
+      "493": [
+        "lodoss2011"
+      ],
+      "71": [
+        "XeonVirus"
+      ]
+    },
+    "used": {
+      "109": [
+        "owac"
+      ],
+      "129": [
+        "SuperXXLProfi"
+      ],
+      "152": [
+        "TrashSuperstar"
+      ],
+      "263": [
+        "Mandahaya"
+      ],
+      "275": [
+        "__kreck"
+      ],
+      "2809": [
+        "lodoss2011"
+      ],
+      "306": [
+        "leekcookie"
+      ],
+      "5586": [
+        "Warhazarder"
+      ],
+      "597": [
+        "Makishi25"
+      ],
+      "729": [
+        "Mamuschkaz"
+      ]
+    }
+  }
+}

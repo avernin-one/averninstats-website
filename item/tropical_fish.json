@@ -1,0 +1,70 @@
+{
+  "name": "tropical_fish",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "TrashSuperstar"
+      ],
+      "10": [
+        "Lord_HoruS"
+      ],
+      "2": [
+        "chaos1989"
+      ],
+      "49": [
+        "leekcookie"
+      ],
+      "8": [
+        "ScimMLG"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Austriana",
+        "nitram1572",
+        "XeonVirus"
+      ],
+      "13": [
+        "DornDasBrot"
+      ],
+      "15": [
+        "Warhazarder"
+      ],
+      "16": [
+        "chaos1989"
+      ],
+      "2": [
+        "Makishi25"
+      ],
+      "22": [
+        "leekcookie"
+      ],
+      "3": [
+        "Mandahaya",
+        "TrashSuperstar",
+        "Lord_HoruS"
+      ],
+      "4": [
+        "Cpt_looper"
+      ],
+      "46": [
+        "iurie"
+      ],
+      "8": [
+        "ScimMLG"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ],
+      "2": [
+        "Teayo"
+      ],
+      "3": [
+        "chaos1989"
+      ]
+    }
+  }
+}

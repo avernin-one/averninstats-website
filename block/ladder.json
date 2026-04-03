@@ -1,0 +1,167 @@
+{
+  "name": "ladder",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "141": [
+        "__kreck"
+      ],
+      "168": [
+        "Teayo"
+      ],
+      "183": [
+        "Mamuschkaz"
+      ],
+      "261": [
+        "Lord_HoruS"
+      ],
+      "264": [
+        "nitram1572"
+      ],
+      "306": [
+        "chaos1989"
+      ],
+      "324": [
+        "iurie"
+      ],
+      "354": [
+        "Warhazarder"
+      ],
+      "504": [
+        "santemjocko"
+      ],
+      "795": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "nitram1572",
+        "Makishi25",
+        "Warhazarder"
+      ],
+      "15": [
+        "Mamuschkaz",
+        "Lord_HoruS"
+      ],
+      "2": [
+        "iurie"
+      ],
+      "26": [
+        "__kreck"
+      ],
+      "28": [
+        "SnuvomBodensatz"
+      ],
+      "3": [
+        "owac"
+      ],
+      "353": [
+        "santemjocko"
+      ],
+      "391": [
+        "leekcookie"
+      ],
+      "70": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "145": [
+        "santemjocko"
+      ],
+      "153": [
+        "leekcookie"
+      ],
+      "21": [
+        "Mamuschkaz"
+      ],
+      "213": [
+        "nitram1572"
+      ],
+      "23": [
+        "__kreck"
+      ],
+      "32": [
+        "Makishi25"
+      ],
+      "36": [
+        "Sayder13xr"
+      ],
+      "38": [
+        "Teayo"
+      ],
+      "40": [
+        "iurie"
+      ],
+      "42": [
+        "TrashSuperstar"
+      ]
+    },
+    "picked_up": {
+      "111": [
+        "Cpt_looper"
+      ],
+      "173": [
+        "__kreck"
+      ],
+      "2040": [
+        "leekcookie"
+      ],
+      "244": [
+        "nitram1572"
+      ],
+      "386": [
+        "santemjocko"
+      ],
+      "68": [
+        "Mamuschkaz",
+        "Makishi25"
+      ],
+      "79": [
+        "Teayo"
+      ],
+      "89": [
+        "iurie"
+      ],
+      "92": [
+        "SnuvomBodensatz"
+      ],
+      "93": [
+        "minenicknick"
+      ]
+    },
+    "used": {
+      "171": [
+        "Makishi25"
+      ],
+      "192": [
+        "__kreck"
+      ],
+      "197": [
+        "Lord_HoruS"
+      ],
+      "217": [
+        "Mamuschkaz"
+      ],
+      "218": [
+        "Teayo"
+      ],
+      "247": [
+        "chaos1989"
+      ],
+      "262": [
+        "santemjocko"
+      ],
+      "286": [
+        "Warhazarder"
+      ],
+      "360": [
+        "nitram1572"
+      ],
+      "523": [
+        "leekcookie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "name": "crimson_stem",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "lodoss2011",
+        "iurie",
+        "XeonVirus"
+      ],
+      "10": [
+        "owac"
+      ],
+      "236": [
+        "ScimMLG",
+        "Makishi25"
+      ],
+      "3": [
+        "DornDasBrot"
+      ],
+      "4": [
+        "imabaldman"
+      ],
+      "6": [
+        "Iglo"
+      ],
+      "7": [
+        "santemjocko"
+      ],
+      "84": [
+        "Lord_HoruS"
+      ]
+    },
+    "mined": {
+      "10": [
+        "owac"
+      ],
+      "17": [
+        "DornDasBrot"
+      ],
+      "19": [
+        "santemjocko"
+      ],
+      "196": [
+        "leekcookie"
+      ],
+      "266": [
+        "Lord_HoruS"
+      ],
+      "31": [
+        "__kreck"
+      ],
+      "42": [
+        "Iglo"
+      ],
+      "6": [
+        "Makishi25",
+        "Warhazarder"
+      ],
+      "67": [
+        "XeonVirus"
+      ],
+      "953": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "17": [
+        "DornDasBrot"
+      ],
+      "196": [
+        "leekcookie"
+      ],
+      "236": [
+        "ScimMLG"
+      ],
+      "252": [
+        "Makishi25"
+      ],
+      "31": [
+        "__kreck"
+      ],
+      "40": [
+        "owac"
+      ],
+      "46": [
+        "Iglo"
+      ],
+      "650": [
+        "iurie"
+      ],
+      "66": [
+        "XeonVirus"
+      ],
+      "94": [
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "1": [
+        "DornDasBrot",
+        "Makishi25"
+      ],
+      "10": [
+        "Lord_HoruS"
+      ],
+      "12": [
+        "leekcookie"
+      ],
+      "2": [
+        "XeonVirus"
+      ],
+      "68": [
+        "iurie"
+      ]
+    }
+  }
+}

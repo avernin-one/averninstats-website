@@ -1,0 +1,85 @@
+{
+  "name": "chicken",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "nitram1572"
+      ],
+      "15": [
+        "ScimMLG"
+      ],
+      "2": [
+        "lodoss2011",
+        "Lord_HoruS"
+      ],
+      "36": [
+        "leekcookie"
+      ],
+      "4": [
+        "santemjocko",
+        "__kreck"
+      ],
+      "6": [
+        "owac"
+      ],
+      "7": [
+        "TrashSuperstar"
+      ],
+      "8": [
+        "Makishi25",
+        "Sayder13xr",
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "1078": [
+        "Warhazarder"
+      ],
+      "20": [
+        "Austriana"
+      ],
+      "22": [
+        "DornDasBrot"
+      ],
+      "25": [
+        "Lukas_126",
+        "Makishi25"
+      ],
+      "26": [
+        "iurie"
+      ],
+      "31": [
+        "XeonVirus"
+      ],
+      "33": [
+        "SnuvomBodensatz"
+      ],
+      "36": [
+        "Ivenor"
+      ],
+      "49": [
+        "Mamuschkaz"
+      ],
+      "79": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "LumpenBrot",
+        "SnuvomBodensatz",
+        "PopCat007",
+        "Temeraiere",
+        "iurie"
+      ],
+      "3": [
+        "leekcookie",
+        "Makishi25"
+      ],
+      "4": [
+        "Mamuschkaz"
+      ]
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "name": "fishing_rod",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "DornDasBrot",
+        "Makishi25",
+        "__kreck"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "Mandahaya",
+        "ScimMLG",
+        "Mamuschkaz",
+        "Austriana",
+        "TrashSuperstar",
+        "nitram1572",
+        "Makishi25",
+        "__kreck"
+      ],
+      "2": [
+        "santemjocko",
+        "DornDasBrot",
+        "Teayo",
+        "XeonVirus"
+      ],
+      "3": [
+        "leekcookie",
+        "Warhazarder"
+      ],
+      "5": [
+        "iurie"
+      ],
+      "6": [
+        "chaos1989"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "CuzimJxson",
+        "Warhazarder",
+        "XeonVirus"
+      ],
+      "2": [
+        "Teayo"
+      ],
+      "3": [
+        "chaos1989"
+      ],
+      "5": [
+        "leekcookie"
+      ],
+      "7": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "CuzimJxson",
+        "Makishi25",
+        "Teayo"
+      ],
+      "11": [
+        "Warhazarder"
+      ],
+      "2": [
+        "Austriana",
+        "Ivenor",
+        "Cpt_looper",
+        "DornDasBrot"
+      ],
+      "4": [
+        "leekcookie",
+        "XeonVirus"
+      ],
+      "5": [
+        "Mandahaya",
+        "iurie"
+      ],
+      "9": [
+        "chaos1989"
+      ]
+    },
+    "used": {
+      "10998": [
+        "chaos1989"
+      ],
+      "123": [
+        "nitram1572"
+      ],
+      "125": [
+        "XeonVirus"
+      ],
+      "20": [
+        "TrashSuperstar"
+      ],
+      "21": [
+        "__kreck"
+      ],
+      "22": [
+        "Mamuschkaz"
+      ],
+      "253": [
+        "Warhazarder"
+      ],
+      "261": [
+        "Mandahaya"
+      ],
+      "49": [
+        "DornDasBrot"
+      ],
+      "8131": [
+        "leekcookie"
+      ]
+    }
+  }
+}

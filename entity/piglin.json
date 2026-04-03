@@ -1,0 +1,66 @@
+{
+  "name": "piglin",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "135": [
+        "__Iglo"
+      ],
+      "1390": [
+        "iurie"
+      ],
+      "216": [
+        "Iglo"
+      ],
+      "262": [
+        "Lord_HoruS"
+      ],
+      "41": [
+        "XeonVirus"
+      ],
+      "416": [
+        "__kreck"
+      ],
+      "42": [
+        "owac"
+      ],
+      "53": [
+        "santemjocko"
+      ],
+      "75": [
+        "leekcookie"
+      ],
+      "96": [
+        "imabaldman"
+      ]
+    },
+    "killed_by": {
+      "1": [
+        "Mandahaya",
+        "lodoss2011",
+        "Mamuschkaz",
+        "Cpt_looper",
+        "Lord_HoruS",
+        "__Iglo"
+      ],
+      "2": [
+        "SnuvomBodensatz",
+        "philxpx",
+        "Iglo"
+      ],
+      "3": [
+        "XeonVirus"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "5": [
+        "santemjocko",
+        "leekcookie"
+      ],
+      "7": [
+        "iurie"
+      ]
+    }
+  }
+}

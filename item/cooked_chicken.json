@@ -1,0 +1,124 @@
+{
+  "name": "cooked_chicken",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Lukas_126",
+        "santemjocko",
+        "ScimMLG"
+      ],
+      "10": [
+        "Makishi25"
+      ],
+      "103": [
+        "Teayo"
+      ],
+      "16": [
+        "Austriana"
+      ],
+      "2": [
+        "chaos1989",
+        "nitram1572",
+        "XeonVirus"
+      ],
+      "3": [
+        "KleeneEle",
+        "owac",
+        "__kreck"
+      ],
+      "31": [
+        "SnuvomBodensatz"
+      ],
+      "45": [
+        "Mamuschkaz"
+      ],
+      "5": [
+        "Temeraiere"
+      ],
+      "579": [
+        "Warhazarder"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "SnuvomBodensatz",
+        "owac",
+        "Lord_HoruS",
+        "XeonVirus"
+      ],
+      "2": [
+        "Iglo"
+      ],
+      "6": [
+        "Teayo"
+      ]
+    },
+    "picked_up": {
+      "11": [
+        "Makishi25",
+        "Teayo"
+      ],
+      "126": [
+        "Temeraiere"
+      ],
+      "13": [
+        "Austriana"
+      ],
+      "14": [
+        "DornDasBrot"
+      ],
+      "174": [
+        "XeonVirus"
+      ],
+      "189": [
+        "leekcookie"
+      ],
+      "228": [
+        "Warhazarder"
+      ],
+      "25": [
+        "owac",
+        "nitram1572"
+      ],
+      "69": [
+        "chaos1989"
+      ],
+      "9": [
+        "SnuvomBodensatz"
+      ]
+    },
+    "used": {
+      "113": [
+        "DornDasBrot"
+      ],
+      "15": [
+        "Austriana"
+      ],
+      "18": [
+        "Makishi25"
+      ],
+      "27": [
+        "Mamuschkaz"
+      ],
+      "36": [
+        "SnuvomBodensatz"
+      ],
+      "40": [
+        "Temeraiere"
+      ],
+      "738": [
+        "Warhazarder"
+      ],
+      "80": [
+        "chaos1989"
+      ],
+      "82": [
+        "XeonVirus"
+      ],
+      "85": [
+        "leekcookie"
+      ]
+    }
+  }
+}

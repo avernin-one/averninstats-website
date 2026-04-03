@@ -1,0 +1,99 @@
+{
+  "name": "loom",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "SnuvomBodensatz",
+        "chaos1989",
+        "ScimMLG",
+        "Cpt_looper",
+        "Teayo",
+        "XeonVirus"
+      ],
+      "15": [
+        "philxpx"
+      ],
+      "2": [
+        "lodoss2011",
+        "Telinnor"
+      ],
+      "8": [
+        "Makishi25"
+      ]
+    },
+    "mined": {
+      "1": [
+        "lodoss2011",
+        "iurie"
+      ],
+      "15": [
+        "Cpt_looper"
+      ],
+      "2": [
+        "Teayo",
+        "XeonVirus"
+      ],
+      "21": [
+        "philxpx"
+      ],
+      "3": [
+        "Telinnor",
+        "Sayder13xr"
+      ],
+      "6": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "lodoss2011",
+        "iurie"
+      ],
+      "15": [
+        "Cpt_looper"
+      ],
+      "2": [
+        "Teayo",
+        "XeonVirus"
+      ],
+      "21": [
+        "philxpx"
+      ],
+      "3": [
+        "Telinnor",
+        "Sayder13xr"
+      ],
+      "6": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "SnuvomBodensatz",
+        "chaos1989",
+        "ScimMLG"
+      ],
+      "10": [
+        "Makishi25"
+      ],
+      "16": [
+        "Cpt_looper"
+      ],
+      "2": [
+        "lodoss2011"
+      ],
+      "23": [
+        "philxpx"
+      ],
+      "3": [
+        "Sayder13xr",
+        "Teayo",
+        "XeonVirus"
+      ],
+      "5": [
+        "Telinnor"
+      ]
+    }
+  }
+}

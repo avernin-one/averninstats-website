@@ -1,0 +1,112 @@
+{
+  "name": "crimson_nylium",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "santemjocko",
+        "minenicknick",
+        "Makishi25"
+      ],
+      "103": [
+        "leekcookie"
+      ],
+      "143": [
+        "iurie"
+      ],
+      "151": [
+        "Lord_HoruS"
+      ],
+      "9": [
+        "owac",
+        "TrashSuperstar"
+      ]
+    },
+    "mined": {
+      "100": [
+        "TrashSuperstar"
+      ],
+      "114": [
+        "Cpt_looper"
+      ],
+      "158": [
+        "XeonVirus"
+      ],
+      "1981": [
+        "iurie"
+      ],
+      "23": [
+        "lodoss2011"
+      ],
+      "24": [
+        "__kreck"
+      ],
+      "29": [
+        "owac"
+      ],
+      "39": [
+        "santemjocko"
+      ],
+      "404": [
+        "Lord_HoruS"
+      ],
+      "97": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "minenicknick"
+      ],
+      "147": [
+        "XeonVirus"
+      ],
+      "219": [
+        "Lord_HoruS"
+      ],
+      "221": [
+        "leekcookie"
+      ],
+      "28": [
+        "owac",
+        "TrashSuperstar"
+      ],
+      "3": [
+        "Makishi25"
+      ],
+      "32": [
+        "santemjocko"
+      ],
+      "39": [
+        "Cpt_looper"
+      ],
+      "616": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "17": [
+        "leekcookie",
+        "TrashSuperstar"
+      ],
+      "2": [
+        "XeonVirus"
+      ],
+      "28": [
+        "santemjocko"
+      ],
+      "6": [
+        "Makishi25"
+      ],
+      "62": [
+        "Lord_HoruS"
+      ],
+      "65": [
+        "iurie"
+      ],
+      "9": [
+        "owac"
+      ]
+    }
+  }
+}

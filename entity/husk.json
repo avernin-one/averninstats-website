@@ -1,0 +1,44 @@
+{
+  "name": "husk",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "10": [
+        "santemjocko"
+      ],
+      "15": [
+        "nitram1572"
+      ],
+      "18": [
+        "chaos1989"
+      ],
+      "2": [
+        "imabaldman",
+        "__Iglo"
+      ],
+      "21": [
+        "Lord_HoruS"
+      ],
+      "217": [
+        "iurie"
+      ],
+      "3": [
+        "Mamuschkaz"
+      ],
+      "34": [
+        "XeonVirus"
+      ],
+      "5": [
+        "leekcookie"
+      ],
+      "8": [
+        "__kreck"
+      ]
+    },
+    "killed_by": {
+      "1": [
+        "iurie"
+      ]
+    }
+  }
+}

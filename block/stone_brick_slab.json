@@ -1,0 +1,158 @@
+{
+  "name": "stone_brick_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1338": [
+        "Warhazarder"
+      ],
+      "138": [
+        "chaos1989"
+      ],
+      "150": [
+        "imabaldman"
+      ],
+      "174": [
+        "iurie"
+      ],
+      "220": [
+        "Makishi25"
+      ],
+      "2572": [
+        "Lord_HoruS"
+      ],
+      "270": [
+        "Mandahaya"
+      ],
+      "306": [
+        "nitram1572"
+      ],
+      "360": [
+        "DornDasBrot"
+      ],
+      "78": [
+        "Iglo",
+        "Teayo"
+      ]
+    },
+    "dropped": {
+      "11": [
+        "lodoss2011"
+      ],
+      "113": [
+        "Lord_HoruS"
+      ],
+      "43": [
+        "imabaldman"
+      ],
+      "5": [
+        "DornDasBrot"
+      ],
+      "63": [
+        "__kreck"
+      ],
+      "72": [
+        "leekcookie"
+      ],
+      "8": [
+        "Warhazarder"
+      ]
+    },
+    "mined": {
+      "108": [
+        "DornDasBrot"
+      ],
+      "109": [
+        "nitram1572"
+      ],
+      "1433": [
+        "Lord_HoruS"
+      ],
+      "174": [
+        "Warhazarder"
+      ],
+      "176": [
+        "chaos1989"
+      ],
+      "25": [
+        "Mamuschkaz"
+      ],
+      "44": [
+        "__kreck"
+      ],
+      "50": [
+        "lodoss2011"
+      ],
+      "81": [
+        "Makishi25"
+      ],
+      "84": [
+        "imabaldman"
+      ]
+    },
+    "picked_up": {
+      "146": [
+        "lodoss2011"
+      ],
+      "1518": [
+        "Lord_HoruS"
+      ],
+      "158": [
+        "nitram1572"
+      ],
+      "162": [
+        "__kreck"
+      ],
+      "171": [
+        "chaos1989"
+      ],
+      "179": [
+        "imabaldman"
+      ],
+      "193": [
+        "Warhazarder"
+      ],
+      "217": [
+        "leekcookie"
+      ],
+      "257": [
+        "DornDasBrot"
+      ],
+      "452": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "2371": [
+        "Warhazarder"
+      ],
+      "241": [
+        "TrashSuperstar"
+      ],
+      "260": [
+        "Mandahaya"
+      ],
+      "296": [
+        "nitram1572"
+      ],
+      "302": [
+        "lodoss2011"
+      ],
+      "480": [
+        "DornDasBrot"
+      ],
+      "504": [
+        "chaos1989"
+      ],
+      "543": [
+        "imabaldman"
+      ],
+      "5499": [
+        "Lord_HoruS"
+      ],
+      "965": [
+        "Makishi25"
+      ]
+    }
+  }
+}

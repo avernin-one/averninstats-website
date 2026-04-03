@@ -1,0 +1,19 @@
+{
+  "name": "ender_dragon",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1": [
+        "lodoss2011"
+      ],
+      "4": [
+        "iurie"
+      ]
+    },
+    "killed_by": {
+      "2": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

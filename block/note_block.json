@@ -1,0 +1,119 @@
+{
+  "name": "note_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Mamuschkaz",
+        "nitram1572",
+        "Makishi25"
+      ],
+      "128": [
+        "iurie"
+      ],
+      "150": [
+        "leekcookie"
+      ],
+      "2": [
+        "__kreck"
+      ],
+      "2642": [
+        "__Iglo"
+      ],
+      "3": [
+        "owac"
+      ],
+      "33": [
+        "TrashSuperstar"
+      ],
+      "5": [
+        "Sayder13xr"
+      ],
+      "55": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "__Iglo"
+      ],
+      "39": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "11": [
+        "santemjocko"
+      ],
+      "116": [
+        "iurie"
+      ],
+      "22": [
+        "leekcookie",
+        "TrashSuperstar"
+      ],
+      "4": [
+        "owac",
+        "nitram1572"
+      ],
+      "6": [
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Sayder13xr"
+      ],
+      "11": [
+        "santemjocko"
+      ],
+      "137": [
+        "iurie"
+      ],
+      "200": [
+        "leekcookie"
+      ],
+      "21": [
+        "TrashSuperstar"
+      ],
+      "4": [
+        "owac",
+        "nitram1572"
+      ],
+      "7": [
+        "__Iglo"
+      ]
+    },
+    "used": {
+      "1": [
+        "Mamuschkaz",
+        "Makishi25"
+      ],
+      "15": [
+        "__Iglo"
+      ],
+      "162": [
+        "iurie"
+      ],
+      "3": [
+        "__kreck"
+      ],
+      "34": [
+        "TrashSuperstar"
+      ],
+      "35": [
+        "santemjocko"
+      ],
+      "4": [
+        "owac"
+      ],
+      "5": [
+        "nitram1572",
+        "Sayder13xr"
+      ],
+      "52": [
+        "leekcookie"
+      ]
+    }
+  }
+}

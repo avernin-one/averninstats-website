@@ -1,0 +1,56 @@
+{
+  "name": "orange_bed",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "11": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "6": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "12": [
+        "DornDasBrot"
+      ],
+      "3": [
+        "Warhazarder"
+      ],
+      "4": [
+        "leekcookie",
+        "JonasderGamer"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "leekcookie"
+      ],
+      "12": [
+        "DornDasBrot"
+      ],
+      "2": [
+        "Warhazarder"
+      ],
+      "4": [
+        "JonasderGamer"
+      ]
+    },
+    "used": {
+      "12": [
+        "DornDasBrot"
+      ],
+      "15": [
+        "leekcookie"
+      ],
+      "2": [
+        "Warhazarder"
+      ],
+      "3": [
+        "JonasderGamer"
+      ]
+    }
+  }
+}

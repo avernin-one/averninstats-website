@@ -1,0 +1,11 @@
+{
+  "name": "frog",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1": [
+        "leekcookie"
+      ]
+    }
+  }
+}

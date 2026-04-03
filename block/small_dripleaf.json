@@ -1,0 +1,33 @@
+{
+  "name": "small_dripleaf",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "10": [
+        "santemjocko"
+      ],
+      "20": [
+        "iurie"
+      ],
+      "6": [
+        "Teayo"
+      ]
+    },
+    "mined": {
+      "1": [
+        "philxpx",
+        "imabaldman"
+      ],
+      "2": [
+        "chaos1989"
+      ],
+      "3": [
+        "TrashSuperstar"
+      ],
+      "4": [
+        "iurie",
+        "SuperXXLProfi"
+      ]
+    }
+  }
+}

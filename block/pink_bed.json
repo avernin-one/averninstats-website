@@ -1,0 +1,35 @@
+{
+  "name": "pink_bed",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "3": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "santemjocko"
+      ],
+      "12": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "15": [
+        "leekcookie"
+      ],
+      "2": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "15": [
+        "leekcookie"
+      ],
+      "2": [
+        "santemjocko"
+      ]
+    }
+  }
+}

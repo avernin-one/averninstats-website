@@ -1,0 +1,110 @@
+{
+  "name": "golden_chestplate",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "SnuvomBodensatz",
+        "egoplayer_Felix",
+        "Telinnor",
+        "Cpt_looper"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "iurie",
+        "SuperXXLProfi"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "santemjocko",
+        "Mamuschkaz",
+        "SuperXXLProfi",
+        "StofftierAnabol",
+        "DornDasBrot"
+      ],
+      "14": [
+        "iurie"
+      ],
+      "17": [
+        "Sayder13xr"
+      ],
+      "2": [
+        "lodoss2011",
+        "minenicknick",
+        "philxpx",
+        "Telinnor",
+        "Lord_HoruS"
+      ],
+      "29": [
+        "leekcookie"
+      ],
+      "3": [
+        "Iglo",
+        "XeonVirus"
+      ],
+      "4": [
+        "__kreck"
+      ],
+      "8": [
+        "TrashSuperstar"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Lukas_126",
+        "obvBasti",
+        "santemjocko",
+        "StofftierAnabol",
+        "Warhazarder"
+      ],
+      "2": [
+        "Mandahaya",
+        "minenicknick",
+        "Mamuschkaz",
+        "Austriana",
+        "philxpx",
+        "nitram1572"
+      ],
+      "23": [
+        "iurie"
+      ],
+      "29": [
+        "leekcookie"
+      ],
+      "3": [
+        "SnuvomBodensatz",
+        "chaos1989",
+        "egoplayer_Felix",
+        "Telinnor",
+        "TrashSuperstar",
+        "Cpt_looper",
+        "Teayo"
+      ],
+      "4": [
+        "Iglo",
+        "SuperXXLProfi",
+        "Lord_HoruS",
+        "DornDasBrot"
+      ],
+      "5": [
+        "__kreck"
+      ],
+      "6": [
+        "lodoss2011",
+        "XeonVirus"
+      ],
+      "7": [
+        "Sayder13xr"
+      ]
+    },
+    "used": {
+      "1": [
+        "Lukas_126",
+        "Telinnor"
+      ]
+    }
+  }
+}

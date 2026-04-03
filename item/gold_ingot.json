@@ -1,0 +1,102 @@
+{
+  "name": "gold_ingot",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1103": [
+        "philxpx"
+      ],
+      "1520": [
+        "owac"
+      ],
+      "1537": [
+        "leekcookie"
+      ],
+      "1801": [
+        "minenicknick"
+      ],
+      "29025": [
+        "iurie"
+      ],
+      "524": [
+        "chaos1989"
+      ],
+      "59444": [
+        "__kreck"
+      ],
+      "653": [
+        "santemjocko"
+      ],
+      "66324": [
+        "__Iglo"
+      ],
+      "671": [
+        "TrashSuperstar"
+      ]
+    },
+    "dropped": {
+      "1228": [
+        "__kreck"
+      ],
+      "128": [
+        "leekcookie"
+      ],
+      "163": [
+        "iurie"
+      ],
+      "1639": [
+        "philxpx"
+      ],
+      "1884": [
+        "minenicknick"
+      ],
+      "286": [
+        "owac"
+      ],
+      "549": [
+        "obvBasti"
+      ],
+      "690": [
+        "imabaldman"
+      ],
+      "72": [
+        "santemjocko"
+      ],
+      "773": [
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "1277": [
+        "minenicknick"
+      ],
+      "164": [
+        "owac"
+      ],
+      "177": [
+        "SuperXXLProfi"
+      ],
+      "240": [
+        "obvBasti"
+      ],
+      "350": [
+        "__Iglo"
+      ],
+      "369": [
+        "iurie"
+      ],
+      "377": [
+        "imabaldman"
+      ],
+      "504": [
+        "leekcookie"
+      ],
+      "693": [
+        "__kreck"
+      ],
+      "991": [
+        "philxpx"
+      ]
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "name": "iron_helmet",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Lukas_126",
+        "Iglo",
+        "iurie",
+        "Telinnor",
+        "Cpt_looper",
+        "Lord_HoruS",
+        "DornDasBrot"
+      ],
+      "2": [
+        "chaos1989"
+      ],
+      "5": [
+        "Mandahaya"
+      ]
+    },
+    "crafted": {
+      "10": [
+        "DornDasBrot",
+        "__Iglo"
+      ],
+      "11": [
+        "__kreck"
+      ],
+      "2": [
+        "Lukas_126",
+        "chaos1989",
+        "Mamuschkaz",
+        "owac",
+        "Temeraiere",
+        "StofftierAnabol",
+        "Makishi25"
+      ],
+      "20": [
+        "nitram1572"
+      ],
+      "3": [
+        "leekcookie",
+        "Cpt_looper",
+        "imabaldman"
+      ],
+      "38": [
+        "iurie"
+      ],
+      "5": [
+        "lodoss2011"
+      ],
+      "7": [
+        "Mandahaya",
+        "Sayder13xr"
+      ],
+      "70": [
+        "Iglo"
+      ],
+      "8": [
+        "santemjocko",
+        "Lord_HoruS"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "Ivenor",
+        "Temeraiere",
+        "Cpt_looper",
+        "Makishi25",
+        "XeonVirus"
+      ],
+      "15": [
+        "Lord_HoruS"
+      ],
+      "2": [
+        "chaos1989",
+        "leekcookie",
+        "Telinnor",
+        "TrashSuperstar"
+      ],
+      "3": [
+        "lodoss2011"
+      ],
+      "30": [
+        "iurie"
+      ],
+      "4": [
+        "Mamuschkaz",
+        "Sayder13xr",
+        "__kreck"
+      ],
+      "5": [
+        "owac"
+      ],
+      "6": [
+        "santemjocko"
+      ],
+      "73": [
+        "Iglo"
+      ],
+      "8": [
+        "imabaldman"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "imabaldman"
+      ],
+      "12": [
+        "santemjocko",
+        "Iglo"
+      ],
+      "17": [
+        "__kreck"
+      ],
+      "21": [
+        "Cpt_looper"
+      ],
+      "24": [
+        "Mandahaya"
+      ],
+      "33": [
+        "iurie"
+      ],
+      "36": [
+        "Lord_HoruS"
+      ],
+      "5": [
+        "JonasderGamer",
+        "DornDasBrot"
+      ],
+      "7": [
+        "chaos1989",
+        "owac"
+      ],
+      "8": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "leekcookie",
+        "Sayder13xr"
+      ],
+      "2": [
+        "Temeraiere",
+        "Telinnor",
+        "Makishi25"
+      ],
+      "3": [
+        "Iglo",
+        "iurie",
+        "StofftierAnabol"
+      ],
+      "4": [
+        "JonasderGamer"
+      ]
+    }
+  }
+}

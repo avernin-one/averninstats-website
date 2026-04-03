@@ -1,0 +1,135 @@
+{
+  "name": "cobbled_deepslate",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1015": [
+        "Mamuschkaz"
+      ],
+      "1040": [
+        "Iglo"
+      ],
+      "1377": [
+        "Ivenor"
+      ],
+      "1502": [
+        "philxpx"
+      ],
+      "2405": [
+        "santemjocko"
+      ],
+      "2416": [
+        "__Iglo"
+      ],
+      "24857": [
+        "leekcookie"
+      ],
+      "8476": [
+        "__kreck"
+      ],
+      "954": [
+        "egoplayer_Felix"
+      ],
+      "973": [
+        "TrashSuperstar"
+      ]
+    },
+    "mined": {
+      "1349": [
+        "Mamuschkaz"
+      ],
+      "167": [
+        "XeonVirus"
+      ],
+      "198": [
+        "chaos1989",
+        "Sayder13xr"
+      ],
+      "206": [
+        "Cpt_looper"
+      ],
+      "2348": [
+        "leekcookie"
+      ],
+      "246": [
+        "SnuvomBodensatz"
+      ],
+      "250": [
+        "TrashSuperstar"
+      ],
+      "308": [
+        "santemjocko"
+      ],
+      "439": [
+        "__kreck"
+      ],
+      "793": [
+        "Lord_HoruS"
+      ]
+    },
+    "picked_up": {
+      "10669": [
+        "SuperXXLProfi"
+      ],
+      "12452": [
+        "Warhazarder"
+      ],
+      "12541": [
+        "lodoss2011"
+      ],
+      "13184": [
+        "Mamuschkaz"
+      ],
+      "210289": [
+        "leekcookie"
+      ],
+      "23483": [
+        "chaos1989"
+      ],
+      "24662": [
+        "Iglo"
+      ],
+      "27443": [
+        "santemjocko"
+      ],
+      "42610": [
+        "iurie"
+      ],
+      "70597": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "10294": [
+        "Mamuschkaz"
+      ],
+      "1229": [
+        "SuperXXLProfi"
+      ],
+      "1424": [
+        "SnuvomBodensatz"
+      ],
+      "1485": [
+        "__kreck"
+      ],
+      "1497": [
+        "TrashSuperstar"
+      ],
+      "1673": [
+        "Cpt_looper"
+      ],
+      "2184": [
+        "Lord_HoruS"
+      ],
+      "3668": [
+        "santemjocko"
+      ],
+      "8086": [
+        "leekcookie"
+      ],
+      "976": [
+        "Ivenor"
+      ]
+    }
+  }
+}

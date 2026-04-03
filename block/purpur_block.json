@@ -1,0 +1,131 @@
+{
+  "name": "purpur_block",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "Sayder13xr"
+      ],
+      "10": [
+        "imabaldman"
+      ],
+      "105": [
+        "SnuvomBodensatz"
+      ],
+      "164": [
+        "owac"
+      ],
+      "2": [
+        "lodoss2011",
+        "iurie"
+      ],
+      "3": [
+        "Lord_HoruS"
+      ],
+      "5": [
+        "santemjocko",
+        "leekcookie"
+      ],
+      "8": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "209": [
+        "iurie"
+      ],
+      "27": [
+        "santemjocko"
+      ],
+      "34": [
+        "Iglo"
+      ],
+      "36": [
+        "lodoss2011"
+      ],
+      "47": [
+        "leekcookie"
+      ],
+      "49": [
+        "XeonVirus"
+      ],
+      "553": [
+        "owac"
+      ],
+      "671": [
+        "SnuvomBodensatz"
+      ],
+      "76": [
+        "Warhazarder"
+      ],
+      "86": [
+        "Lord_HoruS",
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "189": [
+        "iurie"
+      ],
+      "36": [
+        "Iglo"
+      ],
+      "40": [
+        "lodoss2011"
+      ],
+      "488": [
+        "owac"
+      ],
+      "52": [
+        "leekcookie"
+      ],
+      "580": [
+        "SnuvomBodensatz"
+      ],
+      "73": [
+        "Warhazarder"
+      ],
+      "74": [
+        "XeonVirus"
+      ],
+      "75": [
+        "Lord_HoruS"
+      ],
+      "96": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "14": [
+        "imabaldman"
+      ],
+      "176": [
+        "owac"
+      ],
+      "24": [
+        "leekcookie"
+      ],
+      "25": [
+        "Iglo"
+      ],
+      "4": [
+        "Sayder13xr"
+      ],
+      "48": [
+        "__kreck"
+      ],
+      "6": [
+        "Warhazarder"
+      ],
+      "71": [
+        "Lord_HoruS"
+      ],
+      "87": [
+        "iurie"
+      ],
+      "9": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

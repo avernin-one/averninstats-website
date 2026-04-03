@@ -1,0 +1,26 @@
+{
+  "name": "cherry_wood",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1155": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "30": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "30": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "466": [
+        "leekcookie"
+      ]
+    }
+  }
+}

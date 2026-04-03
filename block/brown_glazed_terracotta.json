@@ -1,0 +1,37 @@
+{
+  "name": "brown_glazed_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "nitram1572"
+      ],
+      "67": [
+        "leekcookie"
+      ],
+      "7": [
+        "owac"
+      ]
+    },
+    "dropped": {
+      "7": [
+        "owac"
+      ]
+    },
+    "mined": {
+      "13": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "67": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "13": [
+        "leekcookie"
+      ]
+    }
+  }
+}

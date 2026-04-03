@@ -1,0 +1,83 @@
+{
+  "name": "chainmail_boots",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Ivenor",
+        "Temeraiere"
+      ]
+    },
+    "crafted": {
+      "12": [
+        "owac",
+        "nitram1572"
+      ],
+      "2": [
+        "Sayder13xr"
+      ],
+      "46": [
+        "Teayo"
+      ],
+      "6": [
+        "DornDasBrot"
+      ],
+      "60": [
+        "Iglo"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "chaos1989",
+        "iurie"
+      ],
+      "11": [
+        "leekcookie"
+      ],
+      "14": [
+        "owac"
+      ],
+      "3": [
+        "Sayder13xr"
+      ],
+      "61": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "SnuvomBodensatz",
+        "Iglo",
+        "Temeraiere",
+        "StofftierAnabol",
+        "TrashSuperstar",
+        "DornDasBrot"
+      ],
+      "12": [
+        "leekcookie"
+      ],
+      "2": [
+        "Ivenor",
+        "iurie",
+        "Makishi25"
+      ],
+      "21": [
+        "Teayo"
+      ],
+      "3": [
+        "chaos1989",
+        "owac",
+        "Sayder13xr"
+      ],
+      "7": [
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1": [
+        "StofftierAnabol",
+        "Sayder13xr"
+      ]
+    }
+  }
+}

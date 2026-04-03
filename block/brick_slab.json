@@ -1,0 +1,37 @@
+{
+  "name": "brick_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "24": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "13": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "22": [
+        "iurie"
+      ],
+      "3": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "22": [
+        "iurie"
+      ],
+      "29": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "14": [
+        "leekcookie"
+      ]
+    }
+  }
+}

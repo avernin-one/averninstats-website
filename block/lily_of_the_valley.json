@@ -1,0 +1,100 @@
+{
+  "name": "lily_of_the_valley",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Mandahaya"
+      ],
+      "7": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "4": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "santemjocko",
+        "imabaldman"
+      ],
+      "10": [
+        "Makishi25"
+      ],
+      "14": [
+        "lodoss2011",
+        "leekcookie"
+      ],
+      "2": [
+        "egoplayer_Felix"
+      ],
+      "22": [
+        "chaos1989"
+      ],
+      "4": [
+        "Mandahaya",
+        "iurie",
+        "Warhazarder"
+      ],
+      "43": [
+        "XeonVirus"
+      ],
+      "7": [
+        "nitram1572"
+      ],
+      "84": [
+        "Teayo"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "Warhazarder"
+      ],
+      "127": [
+        "XeonVirus"
+      ],
+      "15": [
+        "lodoss2011"
+      ],
+      "19": [
+        "Makishi25"
+      ],
+      "2": [
+        "iurie"
+      ],
+      "24": [
+        "chaos1989"
+      ],
+      "29": [
+        "leekcookie"
+      ],
+      "4": [
+        "Mandahaya"
+      ],
+      "84": [
+        "Teayo"
+      ],
+      "9": [
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1": [
+        "egoplayer_Felix",
+        "imabaldman"
+      ],
+      "15": [
+        "chaos1989"
+      ],
+      "4": [
+        "lodoss2011"
+      ],
+      "9": [
+        "leekcookie",
+        "Makishi25"
+      ]
+    }
+  }
+}

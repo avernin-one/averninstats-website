@@ -1,0 +1,38 @@
+{
+  "name": "cherry_trapdoor",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "10": [
+        "KleeneEle"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "KleeneEle"
+      ]
+    },
+    "mined": {
+      "1": [
+        "KleeneEle",
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "KleeneEle"
+      ],
+      "2": [
+        "__Iglo"
+      ]
+    },
+    "used": {
+      "10": [
+        "KleeneEle"
+      ],
+      "2": [
+        "__Iglo"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bamboo_mosaic",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "89": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "leekcookie"
+      ]
+    }
+  }
+}

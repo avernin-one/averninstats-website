@@ -1,0 +1,16 @@
+{
+  "name": "stripped_acacia_wood",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "3": [
+        "Telinnor"
+      ]
+    },
+    "used": {
+      "1": [
+        "Telinnor"
+      ]
+    }
+  }
+}

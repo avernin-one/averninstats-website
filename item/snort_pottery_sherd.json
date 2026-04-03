@@ -1,0 +1,11 @@
+{
+  "name": "snort_pottery_sherd",
+  "type": "item",
+  "scores": {
+    "picked_up": {
+      "2": [
+        "iurie"
+      ]
+    }
+  }
+}

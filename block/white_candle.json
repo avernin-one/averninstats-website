@@ -1,0 +1,21 @@
+{
+  "name": "white_candle",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "22": [
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "35": [
+        "XeonVirus"
+      ]
+    },
+    "used": {
+      "9": [
+        "XeonVirus"
+      ]
+    }
+  }
+}

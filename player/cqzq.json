@@ -1,0 +1,127 @@
+{
+  "name": "cqzq",
+  "uuid": "486a600c-febb-44d2-bc77-59250fbcc7dc",
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "stats": {
+    "damage_dealt": 551,
+    "damage_taken": 385,
+    "deaths": 1,
+    "fall_one_cm": 5048,
+    "fly_one_cm": 20641,
+    "interact_with_crafting_table": 1,
+    "jump": 66,
+    "leave_game": 1,
+    "mob_kills": 3,
+    "open_barrel": 1,
+    "play_time": 5028,
+    "sprint_one_cm": 12817,
+    "swim_one_cm": 14358,
+    "time_since_death": 285,
+    "time_since_rest": 320,
+    "total_world_time": 5028,
+    "walk_on_water_one_cm": 4458,
+    "walk_one_cm": 11645,
+    "walk_under_water_one_cm": 220
+  },
+  "scores": {
+    "block": {
+      "crafted": {
+        "1": [
+          "crafting_table"
+        ],
+        "16": [
+          "oak_planks"
+        ]
+      },
+      "mined": {
+        "1": [
+          "crafting_table"
+        ],
+        "10": [
+          "carrots"
+        ],
+        "15": [
+          "oak_leaves"
+        ],
+        "8": [
+          "oak_log"
+        ]
+      },
+      "picked_up": {
+        "1": [
+          "crafting_table"
+        ],
+        "8": [
+          "oak_log"
+        ]
+      },
+      "used": {
+        "1": [
+          "crafting_table"
+        ]
+      }
+    },
+    "entity": {
+      "killed": {
+        "1": [
+          "salmon"
+        ],
+        "2": [
+          "zombie"
+        ]
+      },
+      "killed_by": {
+        "1": [
+          "zombie"
+        ]
+      },
+      "picked_up": {
+        "1": [
+          "salmon"
+        ]
+      },
+      "used": {
+        "1": [
+          "salmon"
+        ]
+      }
+    },
+    "item": {
+      "crafted": {
+        "1": [
+          "wooden_sword"
+        ],
+        "4": [
+          "stick"
+        ]
+      },
+      "picked_up": {
+        "1": [
+          "salmon"
+        ],
+        "3": [
+          "rotten_flesh"
+        ],
+        "39": [
+          "carrot"
+        ]
+      },
+      "used": {
+        "1": [
+          "salmon"
+        ],
+        "20": [
+          "wooden_sword"
+        ],
+        "3": [
+          "carrot",
+          "rotten_flesh"
+        ]
+      }
+    }
+  }
+}

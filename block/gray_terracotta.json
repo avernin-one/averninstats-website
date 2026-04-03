@@ -1,0 +1,27 @@
+{
+  "name": "gray_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "48": [
+        "Sayder13xr"
+      ],
+      "84": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "38": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "38": [
+        "iurie"
+      ],
+      "48": [
+        "leekcookie"
+      ]
+    }
+  }
+}

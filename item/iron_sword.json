@@ -1,0 +1,182 @@
+{
+  "name": "iron_sword",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Mamuschkaz",
+        "Temeraiere",
+        "egoplayer_Felix",
+        "iurie",
+        "SuperXXLProfi",
+        "nitram1572",
+        "__kreck",
+        "Teayo"
+      ],
+      "13": [
+        "Mandahaya"
+      ],
+      "2": [
+        "Lukas_126",
+        "leekcookie",
+        "Iglo",
+        "Cpt_looper",
+        "Makishi25",
+        "Sayder13xr"
+      ],
+      "3": [
+        "Telinnor",
+        "DornDasBrot"
+      ],
+      "6": [
+        "santemjocko",
+        "Lord_HoruS"
+      ]
+    },
+    "crafted": {
+      "10": [
+        "__Iglo"
+      ],
+      "12": [
+        "Lord_HoruS",
+        "__kreck"
+      ],
+      "14": [
+        "santemjocko"
+      ],
+      "15": [
+        "Mandahaya"
+      ],
+      "17": [
+        "Cpt_looper"
+      ],
+      "4": [
+        "iurie",
+        "Makishi25"
+      ],
+      "5": [
+        "Sayder13xr"
+      ],
+      "6": [
+        "TrashSuperstar",
+        "DornDasBrot"
+      ],
+      "7": [
+        "Iglo",
+        "nitram1572"
+      ],
+      "8": [
+        "lodoss2011"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "chaos1989",
+        "minenicknick",
+        "Austriana",
+        "__kreck"
+      ],
+      "11": [
+        "owac",
+        "iurie",
+        "TrashSuperstar"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "egoplayer_Felix",
+        "JonasderGamer"
+      ],
+      "22": [
+        "leekcookie"
+      ],
+      "3": [
+        "obvBasti",
+        "Iglo",
+        "Makishi25"
+      ],
+      "4": [
+        "Cpt_looper"
+      ],
+      "5": [
+        "Mandahaya",
+        "lodoss2011"
+      ],
+      "6": [
+        "santemjocko",
+        "imabaldman"
+      ],
+      "9": [
+        "Sayder13xr"
+      ]
+    },
+    "picked_up": {
+      "13": [
+        "lodoss2011",
+        "DornDasBrot",
+        "__kreck"
+      ],
+      "14": [
+        "owac"
+      ],
+      "16": [
+        "santemjocko",
+        "iurie"
+      ],
+      "24": [
+        "leekcookie"
+      ],
+      "25": [
+        "Mandahaya",
+        "Makishi25"
+      ],
+      "30": [
+        "Cpt_looper"
+      ],
+      "6": [
+        "JonasderGamer"
+      ],
+      "7": [
+        "imabaldman"
+      ],
+      "8": [
+        "Lord_HoruS"
+      ],
+      "9": [
+        "Austriana",
+        "Iglo"
+      ]
+    },
+    "used": {
+      "1263": [
+        "Cpt_looper"
+      ],
+      "1394": [
+        "Lord_HoruS"
+      ],
+      "1596": [
+        "santemjocko"
+      ],
+      "2154": [
+        "Sayder13xr"
+      ],
+      "3684": [
+        "Mandahaya"
+      ],
+      "676": [
+        "Makishi25"
+      ],
+      "816": [
+        "Lukas_126"
+      ],
+      "893": [
+        "DornDasBrot"
+      ],
+      "896": [
+        "__kreck"
+      ],
+      "937": [
+        "Iglo"
+      ]
+    }
+  }
+}

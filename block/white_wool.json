@@ -1,0 +1,181 @@
+{
+  "name": "white_wool",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1083": [
+        "Teayo"
+      ],
+      "16": [
+        "obvBasti"
+      ],
+      "2322": [
+        "iurie"
+      ],
+      "3": [
+        "philxpx",
+        "Cpt_looper",
+        "imabaldman"
+      ],
+      "32": [
+        "Makishi25"
+      ],
+      "386": [
+        "santemjocko"
+      ],
+      "480": [
+        "lodoss2011"
+      ],
+      "560": [
+        "XeonVirus"
+      ],
+      "582": [
+        "Sayder13xr"
+      ],
+      "69": [
+        "owac"
+      ]
+    },
+    "dropped": {
+      "12": [
+        "owac",
+        "XeonVirus"
+      ],
+      "1937": [
+        "Iglo"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "iurie",
+        "Telinnor",
+        "nitram1572",
+        "Makishi25",
+        "Sayder13xr"
+      ],
+      "29": [
+        "santemjocko"
+      ],
+      "3": [
+        "philxpx"
+      ],
+      "32": [
+        "leekcookie"
+      ],
+      "35": [
+        "Temeraiere"
+      ],
+      "382": [
+        "minenicknick"
+      ],
+      "4": [
+        "Lord_HoruS",
+        "JonasderGamer",
+        "imabaldman"
+      ],
+      "49": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "119": [
+        "Warhazarder"
+      ],
+      "175": [
+        "XeonVirus"
+      ],
+      "22": [
+        "Sayder13xr"
+      ],
+      "247": [
+        "iurie"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "5": [
+        "lodoss2011",
+        "Iglo"
+      ],
+      "51": [
+        "__kreck"
+      ],
+      "7": [
+        "chaos1989"
+      ],
+      "8": [
+        "Lukas_126",
+        "santemjocko",
+        "DornDasBrot"
+      ],
+      "92": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1058": [
+        "__kreck"
+      ],
+      "1102": [
+        "chaos1989"
+      ],
+      "1673": [
+        "Warhazarder"
+      ],
+      "2781": [
+        "Iglo"
+      ],
+      "322": [
+        "nitram1572"
+      ],
+      "340": [
+        "iurie"
+      ],
+      "354": [
+        "leekcookie"
+      ],
+      "511": [
+        "Makishi25"
+      ],
+      "969": [
+        "Teayo"
+      ],
+      "973": [
+        "Mandahaya"
+      ]
+    },
+    "used": {
+      "1032": [
+        "chaos1989"
+      ],
+      "10545": [
+        "__kreck"
+      ],
+      "127": [
+        "leekcookie"
+      ],
+      "180": [
+        "XeonVirus"
+      ],
+      "1884": [
+        "Warhazarder"
+      ],
+      "315": [
+        "iurie"
+      ],
+      "7": [
+        "Sayder13xr"
+      ],
+      "8": [
+        "Iglo",
+        "DornDasBrot"
+      ],
+      "9": [
+        "Lukas_126",
+        "santemjocko"
+      ],
+      "95": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

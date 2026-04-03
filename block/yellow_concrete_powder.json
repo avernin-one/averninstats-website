@@ -1,0 +1,32 @@
+{
+  "name": "yellow_concrete_powder",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "128": [
+        "__kreck"
+      ],
+      "576": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "767": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "327": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "128": [
+        "__kreck"
+      ],
+      "576": [
+        "leekcookie"
+      ]
+    }
+  }
+}

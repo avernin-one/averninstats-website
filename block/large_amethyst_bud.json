@@ -1,0 +1,54 @@
+{
+  "name": "large_amethyst_bud",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "minenicknick"
+      ]
+    },
+    "mined": {
+      "1": [
+        "chaos1989",
+        "minenicknick",
+        "Telinnor",
+        "DornDasBrot",
+        "Sayder13xr"
+      ],
+      "16": [
+        "Cpt_looper"
+      ],
+      "2": [
+        "santemjocko",
+        "Lord_HoruS",
+        "Teayo"
+      ],
+      "3": [
+        "owac"
+      ],
+      "7": [
+        "Mandahaya"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "minenicknick"
+      ],
+      "2": [
+        "santemjocko",
+        "owac",
+        "Lord_HoruS"
+      ],
+      "5": [
+        "Cpt_looper"
+      ]
+    },
+    "used": {
+      "2": [
+        "santemjocko",
+        "owac",
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

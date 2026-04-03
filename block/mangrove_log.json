@@ -1,0 +1,33 @@
+{
+  "name": "mangrove_log",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "14": [
+        "iurie"
+      ],
+      "243": [
+        "leekcookie"
+      ],
+      "35": [
+        "lodoss2011"
+      ]
+    },
+    "picked_up": {
+      "14": [
+        "iurie"
+      ],
+      "243": [
+        "leekcookie"
+      ],
+      "33": [
+        "lodoss2011"
+      ]
+    },
+    "used": {
+      "46": [
+        "leekcookie"
+      ]
+    }
+  }
+}

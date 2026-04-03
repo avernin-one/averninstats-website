@@ -1,0 +1,11 @@
+{
+  "name": "prismarine_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "464": [
+        "Teayo"
+      ]
+    }
+  }
+}

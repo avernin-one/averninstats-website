@@ -1,0 +1,11 @@
+{
+  "name": "elder_guardian_spawn_egg",
+  "type": "item",
+  "scores": {
+    "used": {
+      "53": [
+        "__kreck"
+      ]
+    }
+  }
+}

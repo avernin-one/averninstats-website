@@ -1,0 +1,26 @@
+{
+  "name": "mud_brick_wall",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "4": [
+        "lodoss2011"
+      ]
+    },
+    "mined": {
+      "5": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "5": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "4": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

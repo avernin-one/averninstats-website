@@ -1,0 +1,14 @@
+{
+  "name": "leather_horse_armor",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "nitram1572"
+      ],
+      "15": [
+        "Teayo"
+      ]
+    }
+  }
+}

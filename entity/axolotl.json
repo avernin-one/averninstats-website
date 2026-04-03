@@ -1,0 +1,15 @@
+{
+  "name": "axolotl",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1": [
+        "SnuvomBodensatz",
+        "TrashSuperstar"
+      ],
+      "4": [
+        "iurie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "snowball",
+  "type": "entity",
+  "scores": {
+    "dropped": {
+      "16": [
+        "iurie",
+        "XeonVirus"
+      ],
+      "168": [
+        "Lord_HoruS"
+      ],
+      "32": [
+        "leekcookie"
+      ],
+      "373": [
+        "__kreck"
+      ],
+      "47": [
+        "nitram1572"
+      ],
+      "540": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "148": [
+        "XeonVirus"
+      ],
+      "161": [
+        "Lord_HoruS"
+      ],
+      "184": [
+        "owac"
+      ],
+      "320": [
+        "Mandahaya"
+      ],
+      "368": [
+        "Ivenor"
+      ],
+      "439": [
+        "iurie"
+      ],
+      "514": [
+        "__kreck"
+      ],
+      "5532": [
+        "santemjocko"
+      ],
+      "557": [
+        "leekcookie"
+      ],
+      "873": [
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1": [
+        "Sayder13xr"
+      ],
+      "128": [
+        "__kreck"
+      ],
+      "250": [
+        "Ivenor"
+      ],
+      "3": [
+        "santemjocko",
+        "nitram1572"
+      ],
+      "38": [
+        "XeonVirus"
+      ]
+    }
+  }
+}

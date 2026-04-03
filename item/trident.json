@@ -1,0 +1,72 @@
+{
+  "name": "trident",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "santemjocko",
+        "chaos1989",
+        "minenicknick"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "SnuvomBodensatz",
+        "lodoss2011",
+        "DornDasBrot",
+        "imabaldman",
+        "Sayder13xr",
+        "__Iglo"
+      ],
+      "2": [
+        "chaos1989",
+        "owac",
+        "Makishi25"
+      ],
+      "3": [
+        "minenicknick",
+        "iurie"
+      ],
+      "4": [
+        "obvBasti"
+      ],
+      "7": [
+        "santemjocko",
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "155": [
+        "owac"
+      ],
+      "160": [
+        "obvBasti"
+      ],
+      "252": [
+        "minenicknick"
+      ],
+      "290": [
+        "DornDasBrot"
+      ],
+      "302": [
+        "santemjocko"
+      ],
+      "381": [
+        "chaos1989"
+      ],
+      "463": [
+        "iurie"
+      ],
+      "8": [
+        "Lord_HoruS"
+      ],
+      "9": [
+        "Sayder13xr"
+      ],
+      "93": [
+        "SnuvomBodensatz"
+      ]
+    }
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "name": "CuzimJxson",
+  "uuid": "45692580-0ead-4660-944b-6ff18f2b0ed9",
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "stats": {
+    "crouch_one_cm": 2286,
+    "damage_dealt": 10805,
+    "damage_taken": 1881,
+    "deaths": 4,
+    "drop": 4,
+    "enchant_item": 1,
+    "fall_one_cm": 48142,
+    "fly_one_cm": 369883,
+    "interact_with_crafting_table": 10,
+    "interact_with_furnace": 6,
+    "jump": 968,
+    "leave_game": 7,
+    "mob_kills": 71,
+    "open_chest": 45,
+    "play_time": 88079,
+    "sleep_in_bed": 1,
+    "sneak_time": 1118,
+    "sprint_one_cm": 192831,
+    "swim_one_cm": 17654,
+    "talked_to_villager": 1,
+    "time_since_death": 115,
+    "time_since_rest": 117,
+    "total_world_time": 88079,
+    "walk_on_water_one_cm": 2439,
+    "walk_one_cm": 365163,
+    "walk_under_water_one_cm": 2908
+  },
+  "scores": {
+    "block": {
+      "crafted": {
+        "1": [
+          "crafting_table",
+          "white_bed",
+          "furnace"
+        ],
+        "24": [
+          "oak_planks"
+        ],
+        "4": [
+          "torch"
+        ]
+      },
+      "mined": {
+        "119": [
+          "stone"
+        ],
+        "151": [
+          "bamboo"
+        ],
+        "19": [
+          "iron_ore"
+        ],
+        "38": [
+          "wheat"
+        ],
+        "68": [
+          "deepslate"
+        ]
+      },
+      "picked_up": {
+        "11": [
+          "torch"
+        ],
+        "114": [
+          "cobblestone"
+        ],
+        "12": [
+          "dirt"
+        ],
+        "38": [
+          "wheat"
+        ],
+        "64": [
+          "cobbled_deepslate"
+        ]
+      },
+      "used": {
+        "1": [
+          "player_head",
+          "white_bed"
+        ],
+        "12": [
+          "torch"
+        ],
+        "2": [
+          "furnace"
+        ],
+        "41": [
+          "cobblestone"
+        ],
+        "6": [
+          "crafting_table",
+          "diorite",
+          "dirt"
+        ]
+      }
+    },
+    "entity": {
+      "killed": {
+        "16": [
+          "sheep"
+        ],
+        "18": [
+          "pig"
+        ],
+        "5": [
+          "zombie",
+          "skeleton"
+        ],
+        "6": [
+          "spider",
+          "chicken"
+        ],
+        "8": [
+          "cow"
+        ]
+      },
+      "killed_by": {
+        "1": [
+          "skeleton",
+          "enderman"
+        ]
+      },
+      "picked_up": {
+        "3": [
+          "arrow"
+        ],
+        "6": [
+          "chicken"
+        ]
+      }
+    },
+    "item": {
+      "broken": {
+        "1": [
+          "iron_axe"
+        ]
+      },
+      "crafted": {
+        "16": [
+          "stick"
+        ],
+        "2": [
+          "diamond_sword",
+          "charcoal"
+        ],
+        "6": [
+          "iron_ingot"
+        ],
+        "64": [
+          "copper_ingot"
+        ],
+        "9": [
+          "bread"
+        ]
+      },
+      "dropped": {
+        "1": [
+          "stone_pickaxe",
+          "fishing_rod"
+        ],
+        "2": [
+          "stone_sword"
+        ]
+      },
+      "mined": {
+        "38": [
+          "wheat"
+        ]
+      },
+      "picked_up": {
+        "23": [
+          "raw_iron"
+        ],
+        "36": [
+          "porkchop"
+        ],
+        "38": [
+          "wheat"
+        ],
+        "60": [
+          "lapis_lazuli"
+        ],
+        "68": [
+          "wheat_seeds"
+        ]
+      },
+      "used": {
+        "100": [
+          "stone_pickaxe"
+        ],
+        "118": [
+          "diamond_pickaxe"
+        ],
+        "128": [
+          "iron_axe"
+        ],
+        "287": [
+          "diamond_sword"
+        ],
+        "49": [
+          "iron_pickaxe"
+        ]
+      }
+    }
+  }
+}

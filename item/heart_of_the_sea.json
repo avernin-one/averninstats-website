@@ -1,0 +1,19 @@
+{
+  "name": "heart_of_the_sea",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "8": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Austriana"
+      ],
+      "12": [
+        "iurie"
+      ]
+    }
+  }
+}

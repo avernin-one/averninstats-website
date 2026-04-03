@@ -1,0 +1,272 @@
+{
+  "name": "StofftierAnabol",
+  "uuid": "9ebf8013-19c5-46c9-88e5-608792c1f5ab",
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "stats": {
+    "boat_one_cm": 622512,
+    "climb_one_cm": 1897,
+    "crouch_one_cm": 31013,
+    "damage_dealt": 11255,
+    "damage_taken": 6893,
+    "deaths": 6,
+    "drop": 9,
+    "fall_one_cm": 132678,
+    "fly_one_cm": 1374159,
+    "inspect_hopper": 2,
+    "interact_with_anvil": 3,
+    "interact_with_blast_furnace": 4,
+    "interact_with_brewingstand": 7,
+    "interact_with_cartography_table": 1,
+    "interact_with_crafting_table": 44,
+    "interact_with_furnace": 41,
+    "interact_with_grindstone": 2,
+    "interact_with_smithing_table": 1,
+    "interact_with_stonecutter": 1,
+    "jump": 5817,
+    "leave_game": 26,
+    "mob_kills": 221,
+    "open_chest": 164,
+    "open_enderchest": 5,
+    "play_time": 286605,
+    "sleep_in_bed": 10,
+    "sneak_time": 12285,
+    "sprint_one_cm": 1564377,
+    "swim_one_cm": 90205,
+    "talked_to_villager": 54,
+    "time_since_death": 56482,
+    "time_since_rest": 49870,
+    "total_world_time": 286605,
+    "traded_with_villager": 130,
+    "walk_on_water_one_cm": 37532,
+    "walk_one_cm": 744823,
+    "walk_under_water_one_cm": 120899
+  },
+  "scores": {
+    "block": {
+      "crafted": {
+        "1740": [
+          "oak_planks"
+        ],
+        "188": [
+          "torch"
+        ],
+        "216": [
+          "birch_planks"
+        ],
+        "423": [
+          "wheat"
+        ],
+        "54": [
+          "oak_fence"
+        ]
+      },
+      "dropped": {
+        "1": [
+          "torch",
+          "white_wool"
+        ],
+        "2": [
+          "white_bed"
+        ]
+      },
+      "mined": {
+        "112": [
+          "stone"
+        ],
+        "116": [
+          "iron_ore"
+        ],
+        "165": [
+          "coal_ore"
+        ],
+        "445": [
+          "oak_log"
+        ],
+        "86": [
+          "end_stone"
+        ]
+      },
+      "picked_up": {
+        "146": [
+          "oak_sapling"
+        ],
+        "174": [
+          "cobblestone"
+        ],
+        "441": [
+          "oak_log"
+        ],
+        "72": [
+          "dirt"
+        ],
+        "86": [
+          "end_stone"
+        ]
+      },
+      "used": {
+        "146": [
+          "oak_sapling"
+        ],
+        "181": [
+          "torch"
+        ],
+        "34": [
+          "dirt"
+        ],
+        "54": [
+          "oak_fence"
+        ],
+        "66": [
+          "gravel"
+        ]
+      }
+    },
+    "entity": {
+      "dropped": {
+        "1": [
+          "ender_pearl"
+        ]
+      },
+      "killed": {
+        "115": [
+          "enderman"
+        ],
+        "14": [
+          "skeleton"
+        ],
+        "19": [
+          "cow"
+        ],
+        "21": [
+          "zombie"
+        ],
+        "24": [
+          "salmon"
+        ]
+      },
+      "killed_by": {
+        "1": [
+          "creeper",
+          "enderman"
+        ],
+        "2": [
+          "shulker",
+          "zombie"
+        ]
+      },
+      "picked_up": {
+        "1": [
+          "ender_pearl",
+          "egg"
+        ],
+        "13": [
+          "birch_boat"
+        ],
+        "19": [
+          "arrow"
+        ],
+        "34": [
+          "salmon"
+        ]
+      },
+      "used": {
+        "12": [
+          "birch_boat"
+        ],
+        "22": [
+          "ender_pearl"
+        ]
+      }
+    },
+    "item": {
+      "broken": {
+        "1": [
+          "stone_sword",
+          "leather_leggings",
+          "leather_chestplate",
+          "golden_sword",
+          "iron_axe",
+          "leather_boots",
+          "stone_axe",
+          "iron_pickaxe",
+          "stone_shovel"
+        ]
+      },
+      "crafted": {
+        "113": [
+          "emerald"
+        ],
+        "114": [
+          "bread"
+        ],
+        "3716": [
+          "stick"
+        ],
+        "423": [
+          "wheat"
+        ],
+        "74": [
+          "iron_ingot"
+        ]
+      },
+      "dropped": {
+        "1": [
+          "ender_pearl",
+          "emerald",
+          "golden_chestplate",
+          "bread",
+          "porkchop"
+        ]
+      },
+      "mined": {
+        "2": [
+          "brewing_stand"
+        ],
+        "23": [
+          "cauldron"
+        ],
+        "3": [
+          "nether_wart"
+        ]
+      },
+      "picked_up": {
+        "191": [
+          "raw_iron"
+        ],
+        "260": [
+          "coal"
+        ],
+        "44": [
+          "lapis_lazuli"
+        ],
+        "52": [
+          "rotten_flesh"
+        ],
+        "81": [
+          "stick"
+        ]
+      },
+      "used": {
+        "128": [
+          "stone_axe"
+        ],
+        "132": [
+          "stone_shovel"
+        ],
+        "260": [
+          "stone_sword"
+        ],
+        "393": [
+          "iron_pickaxe"
+        ],
+        "478": [
+          "iron_axe"
+        ]
+      }
+    }
+  }
+}

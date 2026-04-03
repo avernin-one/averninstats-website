@@ -1,0 +1,16 @@
+{
+  "name": "crimson_fence",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "3": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "3": [
+        "Makishi25"
+      ]
+    }
+  }
+}

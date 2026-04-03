@@ -1,0 +1,325 @@
+{
+  "name": "SnuvomBodensatz",
+  "uuid": "0f32fed7-dee2-4376-aa8d-905215e9d302",
+  "medals": {
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  "stats": {
+    "animals_bred": 242,
+    "aviate_one_cm": 76618260,
+    "bell_ring": 2,
+    "boat_one_cm": 2538686,
+    "climb_one_cm": 168340,
+    "crouch_one_cm": 1832224,
+    "damage_blocked_by_shield": 5880,
+    "damage_dealt": 161119,
+    "damage_taken": 69891,
+    "deaths": 22,
+    "drop": 227,
+    "enchant_item": 4,
+    "fall_one_cm": 1889604,
+    "fly_one_cm": 12312010,
+    "inspect_dropper": 1,
+    "inspect_hopper": 13,
+    "interact_with_anvil": 124,
+    "interact_with_blast_furnace": 1,
+    "interact_with_brewingstand": 17,
+    "interact_with_crafting_table": 506,
+    "interact_with_furnace": 2206,
+    "interact_with_grindstone": 4,
+    "interact_with_lectern": 4,
+    "interact_with_loom": 16,
+    "interact_with_smithing_table": 1,
+    "interact_with_smoker": 2,
+    "interact_with_stonecutter": 39,
+    "jump": 84411,
+    "leave_game": 43,
+    "minecart_one_cm": 415354,
+    "mob_kills": 10357,
+    "open_chest": 4345,
+    "open_enderchest": 217,
+    "open_shulker_box": 996,
+    "play_time": 8011053,
+    "raid_trigger": 2,
+    "raid_win": 2,
+    "sleep_in_bed": 339,
+    "sneak_time": 434652,
+    "sprint_one_cm": 17186295,
+    "swim_one_cm": 442523,
+    "talked_to_villager": 597,
+    "time_since_death": 35329,
+    "time_since_rest": 893,
+    "total_world_time": 8011053,
+    "traded_with_villager": 3092,
+    "walk_on_water_one_cm": 654220,
+    "walk_one_cm": 31383634,
+    "walk_under_water_one_cm": 1347134
+  },
+  "scores": {
+    "block": {
+      "crafted": {
+        "24422": [
+          "stone"
+        ],
+        "2638": [
+          "deepslate"
+        ],
+        "2912": [
+          "glass_pane"
+        ],
+        "6722": [
+          "smooth_stone"
+        ],
+        "7016": [
+          "oak_planks"
+        ]
+      },
+      "dropped": {
+        "105": [
+          "purpur_block"
+        ],
+        "129": [
+          "purpur_stairs"
+        ],
+        "200": [
+          "pumpkin"
+        ],
+        "35": [
+          "netherrack"
+        ],
+        "53": [
+          "purpur_pillar"
+        ]
+      },
+      "mined": {
+        "13041": [
+          "wheat"
+        ],
+        "21463": [
+          "dirt"
+        ],
+        "21848": [
+          "grass_block"
+        ],
+        "26054": [
+          "stone"
+        ],
+        "8766": [
+          "deepslate"
+        ]
+      },
+      "picked_up": {
+        "11019": [
+          "cobblestone"
+        ],
+        "11824": [
+          "wheat"
+        ],
+        "35998": [
+          "dirt"
+        ],
+        "8163": [
+          "stone"
+        ],
+        "9883": [
+          "cobbled_deepslate"
+        ]
+      },
+      "used": {
+        "26501": [
+          "stone"
+        ],
+        "33109": [
+          "dirt"
+        ],
+        "5532": [
+          "grass_block"
+        ],
+        "5792": [
+          "oak_planks"
+        ],
+        "6698": [
+          "smooth_stone"
+        ]
+      }
+    },
+    "entity": {
+      "crafted": {
+        "2": [
+          "minecart",
+          "oak_boat"
+        ],
+        "2853": [
+          "firework_rocket"
+        ]
+      },
+      "dropped": {
+        "2259": [
+          "ender_pearl"
+        ],
+        "3": [
+          "egg",
+          "potion"
+        ]
+      },
+      "killed": {
+        "120": [
+          "pillager"
+        ],
+        "155": [
+          "cow"
+        ],
+        "181": [
+          "shulker"
+        ],
+        "182": [
+          "zombie"
+        ],
+        "9237": [
+          "enderman"
+        ]
+      },
+      "killed_by": {
+        "1": [
+          "vindicator",
+          "zombified_piglin"
+        ],
+        "2": [
+          "skeleton",
+          "zombie",
+          "vex",
+          "creeper",
+          "piglin"
+        ]
+      },
+      "picked_up": {
+        "1672": [
+          "arrow"
+        ],
+        "33": [
+          "chicken"
+        ],
+        "3890": [
+          "ender_pearl"
+        ],
+        "54": [
+          "oak_boat"
+        ],
+        "747": [
+          "firework_rocket"
+        ]
+      },
+      "used": {
+        "2180": [
+          "firework_rocket"
+        ],
+        "4": [
+          "minecart"
+        ],
+        "48": [
+          "oak_boat"
+        ],
+        "6": [
+          "ender_pearl"
+        ],
+        "93": [
+          "trident"
+        ]
+      }
+    },
+    "item": {
+      "broken": {
+        "13": [
+          "stone_pickaxe"
+        ],
+        "16": [
+          "iron_hoe"
+        ],
+        "19": [
+          "iron_pickaxe"
+        ],
+        "22": [
+          "stone_shovel"
+        ],
+        "42": [
+          "iron_shovel"
+        ]
+      },
+      "crafted": {
+        "18675": [
+          "bone_meal"
+        ],
+        "2853": [
+          "firework_rocket"
+        ],
+        "4094": [
+          "emerald"
+        ],
+        "4747": [
+          "charcoal"
+        ],
+        "6444": [
+          "paper"
+        ]
+      },
+      "dropped": {
+        "22": [
+          "stick"
+        ],
+        "2259": [
+          "ender_pearl"
+        ],
+        "304": [
+          "wheat_seeds"
+        ],
+        "7": [
+          "flint"
+        ],
+        "8": [
+          "leather"
+        ]
+      },
+      "mined": {
+        "13041": [
+          "wheat"
+        ]
+      },
+      "picked_up": {
+        "11824": [
+          "wheat"
+        ],
+        "34428": [
+          "wheat_seeds"
+        ],
+        "3890": [
+          "ender_pearl"
+        ],
+        "3896": [
+          "potato"
+        ],
+        "8530": [
+          "beetroot_seeds"
+        ]
+      },
+      "used": {
+        "10927": [
+          "iron_shovel"
+        ],
+        "14567": [
+          "wheat_seeds"
+        ],
+        "15004": [
+          "diamond_axe"
+        ],
+        "34449": [
+          "diamond_shovel"
+        ],
+        "43051": [
+          "diamond_pickaxe"
+        ]
+      }
+    }
+  }
+}

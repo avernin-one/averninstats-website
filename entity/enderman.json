@@ -1,0 +1,65 @@
+{
+  "name": "enderman",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "10086": [
+        "owac"
+      ],
+      "12936": [
+        "philxpx"
+      ],
+      "14955": [
+        "XeonVirus"
+      ],
+      "15006": [
+        "Lord_HoruS"
+      ],
+      "16019": [
+        "Cpt_looper"
+      ],
+      "17451": [
+        "Warhazarder"
+      ],
+      "23139": [
+        "santemjocko"
+      ],
+      "32414": [
+        "__kreck"
+      ],
+      "42676": [
+        "leekcookie"
+      ],
+      "9582": [
+        "minenicknick"
+      ]
+    },
+    "killed_by": {
+      "1": [
+        "santemjocko",
+        "CuzimJxson",
+        "egoplayer_Felix",
+        "StofftierAnabol",
+        "TrashSuperstar",
+        "imabaldman",
+        "XeonVirus"
+      ],
+      "2": [
+        "Temeraiere",
+        "JonasderGamer",
+        "Sayder13xr"
+      ],
+      "3": [
+        "lodoss2011",
+        "iurie",
+        "Lord_HoruS"
+      ],
+      "4": [
+        "leekcookie"
+      ],
+      "6": [
+        "__kreck"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "pink_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "7": [
+        "owac"
+      ]
+    },
+    "dropped": {
+      "7": [
+        "owac"
+      ]
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "name": "rotten_flesh",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "10085": [
+        "lodoss2011"
+      ],
+      "1102": [
+        "santemjocko"
+      ],
+      "20175": [
+        "iurie"
+      ],
+      "508": [
+        "XeonVirus"
+      ],
+      "52312": [
+        "leekcookie"
+      ],
+      "5296": [
+        "__kreck"
+      ],
+      "602": [
+        "TrashSuperstar"
+      ],
+      "7668": [
+        "Lord_HoruS"
+      ],
+      "916": [
+        "owac"
+      ],
+      "9372": [
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "1005": [
+        "owac"
+      ],
+      "10409": [
+        "__Iglo"
+      ],
+      "1185": [
+        "santemjocko"
+      ],
+      "1595": [
+        "lodoss2011"
+      ],
+      "1840": [
+        "Sayder13xr"
+      ],
+      "2424": [
+        "Lord_HoruS"
+      ],
+      "3036": [
+        "iurie"
+      ],
+      "31409": [
+        "leekcookie"
+      ],
+      "3979": [
+        "__kreck"
+      ],
+      "994": [
+        "Mamuschkaz"
+      ]
+    },
+    "used": {
+      "1": [
+        "Lukas_126",
+        "santemjocko",
+        "PopCat007",
+        "Mamuschkaz",
+        "Iglo",
+        "Temeraiere",
+        "SuperXXLProfi",
+        "Sayder13xr",
+        "Teayo"
+      ],
+      "26": [
+        "iurie"
+      ],
+      "3": [
+        "cqzq"
+      ],
+      "37": [
+        "Warhazarder"
+      ],
+      "4": [
+        "imabaldman"
+      ],
+      "8": [
+        "lu0de"
+      ],
+      "9": [
+        "Cpt_looper"
+      ],
+      "91": [
+        "Telinnor"
+      ]
+    }
+  }
+}

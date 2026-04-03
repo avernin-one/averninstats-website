@@ -1,0 +1,15 @@
+{
+  "name": "infested_mossy_stone_bricks",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "imabaldman",
+        "__Iglo"
+      ],
+      "5": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

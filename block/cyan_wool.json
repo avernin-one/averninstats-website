@@ -1,0 +1,80 @@
+{
+  "name": "cyan_wool",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "10": [
+        "__Iglo"
+      ],
+      "192": [
+        "leekcookie"
+      ],
+      "2": [
+        "Telinnor"
+      ],
+      "465": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Iglo",
+        "nitram1572",
+        "DornDasBrot",
+        "Sayder13xr"
+      ],
+      "114": [
+        "leekcookie"
+      ],
+      "4": [
+        "__Iglo",
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "DornDasBrot",
+        "Sayder13xr"
+      ],
+      "114": [
+        "leekcookie"
+      ],
+      "12": [
+        "Telinnor"
+      ],
+      "2": [
+        "nitram1572"
+      ],
+      "3613": [
+        "__kreck"
+      ],
+      "41": [
+        "Iglo"
+      ],
+      "6": [
+        "__Iglo"
+      ],
+      "62": [
+        "Mandahaya"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo",
+        "DornDasBrot"
+      ],
+      "2": [
+        "nitram1572"
+      ],
+      "210": [
+        "leekcookie"
+      ],
+      "4": [
+        "__Iglo"
+      ],
+      "5": [
+        "__kreck"
+      ]
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "name": "ender_pearl",
+  "type": "entity",
+  "scores": {
+    "crafted": {
+      "124": [
+        "leekcookie"
+      ],
+      "7": [
+        "Teayo"
+      ],
+      "8": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "13686": [
+        "santemjocko"
+      ],
+      "13824": [
+        "Iglo"
+      ],
+      "15554": [
+        "Lord_HoruS"
+      ],
+      "18062": [
+        "__kreck"
+      ],
+      "2340": [
+        "leekcookie"
+      ],
+      "2496": [
+        "imabaldman"
+      ],
+      "2606": [
+        "lodoss2011"
+      ],
+      "2925": [
+        "__Iglo"
+      ],
+      "3152": [
+        "chaos1989"
+      ],
+      "3690": [
+        "TrashSuperstar"
+      ]
+    },
+    "picked_up": {
+      "11393": [
+        "santemjocko"
+      ],
+      "15147": [
+        "Lord_HoruS"
+      ],
+      "15463": [
+        "__kreck"
+      ],
+      "2271": [
+        "imabaldman"
+      ],
+      "2446": [
+        "Iglo"
+      ],
+      "2654": [
+        "leekcookie"
+      ],
+      "3037": [
+        "lodoss2011"
+      ],
+      "3514": [
+        "chaos1989"
+      ],
+      "3678": [
+        "TrashSuperstar"
+      ],
+      "3890": [
+        "SnuvomBodensatz"
+      ]
+    },
+    "used": {
+      "131": [
+        "__kreck"
+      ],
+      "140": [
+        "leekcookie"
+      ],
+      "257": [
+        "iurie"
+      ],
+      "298": [
+        "SuperXXLProfi"
+      ],
+      "55": [
+        "santemjocko"
+      ],
+      "554": [
+        "Iglo"
+      ],
+      "67": [
+        "minenicknick"
+      ],
+      "689": [
+        "__Iglo"
+      ],
+      "73": [
+        "Sayder13xr"
+      ],
+      "752": [
+        "imabaldman"
+      ]
+    }
+  }
+}

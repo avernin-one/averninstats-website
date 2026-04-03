@@ -1,0 +1,11 @@
+{
+  "name": "acacia_wall_sign",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "8": [
+        "Telinnor"
+      ]
+    }
+  }
+}

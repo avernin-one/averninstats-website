@@ -1,0 +1,121 @@
+{
+  "name": "bell",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "owac",
+        "iurie"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "2": [
+        "DornDasBrot"
+      ],
+      "3": [
+        "nitram1572"
+      ],
+      "5": [
+        "Teayo"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "owac"
+      ],
+      "3": [
+        "Iglo"
+      ]
+    },
+    "mined": {
+      "1": [
+        "lodoss2011",
+        "iurie",
+        "StofftierAnabol",
+        "Sayder13xr",
+        "Teayo"
+      ],
+      "2": [
+        "chaos1989",
+        "DornDasBrot",
+        "__kreck"
+      ],
+      "20": [
+        "Warhazarder"
+      ],
+      "28": [
+        "owac"
+      ],
+      "3": [
+        "Iglo",
+        "Makishi25",
+        "imabaldman"
+      ],
+      "4": [
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Mandahaya",
+        "lodoss2011",
+        "StofftierAnabol",
+        "Teayo"
+      ],
+      "15": [
+        "leekcookie"
+      ],
+      "2": [
+        "chaos1989"
+      ],
+      "22": [
+        "Warhazarder"
+      ],
+      "28": [
+        "owac"
+      ],
+      "3": [
+        "Iglo",
+        "DornDasBrot",
+        "Makishi25",
+        "imabaldman",
+        "Sayder13xr",
+        "__Iglo"
+      ],
+      "4": [
+        "iurie"
+      ],
+      "6": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1": [
+        "lodoss2011",
+        "__kreck"
+      ],
+      "2": [
+        "Sayder13xr"
+      ],
+      "22": [
+        "Warhazarder"
+      ],
+      "26": [
+        "owac"
+      ],
+      "3": [
+        "nitram1572",
+        "DornDasBrot",
+        "Makishi25",
+        "imabaldman"
+      ],
+      "6": [
+        "Teayo"
+      ],
+      "8": [
+        "__Iglo"
+      ]
+    }
+  }
+}

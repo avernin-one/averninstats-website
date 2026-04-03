@@ -1,0 +1,149 @@
+{
+  "name": "cobbled_deepslate_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "11": [
+        "Makishi25"
+      ],
+      "16": [
+        "lodoss2011"
+      ],
+      "20": [
+        "santemjocko"
+      ],
+      "212": [
+        "TrashSuperstar"
+      ],
+      "24": [
+        "Lord_HoruS"
+      ],
+      "252": [
+        "Mamuschkaz"
+      ],
+      "40": [
+        "__Iglo"
+      ],
+      "61": [
+        "leekcookie"
+      ],
+      "72": [
+        "SnuvomBodensatz"
+      ],
+      "80": [
+        "KleeneEle"
+      ]
+    },
+    "dropped": {
+      "14": [
+        "Mamuschkaz"
+      ],
+      "28": [
+        "KleeneEle"
+      ],
+      "3": [
+        "leekcookie"
+      ],
+      "64": [
+        "Warhazarder"
+      ],
+      "9": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "1": [
+        "KleeneEle"
+      ],
+      "10": [
+        "SnuvomBodensatz"
+      ],
+      "12": [
+        "__Iglo"
+      ],
+      "2": [
+        "santemjocko",
+        "TrashSuperstar"
+      ],
+      "22": [
+        "__kreck"
+      ],
+      "239": [
+        "Warhazarder"
+      ],
+      "44": [
+        "Mamuschkaz"
+      ],
+      "56": [
+        "leekcookie"
+      ],
+      "8": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "__Iglo"
+      ],
+      "17": [
+        "santemjocko"
+      ],
+      "2": [
+        "TrashSuperstar"
+      ],
+      "295": [
+        "Warhazarder"
+      ],
+      "38": [
+        "__kreck"
+      ],
+      "46": [
+        "Mamuschkaz"
+      ],
+      "72": [
+        "Lord_HoruS"
+      ],
+      "8": [
+        "Makishi25"
+      ],
+      "83": [
+        "leekcookie"
+      ],
+      "9": [
+        "SnuvomBodensatz"
+      ]
+    },
+    "used": {
+      "124": [
+        "leekcookie"
+      ],
+      "17": [
+        "santemjocko"
+      ],
+      "2082": [
+        "Warhazarder"
+      ],
+      "213": [
+        "TrashSuperstar"
+      ],
+      "22": [
+        "__kreck"
+      ],
+      "266": [
+        "Mamuschkaz"
+      ],
+      "43": [
+        "__Iglo"
+      ],
+      "48": [
+        "KleeneEle"
+      ],
+      "50": [
+        "SnuvomBodensatz"
+      ],
+      "60": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

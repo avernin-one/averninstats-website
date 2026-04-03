@@ -1,0 +1,127 @@
+{
+  "name": "shroomlight",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "leekcookie",
+        "Warhazarder"
+      ],
+      "119": [
+        "Iglo"
+      ],
+      "136": [
+        "__kreck"
+      ],
+      "14": [
+        "Lord_HoruS"
+      ],
+      "2": [
+        "DornDasBrot"
+      ],
+      "35": [
+        "__Iglo"
+      ],
+      "5": [
+        "Makishi25"
+      ]
+    },
+    "mined": {
+      "115": [
+        "leekcookie"
+      ],
+      "125": [
+        "santemjocko"
+      ],
+      "20": [
+        "XeonVirus"
+      ],
+      "22": [
+        "imabaldman"
+      ],
+      "374": [
+        "__kreck"
+      ],
+      "487": [
+        "iurie"
+      ],
+      "49": [
+        "Lord_HoruS"
+      ],
+      "53": [
+        "DornDasBrot"
+      ],
+      "729": [
+        "Iglo"
+      ],
+      "90": [
+        "SnuvomBodensatz"
+      ]
+    },
+    "picked_up": {
+      "108": [
+        "santemjocko"
+      ],
+      "128": [
+        "leekcookie"
+      ],
+      "29": [
+        "XeonVirus"
+      ],
+      "453": [
+        "iurie"
+      ],
+      "46": [
+        "__Iglo"
+      ],
+      "54": [
+        "DornDasBrot"
+      ],
+      "71": [
+        "imabaldman"
+      ],
+      "742": [
+        "Iglo"
+      ],
+      "85": [
+        "SnuvomBodensatz"
+      ],
+      "855": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "11": [
+        "Lord_HoruS"
+      ],
+      "12": [
+        "imabaldman"
+      ],
+      "19": [
+        "leekcookie"
+      ],
+      "40": [
+        "DornDasBrot"
+      ],
+      "42": [
+        "SnuvomBodensatz"
+      ],
+      "434": [
+        "iurie"
+      ],
+      "44": [
+        "santemjocko"
+      ],
+      "56": [
+        "SuperXXLProfi"
+      ],
+      "57": [
+        "Iglo",
+        "__Iglo"
+      ],
+      "616": [
+        "__kreck"
+      ]
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "name": "deepslate_tiles",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1176": [
+        "santemjocko"
+      ],
+      "1340": [
+        "Sayder13xr"
+      ],
+      "16724": [
+        "leekcookie"
+      ],
+      "1804": [
+        "__Iglo"
+      ],
+      "20": [
+        "XeonVirus"
+      ],
+      "2176": [
+        "SuperXXLProfi"
+      ],
+      "256": [
+        "__kreck"
+      ],
+      "400": [
+        "philxpx"
+      ],
+      "9904": [
+        "Iglo"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "SuperXXLProfi",
+        "XeonVirus"
+      ],
+      "126": [
+        "__kreck"
+      ],
+      "256": [
+        "philxpx"
+      ],
+      "34": [
+        "Sayder13xr"
+      ],
+      "4732": [
+        "leekcookie"
+      ],
+      "515": [
+        "__Iglo"
+      ],
+      "58": [
+        "santemjocko"
+      ],
+      "899": [
+        "Iglo"
+      ]
+    },
+    "mined": {
+      "107": [
+        "imabaldman"
+      ],
+      "1178": [
+        "Sayder13xr"
+      ],
+      "130": [
+        "__Iglo"
+      ],
+      "139": [
+        "SuperXXLProfi"
+      ],
+      "16": [
+        "philxpx",
+        "XeonVirus"
+      ],
+      "22": [
+        "iurie"
+      ],
+      "27": [
+        "__kreck"
+      ],
+      "428": [
+        "Warhazarder"
+      ],
+      "5321": [
+        "leekcookie"
+      ],
+      "89": [
+        "chaos1989"
+      ]
+    },
+    "picked_up": {
+      "1032": [
+        "Iglo"
+      ],
+      "106": [
+        "imabaldman"
+      ],
+      "118": [
+        "santemjocko"
+      ],
+      "193": [
+        "__Iglo"
+      ],
+      "2079": [
+        "Sayder13xr"
+      ],
+      "449": [
+        "Warhazarder"
+      ],
+      "598": [
+        "__kreck"
+      ],
+      "628": [
+        "SuperXXLProfi"
+      ],
+      "88": [
+        "chaos1989"
+      ],
+      "8840": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "151": [
+        "philxpx"
+      ],
+      "2311": [
+        "SuperXXLProfi"
+      ],
+      "2359": [
+        "__kreck"
+      ],
+      "238": [
+        "imabaldman"
+      ],
+      "23835": [
+        "leekcookie"
+      ],
+      "246": [
+        "Iglo"
+      ],
+      "2463": [
+        "Sayder13xr"
+      ],
+      "268": [
+        "__Iglo"
+      ],
+      "4539": [
+        "Warhazarder"
+      ],
+      "687": [
+        "chaos1989"
+      ]
+    }
+  }
+}

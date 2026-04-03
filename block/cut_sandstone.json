@@ -1,0 +1,127 @@
+{
+  "name": "cut_sandstone",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "14984": [
+        "iurie"
+      ],
+      "8": [
+        "Makishi25"
+      ],
+      "894": [
+        "leekcookie"
+      ],
+      "92": [
+        "Lukas_126"
+      ]
+    },
+    "dropped": {
+      "102": [
+        "iurie"
+      ],
+      "115": [
+        "ScimMLG"
+      ],
+      "228": [
+        "leekcookie"
+      ],
+      "29": [
+        "XeonVirus"
+      ],
+      "7": [
+        "lodoss2011"
+      ]
+    },
+    "mined": {
+      "14": [
+        "KleeneEle"
+      ],
+      "25": [
+        "nitram1572"
+      ],
+      "251": [
+        "leekcookie"
+      ],
+      "31": [
+        "Makishi25"
+      ],
+      "34": [
+        "chaos1989"
+      ],
+      "5": [
+        "santemjocko"
+      ],
+      "53": [
+        "XeonVirus"
+      ],
+      "6681": [
+        "iurie"
+      ],
+      "7": [
+        "__Iglo"
+      ],
+      "9": [
+        "lodoss2011"
+      ]
+    },
+    "picked_up": {
+      "115": [
+        "ScimMLG"
+      ],
+      "12": [
+        "KleeneEle"
+      ],
+      "149": [
+        "Makishi25"
+      ],
+      "16": [
+        "lodoss2011"
+      ],
+      "25": [
+        "nitram1572"
+      ],
+      "27": [
+        "chaos1989"
+      ],
+      "32": [
+        "XeonVirus"
+      ],
+      "419": [
+        "leekcookie"
+      ],
+      "6827": [
+        "iurie"
+      ],
+      "7": [
+        "__Iglo"
+      ]
+    },
+    "used": {
+      "19876": [
+        "iurie"
+      ],
+      "2": [
+        "lodoss2011"
+      ],
+      "25": [
+        "nitram1572"
+      ],
+      "445": [
+        "Makishi25"
+      ],
+      "45": [
+        "Lukas_126"
+      ],
+      "5": [
+        "santemjocko"
+      ],
+      "7": [
+        "__Iglo"
+      ],
+      "966": [
+        "leekcookie"
+      ]
+    }
+  }
+}

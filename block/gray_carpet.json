@@ -1,0 +1,107 @@
+{
+  "name": "gray_carpet",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "2325": [
+        "__kreck"
+      ],
+      "288": [
+        "leekcookie",
+        "__Iglo"
+      ],
+      "3": [
+        "nitram1572"
+      ],
+      "33": [
+        "Telinnor"
+      ],
+      "337": [
+        "iurie"
+      ],
+      "36": [
+        "Mandahaya"
+      ],
+      "6": [
+        "Mamuschkaz"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Mandahaya",
+        "Telinnor"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "__Iglo"
+      ],
+      "256": [
+        "leekcookie"
+      ],
+      "4": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "110": [
+        "__kreck"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "87": [
+        "__Iglo"
+      ],
+      "9": [
+        "Mandahaya",
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Mamuschkaz"
+      ],
+      "10": [
+        "Mandahaya"
+      ],
+      "124": [
+        "__kreck"
+      ],
+      "13": [
+        "iurie"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "544": [
+        "leekcookie"
+      ],
+      "92": [
+        "__Iglo"
+      ]
+    },
+    "used": {
+      "2414": [
+        "__kreck"
+      ],
+      "26": [
+        "Telinnor"
+      ],
+      "278": [
+        "__Iglo"
+      ],
+      "352": [
+        "iurie"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "41": [
+        "Mandahaya"
+      ],
+      "5": [
+        "Mamuschkaz"
+      ]
+    }
+  }
+}

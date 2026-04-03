@@ -1,0 +1,146 @@
+{
+  "name": "dripstone_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "14": [
+        "nitram1572"
+      ],
+      "2": [
+        "XeonVirus"
+      ],
+      "36": [
+        "leekcookie"
+      ],
+      "4": [
+        "philxpx"
+      ],
+      "68": [
+        "owac"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Cpt_looper",
+        "Sayder13xr"
+      ],
+      "129": [
+        "santemjocko"
+      ],
+      "2": [
+        "nitram1572"
+      ],
+      "34": [
+        "Ivenor"
+      ],
+      "62": [
+        "TrashSuperstar",
+        "XeonVirus"
+      ],
+      "68": [
+        "owac"
+      ],
+      "72": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "147": [
+        "leekcookie"
+      ],
+      "152": [
+        "XeonVirus"
+      ],
+      "17": [
+        "Warhazarder"
+      ],
+      "21": [
+        "Ivenor"
+      ],
+      "229": [
+        "lodoss2011"
+      ],
+      "31": [
+        "Lord_HoruS"
+      ],
+      "32": [
+        "nitram1572"
+      ],
+      "463": [
+        "TrashSuperstar"
+      ],
+      "647": [
+        "santemjocko"
+      ],
+      "74": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "19": [
+        "__kreck"
+      ],
+      "215": [
+        "lodoss2011"
+      ],
+      "228": [
+        "XeonVirus"
+      ],
+      "27": [
+        "Warhazarder"
+      ],
+      "313": [
+        "leekcookie"
+      ],
+      "34": [
+        "nitram1572"
+      ],
+      "426": [
+        "TrashSuperstar"
+      ],
+      "53": [
+        "Ivenor"
+      ],
+      "658": [
+        "santemjocko"
+      ],
+      "74": [
+        "Iglo"
+      ]
+    },
+    "used": {
+      "1": [
+        "Telinnor",
+        "Lord_HoruS",
+        "Teayo"
+      ],
+      "11": [
+        "TrashSuperstar"
+      ],
+      "2": [
+        "Ivenor"
+      ],
+      "43": [
+        "nitram1572"
+      ],
+      "44": [
+        "lodoss2011"
+      ],
+      "55": [
+        "Iglo"
+      ],
+      "6": [
+        "Lukas_126"
+      ],
+      "7": [
+        "philxpx"
+      ],
+      "73": [
+        "leekcookie"
+      ],
+      "81": [
+        "santemjocko"
+      ]
+    }
+  }
+}

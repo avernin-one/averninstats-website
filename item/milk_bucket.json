@@ -1,0 +1,76 @@
+{
+  "name": "milk_bucket",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "leekcookie",
+        "SuperXXLProfi",
+        "DornDasBrot"
+      ],
+      "4": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Cpt_looper",
+        "imabaldman"
+      ],
+      "2": [
+        "DornDasBrot"
+      ],
+      "3": [
+        "Mandahaya",
+        "santemjocko",
+        "iurie"
+      ],
+      "6": [
+        "Teayo"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "SnuvomBodensatz",
+        "lodoss2011",
+        "Makishi25",
+        "imabaldman"
+      ],
+      "14": [
+        "Sayder13xr",
+        "Teayo"
+      ],
+      "18": [
+        "leekcookie"
+      ],
+      "2": [
+        "__Iglo",
+        "XeonVirus"
+      ],
+      "4": [
+        "Mandahaya",
+        "ScimMLG"
+      ],
+      "5": [
+        "owac"
+      ],
+      "6": [
+        "Warhazarder"
+      ],
+      "7": [
+        "chaos1989"
+      ],
+      "8": [
+        "iurie",
+        "nitram1572",
+        "DornDasBrot"
+      ],
+      "9": [
+        "santemjocko"
+      ]
+    }
+  }
+}

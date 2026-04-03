@@ -1,0 +1,161 @@
+{
+  "name": "spruce_door",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "15": [
+        "leekcookie"
+      ],
+      "3": [
+        "Mandahaya",
+        "minenicknick",
+        "TrashSuperstar",
+        "nitram1572",
+        "Makishi25",
+        "imabaldman",
+        "__Iglo",
+        "__kreck"
+      ],
+      "33": [
+        "owac"
+      ],
+      "42": [
+        "Mamuschkaz"
+      ],
+      "48": [
+        "lodoss2011"
+      ],
+      "51": [
+        "Warhazarder"
+      ],
+      "6": [
+        "chaos1989"
+      ],
+      "9": [
+        "Ivenor"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "lodoss2011",
+        "Warhazarder"
+      ],
+      "23": [
+        "Mamuschkaz"
+      ],
+      "4": [
+        "JonasderGamer",
+        "__Iglo"
+      ],
+      "6": [
+        "owac"
+      ]
+    },
+    "mined": {
+      "1": [
+        "chaos1989",
+        "Ivenor",
+        "nitram1572",
+        "imabaldman"
+      ],
+      "10": [
+        "Warhazarder"
+      ],
+      "12": [
+        "leekcookie"
+      ],
+      "24": [
+        "Mamuschkaz"
+      ],
+      "3": [
+        "minenicknick"
+      ],
+      "46": [
+        "owac"
+      ],
+      "5": [
+        "JonasderGamer",
+        "Makishi25"
+      ],
+      "6": [
+        "iurie"
+      ],
+      "9": [
+        "lodoss2011"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "chaos1989",
+        "nitram1572",
+        "imabaldman"
+      ],
+      "15": [
+        "Warhazarder"
+      ],
+      "16": [
+        "leekcookie"
+      ],
+      "2": [
+        "Ivenor",
+        "__Iglo"
+      ],
+      "23": [
+        "lodoss2011"
+      ],
+      "3": [
+        "minenicknick"
+      ],
+      "49": [
+        "Mamuschkaz"
+      ],
+      "63": [
+        "owac"
+      ],
+      "7": [
+        "iurie"
+      ],
+      "8": [
+        "JonasderGamer",
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "Mandahaya",
+        "TrashSuperstar",
+        "nitram1572",
+        "imabaldman",
+        "__Iglo"
+      ],
+      "10": [
+        "Ivenor",
+        "Makishi25"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "3": [
+        "minenicknick"
+      ],
+      "4": [
+        "JonasderGamer"
+      ],
+      "44": [
+        "lodoss2011"
+      ],
+      "50": [
+        "Mamuschkaz"
+      ],
+      "52": [
+        "Warhazarder"
+      ],
+      "6": [
+        "chaos1989"
+      ],
+      "76": [
+        "owac"
+      ]
+    }
+  }
+}

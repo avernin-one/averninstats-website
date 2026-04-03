@@ -1,0 +1,43 @@
+{
+  "name": "slime",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "101": [
+        "santemjocko"
+      ],
+      "137": [
+        "Sayder13xr"
+      ],
+      "261": [
+        "iurie"
+      ],
+      "514": [
+        "__Iglo"
+      ],
+      "601": [
+        "__kreck"
+      ],
+      "632": [
+        "Iglo"
+      ],
+      "725": [
+        "leekcookie"
+      ],
+      "80": [
+        "chaos1989"
+      ],
+      "92": [
+        "TrashSuperstar"
+      ],
+      "94": [
+        "nitram1572"
+      ]
+    },
+    "killed_by": {
+      "2": [
+        "leekcookie"
+      ]
+    }
+  }
+}

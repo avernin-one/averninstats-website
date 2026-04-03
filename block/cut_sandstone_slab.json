@@ -1,0 +1,16 @@
+{
+  "name": "cut_sandstone_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "6": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "leekcookie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "black_dye",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "128": [
+        "__Iglo",
+        "Teayo"
+      ],
+      "14": [
+        "lodoss2011",
+        "DornDasBrot"
+      ],
+      "182": [
+        "leekcookie"
+      ],
+      "1973": [
+        "__kreck"
+      ],
+      "38": [
+        "imabaldman"
+      ],
+      "384": [
+        "santemjocko",
+        "Lord_HoruS"
+      ],
+      "439": [
+        "Makishi25"
+      ],
+      "61": [
+        "philxpx"
+      ],
+      "65": [
+        "Warhazarder"
+      ],
+      "74": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "leekcookie"
+      ],
+      "58": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "24": [
+        "__kreck"
+      ],
+      "57": [
+        "Makishi25"
+      ]
+    }
+  }
+}

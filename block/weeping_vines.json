@@ -1,0 +1,104 @@
+{
+  "name": "weeping_vines",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "Makishi25",
+        "__Iglo"
+      ],
+      "2": [
+        "Cpt_looper"
+      ],
+      "28": [
+        "Lord_HoruS"
+      ],
+      "3": [
+        "XeonVirus"
+      ],
+      "6": [
+        "iurie"
+      ],
+      "9": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Cpt_looper",
+        "XeonVirus"
+      ],
+      "14": [
+        "iurie"
+      ],
+      "2": [
+        "Iglo",
+        "TrashSuperstar",
+        "__Iglo"
+      ],
+      "29": [
+        "Lord_HoruS"
+      ],
+      "4": [
+        "DornDasBrot"
+      ],
+      "6": [
+        "leekcookie"
+      ],
+      "7": [
+        "santemjocko"
+      ],
+      "8": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "chaos1989",
+        "owac",
+        "TrashSuperstar",
+        "Makishi25",
+        "__Iglo"
+      ],
+      "10": [
+        "Iglo"
+      ],
+      "11": [
+        "DornDasBrot"
+      ],
+      "2": [
+        "Mandahaya"
+      ],
+      "20": [
+        "XeonVirus"
+      ],
+      "21": [
+        "__kreck"
+      ],
+      "28": [
+        "leekcookie",
+        "Lord_HoruS"
+      ],
+      "29": [
+        "santemjocko"
+      ],
+      "3": [
+        "Cpt_looper"
+      ],
+      "60": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ],
+      "17": [
+        "__kreck"
+      ],
+      "9": [
+        "santemjocko"
+      ]
+    }
+  }
+}

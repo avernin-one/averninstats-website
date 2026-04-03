@@ -1,0 +1,16 @@
+{
+  "name": "oak_chest_boat",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1": [
+        "nitram1572"
+      ]
+    }
+  }
+}

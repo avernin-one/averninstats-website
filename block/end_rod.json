@@ -1,0 +1,121 @@
+{
+  "name": "end_rod",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "40": [
+        "__kreck"
+      ],
+      "400": [
+        "Teayo"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "leekcookie"
+      ],
+      "27": [
+        "SnuvomBodensatz"
+      ],
+      "3": [
+        "philxpx"
+      ],
+      "337": [
+        "imabaldman"
+      ],
+      "7": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "15": [
+        "SuperXXLProfi"
+      ],
+      "17": [
+        "TrashSuperstar"
+      ],
+      "20": [
+        "santemjocko"
+      ],
+      "29": [
+        "__kreck"
+      ],
+      "34": [
+        "Cpt_looper"
+      ],
+      "54": [
+        "XeonVirus"
+      ],
+      "548": [
+        "SnuvomBodensatz"
+      ],
+      "62": [
+        "DornDasBrot"
+      ],
+      "83": [
+        "Lord_HoruS"
+      ],
+      "96": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "131": [
+        "chaos1989"
+      ],
+      "21": [
+        "santemjocko"
+      ],
+      "29": [
+        "Cpt_looper"
+      ],
+      "308": [
+        "imabaldman"
+      ],
+      "49": [
+        "__kreck"
+      ],
+      "531": [
+        "SnuvomBodensatz"
+      ],
+      "64": [
+        "DornDasBrot"
+      ],
+      "68": [
+        "XeonVirus"
+      ],
+      "79": [
+        "Lord_HoruS"
+      ],
+      "91": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "10": [
+        "imabaldman"
+      ],
+      "126": [
+        "SuperXXLProfi"
+      ],
+      "19": [
+        "DornDasBrot"
+      ],
+      "2": [
+        "Lord_HoruS"
+      ],
+      "45": [
+        "XeonVirus"
+      ],
+      "46": [
+        "__kreck"
+      ],
+      "5": [
+        "santemjocko"
+      ],
+      "71": [
+        "SnuvomBodensatz"
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "ghast_tear",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "leekcookie",
+        "Makishi25"
+      ],
+      "2": [
+        "minenicknick",
+        "imabaldman"
+      ],
+      "3": [
+        "owac"
+      ],
+      "4": [
+        "Iglo",
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "leekcookie"
+      ],
+      "22": [
+        "__kreck"
+      ],
+      "23": [
+        "minenicknick"
+      ],
+      "35": [
+        "Iglo",
+        "__Iglo"
+      ],
+      "4": [
+        "obvBasti",
+        "chaos1989",
+        "Sayder13xr"
+      ],
+      "56": [
+        "imabaldman"
+      ],
+      "6": [
+        "lodoss2011",
+        "Mamuschkaz"
+      ],
+      "63": [
+        "iurie"
+      ],
+      "7": [
+        "SuperXXLProfi"
+      ],
+      "9": [
+        "owac"
+      ]
+    }
+  }
+}

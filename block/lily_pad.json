@@ -1,0 +1,92 @@
+{
+  "name": "lily_pad",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "10": [
+        "Mandahaya"
+      ],
+      "20": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Iglo",
+        "iurie",
+        "TrashSuperstar"
+      ],
+      "2": [
+        "Mamuschkaz"
+      ],
+      "34": [
+        "leekcookie"
+      ],
+      "44": [
+        "chaos1989"
+      ]
+    },
+    "mined": {
+      "2": [
+        "Iglo",
+        "Cpt_looper"
+      ],
+      "216": [
+        "chaos1989"
+      ],
+      "224": [
+        "iurie"
+      ],
+      "23": [
+        "__kreck"
+      ],
+      "8": [
+        "leekcookie"
+      ],
+      "9": [
+        "nitram1572",
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "TrashSuperstar",
+        "XeonVirus"
+      ],
+      "12": [
+        "Iglo",
+        "nitram1572"
+      ],
+      "17": [
+        "DornDasBrot"
+      ],
+      "2": [
+        "Mandahaya",
+        "Mamuschkaz"
+      ],
+      "223": [
+        "iurie"
+      ],
+      "23": [
+        "__kreck"
+      ],
+      "3": [
+        "Cpt_looper"
+      ],
+      "301": [
+        "chaos1989"
+      ],
+      "57": [
+        "leekcookie"
+      ],
+      "9": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ]
+    }
+  }
+}

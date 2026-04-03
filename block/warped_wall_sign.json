@@ -1,0 +1,17 @@
+{
+  "name": "warped_wall_sign",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "2": [
+        "Iglo"
+      ],
+      "4": [
+        "Cpt_looper"
+      ],
+      "7": [
+        "__kreck"
+      ]
+    }
+  }
+}

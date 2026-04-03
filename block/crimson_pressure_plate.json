@@ -1,0 +1,31 @@
+{
+  "name": "crimson_pressure_plate",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "12": [
+        "XeonVirus"
+      ]
+    },
+    "dropped": {
+      "8": [
+        "XeonVirus"
+      ]
+    },
+    "mined": {
+      "10": [
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "XeonVirus"
+      ]
+    },
+    "used": {
+      "14": [
+        "XeonVirus"
+      ]
+    }
+  }
+}

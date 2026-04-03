@@ -1,0 +1,11 @@
+{
+  "name": "green_candle",
+  "type": "block",
+  "scores": {
+    "picked_up": {
+      "4": [
+        "iurie"
+      ]
+    }
+  }
+}

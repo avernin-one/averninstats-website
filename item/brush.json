@@ -1,0 +1,42 @@
+{
+  "name": "brush",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "KleeneEle",
+        "Warhazarder"
+      ],
+      "12": [
+        "leekcookie"
+      ],
+      "2": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "15": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "13": [
+        "leekcookie"
+      ],
+      "2": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "22": [
+        "leekcookie"
+      ],
+      "233": [
+        "iurie"
+      ],
+      "30": [
+        "KleeneEle"
+      ]
+    }
+  }
+}

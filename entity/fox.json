@@ -1,0 +1,14 @@
+{
+  "name": "fox",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1": [
+        "SnuvomBodensatz"
+      ],
+      "4": [
+        "Mamuschkaz"
+      ]
+    }
+  }
+}

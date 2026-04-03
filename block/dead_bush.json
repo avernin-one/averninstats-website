@@ -1,0 +1,57 @@
+{
+  "name": "dead_bush",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "iurie"
+      ]
+    },
+    "mined": {
+      "107": [
+        "iurie"
+      ],
+      "15": [
+        "__kreck"
+      ],
+      "19": [
+        "SuperXXLProfi"
+      ],
+      "23": [
+        "owac"
+      ],
+      "28": [
+        "SnuvomBodensatz"
+      ],
+      "40": [
+        "JonasderGamer"
+      ],
+      "43": [
+        "chaos1989"
+      ],
+      "56": [
+        "Warhazarder"
+      ],
+      "7": [
+        "santemjocko",
+        "XeonVirus"
+      ],
+      "9": [
+        "leekcookie",
+        "TrashSuperstar",
+        "Cpt_looper"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "Makishi25"
+      ],
+      "21": [
+        "iurie"
+      ],
+      "4": [
+        "__kreck"
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "name": "ice",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "73": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "12": [
+        "iurie"
+      ],
+      "132": [
+        "Sayder13xr"
+      ],
+      "19": [
+        "XeonVirus"
+      ],
+      "25": [
+        "Mandahaya"
+      ],
+      "26": [
+        "__kreck"
+      ],
+      "2757": [
+        "__Iglo"
+      ],
+      "611": [
+        "leekcookie"
+      ],
+      "862": [
+        "SnuvomBodensatz"
+      ],
+      "87": [
+        "chaos1989"
+      ],
+      "88": [
+        "owac"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "DornDasBrot"
+      ],
+      "19": [
+        "Sayder13xr"
+      ],
+      "2": [
+        "Lord_HoruS",
+        "imabaldman"
+      ],
+      "2659": [
+        "__Iglo"
+      ],
+      "365": [
+        "leekcookie"
+      ],
+      "45": [
+        "owac"
+      ],
+      "70": [
+        "__kreck"
+      ],
+      "8": [
+        "iurie"
+      ],
+      "852": [
+        "SnuvomBodensatz"
+      ],
+      "87": [
+        "chaos1989"
+      ]
+    },
+    "used": {
+      "10": [
+        "chaos1989"
+      ],
+      "1545": [
+        "__kreck"
+      ],
+      "2": [
+        "iurie",
+        "Lord_HoruS",
+        "imabaldman"
+      ],
+      "292": [
+        "leekcookie"
+      ],
+      "37": [
+        "owac"
+      ],
+      "581": [
+        "__Iglo"
+      ],
+      "95": [
+        "SnuvomBodensatz"
+      ]
+    }
+  }
+}

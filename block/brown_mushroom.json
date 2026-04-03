@@ -1,0 +1,141 @@
+{
+  "name": "brown_mushroom",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "12": [
+        "iurie"
+      ],
+      "5": [
+        "Teayo"
+      ]
+    },
+    "dropped": {
+      "14": [
+        "lodoss2011"
+      ],
+      "141": [
+        "leekcookie"
+      ],
+      "148": [
+        "__kreck"
+      ],
+      "15": [
+        "SuperXXLProfi"
+      ],
+      "16": [
+        "iurie"
+      ],
+      "17": [
+        "__Iglo"
+      ],
+      "180": [
+        "Lord_HoruS"
+      ],
+      "35": [
+        "chaos1989"
+      ],
+      "64": [
+        "santemjocko"
+      ],
+      "83": [
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "109": [
+        "santemjocko"
+      ],
+      "124": [
+        "SuperXXLProfi"
+      ],
+      "126": [
+        "Lord_HoruS"
+      ],
+      "195": [
+        "__kreck"
+      ],
+      "233": [
+        "iurie"
+      ],
+      "35": [
+        "__Iglo"
+      ],
+      "38": [
+        "owac"
+      ],
+      "65": [
+        "TrashSuperstar"
+      ],
+      "73": [
+        "leekcookie"
+      ],
+      "82": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "1070": [
+        "iurie"
+      ],
+      "129": [
+        "Iglo"
+      ],
+      "151": [
+        "SuperXXLProfi"
+      ],
+      "172": [
+        "santemjocko"
+      ],
+      "346": [
+        "Lord_HoruS"
+      ],
+      "387": [
+        "__kreck"
+      ],
+      "462": [
+        "leekcookie"
+      ],
+      "66": [
+        "TrashSuperstar"
+      ],
+      "77": [
+        "chaos1989"
+      ],
+      "83": [
+        "imabaldman"
+      ]
+    },
+    "used": {
+      "1": [
+        "minenicknick",
+        "Mamuschkaz",
+        "nitram1572",
+        "__Iglo",
+        "__kreck"
+      ],
+      "16": [
+        "leekcookie"
+      ],
+      "2": [
+        "Iglo",
+        "Makishi25"
+      ],
+      "3": [
+        "owac"
+      ],
+      "4": [
+        "Lukas_126",
+        "SuperXXLProfi",
+        "Telinnor",
+        "Lord_HoruS"
+      ],
+      "5": [
+        "imabaldman"
+      ],
+      "6233": [
+        "iurie"
+      ]
+    }
+  }
+}

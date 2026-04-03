@@ -1,0 +1,82 @@
+{
+  "name": "mutton",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "leekcookie",
+        "Warhazarder"
+      ],
+      "2": [
+        "obvBasti",
+        "Sayder13xr"
+      ],
+      "20": [
+        "owac"
+      ],
+      "3": [
+        "lodoss2011",
+        "iurie",
+        "imabaldman"
+      ],
+      "4": [
+        "Lord_HoruS"
+      ],
+      "9": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "177": [
+        "Telinnor"
+      ],
+      "262": [
+        "Warhazarder"
+      ],
+      "40": [
+        "SnuvomBodensatz",
+        "Mamuschkaz",
+        "Teayo"
+      ],
+      "48": [
+        "Lukas_126"
+      ],
+      "52": [
+        "chaos1989"
+      ],
+      "62": [
+        "iurie"
+      ],
+      "63": [
+        "Temeraiere"
+      ],
+      "74": [
+        "owac"
+      ],
+      "90": [
+        "Ivenor"
+      ],
+      "95": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1": [
+        "Lukas_126",
+        "iurie",
+        "nitram1572"
+      ],
+      "2": [
+        "Lord_HoruS",
+        "JonasderGamer"
+      ],
+      "4": [
+        "leekcookie"
+      ],
+      "5": [
+        "Mamuschkaz",
+        "CuzimJxson"
+      ]
+    }
+  }
+}

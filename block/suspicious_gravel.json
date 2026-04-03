@@ -1,0 +1,11 @@
+{
+  "name": "suspicious_gravel",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "13": [
+        "iurie"
+      ]
+    }
+  }
+}

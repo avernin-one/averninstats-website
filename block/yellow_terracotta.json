@@ -1,0 +1,104 @@
+{
+  "name": "yellow_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "12": [
+        "leekcookie"
+      ],
+      "16": [
+        "santemjocko"
+      ],
+      "32": [
+        "DornDasBrot"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "chaos1989"
+      ],
+      "3096": [
+        "imabaldman"
+      ],
+      "37": [
+        "SuperXXLProfi"
+      ],
+      "6": [
+        "philxpx"
+      ],
+      "8": [
+        "Lord_HoruS"
+      ]
+    },
+    "mined": {
+      "1": [
+        "chaos1989",
+        "Telinnor"
+      ],
+      "1434": [
+        "Warhazarder"
+      ],
+      "15": [
+        "iurie"
+      ],
+      "2": [
+        "philxpx"
+      ],
+      "248": [
+        "nitram1572"
+      ],
+      "3644": [
+        "SuperXXLProfi"
+      ],
+      "7": [
+        "__kreck"
+      ],
+      "8": [
+        "Lord_HoruS"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Telinnor"
+      ],
+      "14": [
+        "iurie"
+      ],
+      "1441": [
+        "Warhazarder"
+      ],
+      "2": [
+        "chaos1989"
+      ],
+      "2319": [
+        "imabaldman"
+      ],
+      "3490": [
+        "SuperXXLProfi"
+      ],
+      "359": [
+        "nitram1572"
+      ],
+      "6": [
+        "philxpx"
+      ],
+      "7": [
+        "__kreck"
+      ],
+      "8": [
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "1": [
+        "Telinnor"
+      ],
+      "131": [
+        "nitram1572"
+      ],
+      "354": [
+        "SuperXXLProfi"
+      ]
+    }
+  }
+}

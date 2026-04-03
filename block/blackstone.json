@@ -1,0 +1,134 @@
+{
+  "name": "blackstone",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1160": [
+        "philxpx"
+      ],
+      "1162": [
+        "minenicknick"
+      ],
+      "238": [
+        "Iglo"
+      ],
+      "311": [
+        "obvBasti"
+      ],
+      "364": [
+        "TrashSuperstar"
+      ],
+      "567": [
+        "imabaldman"
+      ],
+      "5779": [
+        "__Iglo"
+      ],
+      "648": [
+        "leekcookie"
+      ],
+      "698": [
+        "owac"
+      ],
+      "9952": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "1022": [
+        "TrashSuperstar"
+      ],
+      "1061": [
+        "Makishi25"
+      ],
+      "15871": [
+        "leekcookie"
+      ],
+      "3011": [
+        "owac"
+      ],
+      "3280": [
+        "Iglo"
+      ],
+      "4312": [
+        "__kreck"
+      ],
+      "4776": [
+        "iurie"
+      ],
+      "678": [
+        "Lord_HoruS"
+      ],
+      "7267": [
+        "santemjocko"
+      ],
+      "984": [
+        "minenicknick"
+      ]
+    },
+    "picked_up": {
+      "1101": [
+        "imabaldman"
+      ],
+      "1140": [
+        "philxpx"
+      ],
+      "1332": [
+        "minenicknick"
+      ],
+      "15019": [
+        "leekcookie"
+      ],
+      "1585": [
+        "owac"
+      ],
+      "1863": [
+        "Iglo"
+      ],
+      "3236": [
+        "iurie"
+      ],
+      "4131": [
+        "__Iglo"
+      ],
+      "7229": [
+        "santemjocko"
+      ],
+      "8112": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "135": [
+        "santemjocko"
+      ],
+      "313": [
+        "Telinnor"
+      ],
+      "397": [
+        "__kreck"
+      ],
+      "398": [
+        "owac"
+      ],
+      "43": [
+        "Makishi25"
+      ],
+      "438": [
+        "chaos1989"
+      ],
+      "480": [
+        "leekcookie"
+      ],
+      "63": [
+        "Iglo"
+      ],
+      "720": [
+        "iurie"
+      ],
+      "97": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

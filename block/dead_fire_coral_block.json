@@ -1,0 +1,32 @@
+{
+  "name": "dead_fire_coral_block",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "3": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "2": [
+        "TrashSuperstar"
+      ],
+      "7": [
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "3": [
+        "santemjocko"
+      ],
+      "5": [
+        "TrashSuperstar"
+      ]
+    },
+    "used": {
+      "1": [
+        "TrashSuperstar"
+      ]
+    }
+  }
+}

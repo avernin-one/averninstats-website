@@ -1,0 +1,36 @@
+{
+  "name": "diorite_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "2": [
+        "leekcookie"
+      ],
+      "6": [
+        "chaos1989"
+      ]
+    },
+    "mined": {
+      "2": [
+        "leekcookie"
+      ],
+      "4": [
+        "chaos1989"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "chaos1989",
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "5": [
+        "chaos1989"
+      ],
+      "75": [
+        "leekcookie"
+      ]
+    }
+  }
+}

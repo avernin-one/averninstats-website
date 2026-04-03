@@ -1,0 +1,49 @@
+{
+  "name": "acacia_door",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "24": [
+        "Telinnor"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "Telinnor"
+      ],
+      "5": [
+        "Warhazarder"
+      ]
+    },
+    "mined": {
+      "1": [
+        "iurie"
+      ],
+      "13": [
+        "Telinnor"
+      ],
+      "19": [
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie"
+      ],
+      "15": [
+        "Telinnor"
+      ],
+      "29": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "10": [
+        "Warhazarder"
+      ],
+      "30": [
+        "Telinnor"
+      ]
+    }
+  }
+}

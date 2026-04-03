@@ -1,0 +1,103 @@
+{
+  "name": "cartography_table",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "lodoss2011",
+        "Telinnor",
+        "Cpt_looper",
+        "nitram1572",
+        "DornDasBrot"
+      ],
+      "10": [
+        "iurie"
+      ],
+      "2": [
+        "santemjocko",
+        "Mamuschkaz",
+        "Teayo"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Mamuschkaz",
+        "owac",
+        "Telinnor",
+        "Warhazarder"
+      ],
+      "2": [
+        "lodoss2011",
+        "Teayo"
+      ],
+      "33": [
+        "iurie"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "5": [
+        "XeonVirus"
+      ],
+      "7": [
+        "DornDasBrot"
+      ],
+      "8": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Mamuschkaz",
+        "owac",
+        "Telinnor",
+        "Warhazarder"
+      ],
+      "11": [
+        "santemjocko"
+      ],
+      "2": [
+        "lodoss2011",
+        "Teayo"
+      ],
+      "35": [
+        "iurie"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "5": [
+        "XeonVirus"
+      ],
+      "7": [
+        "DornDasBrot"
+      ]
+    },
+    "used": {
+      "1": [
+        "lodoss2011",
+        "Cpt_looper",
+        "XeonVirus"
+      ],
+      "2": [
+        "Telinnor"
+      ],
+      "3": [
+        "Mamuschkaz"
+      ],
+      "4": [
+        "Teayo"
+      ],
+      "40": [
+        "iurie"
+      ],
+      "5": [
+        "nitram1572"
+      ],
+      "8": [
+        "santemjocko",
+        "DornDasBrot"
+      ]
+    }
+  }
+}

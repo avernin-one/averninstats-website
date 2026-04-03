@@ -1,0 +1,136 @@
+{
+  "name": "polished_blackstone_bricks",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1020": [
+        "leekcookie"
+      ],
+      "172": [
+        "Makishi25"
+      ],
+      "176": [
+        "imabaldman"
+      ],
+      "35": [
+        "__kreck"
+      ],
+      "7": [
+        "nitram1572"
+      ]
+    },
+    "dropped": {
+      "14": [
+        "__Iglo"
+      ],
+      "18": [
+        "iurie"
+      ],
+      "2": [
+        "leekcookie"
+      ],
+      "310": [
+        "__kreck"
+      ],
+      "4": [
+        "Iglo"
+      ]
+    },
+    "mined": {
+      "102": [
+        "leekcookie"
+      ],
+      "141": [
+        "imabaldman"
+      ],
+      "30": [
+        "Lukas_126"
+      ],
+      "37": [
+        "__Iglo"
+      ],
+      "406": [
+        "iurie"
+      ],
+      "44": [
+        "santemjocko"
+      ],
+      "46": [
+        "Sayder13xr"
+      ],
+      "72": [
+        "Iglo"
+      ],
+      "73": [
+        "lodoss2011"
+      ],
+      "79": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "109": [
+        "imabaldman"
+      ],
+      "112": [
+        "lodoss2011"
+      ],
+      "13": [
+        "santemjocko"
+      ],
+      "137": [
+        "Iglo"
+      ],
+      "166": [
+        "__kreck"
+      ],
+      "30": [
+        "Lukas_126"
+      ],
+      "36": [
+        "__Iglo"
+      ],
+      "388": [
+        "iurie"
+      ],
+      "44": [
+        "Sayder13xr"
+      ],
+      "94": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1235": [
+        "__kreck"
+      ],
+      "149": [
+        "iurie"
+      ],
+      "2": [
+        "Teayo"
+      ],
+      "215": [
+        "imabaldman"
+      ],
+      "22": [
+        "__Iglo"
+      ],
+      "3": [
+        "Iglo"
+      ],
+      "306": [
+        "Makishi25"
+      ],
+      "437": [
+        "leekcookie"
+      ],
+      "58": [
+        "santemjocko"
+      ],
+      "8": [
+        "nitram1572"
+      ]
+    }
+  }
+}

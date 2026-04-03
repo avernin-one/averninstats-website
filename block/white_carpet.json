@@ -1,0 +1,160 @@
+{
+  "name": "white_carpet",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "129": [
+        "Lord_HoruS"
+      ],
+      "2042": [
+        "__kreck"
+      ],
+      "2115": [
+        "iurie"
+      ],
+      "249": [
+        "nitram1572"
+      ],
+      "3040": [
+        "Iglo"
+      ],
+      "42": [
+        "Telinnor"
+      ],
+      "51": [
+        "owac"
+      ],
+      "64": [
+        "philxpx"
+      ],
+      "777": [
+        "leekcookie"
+      ],
+      "99": [
+        "Warhazarder"
+      ]
+    },
+    "dropped": {
+      "137": [
+        "XeonVirus"
+      ],
+      "1728": [
+        "Iglo"
+      ],
+      "2": [
+        "Warhazarder"
+      ],
+      "3": [
+        "santemjocko"
+      ],
+      "38": [
+        "__kreck"
+      ],
+      "9": [
+        "lodoss2011",
+        "owac"
+      ],
+      "960": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "11": [
+        "santemjocko"
+      ],
+      "13": [
+        "Warhazarder"
+      ],
+      "46": [
+        "XeonVirus"
+      ],
+      "5": [
+        "ScimMLG"
+      ],
+      "6": [
+        "Telinnor"
+      ],
+      "60": [
+        "iurie"
+      ],
+      "611": [
+        "nitram1572"
+      ],
+      "7": [
+        "owac"
+      ],
+      "8": [
+        "__kreck"
+      ],
+      "9": [
+        "lodoss2011",
+        "Marvin1099"
+      ]
+    },
+    "picked_up": {
+      "110": [
+        "Mamuschkaz"
+      ],
+      "133": [
+        "iurie"
+      ],
+      "16": [
+        "owac"
+      ],
+      "2547": [
+        "XeonVirus"
+      ],
+      "28": [
+        "Warhazarder"
+      ],
+      "415": [
+        "santemjocko"
+      ],
+      "4458": [
+        "Iglo"
+      ],
+      "738": [
+        "nitram1572"
+      ],
+      "86": [
+        "__kreck"
+      ],
+      "973": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "12": [
+        "Mandahaya",
+        "egoplayer_Felix"
+      ],
+      "16": [
+        "Mamuschkaz"
+      ],
+      "1828": [
+        "iurie"
+      ],
+      "1955": [
+        "__kreck"
+      ],
+      "39": [
+        "owac"
+      ],
+      "46": [
+        "Telinnor"
+      ],
+      "48": [
+        "XeonVirus"
+      ],
+      "55": [
+        "santemjocko"
+      ],
+      "76": [
+        "Warhazarder"
+      ],
+      "907": [
+        "nitram1572"
+      ]
+    }
+  }
+}

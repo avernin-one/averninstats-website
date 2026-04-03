@@ -1,0 +1,141 @@
+{
+  "name": "end_stone_bricks",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "128": [
+        "Lord_HoruS",
+        "imabaldman"
+      ],
+      "20": [
+        "__kreck"
+      ],
+      "3520": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "lodoss2011",
+        "TrashSuperstar"
+      ],
+      "10": [
+        "XeonVirus"
+      ],
+      "11": [
+        "leekcookie"
+      ],
+      "14": [
+        "Lord_HoruS"
+      ],
+      "2": [
+        "santemjocko",
+        "Iglo"
+      ],
+      "248": [
+        "owac"
+      ],
+      "4": [
+        "imabaldman"
+      ],
+      "5": [
+        "__kreck"
+      ],
+      "7": [
+        "SnuvomBodensatz"
+      ]
+    },
+    "mined": {
+      "11": [
+        "XeonVirus"
+      ],
+      "119": [
+        "SnuvomBodensatz"
+      ],
+      "14": [
+        "lodoss2011"
+      ],
+      "174": [
+        "leekcookie"
+      ],
+      "207": [
+        "iurie"
+      ],
+      "23": [
+        "imabaldman"
+      ],
+      "290": [
+        "owac"
+      ],
+      "36": [
+        "Iglo"
+      ],
+      "60": [
+        "__kreck"
+      ],
+      "67": [
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "110": [
+        "SnuvomBodensatz"
+      ],
+      "1379": [
+        "leekcookie"
+      ],
+      "14": [
+        "Lord_HoruS"
+      ],
+      "178": [
+        "iurie"
+      ],
+      "20": [
+        "XeonVirus"
+      ],
+      "30": [
+        "imabaldman"
+      ],
+      "312": [
+        "owac"
+      ],
+      "34": [
+        "Iglo"
+      ],
+      "53": [
+        "__kreck"
+      ],
+      "63": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "1": [
+        "StofftierAnabol"
+      ],
+      "12": [
+        "SnuvomBodensatz"
+      ],
+      "144": [
+        "iurie"
+      ],
+      "171": [
+        "imabaldman"
+      ],
+      "18": [
+        "owac"
+      ],
+      "1825": [
+        "leekcookie"
+      ],
+      "2": [
+        "lodoss2011",
+        "Iglo",
+        "Sayder13xr"
+      ],
+      "9": [
+        "__kreck"
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "chiseled_quartz_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "2": [
+        "leekcookie"
+      ],
+      "48": [
+        "__kreck"
+      ],
+      "6": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "42": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "42": [
+        "__Iglo"
+      ]
+    },
+    "used": {
+      "6": [
+        "__kreck"
+      ]
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "name": "light_blue_shulker_box",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "santemjocko"
+      ],
+      "2": [
+        "__Iglo"
+      ],
+      "28": [
+        "imabaldman"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "40": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "minenicknick",
+        "leekcookie"
+      ],
+      "3": [
+        "__kreck"
+      ],
+      "5": [
+        "santemjocko"
+      ],
+      "9": [
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "100": [
+        "imabaldman"
+      ],
+      "151": [
+        "iurie"
+      ],
+      "18": [
+        "minenicknick"
+      ],
+      "19": [
+        "philxpx"
+      ],
+      "21": [
+        "SuperXXLProfi"
+      ],
+      "264": [
+        "leekcookie"
+      ],
+      "30": [
+        "Teayo"
+      ],
+      "52": [
+        "santemjocko"
+      ],
+      "62": [
+        "__Iglo"
+      ],
+      "98": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "103": [
+        "imabaldman"
+      ],
+      "105": [
+        "__kreck"
+      ],
+      "11": [
+        "Warhazarder"
+      ],
+      "151": [
+        "iurie"
+      ],
+      "18": [
+        "SuperXXLProfi"
+      ],
+      "20": [
+        "minenicknick",
+        "philxpx"
+      ],
+      "288": [
+        "leekcookie"
+      ],
+      "31": [
+        "Teayo"
+      ],
+      "61": [
+        "santemjocko"
+      ],
+      "62": [
+        "__Iglo"
+      ]
+    },
+    "used": {
+      "11": [
+        "Warhazarder"
+      ],
+      "118": [
+        "imabaldman"
+      ],
+      "151": [
+        "iurie"
+      ],
+      "16": [
+        "Teayo"
+      ],
+      "17": [
+        "minenicknick"
+      ],
+      "18": [
+        "philxpx",
+        "SuperXXLProfi"
+      ],
+      "290": [
+        "leekcookie"
+      ],
+      "52": [
+        "santemjocko"
+      ],
+      "68": [
+        "__Iglo"
+      ],
+      "95": [
+        "__kreck"
+      ]
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "name": "dark_oak_planks",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1072": [
+        "Makishi25"
+      ],
+      "15940": [
+        "Warhazarder"
+      ],
+      "1744": [
+        "Cpt_looper"
+      ],
+      "1788": [
+        "JonasderGamer"
+      ],
+      "1836": [
+        "Mandahaya"
+      ],
+      "2358": [
+        "philxpx"
+      ],
+      "2900": [
+        "chaos1989"
+      ],
+      "3240": [
+        "owac"
+      ],
+      "32776": [
+        "iurie"
+      ],
+      "8608": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "141": [
+        "Warhazarder"
+      ],
+      "17": [
+        "philxpx"
+      ],
+      "2": [
+        "santemjocko"
+      ],
+      "209": [
+        "leekcookie"
+      ],
+      "23": [
+        "JonasderGamer"
+      ],
+      "4": [
+        "KleeneEle",
+        "imabaldman"
+      ],
+      "57": [
+        "iurie"
+      ],
+      "65": [
+        "Cpt_looper"
+      ]
+    },
+    "mined": {
+      "101": [
+        "nitram1572"
+      ],
+      "16": [
+        "Mandahaya",
+        "chaos1989"
+      ],
+      "177": [
+        "ScimMLG"
+      ],
+      "26": [
+        "Makishi25"
+      ],
+      "390": [
+        "leekcookie"
+      ],
+      "411": [
+        "JonasderGamer"
+      ],
+      "42": [
+        "Cpt_looper"
+      ],
+      "527": [
+        "owac"
+      ],
+      "690": [
+        "iurie"
+      ],
+      "951": [
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "101": [
+        "nitram1572"
+      ],
+      "102": [
+        "Cpt_looper"
+      ],
+      "1049": [
+        "Warhazarder"
+      ],
+      "172": [
+        "Makishi25"
+      ],
+      "177": [
+        "ScimMLG"
+      ],
+      "24": [
+        "Mandahaya"
+      ],
+      "384": [
+        "JonasderGamer"
+      ],
+      "474": [
+        "leekcookie"
+      ],
+      "548": [
+        "owac"
+      ],
+      "712": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1056": [
+        "chaos1989"
+      ],
+      "106": [
+        "leekcookie"
+      ],
+      "11725": [
+        "Warhazarder"
+      ],
+      "1453": [
+        "JonasderGamer"
+      ],
+      "1564": [
+        "owac"
+      ],
+      "268": [
+        "ScimMLG"
+      ],
+      "359": [
+        "Makishi25"
+      ],
+      "433": [
+        "Cpt_looper"
+      ],
+      "50": [
+        "Mandahaya"
+      ],
+      "903": [
+        "iurie"
+      ]
+    }
+  }
+}

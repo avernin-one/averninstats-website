@@ -1,0 +1,327 @@
+{
+  "name": "Mandahaya",
+  "uuid": "02c8cd36-e507-4997-90f1-ad5ac06bdb1d",
+  "medals": {
+    "gold": 2,
+    "silver": 0,
+    "bronze": 0
+  },
+  "stats": {
+    "animals_bred": 33,
+    "boat_one_cm": 3028404,
+    "climb_one_cm": 191958,
+    "crouch_one_cm": 974791,
+    "damage_blocked_by_shield": 40210,
+    "damage_dealt": 171665,
+    "damage_taken": 26900,
+    "deaths": 29,
+    "drop": 524,
+    "enchant_item": 1,
+    "fall_one_cm": 166058,
+    "fish_caught": 196,
+    "fly_one_cm": 478594,
+    "horse_one_cm": 759978,
+    "inspect_dispenser": 2,
+    "inspect_hopper": 13,
+    "interact_with_anvil": 23,
+    "interact_with_blast_furnace": 1,
+    "interact_with_brewingstand": 3,
+    "interact_with_crafting_table": 571,
+    "interact_with_furnace": 345,
+    "interact_with_grindstone": 1,
+    "interact_with_smithing_table": 3,
+    "jump": 32628,
+    "leave_game": 46,
+    "minecart_one_cm": 215983,
+    "mob_kills": 920,
+    "open_barrel": 1,
+    "open_chest": 4650,
+    "open_shulker_box": 2,
+    "pig_one_cm": 1030,
+    "play_time": 7431607,
+    "sleep_in_bed": 255,
+    "sneak_time": 330585,
+    "sprint_one_cm": 3828789,
+    "swim_one_cm": 1267410,
+    "talked_to_villager": 313,
+    "time_since_death": 1293612,
+    "time_since_rest": 39,
+    "total_world_time": 7431607,
+    "traded_with_villager": 365,
+    "walk_on_water_one_cm": 1241282,
+    "walk_one_cm": 38404048,
+    "walk_under_water_one_cm": 918621
+  },
+  "scores": {
+    "block": {
+      "crafted": {
+        "1596": [
+          "spruce_planks"
+        ],
+        "1836": [
+          "dark_oak_planks"
+        ],
+        "2488": [
+          "birch_planks"
+        ],
+        "3208": [
+          "torch"
+        ],
+        "848": [
+          "oak_planks"
+        ]
+      },
+      "dropped": {
+        "109": [
+          "cobblestone"
+        ],
+        "128": [
+          "netherrack"
+        ],
+        "14": [
+          "kelp"
+        ],
+        "2": [
+          "crafting_table",
+          "pumpkin",
+          "diorite",
+          "player_head"
+        ],
+        "3": [
+          "tuff"
+        ]
+      },
+      "mined": {
+        "1742": [
+          "dirt"
+        ],
+        "1934": [
+          "spruce_log"
+        ],
+        "2187": [
+          "grass_block"
+        ],
+        "2781": [
+          "sugar_cane"
+        ],
+        "3056": [
+          "stone"
+        ]
+      },
+      "picked_up": {
+        "1903": [
+          "sand"
+        ],
+        "2113": [
+          "spruce_log"
+        ],
+        "4075": [
+          "cobblestone"
+        ],
+        "4977": [
+          "dirt"
+        ],
+        "5667": [
+          "sugar_cane"
+        ]
+      },
+      "used": {
+        "1323": [
+          "cobblestone"
+        ],
+        "2889": [
+          "dirt"
+        ],
+        "3709": [
+          "torch"
+        ],
+        "722": [
+          "spruce_log"
+        ],
+        "770": [
+          "birch_fence"
+        ]
+      }
+    },
+    "entity": {
+      "crafted": {
+        "1": [
+          "birch_boat"
+        ],
+        "3": [
+          "spruce_boat"
+        ]
+      },
+      "dropped": {
+        "1": [
+          "minecart"
+        ],
+        "2": [
+          "spruce_boat"
+        ]
+      },
+      "killed": {
+        "159": [
+          "skeleton"
+        ],
+        "412": [
+          "zombie"
+        ],
+        "60": [
+          "creeper"
+        ],
+        "81": [
+          "drowned"
+        ],
+        "97": [
+          "spider"
+        ]
+      },
+      "killed_by": {
+        "1": [
+          "hoglin",
+          "zombified_piglin",
+          "polar_bear",
+          "piglin",
+          "witch"
+        ],
+        "2": [
+          "creeper"
+        ],
+        "4": [
+          "skeleton"
+        ],
+        "5": [
+          "drowned"
+        ],
+        "9": [
+          "zombie"
+        ]
+      },
+      "picked_up": {
+        "109": [
+          "cod"
+        ],
+        "320": [
+          "snowball",
+          "arrow"
+        ],
+        "376": [
+          "egg"
+        ],
+        "38": [
+          "pufferfish"
+        ],
+        "47": [
+          "salmon"
+        ]
+      },
+      "used": {
+        "1": [
+          "birch_boat"
+        ],
+        "14": [
+          "egg"
+        ],
+        "21": [
+          "spruce_boat"
+        ],
+        "9": [
+          "minecart"
+        ]
+      }
+    },
+    "item": {
+      "broken": {
+        "13": [
+          "iron_sword"
+        ],
+        "14": [
+          "shield"
+        ],
+        "21": [
+          "iron_shovel"
+        ],
+        "33": [
+          "iron_axe"
+        ],
+        "39": [
+          "iron_pickaxe"
+        ]
+      },
+      "crafted": {
+        "1300": [
+          "stick"
+        ],
+        "3069": [
+          "paper"
+        ],
+        "320": [
+          "baked_potato"
+        ],
+        "636": [
+          "charcoal"
+        ],
+        "895": [
+          "iron_ingot"
+        ]
+      },
+      "dropped": {
+        "175": [
+          "potato"
+        ],
+        "216": [
+          "carrot"
+        ],
+        "37": [
+          "coal"
+        ],
+        "48": [
+          "charcoal"
+        ],
+        "67": [
+          "bread"
+        ]
+      },
+      "mined": {
+        "928": [
+          "wheat"
+        ]
+      },
+      "picked_up": {
+        "2177": [
+          "stick"
+        ],
+        "2757": [
+          "wheat_seeds"
+        ],
+        "2804": [
+          "potato"
+        ],
+        "3243": [
+          "carrot"
+        ],
+        "3343": [
+          "raw_copper"
+        ]
+      },
+      "used": {
+        "10100": [
+          "iron_pickaxe"
+        ],
+        "2194": [
+          "wheat_seeds"
+        ],
+        "3684": [
+          "iron_sword"
+        ],
+        "5090": [
+          "iron_shovel"
+        ],
+        "8427": [
+          "iron_axe"
+        ]
+      }
+    }
+  }
+}

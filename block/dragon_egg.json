@@ -1,0 +1,20 @@
+{
+  "name": "dragon_egg",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "lodoss2011",
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie"
+      ],
+      "2": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

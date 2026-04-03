@@ -1,0 +1,35 @@
+{
+  "name": "netherite_hoe",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "iurie",
+        "TrashSuperstar",
+        "imabaldman"
+      ],
+      "2": [
+        "owac"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "26": [
+        "TrashSuperstar"
+      ],
+      "387": [
+        "imabaldman"
+      ],
+      "4231": [
+        "iurie"
+      ],
+      "4418": [
+        "santemjocko"
+      ]
+    }
+  }
+}

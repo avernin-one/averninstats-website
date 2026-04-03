@@ -1,0 +1,58 @@
+{
+  "name": "green_bed",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "68": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "1": [
+        "santemjocko"
+      ],
+      "3": [
+        "Der_Sani",
+        "__kreck"
+      ],
+      "33": [
+        "iurie"
+      ],
+      "7": [
+        "TrashSuperstar"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "santemjocko"
+      ],
+      "3": [
+        "Der_Sani",
+        "__kreck"
+      ],
+      "32": [
+        "iurie"
+      ],
+      "7": [
+        "TrashSuperstar"
+      ]
+    },
+    "used": {
+      "1": [
+        "__kreck"
+      ],
+      "29": [
+        "iurie"
+      ],
+      "3": [
+        "Der_Sani"
+      ],
+      "69": [
+        "santemjocko"
+      ],
+      "7": [
+        "TrashSuperstar"
+      ]
+    }
+  }
+}

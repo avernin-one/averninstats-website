@@ -1,0 +1,20 @@
+{
+  "name": "strider",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1": [
+        "owac"
+      ],
+      "19": [
+        "__kreck"
+      ],
+      "26": [
+        "iurie"
+      ],
+      "3": [
+        "XeonVirus"
+      ]
+    }
+  }
+}

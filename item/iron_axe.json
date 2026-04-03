@@ -1,0 +1,191 @@
+{
+  "name": "iron_axe",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Der_Sani",
+        "obvBasti",
+        "SnuvomBodensatz",
+        "lodoss2011",
+        "chaos1989",
+        "PopCat007",
+        "Austriana",
+        "philxpx",
+        "CuzimJxson",
+        "Temeraiere",
+        "StofftierAnabol",
+        "nitram1572",
+        "DornDasBrot",
+        "Makishi25"
+      ],
+      "13": [
+        "Telinnor"
+      ],
+      "2": [
+        "Lukas_126",
+        "Lord_HoruS",
+        "__kreck"
+      ],
+      "26": [
+        "Teayo"
+      ],
+      "3": [
+        "Iglo",
+        "iurie"
+      ],
+      "33": [
+        "Mandahaya"
+      ],
+      "5": [
+        "Cpt_looper"
+      ],
+      "7": [
+        "leekcookie",
+        "Ivenor",
+        "egoplayer_Felix"
+      ],
+      "8": [
+        "santemjocko"
+      ],
+      "9": [
+        "Mamuschkaz",
+        "owac"
+      ]
+    },
+    "crafted": {
+      "10": [
+        "santemjocko",
+        "Mamuschkaz",
+        "TrashSuperstar",
+        "__Iglo",
+        "__kreck"
+      ],
+      "12": [
+        "Telinnor"
+      ],
+      "13": [
+        "Iglo"
+      ],
+      "22": [
+        "DornDasBrot"
+      ],
+      "30": [
+        "leekcookie",
+        "nitram1572"
+      ],
+      "34": [
+        "iurie"
+      ],
+      "35": [
+        "Mandahaya"
+      ],
+      "41": [
+        "Teayo"
+      ],
+      "64": [
+        "owac"
+      ],
+      "8": [
+        "Cpt_looper"
+      ]
+    },
+    "dropped": {
+      "11": [
+        "JonasderGamer"
+      ],
+      "184": [
+        "iurie"
+      ],
+      "357": [
+        "SuperXXLProfi"
+      ],
+      "392": [
+        "imabaldman"
+      ],
+      "40": [
+        "santemjocko"
+      ],
+      "5": [
+        "Iglo"
+      ],
+      "7": [
+        "TrashSuperstar"
+      ],
+      "74": [
+        "minenicknick",
+        "owac"
+      ],
+      "831": [
+        "philxpx"
+      ],
+      "86": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "109": [
+        "SuperXXLProfi"
+      ],
+      "122": [
+        "iurie"
+      ],
+      "22": [
+        "Warhazarder"
+      ],
+      "26": [
+        "Cpt_looper"
+      ],
+      "270": [
+        "philxpx"
+      ],
+      "29": [
+        "Mandahaya"
+      ],
+      "36": [
+        "santemjocko"
+      ],
+      "41": [
+        "owac"
+      ],
+      "46": [
+        "imabaldman"
+      ],
+      "53": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1754": [
+        "egoplayer_Felix"
+      ],
+      "1757": [
+        "Ivenor"
+      ],
+      "1940": [
+        "santemjocko"
+      ],
+      "2174": [
+        "Cpt_looper"
+      ],
+      "2363": [
+        "Mamuschkaz"
+      ],
+      "2464": [
+        "leekcookie"
+      ],
+      "2686": [
+        "owac"
+      ],
+      "5923": [
+        "Telinnor"
+      ],
+      "6707": [
+        "Teayo"
+      ],
+      "8427": [
+        "Mandahaya"
+      ]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "name": "stone",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "15512": [
+        "lodoss2011"
+      ],
+      "1879": [
+        "Makishi25"
+      ],
+      "2229": [
+        "TrashSuperstar"
+      ],
+      "2394": [
+        "DornDasBrot"
+      ],
+      "24422": [
+        "SnuvomBodensatz"
+      ],
+      "458": [
+        "nitram1572"
+      ],
+      "5108": [
+        "Teayo"
+      ],
+      "525": [
+        "Lukas_126"
+      ],
+      "576": [
+        "Mandahaya"
+      ],
+      "6569": [
+        "Mamuschkaz"
+      ]
+    },
+    "dropped": {
+      "1098": [
+        "obvBasti"
+      ],
+      "1525": [
+        "Warhazarder"
+      ],
+      "19230": [
+        "leekcookie"
+      ],
+      "22467": [
+        "__Iglo"
+      ],
+      "60220": [
+        "__kreck"
+      ],
+      "684": [
+        "nitram1572"
+      ],
+      "723": [
+        "imabaldman"
+      ],
+      "895": [
+        "philxpx"
+      ],
+      "910": [
+        "owac"
+      ],
+      "978": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "105477": [
+        "iurie"
+      ],
+      "139284": [
+        "__Iglo"
+      ],
+      "159904": [
+        "santemjocko"
+      ],
+      "192121": [
+        "leekcookie"
+      ],
+      "192710": [
+        "__kreck"
+      ],
+      "33533": [
+        "lodoss2011"
+      ],
+      "346828": [
+        "Warhazarder"
+      ],
+      "34793": [
+        "Mamuschkaz"
+      ],
+      "35675": [
+        "TrashSuperstar"
+      ],
+      "41890": [
+        "chaos1989"
+      ]
+    },
+    "picked_up": {
+      "107357": [
+        "__kreck"
+      ],
+      "112351": [
+        "santemjocko"
+      ],
+      "14874": [
+        "nitram1572"
+      ],
+      "16278": [
+        "owac"
+      ],
+      "185274": [
+        "Warhazarder"
+      ],
+      "25766": [
+        "TrashSuperstar"
+      ],
+      "27743": [
+        "chaos1989"
+      ],
+      "35039": [
+        "__Iglo"
+      ],
+      "71144": [
+        "leekcookie"
+      ],
+      "80067": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "11174": [
+        "chaos1989"
+      ],
+      "13322": [
+        "SuperXXLProfi"
+      ],
+      "14552": [
+        "iurie"
+      ],
+      "16986": [
+        "Warhazarder"
+      ],
+      "19017": [
+        "leekcookie"
+      ],
+      "26501": [
+        "SnuvomBodensatz"
+      ],
+      "6104": [
+        "Teayo"
+      ],
+      "6469": [
+        "nitram1572"
+      ],
+      "6574": [
+        "__kreck"
+      ],
+      "7525": [
+        "santemjocko"
+      ]
+    }
+  }
+}

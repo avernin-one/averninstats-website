@@ -1,0 +1,120 @@
+{
+  "name": "leather_leggings",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Telinnor",
+        "StofftierAnabol"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "Mandahaya"
+      ],
+      "12": [
+        "Teayo"
+      ],
+      "18": [
+        "iurie"
+      ],
+      "26": [
+        "SnuvomBodensatz"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Mandahaya",
+        "Lukas_126",
+        "ScimMLG",
+        "philxpx",
+        "Iglo",
+        "Telinnor",
+        "Lord_HoruS",
+        "DornDasBrot",
+        "Makishi25"
+      ],
+      "2": [
+        "chaos1989",
+        "minenicknick",
+        "owac",
+        "__Iglo"
+      ],
+      "20": [
+        "Sayder13xr"
+      ],
+      "22": [
+        "TrashSuperstar"
+      ],
+      "24": [
+        "leekcookie"
+      ],
+      "3": [
+        "lodoss2011"
+      ],
+      "4": [
+        "santemjocko",
+        "iurie"
+      ],
+      "5": [
+        "Teayo",
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Lukas_126",
+        "BBinQui",
+        "SnuvomBodensatz",
+        "ScimMLG",
+        "Mamuschkaz",
+        "philxpx",
+        "Iglo",
+        "owac",
+        "egoplayer_Felix",
+        "Cpt_looper",
+        "Warhazarder"
+      ],
+      "2": [
+        "chaos1989",
+        "minenicknick",
+        "Ivenor",
+        "StofftierAnabol",
+        "nitram1572",
+        "Makishi25",
+        "__Iglo"
+      ],
+      "21": [
+        "leekcookie"
+      ],
+      "3": [
+        "lodoss2011",
+        "Telinnor",
+        "Lord_HoruS",
+        "DornDasBrot"
+      ],
+      "4": [
+        "Mandahaya"
+      ],
+      "5": [
+        "TrashSuperstar"
+      ],
+      "6": [
+        "santemjocko",
+        "iurie",
+        "Sayder13xr",
+        "XeonVirus"
+      ],
+      "7": [
+        "Teayo"
+      ]
+    },
+    "used": {
+      "1": [
+        "leekcookie",
+        "Telinnor",
+        "StofftierAnabol"
+      ]
+    }
+  }
+}

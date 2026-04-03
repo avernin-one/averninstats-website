@@ -1,0 +1,39 @@
+{
+  "name": "brown_dye",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Ivenor",
+        "Iglo",
+        "nitram1572",
+        "__Iglo"
+      ],
+      "13": [
+        "Mandahaya"
+      ],
+      "18": [
+        "Warhazarder"
+      ],
+      "2": [
+        "lodoss2011",
+        "__kreck"
+      ],
+      "296": [
+        "chaos1989"
+      ],
+      "5": [
+        "Makishi25"
+      ],
+      "6": [
+        "leekcookie"
+      ],
+      "64": [
+        "Teayo"
+      ],
+      "7": [
+        "santemjocko"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scute",
+  "type": "item",
+  "scores": {
+    "picked_up": {
+      "25": [
+        "Iglo"
+      ]
+    }
+  }
+}

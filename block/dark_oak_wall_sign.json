@@ -1,0 +1,20 @@
+{
+  "name": "dark_oak_wall_sign",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "Mandahaya"
+      ],
+      "10": [
+        "owac"
+      ],
+      "3": [
+        "Makishi25"
+      ],
+      "8": [
+        "iurie"
+      ]
+    }
+  }
+}

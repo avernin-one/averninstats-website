@@ -1,0 +1,94 @@
+{
+  "name": "spruce_boat",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "owac",
+        "nitram1572",
+        "Lord_HoruS",
+        "imabaldman",
+        "Warhazarder"
+      ],
+      "10": [
+        "__Iglo"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "iurie"
+      ],
+      "3": [
+        "Mandahaya",
+        "lodoss2011"
+      ],
+      "4": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "nitram1572"
+      ],
+      "2": [
+        "Mandahaya",
+        "Mamuschkaz"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "Warhazarder"
+      ],
+      "18": [
+        "Mamuschkaz"
+      ],
+      "2": [
+        "nitram1572"
+      ],
+      "20": [
+        "lodoss2011"
+      ],
+      "25": [
+        "Mandahaya"
+      ],
+      "3": [
+        "owac",
+        "iurie"
+      ],
+      "4": [
+        "imabaldman"
+      ],
+      "7": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "1": [
+        "Lord_HoruS"
+      ],
+      "12": [
+        "Warhazarder"
+      ],
+      "16": [
+        "lodoss2011"
+      ],
+      "18": [
+        "Mamuschkaz"
+      ],
+      "2": [
+        "nitram1572"
+      ],
+      "21": [
+        "Mandahaya"
+      ],
+      "4": [
+        "owac",
+        "iurie",
+        "Makishi25",
+        "imabaldman"
+      ],
+      "7": [
+        "santemjocko"
+      ]
+    }
+  }
+}

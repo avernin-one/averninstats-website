@@ -1,0 +1,11 @@
+{
+  "name": "cherry_wall_sign",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "__Iglo"
+      ]
+    }
+  }
+}

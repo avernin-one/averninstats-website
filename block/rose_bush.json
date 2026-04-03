@@ -1,0 +1,111 @@
+{
+  "name": "rose_bush",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "lodoss2011",
+        "chaos1989",
+        "leekcookie",
+        "XeonVirus"
+      ],
+      "13": [
+        "philxpx"
+      ]
+    },
+    "mined": {
+      "12": [
+        "Makishi25"
+      ],
+      "14": [
+        "TrashSuperstar"
+      ],
+      "15": [
+        "chaos1989"
+      ],
+      "16": [
+        "philxpx"
+      ],
+      "19": [
+        "lodoss2011",
+        "leekcookie"
+      ],
+      "22": [
+        "nitram1572",
+        "Warhazarder"
+      ],
+      "51": [
+        "XeonVirus"
+      ],
+      "8": [
+        "__kreck"
+      ],
+      "80": [
+        "santemjocko"
+      ],
+      "82": [
+        "Teayo"
+      ]
+    },
+    "picked_up": {
+      "15": [
+        "chaos1989"
+      ],
+      "184": [
+        "leekcookie"
+      ],
+      "22": [
+        "Makishi25"
+      ],
+      "23": [
+        "santemjocko"
+      ],
+      "232": [
+        "__kreck"
+      ],
+      "24": [
+        "Warhazarder"
+      ],
+      "27": [
+        "lodoss2011"
+      ],
+      "32": [
+        "nitram1572"
+      ],
+      "77": [
+        "XeonVirus"
+      ],
+      "82": [
+        "Teayo"
+      ]
+    },
+    "used": {
+      "1": [
+        "santemjocko",
+        "SuperXXLProfi"
+      ],
+      "13": [
+        "leekcookie"
+      ],
+      "14": [
+        "chaos1989"
+      ],
+      "18": [
+        "Makishi25"
+      ],
+      "2": [
+        "Ivenor",
+        "__kreck"
+      ],
+      "33": [
+        "XeonVirus"
+      ],
+      "4": [
+        "ScimMLG"
+      ],
+      "6": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

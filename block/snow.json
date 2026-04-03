@@ -1,0 +1,79 @@
+{
+  "name": "snow",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "18": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "11": [
+        "owac"
+      ],
+      "2": [
+        "__kreck"
+      ],
+      "371": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "167": [
+        "Sayder13xr"
+      ],
+      "32": [
+        "owac"
+      ],
+      "338": [
+        "leekcookie"
+      ],
+      "36": [
+        "iurie"
+      ],
+      "370": [
+        "Ivenor"
+      ],
+      "410": [
+        "santemjocko"
+      ],
+      "566": [
+        "nitram1572"
+      ],
+      "6": [
+        "Makishi25"
+      ],
+      "71": [
+        "__kreck"
+      ],
+      "72": [
+        "Mandahaya"
+      ]
+    },
+    "picked_up": {
+      "14": [
+        "owac"
+      ],
+      "16": [
+        "iurie"
+      ],
+      "2": [
+        "__kreck"
+      ],
+      "368": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "13": [
+        "Makishi25"
+      ],
+      "15": [
+        "iurie"
+      ],
+      "5": [
+        "ScimMLG"
+      ]
+    }
+  }
+}

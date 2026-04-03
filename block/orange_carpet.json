@@ -1,0 +1,101 @@
+{
+  "name": "orange_carpet",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "12": [
+        "nitram1572"
+      ],
+      "21": [
+        "lodoss2011"
+      ],
+      "240": [
+        "owac"
+      ],
+      "3381": [
+        "leekcookie"
+      ],
+      "42": [
+        "Mandahaya"
+      ],
+      "480": [
+        "__kreck"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "lodoss2011"
+      ],
+      "46": [
+        "__kreck"
+      ],
+      "468": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "lodoss2011",
+        "iurie",
+        "nitram1572",
+        "DornDasBrot",
+        "__kreck"
+      ],
+      "10": [
+        "Mandahaya"
+      ],
+      "26": [
+        "owac"
+      ],
+      "347": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie",
+        "nitram1572",
+        "DornDasBrot"
+      ],
+      "10": [
+        "Mandahaya"
+      ],
+      "1844": [
+        "leekcookie"
+      ],
+      "2": [
+        "lodoss2011"
+      ],
+      "26": [
+        "owac"
+      ],
+      "93": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie",
+        "DornDasBrot"
+      ],
+      "13": [
+        "nitram1572"
+      ],
+      "15": [
+        "lodoss2011"
+      ],
+      "235": [
+        "owac"
+      ],
+      "3289": [
+        "leekcookie"
+      ],
+      "435": [
+        "__kreck"
+      ],
+      "47": [
+        "Mandahaya"
+      ]
+    }
+  }
+}

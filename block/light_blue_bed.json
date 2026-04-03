@@ -1,0 +1,42 @@
+{
+  "name": "light_blue_bed",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Telinnor",
+        "DornDasBrot"
+      ],
+      "2": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "DornDasBrot"
+      ],
+      "8": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "DornDasBrot"
+      ],
+      "8": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "Telinnor"
+      ],
+      "2": [
+        "DornDasBrot"
+      ],
+      "8": [
+        "leekcookie"
+      ]
+    }
+  }
+}

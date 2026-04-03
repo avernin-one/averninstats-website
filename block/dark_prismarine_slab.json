@@ -1,0 +1,29 @@
+{
+  "name": "dark_prismarine_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "102": [
+        "Makishi25"
+      ],
+      "2": [
+        "DornDasBrot"
+      ]
+    },
+    "mined": {
+      "7": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "39": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "109": [
+        "Makishi25"
+      ]
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "name": "blast_furnace",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Mandahaya",
+        "lodoss2011",
+        "ScimMLG",
+        "Telinnor",
+        "Makishi25",
+        "__kreck"
+      ],
+      "10": [
+        "iurie"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "owac",
+        "Cpt_looper",
+        "DornDasBrot",
+        "XeonVirus"
+      ],
+      "36": [
+        "obvBasti"
+      ],
+      "4": [
+        "Temeraiere",
+        "Teayo"
+      ],
+      "5": [
+        "philxpx",
+        "Iglo",
+        "nitram1572"
+      ],
+      "6": [
+        "Ivenor"
+      ],
+      "8": [
+        "leekcookie",
+        "Warhazarder"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "owac"
+      ]
+    },
+    "mined": {
+      "13": [
+        "obvBasti",
+        "Makishi25"
+      ],
+      "17": [
+        "minenicknick"
+      ],
+      "19": [
+        "Iglo",
+        "owac"
+      ],
+      "23": [
+        "Warhazarder"
+      ],
+      "3": [
+        "lodoss2011",
+        "Temeraiere",
+        "DornDasBrot",
+        "__Iglo"
+      ],
+      "41": [
+        "philxpx"
+      ],
+      "47": [
+        "nitram1572"
+      ],
+      "5": [
+        "Mamuschkaz",
+        "iurie"
+      ],
+      "7": [
+        "Teayo"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "13": [
+        "obvBasti"
+      ],
+      "16": [
+        "Makishi25"
+      ],
+      "17": [
+        "minenicknick"
+      ],
+      "19": [
+        "owac"
+      ],
+      "20": [
+        "Iglo"
+      ],
+      "23": [
+        "Warhazarder"
+      ],
+      "41": [
+        "philxpx"
+      ],
+      "47": [
+        "nitram1572"
+      ],
+      "7": [
+        "Teayo"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "11": [
+        "leekcookie",
+        "Teayo"
+      ],
+      "14": [
+        "Makishi25"
+      ],
+      "19": [
+        "owac"
+      ],
+      "20": [
+        "Iglo"
+      ],
+      "30": [
+        "Warhazarder"
+      ],
+      "35": [
+        "philxpx"
+      ],
+      "4": [
+        "lodoss2011",
+        "iurie",
+        "XeonVirus"
+      ],
+      "49": [
+        "obvBasti",
+        "nitram1572"
+      ],
+      "5": [
+        "DornDasBrot"
+      ],
+      "7": [
+        "Mamuschkaz",
+        "Ivenor",
+        "Temeraiere"
+      ]
+    }
+  }
+}

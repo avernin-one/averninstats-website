@@ -1,0 +1,77 @@
+{
+  "name": "skeleton",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1247": [
+        "Sayder13xr"
+      ],
+      "159": [
+        "Mandahaya"
+      ],
+      "160": [
+        "Makishi25"
+      ],
+      "199": [
+        "__kreck"
+      ],
+      "201": [
+        "XeonVirus"
+      ],
+      "212": [
+        "chaos1989"
+      ],
+      "214": [
+        "santemjocko"
+      ],
+      "228": [
+        "lodoss2011"
+      ],
+      "234": [
+        "leekcookie"
+      ],
+      "608": [
+        "iurie"
+      ]
+    },
+    "killed_by": {
+      "1": [
+        "chaos1989",
+        "minenicknick",
+        "PopCat007",
+        "Austriana",
+        "CuzimJxson",
+        "egoplayer_Felix",
+        "Telinnor"
+      ],
+      "18": [
+        "leekcookie"
+      ],
+      "2": [
+        "SnuvomBodensatz",
+        "Mamuschkaz",
+        "Temeraiere",
+        "iurie",
+        "JonasderGamer",
+        "DornDasBrot",
+        "lu0de",
+        "Sayder13xr"
+      ],
+      "3": [
+        "Lord_HoruS"
+      ],
+      "4": [
+        "Mandahaya",
+        "Lukas_126",
+        "santemjocko",
+        "lodoss2011",
+        "nitram1572",
+        "Makishi25",
+        "XeonVirus"
+      ],
+      "7": [
+        "Cpt_looper"
+      ]
+    }
+  }
+}

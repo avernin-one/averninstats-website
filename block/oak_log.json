@@ -1,0 +1,135 @@
+{
+  "name": "oak_log",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "112": [
+        "Iglo"
+      ],
+      "121": [
+        "__kreck"
+      ],
+      "2256": [
+        "leekcookie"
+      ],
+      "257": [
+        "Lord_HoruS"
+      ],
+      "32": [
+        "Teayo"
+      ],
+      "46": [
+        "santemjocko"
+      ],
+      "6": [
+        "Cpt_looper",
+        "DornDasBrot"
+      ],
+      "8": [
+        "philxpx"
+      ],
+      "85": [
+        "Mamuschkaz"
+      ],
+      "97": [
+        "Warhazarder"
+      ]
+    },
+    "mined": {
+      "1935": [
+        "Cpt_looper"
+      ],
+      "21304": [
+        "Warhazarder"
+      ],
+      "2182": [
+        "TrashSuperstar"
+      ],
+      "2262": [
+        "nitram1572"
+      ],
+      "2435": [
+        "owac"
+      ],
+      "2784": [
+        "iurie"
+      ],
+      "3970": [
+        "SnuvomBodensatz"
+      ],
+      "6484": [
+        "Teayo"
+      ],
+      "7063": [
+        "santemjocko"
+      ],
+      "7682": [
+        "Lord_HoruS"
+      ]
+    },
+    "picked_up": {
+      "21334": [
+        "Warhazarder"
+      ],
+      "2440": [
+        "owac"
+      ],
+      "2488": [
+        "nitram1572"
+      ],
+      "2918": [
+        "iurie"
+      ],
+      "3159": [
+        "Sayder13xr"
+      ],
+      "3932": [
+        "leekcookie"
+      ],
+      "3958": [
+        "SnuvomBodensatz"
+      ],
+      "7077": [
+        "Teayo"
+      ],
+      "7099": [
+        "santemjocko"
+      ],
+      "8178": [
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "1012": [
+        "Ivenor"
+      ],
+      "14059": [
+        "Warhazarder"
+      ],
+      "226": [
+        "nitram1572"
+      ],
+      "286": [
+        "Lord_HoruS"
+      ],
+      "310": [
+        "chaos1989"
+      ],
+      "3645": [
+        "Teayo"
+      ],
+      "380": [
+        "egoplayer_Felix"
+      ],
+      "447": [
+        "Cpt_looper"
+      ],
+      "462": [
+        "santemjocko"
+      ],
+      "695": [
+        "TrashSuperstar"
+      ]
+    }
+  }
+}

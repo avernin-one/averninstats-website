@@ -1,0 +1,88 @@
+{
+  "name": "light_gray_carpet",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "15": [
+        "nitram1572"
+      ],
+      "240": [
+        "__kreck"
+      ],
+      "3": [
+        "DornDasBrot"
+      ],
+      "6": [
+        "Telinnor",
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "nitram1572"
+      ],
+      "2": [
+        "Telinnor"
+      ],
+      "3": [
+        "lodoss2011"
+      ]
+    },
+    "mined": {
+      "1": [
+        "iurie",
+        "DornDasBrot",
+        "Marvin1099",
+        "Makishi25"
+      ],
+      "3": [
+        "lodoss2011"
+      ],
+      "4": [
+        "__Iglo"
+      ],
+      "75": [
+        "nitram1572"
+      ],
+      "9": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie",
+        "Marvin1099",
+        "Makishi25"
+      ],
+      "3": [
+        "lodoss2011"
+      ],
+      "62": [
+        "__kreck"
+      ],
+      "81": [
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1": [
+        "Marvin1099"
+      ],
+      "200": [
+        "__kreck"
+      ],
+      "3": [
+        "DornDasBrot"
+      ],
+      "4": [
+        "Telinnor"
+      ],
+      "7": [
+        "Makishi25"
+      ],
+      "82": [
+        "nitram1572"
+      ]
+    }
+  }
+}

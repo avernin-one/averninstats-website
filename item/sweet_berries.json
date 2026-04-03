@@ -1,0 +1,89 @@
+{
+  "name": "sweet_berries",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "13": [
+        "lodoss2011"
+      ],
+      "2": [
+        "santemjocko",
+        "ScimMLG"
+      ],
+      "36": [
+        "Sayder13xr"
+      ],
+      "5": [
+        "Mandahaya",
+        "owac"
+      ],
+      "7": [
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "143": [
+        "Makishi25"
+      ],
+      "208": [
+        "Teayo"
+      ],
+      "358": [
+        "lodoss2011"
+      ],
+      "371": [
+        "owac"
+      ],
+      "376": [
+        "chaos1989"
+      ],
+      "46": [
+        "Mamuschkaz"
+      ],
+      "47": [
+        "Sayder13xr"
+      ],
+      "534": [
+        "XeonVirus"
+      ],
+      "56": [
+        "iurie"
+      ],
+      "613": [
+        "Mandahaya"
+      ]
+    },
+    "used": {
+      "14": [
+        "SnuvomBodensatz"
+      ],
+      "143": [
+        "Makishi25"
+      ],
+      "145": [
+        "chaos1989"
+      ],
+      "225": [
+        "Mandahaya"
+      ],
+      "24": [
+        "Mamuschkaz"
+      ],
+      "240": [
+        "lodoss2011"
+      ],
+      "52": [
+        "Teayo"
+      ],
+      "66": [
+        "owac"
+      ],
+      "73": [
+        "JonasderGamer"
+      ],
+      "82": [
+        "XeonVirus"
+      ]
+    }
+  }
+}

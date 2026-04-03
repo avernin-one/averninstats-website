@@ -1,0 +1,70 @@
+{
+  "name": "deepslate_coal_ore",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "owac",
+        "__kreck"
+      ],
+      "7": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "1": [
+        "santemjocko",
+        "imabaldman"
+      ],
+      "10": [
+        "KleeneEle"
+      ],
+      "12": [
+        "Iglo",
+        "__kreck"
+      ],
+      "14": [
+        "Mandahaya"
+      ],
+      "16": [
+        "leekcookie",
+        "SuperXXLProfi"
+      ],
+      "19": [
+        "iurie"
+      ],
+      "3": [
+        "owac"
+      ],
+      "7": [
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Makishi25"
+      ],
+      "15": [
+        "SuperXXLProfi"
+      ],
+      "19": [
+        "imabaldman"
+      ],
+      "2": [
+        "owac",
+        "__kreck"
+      ],
+      "7": [
+        "__Iglo"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "9": [
+        "leekcookie"
+      ]
+    }
+  }
+}

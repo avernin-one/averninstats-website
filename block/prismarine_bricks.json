@@ -1,0 +1,137 @@
+{
+  "name": "prismarine_bricks",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1321": [
+        "__Iglo"
+      ],
+      "2017": [
+        "Teayo"
+      ],
+      "5": [
+        "Warhazarder"
+      ],
+      "8359": [
+        "__kreck"
+      ],
+      "896": [
+        "Lord_HoruS"
+      ]
+    },
+    "dropped": {
+      "12": [
+        "leekcookie"
+      ],
+      "151": [
+        "santemjocko"
+      ],
+      "220": [
+        "__kreck"
+      ],
+      "24": [
+        "owac"
+      ],
+      "5": [
+        "Warhazarder"
+      ],
+      "68": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "130": [
+        "Warhazarder"
+      ],
+      "143": [
+        "chaos1989",
+        "DornDasBrot"
+      ],
+      "175": [
+        "santemjocko"
+      ],
+      "1896": [
+        "__Iglo"
+      ],
+      "200": [
+        "Lord_HoruS"
+      ],
+      "300": [
+        "iurie"
+      ],
+      "32": [
+        "XeonVirus"
+      ],
+      "424": [
+        "Teayo"
+      ],
+      "43": [
+        "leekcookie"
+      ],
+      "4537": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "127": [
+        "chaos1989"
+      ],
+      "132": [
+        "DornDasBrot"
+      ],
+      "139": [
+        "Warhazarder"
+      ],
+      "151": [
+        "santemjocko"
+      ],
+      "188": [
+        "Lord_HoruS"
+      ],
+      "194": [
+        "leekcookie"
+      ],
+      "2195": [
+        "__Iglo"
+      ],
+      "4018": [
+        "__kreck"
+      ],
+      "604": [
+        "iurie"
+      ],
+      "673": [
+        "Teayo"
+      ]
+    },
+    "used": {
+      "1": [
+        "lodoss2011"
+      ],
+      "102": [
+        "chaos1989"
+      ],
+      "12900": [
+        "__kreck"
+      ],
+      "2": [
+        "SuperXXLProfi"
+      ],
+      "277": [
+        "Teayo"
+      ],
+      "28": [
+        "iurie"
+      ],
+      "57": [
+        "leekcookie"
+      ],
+      "735": [
+        "Lord_HoruS"
+      ],
+      "984": [
+        "__Iglo"
+      ]
+    }
+  }
+}

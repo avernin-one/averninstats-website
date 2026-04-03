@@ -1,0 +1,44 @@
+{
+  "name": "spider",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "105": [
+        "leekcookie"
+      ],
+      "117": [
+        "XeonVirus"
+      ],
+      "118": [
+        "lodoss2011"
+      ],
+      "152": [
+        "iurie"
+      ],
+      "70": [
+        "Teayo"
+      ],
+      "71": [
+        "owac"
+      ],
+      "75": [
+        "santemjocko"
+      ],
+      "79": [
+        "Warhazarder"
+      ],
+      "97": [
+        "Mandahaya"
+      ],
+      "98": [
+        "Mamuschkaz"
+      ]
+    },
+    "killed_by": {
+      "1": [
+        "Lukas_126",
+        "santemjocko"
+      ]
+    }
+  }
+}

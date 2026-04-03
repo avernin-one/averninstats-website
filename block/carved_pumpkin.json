@@ -1,0 +1,118 @@
+{
+  "name": "carved_pumpkin",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "santemjocko",
+        "lodoss2011",
+        "minenicknick"
+      ],
+      "18": [
+        "leekcookie",
+        "__Iglo"
+      ],
+      "2": [
+        "DornDasBrot"
+      ],
+      "6": [
+        "iurie"
+      ]
+    },
+    "mined": {
+      "187": [
+        "nitram1572"
+      ],
+      "20": [
+        "__Iglo"
+      ],
+      "27": [
+        "owac"
+      ],
+      "294": [
+        "leekcookie"
+      ],
+      "30": [
+        "Sayder13xr"
+      ],
+      "32": [
+        "SnuvomBodensatz"
+      ],
+      "6": [
+        "lodoss2011"
+      ],
+      "68": [
+        "__kreck"
+      ],
+      "86": [
+        "Lord_HoruS"
+      ],
+      "92": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "lodoss2011"
+      ],
+      "187": [
+        "nitram1572"
+      ],
+      "30": [
+        "Sayder13xr"
+      ],
+      "309": [
+        "leekcookie"
+      ],
+      "33": [
+        "SnuvomBodensatz"
+      ],
+      "40": [
+        "__Iglo"
+      ],
+      "50": [
+        "owac"
+      ],
+      "72": [
+        "__kreck"
+      ],
+      "86": [
+        "Lord_HoruS"
+      ],
+      "92": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "santemjocko",
+        "nitram1572"
+      ],
+      "2": [
+        "lodoss2011",
+        "DornDasBrot"
+      ],
+      "20": [
+        "Sayder13xr"
+      ],
+      "27": [
+        "SnuvomBodensatz"
+      ],
+      "34": [
+        "leekcookie"
+      ],
+      "50": [
+        "owac"
+      ],
+      "57": [
+        "iurie"
+      ],
+      "59": [
+        "__kreck"
+      ],
+      "71": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

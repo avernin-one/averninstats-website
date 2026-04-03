@@ -1,0 +1,35 @@
+{
+  "name": "purple_stained_glass",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "256": [
+        "__kreck"
+      ]
+    },
+    "dropped": {
+      "64": [
+        "__Iglo",
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "30": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "64": [
+        "__Iglo"
+      ],
+      "92": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "88": [
+        "__kreck"
+      ]
+    }
+  }
+}

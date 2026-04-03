@@ -1,0 +1,129 @@
+{
+  "name": "orange_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "8": [
+        "Der_Sani"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "santemjocko",
+        "XeonVirus"
+      ],
+      "11": [
+        "philxpx"
+      ],
+      "13": [
+        "Telinnor"
+      ],
+      "1458": [
+        "imabaldman"
+      ],
+      "156": [
+        "__kreck"
+      ],
+      "4": [
+        "iurie",
+        "Lord_HoruS",
+        "JonasderGamer"
+      ],
+      "6": [
+        "TrashSuperstar"
+      ],
+      "8": [
+        "Iglo"
+      ]
+    },
+    "mined": {
+      "1466": [
+        "SuperXXLProfi"
+      ],
+      "1556": [
+        "Warhazarder"
+      ],
+      "1872": [
+        "SnuvomBodensatz"
+      ],
+      "2063": [
+        "JonasderGamer"
+      ],
+      "21": [
+        "DornDasBrot"
+      ],
+      "375": [
+        "owac"
+      ],
+      "416": [
+        "__kreck"
+      ],
+      "81": [
+        "chaos1989"
+      ],
+      "92": [
+        "nitram1572"
+      ],
+      "97": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1366": [
+        "imabaldman"
+      ],
+      "1437": [
+        "SuperXXLProfi"
+      ],
+      "1538": [
+        "Warhazarder"
+      ],
+      "1769": [
+        "JonasderGamer"
+      ],
+      "1863": [
+        "SnuvomBodensatz"
+      ],
+      "317": [
+        "__kreck"
+      ],
+      "458": [
+        "owac"
+      ],
+      "81": [
+        "chaos1989"
+      ],
+      "90": [
+        "nitram1572"
+      ],
+      "97": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "Der_Sani",
+        "santemjocko",
+        "owac",
+        "iurie",
+        "JonasderGamer",
+        "XeonVirus"
+      ],
+      "1068": [
+        "Warhazarder"
+      ],
+      "19": [
+        "__kreck"
+      ],
+      "4": [
+        "Iglo"
+      ],
+      "48": [
+        "nitram1572"
+      ],
+      "677": [
+        "SnuvomBodensatz"
+      ]
+    }
+  }
+}

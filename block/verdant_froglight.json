@@ -1,0 +1,38 @@
+{
+  "name": "verdant_froglight",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "73": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "59": [
+        "leekcookie"
+      ],
+      "8": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "136": [
+        "iurie"
+      ],
+      "375": [
+        "leekcookie"
+      ],
+      "73": [
+        "Mamuschkaz"
+      ]
+    },
+    "used": {
+      "200": [
+        "iurie"
+      ],
+      "621": [
+        "leekcookie"
+      ]
+    }
+  }
+}

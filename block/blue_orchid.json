@@ -1,0 +1,35 @@
+{
+  "name": "blue_orchid",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "chaos1989",
+        "Cpt_looper"
+      ],
+      "16": [
+        "DornDasBrot"
+      ],
+      "8": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "chaos1989",
+        "Cpt_looper"
+      ],
+      "16": [
+        "DornDasBrot"
+      ],
+      "8": [
+        "Iglo"
+      ]
+    },
+    "used": {
+      "1": [
+        "chaos1989"
+      ]
+    }
+  }
+}

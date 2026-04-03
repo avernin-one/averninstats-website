@@ -1,0 +1,49 @@
+{
+  "name": "amethyst_shard",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "iurie"
+      ],
+      "10": [
+        "ScimMLG"
+      ],
+      "4": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "1043": [
+        "iurie"
+      ],
+      "124": [
+        "leekcookie"
+      ],
+      "192": [
+        "Teayo"
+      ],
+      "230": [
+        "TrashSuperstar"
+      ],
+      "244": [
+        "Sayder13xr"
+      ],
+      "2766": [
+        "santemjocko"
+      ],
+      "280": [
+        "SnuvomBodensatz"
+      ],
+      "446": [
+        "owac"
+      ],
+      "60": [
+        "XeonVirus"
+      ],
+      "796": [
+        "Cpt_looper"
+      ]
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "mushroom_stem",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "10": [
+        "Telinnor"
+      ],
+      "18": [
+        "__kreck"
+      ],
+      "21": [
+        "Iglo"
+      ],
+      "23": [
+        "Makishi25"
+      ],
+      "276": [
+        "iurie"
+      ],
+      "336": [
+        "imabaldman"
+      ],
+      "42": [
+        "leekcookie"
+      ],
+      "48": [
+        "chaos1989"
+      ],
+      "6": [
+        "Mandahaya",
+        "lodoss2011"
+      ],
+      "94": [
+        "Lord_HoruS"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "Makishi25"
+      ],
+      "2": [
+        "iurie"
+      ],
+      "328": [
+        "imabaldman"
+      ],
+      "6": [
+        "leekcookie",
+        "SuperXXLProfi"
+      ]
+    },
+    "used": {
+      "1": [
+        "leekcookie"
+      ],
+      "28": [
+        "imabaldman"
+      ],
+      "3": [
+        "Makishi25"
+      ]
+    }
+  }
+}

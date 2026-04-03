@@ -1,0 +1,21 @@
+{
+  "name": "red_nether_brick_wall",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "23": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "18": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "306": [
+        "santemjocko"
+      ]
+    }
+  }
+}

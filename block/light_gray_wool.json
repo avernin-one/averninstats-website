@@ -1,0 +1,96 @@
+{
+  "name": "light_gray_wool",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "16": [
+        "Teayo"
+      ],
+      "4": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "owac",
+        "Telinnor",
+        "nitram1572",
+        "JonasderGamer"
+      ],
+      "15": [
+        "leekcookie"
+      ],
+      "2": [
+        "Lukas_126"
+      ]
+    },
+    "mined": {
+      "1": [
+        "nitram1572"
+      ],
+      "11": [
+        "Mandahaya"
+      ],
+      "2": [
+        "egoplayer_Felix"
+      ],
+      "24": [
+        "leekcookie"
+      ],
+      "4": [
+        "SnuvomBodensatz"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "TrashSuperstar"
+      ],
+      "11": [
+        "Mandahaya"
+      ],
+      "165": [
+        "leekcookie"
+      ],
+      "17": [
+        "Cpt_looper"
+      ],
+      "2": [
+        "Lukas_126",
+        "egoplayer_Felix",
+        "JonasderGamer",
+        "__kreck"
+      ],
+      "20": [
+        "DornDasBrot"
+      ],
+      "4": [
+        "SnuvomBodensatz",
+        "owac"
+      ],
+      "6": [
+        "Telinnor"
+      ],
+      "64": [
+        "nitram1572"
+      ],
+      "7": [
+        "chaos1989"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo"
+      ],
+      "11": [
+        "Mandahaya"
+      ],
+      "138": [
+        "leekcookie"
+      ],
+      "2": [
+        "egoplayer_Felix",
+        "nitram1572"
+      ]
+    }
+  }
+}

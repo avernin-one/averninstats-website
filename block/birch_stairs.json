@@ -1,0 +1,137 @@
+{
+  "name": "birch_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "100": [
+        "Warhazarder"
+      ],
+      "12": [
+        "Lord_HoruS"
+      ],
+      "144": [
+        "DornDasBrot"
+      ],
+      "16": [
+        "__kreck"
+      ],
+      "240": [
+        "Makishi25"
+      ],
+      "4": [
+        "obvBasti",
+        "Iglo"
+      ],
+      "64": [
+        "Mandahaya",
+        "lodoss2011",
+        "Teayo"
+      ],
+      "8": [
+        "santemjocko",
+        "Mamuschkaz"
+      ]
+    },
+    "dropped": {
+      "3": [
+        "obvBasti"
+      ]
+    },
+    "mined": {
+      "1": [
+        "santemjocko",
+        "Iglo",
+        "iurie"
+      ],
+      "10": [
+        "Makishi25"
+      ],
+      "2": [
+        "obvBasti"
+      ],
+      "31": [
+        "Mandahaya"
+      ],
+      "4": [
+        "ScimMLG"
+      ],
+      "5": [
+        "lodoss2011"
+      ],
+      "54": [
+        "Teayo"
+      ],
+      "61": [
+        "DornDasBrot"
+      ],
+      "7": [
+        "Lord_HoruS"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "santemjocko",
+        "Iglo",
+        "iurie"
+      ],
+      "10": [
+        "Makishi25"
+      ],
+      "16": [
+        "Warhazarder"
+      ],
+      "2": [
+        "obvBasti"
+      ],
+      "30": [
+        "Mandahaya"
+      ],
+      "4": [
+        "ScimMLG",
+        "Mamuschkaz"
+      ],
+      "54": [
+        "Teayo"
+      ],
+      "62": [
+        "DornDasBrot"
+      ],
+      "7": [
+        "lodoss2011",
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "14": [
+        "Lord_HoruS"
+      ],
+      "198": [
+        "DornDasBrot"
+      ],
+      "24": [
+        "Warhazarder"
+      ],
+      "242": [
+        "Makishi25"
+      ],
+      "3": [
+        "obvBasti"
+      ],
+      "42": [
+        "lodoss2011"
+      ],
+      "54": [
+        "Teayo"
+      ],
+      "6": [
+        "Mamuschkaz"
+      ],
+      "60": [
+        "Mandahaya"
+      ],
+      "9": [
+        "santemjocko"
+      ]
+    }
+  }
+}

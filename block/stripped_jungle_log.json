@@ -1,0 +1,45 @@
+{
+  "name": "stripped_jungle_log",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "3": [
+        "owac"
+      ]
+    },
+    "mined": {
+      "29": [
+        "Der_Sani"
+      ],
+      "3": [
+        "owac",
+        "nitram1572",
+        "imabaldman"
+      ],
+      "6": [
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "29": [
+        "Der_Sani"
+      ],
+      "3": [
+        "owac",
+        "nitram1572",
+        "imabaldman"
+      ],
+      "6": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "1": [
+        "Warhazarder"
+      ],
+      "2": [
+        "nitram1572"
+      ]
+    }
+  }
+}

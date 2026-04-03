@@ -1,0 +1,35 @@
+{
+  "name": "polished_granite_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "3": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "leekcookie"
+      ],
+      "12": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "leekcookie"
+      ],
+      "154": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "14": [
+        "santemjocko"
+      ],
+      "2": [
+        "leekcookie"
+      ]
+    }
+  }
+}

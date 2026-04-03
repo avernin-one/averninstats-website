@@ -1,0 +1,29 @@
+{
+  "name": "cyan_glazed_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "14": [
+        "owac"
+      ],
+      "20": [
+        "DornDasBrot"
+      ]
+    },
+    "dropped": {
+      "14": [
+        "owac"
+      ]
+    },
+    "mined": {
+      "1": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cut_red_sandstone",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "256": [
+        "chaos1989"
+      ]
+    }
+  }
+}

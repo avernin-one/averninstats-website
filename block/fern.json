@@ -1,0 +1,67 @@
+{
+  "name": "fern",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Cpt_looper",
+        "DornDasBrot"
+      ]
+    },
+    "mined": {
+      "119": [
+        "Warhazarder"
+      ],
+      "127": [
+        "Der_Sani"
+      ],
+      "176": [
+        "Mandahaya"
+      ],
+      "186": [
+        "Mamuschkaz"
+      ],
+      "207": [
+        "nitram1572"
+      ],
+      "29": [
+        "Ivenor"
+      ],
+      "296": [
+        "leekcookie"
+      ],
+      "32": [
+        "iurie",
+        "Sayder13xr"
+      ],
+      "468": [
+        "owac"
+      ],
+      "73": [
+        "chaos1989"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie"
+      ],
+      "16": [
+        "leekcookie"
+      ],
+      "2": [
+        "nitram1572"
+      ],
+      "20": [
+        "Makishi25"
+      ],
+      "453": [
+        "owac"
+      ]
+    },
+    "used": {
+      "2": [
+        "Makishi25"
+      ]
+    }
+  }
+}

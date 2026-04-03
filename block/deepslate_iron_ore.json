@@ -1,0 +1,123 @@
+{
+  "name": "deepslate_iron_ore",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "11": [
+        "owac"
+      ],
+      "13": [
+        "__Iglo"
+      ],
+      "16": [
+        "JonasderGamer"
+      ],
+      "21": [
+        "__kreck"
+      ],
+      "3": [
+        "Lord_HoruS"
+      ],
+      "4": [
+        "leekcookie"
+      ],
+      "6": [
+        "Iglo"
+      ],
+      "8": [
+        "iurie"
+      ]
+    },
+    "mined": {
+      "107": [
+        "TrashSuperstar"
+      ],
+      "120": [
+        "Lord_HoruS"
+      ],
+      "135": [
+        "Telinnor"
+      ],
+      "152": [
+        "Mandahaya"
+      ],
+      "164": [
+        "Ivenor"
+      ],
+      "247": [
+        "__kreck"
+      ],
+      "288": [
+        "Warhazarder"
+      ],
+      "335": [
+        "chaos1989"
+      ],
+      "393": [
+        "leekcookie"
+      ],
+      "580": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "16": [
+        "JonasderGamer"
+      ],
+      "197": [
+        "iurie"
+      ],
+      "20": [
+        "chaos1989"
+      ],
+      "22": [
+        "Cpt_looper",
+        "imabaldman"
+      ],
+      "26": [
+        "TrashSuperstar"
+      ],
+      "27": [
+        "Iglo"
+      ],
+      "29": [
+        "__Iglo"
+      ],
+      "290": [
+        "leekcookie"
+      ],
+      "30": [
+        "SuperXXLProfi"
+      ],
+      "98": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "10": [
+        "TrashSuperstar"
+      ],
+      "13": [
+        "Warhazarder"
+      ],
+      "184": [
+        "iurie"
+      ],
+      "2": [
+        "owac"
+      ],
+      "20": [
+        "chaos1989"
+      ],
+      "3": [
+        "Sayder13xr"
+      ],
+      "4": [
+        "santemjocko"
+      ],
+      "67": [
+        "leekcookie"
+      ]
+    }
+  }
+}

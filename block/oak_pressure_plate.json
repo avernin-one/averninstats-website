@@ -1,0 +1,94 @@
+{
+  "name": "oak_pressure_plate",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Mandahaya",
+        "egoplayer_Felix",
+        "iurie",
+        "DornDasBrot"
+      ],
+      "16": [
+        "Teayo"
+      ],
+      "2": [
+        "leekcookie",
+        "Mamuschkaz"
+      ],
+      "3": [
+        "Ivenor",
+        "Telinnor",
+        "Makishi25"
+      ],
+      "35": [
+        "nitram1572"
+      ],
+      "7": [
+        "__kreck"
+      ]
+    },
+    "dropped": {
+      "3": [
+        "Mamuschkaz"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Mamuschkaz",
+        "egoplayer_Felix",
+        "DornDasBrot",
+        "Makishi25",
+        "Teayo"
+      ],
+      "47": [
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "DornDasBrot",
+        "__kreck"
+      ],
+      "2": [
+        "leekcookie",
+        "Teayo"
+      ],
+      "3": [
+        "Makishi25"
+      ],
+      "4": [
+        "Mamuschkaz",
+        "egoplayer_Felix"
+      ],
+      "49": [
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1": [
+        "Mandahaya",
+        "egoplayer_Felix",
+        "iurie",
+        "DornDasBrot"
+      ],
+      "16": [
+        "Teayo"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "__kreck"
+      ],
+      "3": [
+        "Ivenor",
+        "Telinnor"
+      ],
+      "4": [
+        "Makishi25"
+      ],
+      "72": [
+        "nitram1572"
+      ]
+    }
+  }
+}

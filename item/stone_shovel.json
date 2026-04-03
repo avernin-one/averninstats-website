@@ -1,0 +1,168 @@
+{
+  "name": "stone_shovel",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "10": [
+        "nitram1572"
+      ],
+      "14": [
+        "DornDasBrot"
+      ],
+      "15": [
+        "iurie"
+      ],
+      "180": [
+        "Teayo"
+      ],
+      "22": [
+        "SnuvomBodensatz"
+      ],
+      "3": [
+        "Der_Sani"
+      ],
+      "4": [
+        "Mamuschkaz",
+        "__kreck"
+      ],
+      "5": [
+        "Mandahaya",
+        "XeonVirus"
+      ],
+      "6": [
+        "Lord_HoruS"
+      ],
+      "8": [
+        "Warhazarder"
+      ]
+    },
+    "crafted": {
+      "12": [
+        "__kreck"
+      ],
+      "16": [
+        "DornDasBrot"
+      ],
+      "179": [
+        "Teayo"
+      ],
+      "20": [
+        "iurie"
+      ],
+      "22": [
+        "nitram1572"
+      ],
+      "23": [
+        "SnuvomBodensatz"
+      ],
+      "5": [
+        "Mandahaya",
+        "Mamuschkaz"
+      ],
+      "6": [
+        "Lord_HoruS"
+      ],
+      "8": [
+        "owac",
+        "XeonVirus"
+      ],
+      "9": [
+        "Warhazarder"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "SnuvomBodensatz",
+        "Makishi25",
+        "Teayo"
+      ],
+      "11": [
+        "__kreck"
+      ],
+      "12": [
+        "nitram1572"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "XeonVirus"
+      ],
+      "4": [
+        "iurie"
+      ],
+      "6": [
+        "leekcookie"
+      ],
+      "8": [
+        "owac"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Mamuschkaz",
+        "Marvin1099"
+      ],
+      "10": [
+        "leekcookie"
+      ],
+      "12": [
+        "nitram1572"
+      ],
+      "2": [
+        "lodoss2011",
+        "StofftierAnabol",
+        "Warhazarder"
+      ],
+      "3": [
+        "iurie",
+        "Cpt_looper",
+        "Makishi25"
+      ],
+      "4": [
+        "__kreck"
+      ],
+      "5": [
+        "DornDasBrot"
+      ],
+      "7": [
+        "SnuvomBodensatz"
+      ],
+      "8": [
+        "Lord_HoruS",
+        "Teayo",
+        "XeonVirus"
+      ]
+    },
+    "used": {
+      "1151": [
+        "Warhazarder"
+      ],
+      "1490": [
+        "nitram1572"
+      ],
+      "1840": [
+        "DornDasBrot"
+      ],
+      "2078": [
+        "iurie"
+      ],
+      "23694": [
+        "Teayo"
+      ],
+      "3065": [
+        "SnuvomBodensatz"
+      ],
+      "661": [
+        "Mandahaya"
+      ],
+      "684": [
+        "__kreck"
+      ],
+      "766": [
+        "XeonVirus"
+      ],
+      "787": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

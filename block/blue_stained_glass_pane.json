@@ -1,0 +1,16 @@
+{
+  "name": "blue_stained_glass_pane",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "16": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "16": [
+        "__kreck"
+      ]
+    }
+  }
+}

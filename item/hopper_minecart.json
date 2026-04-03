@@ -1,0 +1,112 @@
+{
+  "name": "hopper_minecart",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "17": [
+        "santemjocko",
+        "DornDasBrot"
+      ],
+      "26": [
+        "Sayder13xr",
+        "__Iglo"
+      ],
+      "30": [
+        "Iglo",
+        "Lord_HoruS"
+      ],
+      "31": [
+        "nitram1572"
+      ],
+      "37": [
+        "leekcookie"
+      ],
+      "4": [
+        "Cpt_looper",
+        "Warhazarder"
+      ],
+      "49": [
+        "__kreck"
+      ],
+      "5": [
+        "Mamuschkaz"
+      ],
+      "60": [
+        "iurie"
+      ],
+      "65": [
+        "imabaldman"
+      ]
+    },
+    "dropped": {
+      "10": [
+        "imabaldman"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "santemjocko"
+      ],
+      "10": [
+        "imabaldman",
+        "Warhazarder"
+      ],
+      "12": [
+        "nitram1572"
+      ],
+      "20": [
+        "leekcookie"
+      ],
+      "22": [
+        "iurie"
+      ],
+      "3": [
+        "Cpt_looper"
+      ],
+      "5": [
+        "__Iglo"
+      ],
+      "7": [
+        "XeonVirus"
+      ],
+      "9": [
+        "Mamuschkaz"
+      ]
+    },
+    "used": {
+      "13": [
+        "Mamuschkaz"
+      ],
+      "16": [
+        "santemjocko",
+        "Warhazarder"
+      ],
+      "17": [
+        "DornDasBrot"
+      ],
+      "26": [
+        "Sayder13xr"
+      ],
+      "30": [
+        "Iglo",
+        "Lord_HoruS"
+      ],
+      "37": [
+        "leekcookie",
+        "__Iglo"
+      ],
+      "45": [
+        "nitram1572"
+      ],
+      "49": [
+        "__kreck"
+      ],
+      "65": [
+        "imabaldman"
+      ],
+      "90": [
+        "iurie"
+      ]
+    }
+  }
+}

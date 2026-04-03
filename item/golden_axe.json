@@ -1,0 +1,42 @@
+{
+  "name": "golden_axe",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Der_Sani"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Mandahaya"
+      ],
+      "2": [
+        "owac",
+        "Makishi25"
+      ],
+      "3": [
+        "santemjocko"
+      ],
+      "4": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "25": [
+        "Iglo"
+      ],
+      "32": [
+        "Der_Sani"
+      ],
+      "4": [
+        "santemjocko"
+      ]
+    }
+  }
+}

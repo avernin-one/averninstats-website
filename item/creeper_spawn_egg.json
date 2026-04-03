@@ -1,0 +1,11 @@
+{
+  "name": "creeper_spawn_egg",
+  "type": "item",
+  "scores": {
+    "used": {
+      "9": [
+        "__kreck"
+      ]
+    }
+  }
+}

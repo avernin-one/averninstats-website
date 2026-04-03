@@ -1,0 +1,137 @@
+{
+  "name": "wooden_pickaxe",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "LumpenBrot",
+        "Mandahaya",
+        "Lukas_126",
+        "Der_Sani",
+        "SnuvomBodensatz",
+        "Austriana",
+        "Iglo",
+        "Temeraiere",
+        "DornDasBrot"
+      ],
+      "2": [
+        "Lord_HoruS"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "LumpenBrot",
+        "Mandahaya",
+        "BBinQui",
+        "Der_Sani",
+        "Austriana",
+        "CuzimJxson",
+        "Iglo",
+        "owac",
+        "egoplayer_Felix",
+        "iurie",
+        "StofftierAnabol",
+        "TrashSuperstar",
+        "DornDasBrot",
+        "Marvin1099",
+        "imabaldman",
+        "Sayder13xr",
+        "Teayo"
+      ],
+      "2": [
+        "SnuvomBodensatz",
+        "chaos1989",
+        "PopCat007",
+        "Mamuschkaz",
+        "nitram1572",
+        "Lord_HoruS",
+        "Warhazarder",
+        "__kreck",
+        "XeonVirus"
+      ],
+      "3": [
+        "lodoss2011",
+        "leekcookie"
+      ],
+      "4": [
+        "Lukas_126",
+        "Temeraiere"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Mamuschkaz",
+        "owac",
+        "iurie",
+        "Sayder13xr",
+        "XeonVirus"
+      ],
+      "2": [
+        "Lukas_126",
+        "lodoss2011",
+        "chaos1989",
+        "leekcookie",
+        "nitram1572",
+        "Warhazarder",
+        "__kreck"
+      ],
+      "4": [
+        "PopCat007"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Mandahaya",
+        "lodoss2011",
+        "chaos1989",
+        "Austriana",
+        "Marvin1099",
+        "__kreck",
+        "XeonVirus"
+      ],
+      "3": [
+        "PopCat007"
+      ],
+      "8": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "44": [
+        "chaos1989"
+      ],
+      "47": [
+        "__kreck"
+      ],
+      "48": [
+        "XeonVirus"
+      ],
+      "51": [
+        "PopCat007",
+        "TrashSuperstar"
+      ],
+      "58": [
+        "Mandahaya"
+      ],
+      "59": [
+        "LumpenBrot",
+        "Der_Sani",
+        "Austriana",
+        "Iglo",
+        "DornDasBrot"
+      ],
+      "83": [
+        "Temeraiere"
+      ],
+      "89": [
+        "Lord_HoruS"
+      ],
+      "92": [
+        "Lukas_126"
+      ],
+      "97": [
+        "SnuvomBodensatz"
+      ]
+    }
+  }
+}

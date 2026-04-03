@@ -1,0 +1,37 @@
+{
+  "name": "birch_wood",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "162": [
+        "KleeneEle"
+      ],
+      "774": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "360": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "72": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "174": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "460": [
+        "leekcookie"
+      ],
+      "79": [
+        "KleeneEle"
+      ]
+    }
+  }
+}

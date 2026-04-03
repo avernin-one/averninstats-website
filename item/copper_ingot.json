@@ -1,0 +1,108 @@
+{
+  "name": "copper_ingot",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1064": [
+        "Cpt_looper"
+      ],
+      "1092": [
+        "Teayo"
+      ],
+      "11485": [
+        "obvBasti"
+      ],
+      "17488": [
+        "Warhazarder"
+      ],
+      "2152": [
+        "chaos1989"
+      ],
+      "653": [
+        "Telinnor"
+      ],
+      "711": [
+        "philxpx"
+      ],
+      "7454": [
+        "santemjocko"
+      ],
+      "879": [
+        "TrashSuperstar"
+      ],
+      "964": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "SnuvomBodensatz",
+        "ScimMLG",
+        "owac",
+        "Cpt_looper",
+        "DornDasBrot",
+        "Teayo"
+      ],
+      "158": [
+        "leekcookie"
+      ],
+      "2": [
+        "nitram1572",
+        "Sayder13xr"
+      ],
+      "20": [
+        "minenicknick"
+      ],
+      "2182": [
+        "imabaldman"
+      ],
+      "26": [
+        "obvBasti"
+      ],
+      "4": [
+        "JonasderGamer"
+      ],
+      "5": [
+        "lodoss2011"
+      ],
+      "7": [
+        "santemjocko"
+      ],
+      "9": [
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "109": [
+        "iurie"
+      ],
+      "12788": [
+        "leekcookie"
+      ],
+      "2139": [
+        "imabaldman"
+      ],
+      "23": [
+        "lodoss2011"
+      ],
+      "30": [
+        "XeonVirus"
+      ],
+      "34": [
+        "santemjocko"
+      ],
+      "39": [
+        "Warhazarder"
+      ],
+      "44": [
+        "obvBasti"
+      ],
+      "51": [
+        "Austriana"
+      ],
+      "66": [
+        "owac"
+      ]
+    }
+  }
+}

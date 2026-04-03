@@ -1,0 +1,115 @@
+{
+  "name": "nether_wart",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "2": [
+        "minenicknick",
+        "DornDasBrot"
+      ],
+      "38": [
+        "leekcookie"
+      ],
+      "57": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "104": [
+        "DornDasBrot"
+      ],
+      "21": [
+        "lodoss2011"
+      ],
+      "22": [
+        "Telinnor"
+      ],
+      "24": [
+        "minenicknick"
+      ],
+      "2785": [
+        "santemjocko"
+      ],
+      "396": [
+        "iurie"
+      ],
+      "40": [
+        "Iglo"
+      ],
+      "420": [
+        "chaos1989"
+      ],
+      "50": [
+        "Lord_HoruS"
+      ],
+      "79": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "10047": [
+        "santemjocko"
+      ],
+      "104": [
+        "Warhazarder"
+      ],
+      "1152": [
+        "chaos1989"
+      ],
+      "128": [
+        "Iglo"
+      ],
+      "151": [
+        "Lord_HoruS"
+      ],
+      "1845": [
+        "iurie"
+      ],
+      "314": [
+        "leekcookie"
+      ],
+      "469": [
+        "DornDasBrot"
+      ],
+      "76": [
+        "owac"
+      ],
+      "92": [
+        "lodoss2011"
+      ]
+    },
+    "used": {
+      "126": [
+        "DornDasBrot"
+      ],
+      "2296": [
+        "iurie"
+      ],
+      "25": [
+        "lodoss2011"
+      ],
+      "2921": [
+        "santemjocko"
+      ],
+      "34": [
+        "Warhazarder"
+      ],
+      "36": [
+        "minenicknick"
+      ],
+      "40": [
+        "Iglo",
+        "XeonVirus"
+      ],
+      "454": [
+        "chaos1989"
+      ],
+      "62": [
+        "Lord_HoruS"
+      ],
+      "91": [
+        "leekcookie"
+      ]
+    }
+  }
+}

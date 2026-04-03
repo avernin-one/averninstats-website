@@ -1,0 +1,16 @@
+{
+  "name": "brown_banner",
+  "type": "block",
+  "scores": {
+    "picked_up": {
+      "103": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "4": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

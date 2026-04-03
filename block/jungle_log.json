@@ -1,0 +1,129 @@
+{
+  "name": "jungle_log",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "100": [
+        "minenicknick"
+      ],
+      "107": [
+        "owac"
+      ],
+      "2": [
+        "Warhazarder"
+      ],
+      "237": [
+        "__kreck"
+      ],
+      "62": [
+        "philxpx"
+      ],
+      "7": [
+        "__Iglo"
+      ],
+      "8": [
+        "leekcookie",
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "1876": [
+        "leekcookie"
+      ],
+      "3201": [
+        "Iglo"
+      ],
+      "403": [
+        "Temeraiere"
+      ],
+      "4185": [
+        "Warhazarder"
+      ],
+      "514": [
+        "TrashSuperstar"
+      ],
+      "521": [
+        "__kreck"
+      ],
+      "5656": [
+        "chaos1989"
+      ],
+      "588": [
+        "imabaldman"
+      ],
+      "699": [
+        "__Iglo"
+      ],
+      "9216": [
+        "owac"
+      ]
+    },
+    "picked_up": {
+      "1897": [
+        "leekcookie"
+      ],
+      "3407": [
+        "Iglo"
+      ],
+      "4183": [
+        "Warhazarder"
+      ],
+      "511": [
+        "TrashSuperstar"
+      ],
+      "521": [
+        "Temeraiere"
+      ],
+      "581": [
+        "imabaldman"
+      ],
+      "6000": [
+        "chaos1989"
+      ],
+      "673": [
+        "__kreck"
+      ],
+      "706": [
+        "__Iglo"
+      ],
+      "9287": [
+        "owac"
+      ]
+    },
+    "used": {
+      "10": [
+        "leekcookie",
+        "Iglo"
+      ],
+      "12": [
+        "Cpt_looper"
+      ],
+      "13": [
+        "minenicknick"
+      ],
+      "14": [
+        "Ivenor"
+      ],
+      "18": [
+        "owac",
+        "DornDasBrot"
+      ],
+      "22": [
+        "santemjocko",
+        "philxpx"
+      ],
+      "2833": [
+        "Warhazarder"
+      ],
+      "37": [
+        "Der_Sani"
+      ],
+      "46": [
+        "chaos1989"
+      ],
+      "50": [
+        "XeonVirus"
+      ]
+    }
+  }
+}

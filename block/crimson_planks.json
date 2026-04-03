@@ -1,0 +1,73 @@
+{
+  "name": "crimson_planks",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1028": [
+        "Makishi25"
+      ],
+      "16": [
+        "Warhazarder"
+      ],
+      "24": [
+        "iurie",
+        "DornDasBrot"
+      ],
+      "4": [
+        "Iglo",
+        "imabaldman"
+      ],
+      "60": [
+        "__kreck"
+      ],
+      "688": [
+        "leekcookie"
+      ],
+      "76": [
+        "XeonVirus"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "leekcookie"
+      ],
+      "4": [
+        "XeonVirus"
+      ]
+    },
+    "mined": {
+      "1": [
+        "ScimMLG"
+      ],
+      "24": [
+        "leekcookie"
+      ],
+      "6": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "ScimMLG"
+      ],
+      "44": [
+        "leekcookie"
+      ],
+      "5": [
+        "Makishi25",
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "1": [
+        "ScimMLG"
+      ],
+      "32": [
+        "leekcookie"
+      ],
+      "66": [
+        "Makishi25"
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "cow",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "115": [
+        "XeonVirus"
+      ],
+      "154": [
+        "Telinnor"
+      ],
+      "155": [
+        "SnuvomBodensatz"
+      ],
+      "159": [
+        "Lord_HoruS"
+      ],
+      "187": [
+        "Warhazarder"
+      ],
+      "55": [
+        "__kreck"
+      ],
+      "56": [
+        "Makishi25"
+      ],
+      "58": [
+        "iurie"
+      ],
+      "63": [
+        "Temeraiere"
+      ],
+      "72": [
+        "Teayo"
+      ]
+    }
+  }
+}

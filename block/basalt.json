@@ -1,0 +1,134 @@
+{
+  "name": "basalt",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "10221": [
+        "leekcookie"
+      ],
+      "1305": [
+        "Iglo"
+      ],
+      "15": [
+        "Makishi25"
+      ],
+      "192": [
+        "minenicknick"
+      ],
+      "194": [
+        "owac"
+      ],
+      "463": [
+        "iurie"
+      ],
+      "482": [
+        "JonasderGamer"
+      ],
+      "53": [
+        "Telinnor"
+      ],
+      "732": [
+        "__kreck"
+      ],
+      "95": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "10336": [
+        "Iglo"
+      ],
+      "1061": [
+        "Telinnor"
+      ],
+      "11440": [
+        "__kreck"
+      ],
+      "20864": [
+        "iurie"
+      ],
+      "2192": [
+        "nitram1572"
+      ],
+      "2692": [
+        "santemjocko"
+      ],
+      "3041": [
+        "owac"
+      ],
+      "669": [
+        "minenicknick"
+      ],
+      "813": [
+        "JonasderGamer"
+      ],
+      "85153": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1049": [
+        "Telinnor"
+      ],
+      "11625": [
+        "__kreck"
+      ],
+      "16227": [
+        "iurie"
+      ],
+      "2124": [
+        "owac"
+      ],
+      "22555": [
+        "leekcookie"
+      ],
+      "2258": [
+        "santemjocko"
+      ],
+      "2451": [
+        "nitram1572"
+      ],
+      "3302": [
+        "Iglo"
+      ],
+      "438": [
+        "TrashSuperstar"
+      ],
+      "755": [
+        "JonasderGamer"
+      ]
+    },
+    "used": {
+      "1092": [
+        "__kreck"
+      ],
+      "1444": [
+        "owac"
+      ],
+      "1569": [
+        "leekcookie"
+      ],
+      "1861": [
+        "nitram1572"
+      ],
+      "279": [
+        "JonasderGamer"
+      ],
+      "359": [
+        "TrashSuperstar"
+      ],
+      "4094": [
+        "iurie"
+      ],
+      "519": [
+        "Iglo"
+      ],
+      "621": [
+        "Telinnor"
+      ],
+      "963": [
+        "santemjocko"
+      ]
+    }
+  }
+}

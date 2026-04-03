@@ -1,0 +1,67 @@
+{
+  "name": "lime_bed",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "santemjocko",
+        "Cpt_looper"
+      ],
+      "2": [
+        "Telinnor"
+      ],
+      "8": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "leekcookie",
+        "Temeraiere",
+        "SuperXXLProfi",
+        "Cpt_looper",
+        "__kreck"
+      ],
+      "3": [
+        "nitram1572"
+      ],
+      "53": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "leekcookie",
+        "Temeraiere",
+        "Cpt_looper",
+        "__kreck"
+      ],
+      "3": [
+        "nitram1572"
+      ],
+      "52": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "santemjocko",
+        "Temeraiere",
+        "__kreck"
+      ],
+      "2": [
+        "Telinnor",
+        "Cpt_looper"
+      ],
+      "3": [
+        "nitram1572"
+      ],
+      "44": [
+        "iurie"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    }
+  }
+}

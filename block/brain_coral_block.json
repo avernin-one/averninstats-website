@@ -1,0 +1,53 @@
+{
+  "name": "brain_coral_block",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "iurie"
+      ],
+      "104": [
+        "__kreck"
+      ],
+      "12": [
+        "Makishi25"
+      ],
+      "2": [
+        "Iglo",
+        "Cpt_looper"
+      ],
+      "40": [
+        "Lord_HoruS"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie"
+      ],
+      "10": [
+        "Makishi25"
+      ],
+      "130": [
+        "__kreck"
+      ],
+      "2": [
+        "Iglo",
+        "Cpt_looper"
+      ],
+      "40": [
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "10": [
+        "Makishi25"
+      ],
+      "20": [
+        "Lord_HoruS"
+      ],
+      "32": [
+        "__kreck"
+      ]
+    }
+  }
+}

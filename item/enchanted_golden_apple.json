@@ -1,0 +1,16 @@
+{
+  "name": "enchanted_golden_apple",
+  "type": "item",
+  "scores": {
+    "picked_up": {
+      "7": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "sculk_sensor",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "313": [
+        "iurie"
+      ],
+      "33": [
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "244": [
+        "iurie"
+      ],
+      "33": [
+        "XeonVirus"
+      ]
+    },
+    "used": {
+      "4": [
+        "XeonVirus"
+      ]
+    }
+  }
+}

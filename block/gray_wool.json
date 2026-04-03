@@ -1,0 +1,78 @@
+{
+  "name": "gray_wool",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "santemjocko",
+        "lodoss2011",
+        "Temeraiere",
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Mandahaya"
+      ],
+      "10": [
+        "XeonVirus"
+      ],
+      "18": [
+        "iurie"
+      ],
+      "2": [
+        "Telinnor"
+      ],
+      "3": [
+        "Lukas_126"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "XeonVirus"
+      ],
+      "13": [
+        "Mamuschkaz"
+      ],
+      "14": [
+        "iurie"
+      ],
+      "19": [
+        "TrashSuperstar"
+      ],
+      "32": [
+        "Mandahaya"
+      ],
+      "48": [
+        "Telinnor"
+      ],
+      "5": [
+        "nitram1572"
+      ],
+      "7": [
+        "Lukas_126"
+      ],
+      "87": [
+        "__kreck"
+      ],
+      "9": [
+        "Cpt_looper"
+      ]
+    },
+    "used": {
+      "1": [
+        "Mandahaya",
+        "Iglo",
+        "iurie",
+        "nitram1572"
+      ],
+      "2": [
+        "leekcookie",
+        "Telinnor"
+      ],
+      "3": [
+        "Lukas_126"
+      ]
+    }
+  }
+}

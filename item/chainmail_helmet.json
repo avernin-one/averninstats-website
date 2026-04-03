@@ -1,0 +1,87 @@
+{
+  "name": "chainmail_helmet",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Ivenor"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "Sayder13xr"
+      ],
+      "10": [
+        "Teayo"
+      ],
+      "12": [
+        "nitram1572",
+        "DornDasBrot"
+      ],
+      "14": [
+        "owac"
+      ],
+      "15": [
+        "Cpt_looper"
+      ],
+      "40": [
+        "Iglo"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Mandahaya",
+        "santemjocko",
+        "TrashSuperstar"
+      ],
+      "15": [
+        "leekcookie"
+      ],
+      "18": [
+        "owac"
+      ],
+      "2": [
+        "Lord_HoruS",
+        "Sayder13xr"
+      ],
+      "4": [
+        "Cpt_looper"
+      ],
+      "41": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "santemjocko",
+        "chaos1989",
+        "Iglo",
+        "iurie"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "2": [
+        "Mandahaya",
+        "Ivenor",
+        "TrashSuperstar",
+        "Lord_HoruS"
+      ],
+      "20": [
+        "Teayo"
+      ],
+      "3": [
+        "Cpt_looper"
+      ],
+      "4": [
+        "owac",
+        "Sayder13xr"
+      ]
+    },
+    "used": {
+      "1": [
+        "Sayder13xr"
+      ]
+    }
+  }
+}

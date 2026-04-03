@@ -1,0 +1,153 @@
+{
+  "name": "diamond_helmet",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Ivenor",
+        "Makishi25",
+        "XeonVirus"
+      ],
+      "2": [
+        "Telinnor"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "obvBasti",
+        "lodoss2011",
+        "chaos1989",
+        "ScimMLG",
+        "Ivenor",
+        "KleeneEle",
+        "Temeraiere",
+        "egoplayer_Felix",
+        "SuperXXLProfi",
+        "Telinnor",
+        "__Iglo",
+        "Warhazarder",
+        "Teayo"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "Iglo",
+        "Cpt_looper",
+        "Lord_HoruS",
+        "DornDasBrot",
+        "imabaldman",
+        "__kreck"
+      ],
+      "20": [
+        "iurie"
+      ],
+      "3": [
+        "santemjocko",
+        "philxpx",
+        "owac",
+        "nitram1572",
+        "Sayder13xr",
+        "XeonVirus"
+      ],
+      "4": [
+        "TrashSuperstar"
+      ],
+      "43": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "lodoss2011",
+        "minenicknick",
+        "Iglo",
+        "Temeraiere",
+        "TrashSuperstar",
+        "Teayo"
+      ],
+      "2": [
+        "philxpx",
+        "iurie",
+        "JonasderGamer",
+        "DornDasBrot"
+      ],
+      "3": [
+        "imabaldman"
+      ],
+      "4": [
+        "owac"
+      ],
+      "6": [
+        "Mamuschkaz"
+      ],
+      "8": [
+        "santemjocko",
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "11": [
+        "Cpt_looper"
+      ],
+      "12": [
+        "lodoss2011"
+      ],
+      "133": [
+        "leekcookie"
+      ],
+      "20": [
+        "Makishi25"
+      ],
+      "24": [
+        "santemjocko",
+        "iurie"
+      ],
+      "4": [
+        "Lord_HoruS"
+      ],
+      "5": [
+        "nitram1572",
+        "__kreck",
+        "XeonVirus"
+      ],
+      "6": [
+        "JonasderGamer",
+        "imabaldman",
+        "Sayder13xr",
+        "Teayo"
+      ],
+      "7": [
+        "Iglo",
+        "owac"
+      ],
+      "9": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "1": [
+        "obvBasti",
+        "ScimMLG",
+        "Temeraiere",
+        "Telinnor",
+        "JonasderGamer",
+        "DornDasBrot",
+        "__Iglo",
+        "Warhazarder",
+        "Teayo"
+      ],
+      "17": [
+        "leekcookie"
+      ],
+      "3": [
+        "imabaldman"
+      ],
+      "4": [
+        "Makishi25"
+      ],
+      "5": [
+        "iurie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "iron_ingot",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "12002": [
+        "__Iglo"
+      ],
+      "13378": [
+        "Iglo"
+      ],
+      "21267": [
+        "leekcookie"
+      ],
+      "26663": [
+        "iurie"
+      ],
+      "3178": [
+        "Sayder13xr"
+      ],
+      "3651": [
+        "owac"
+      ],
+      "3685": [
+        "imabaldman"
+      ],
+      "42291": [
+        "__kreck"
+      ],
+      "4703": [
+        "nitram1572"
+      ],
+      "7366": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "219": [
+        "__Iglo"
+      ],
+      "272": [
+        "__kreck"
+      ],
+      "284": [
+        "owac"
+      ],
+      "2852": [
+        "iurie"
+      ],
+      "299": [
+        "lodoss2011"
+      ],
+      "372": [
+        "minenicknick"
+      ],
+      "4197": [
+        "leekcookie"
+      ],
+      "445": [
+        "Iglo"
+      ],
+      "461": [
+        "nitram1572"
+      ],
+      "7189": [
+        "imabaldman"
+      ]
+    },
+    "picked_up": {
+      "12117": [
+        "__kreck"
+      ],
+      "12626": [
+        "leekcookie"
+      ],
+      "1352": [
+        "nitram1572"
+      ],
+      "3419": [
+        "iurie"
+      ],
+      "3599": [
+        "Iglo"
+      ],
+      "6098": [
+        "imabaldman"
+      ],
+      "655": [
+        "Teayo"
+      ],
+      "801": [
+        "Cpt_looper"
+      ],
+      "804": [
+        "santemjocko"
+      ],
+      "990": [
+        "Makishi25"
+      ]
+    }
+  }
+}

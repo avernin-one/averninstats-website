@@ -1,0 +1,72 @@
+{
+  "name": "cracked_deepslate_tiles",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "0": [
+        "Sayder13xr"
+      ],
+      "1": [
+        "SuperXXLProfi"
+      ],
+      "240": [
+        "Iglo"
+      ],
+      "32": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "176": [
+        "__kreck"
+      ],
+      "64": [
+        "__Iglo"
+      ],
+      "8": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Iglo",
+        "Sayder13xr",
+        "XeonVirus"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "4": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Iglo",
+        "Sayder13xr"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "176": [
+        "__Iglo"
+      ],
+      "2": [
+        "iurie"
+      ],
+      "304": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo",
+        "SuperXXLProfi",
+        "Sayder13xr"
+      ],
+      "38": [
+        "leekcookie"
+      ]
+    }
+  }
+}

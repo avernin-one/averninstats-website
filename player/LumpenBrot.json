@@ -1,0 +1,223 @@
+{
+  "name": "LumpenBrot",
+  "uuid": "00d41479-8aa7-4748-9ea9-afab79a745de",
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "stats": {
+    "boat_one_cm": 475255,
+    "climb_one_cm": 650,
+    "crouch_one_cm": 1372,
+    "damage_dealt": 820,
+    "damage_taken": 310,
+    "drop": 5,
+    "fall_one_cm": 10134,
+    "fly_one_cm": 60429,
+    "interact_with_crafting_table": 13,
+    "interact_with_furnace": 26,
+    "jump": 637,
+    "leave_game": 1,
+    "mob_kills": 8,
+    "open_chest": 8,
+    "play_time": 75166,
+    "sneak_time": 903,
+    "sprint_one_cm": 151059,
+    "swim_one_cm": 14397,
+    "time_since_death": 75166,
+    "time_since_rest": 75166,
+    "total_world_time": 75166,
+    "walk_on_water_one_cm": 10546,
+    "walk_one_cm": 151718,
+    "walk_under_water_one_cm": 13930
+  },
+  "scores": {
+    "block": {
+      "crafted": {
+        "1": [
+          "chest",
+          "crafting_table"
+        ],
+        "24": [
+          "acacia_planks"
+        ],
+        "44": [
+          "jungle_planks"
+        ],
+        "5": [
+          "furnace"
+        ]
+      },
+      "dropped": {
+        "1": [
+          "acacia_planks",
+          "azure_bluet"
+        ],
+        "4": [
+          "oak_planks"
+        ]
+      },
+      "mined": {
+        "226": [
+          "grass"
+        ],
+        "32": [
+          "bamboo"
+        ],
+        "45": [
+          "brown_mushroom_block"
+        ],
+        "50": [
+          "dark_oak_log"
+        ],
+        "55": [
+          "stone"
+        ]
+      },
+      "picked_up": {
+        "12": [
+          "sugar_cane"
+        ],
+        "16": [
+          "dirt"
+        ],
+        "423": [
+          "bamboo"
+        ],
+        "50": [
+          "dark_oak_log"
+        ],
+        "58": [
+          "cobblestone"
+        ]
+      },
+      "used": {
+        "10": [
+          "dirt"
+        ],
+        "3": [
+          "crafting_table"
+        ],
+        "5": [
+          "oak_planks",
+          "furnace"
+        ],
+        "6": [
+          "jungle_planks"
+        ],
+        "9": [
+          "cobblestone"
+        ]
+      }
+    },
+    "entity": {
+      "crafted": {
+        "1": [
+          "jungle_boat"
+        ]
+      },
+      "killed": {
+        "1": [
+          "sheep",
+          "horse",
+          "chicken"
+        ],
+        "2": [
+          "squid"
+        ],
+        "3": [
+          "pig"
+        ]
+      },
+      "picked_up": {
+        "1": [
+          "chicken"
+        ],
+        "2": [
+          "jungle_boat"
+        ]
+      },
+      "used": {
+        "1": [
+          "chicken"
+        ],
+        "2": [
+          "jungle_boat"
+        ]
+      }
+    },
+    "item": {
+      "broken": {
+        "1": [
+          "wooden_pickaxe",
+          "wooden_sword",
+          "stone_axe"
+        ]
+      },
+      "crafted": {
+        "1": [
+          "wooden_sword",
+          "stone_axe",
+          "jungle_boat",
+          "wooden_pickaxe",
+          "bread",
+          "wooden_hoe",
+          "stone_pickaxe"
+        ],
+        "12": [
+          "stick"
+        ],
+        "2": [
+          "cooked_mutton"
+        ],
+        "4": [
+          "cooked_porkchop"
+        ]
+      },
+      "mined": {
+        "4": [
+          "wheat"
+        ]
+      },
+      "picked_up": {
+        "2": [
+          "mutton",
+          "jungle_boat",
+          "feather",
+          "raw_iron"
+        ],
+        "4": [
+          "wheat",
+          "porkchop"
+        ],
+        "5": [
+          "ink_sac"
+        ],
+        "51": [
+          "wheat_seeds"
+        ],
+        "9": [
+          "cocoa_beans"
+        ]
+      },
+      "used": {
+        "127": [
+          "stone_axe"
+        ],
+        "35": [
+          "wooden_sword"
+        ],
+        "44": [
+          "wooden_hoe"
+        ],
+        "45": [
+          "wheat_seeds"
+        ],
+        "59": [
+          "wooden_pickaxe"
+        ]
+      }
+    }
+  }
+}

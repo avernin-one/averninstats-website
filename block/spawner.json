@@ -1,0 +1,31 @@
+{
+  "name": "spawner",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "santemjocko",
+        "CuzimJxson",
+        "TrashSuperstar",
+        "Sayder13xr"
+      ],
+      "2": [
+        "chaos1989",
+        "iurie",
+        "Warhazarder",
+        "XeonVirus"
+      ],
+      "3": [
+        "minenicknick",
+        "leekcookie",
+        "Ivenor",
+        "imabaldman",
+        "__kreck"
+      ],
+      "7": [
+        "Lukas_126",
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

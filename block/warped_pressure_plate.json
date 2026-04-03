@@ -1,0 +1,56 @@
+{
+  "name": "warped_pressure_plate",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "__kreck"
+      ],
+      "10": [
+        "XeonVirus"
+      ],
+      "7": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "7": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Iglo"
+      ],
+      "6": [
+        "leekcookie"
+      ],
+      "8": [
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Iglo"
+      ],
+      "13": [
+        "leekcookie"
+      ],
+      "8": [
+        "XeonVirus"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo",
+        "__kreck"
+      ],
+      "10": [
+        "XeonVirus"
+      ],
+      "6": [
+        "leekcookie"
+      ]
+    }
+  }
+}

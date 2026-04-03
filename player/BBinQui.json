@@ -1,0 +1,180 @@
+{
+  "name": "BBinQui",
+  "uuid": "0aa5a3e2-02d8-49b5-abb1-f879a97a7267",
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "stats": {
+    "climb_one_cm": 6574,
+    "crouch_one_cm": 3263,
+    "damage_dealt": 1588,
+    "damage_taken": 411,
+    "deaths": 1,
+    "drop": 2,
+    "fall_one_cm": 6945,
+    "fly_one_cm": 159513,
+    "interact_with_crafting_table": 6,
+    "jump": 981,
+    "leave_game": 9,
+    "mob_kills": 8,
+    "open_barrel": 1,
+    "open_chest": 15,
+    "open_shulker_box": 8,
+    "play_time": 77481,
+    "sneak_time": 1793,
+    "sprint_one_cm": 298317,
+    "swim_one_cm": 7391,
+    "time_since_death": 71892,
+    "time_since_rest": 71912,
+    "total_world_time": 77481,
+    "walk_on_water_one_cm": 1779,
+    "walk_one_cm": 163280,
+    "walk_under_water_one_cm": 8096
+  },
+  "scores": {
+    "block": {
+      "crafted": {
+        "124": [
+          "oak_planks"
+        ],
+        "2": [
+          "crafting_table"
+        ],
+        "24": [
+          "ladder"
+        ],
+        "3": [
+          "oak_door"
+        ]
+      },
+      "mined": {
+        "17": [
+          "sand"
+        ],
+        "27": [
+          "oak_leaves"
+        ],
+        "34": [
+          "wheat"
+        ],
+        "48": [
+          "stone"
+        ],
+        "58": [
+          "oak_log"
+        ]
+      },
+      "picked_up": {
+        "14": [
+          "andesite"
+        ],
+        "17": [
+          "sand"
+        ],
+        "34": [
+          "wheat"
+        ],
+        "49": [
+          "cobblestone"
+        ],
+        "58": [
+          "oak_log"
+        ]
+      },
+      "used": {
+        "10": [
+          "obsidian"
+        ],
+        "14": [
+          "cobblestone"
+        ],
+        "24": [
+          "ladder"
+        ],
+        "4": [
+          "sand"
+        ],
+        "9": [
+          "oak_planks"
+        ]
+      }
+    },
+    "entity": {
+      "killed": {
+        "1": [
+          "spider",
+          "creeper"
+        ],
+        "2": [
+          "drowned"
+        ],
+        "4": [
+          "zombie"
+        ]
+      }
+    },
+    "item": {
+      "crafted": {
+        "1": [
+          "wooden_pickaxe",
+          "wooden_axe"
+        ],
+        "11": [
+          "bread"
+        ],
+        "64": [
+          "stick"
+        ]
+      },
+      "dropped": {
+        "1": [
+          "iron_pickaxe",
+          "bread"
+        ]
+      },
+      "mined": {
+        "34": [
+          "wheat"
+        ]
+      },
+      "picked_up": {
+        "1": [
+          "apple",
+          "leather_leggings",
+          "iron_pickaxe"
+        ],
+        "11": [
+          "stick"
+        ],
+        "3": [
+          "rotten_flesh"
+        ],
+        "34": [
+          "wheat"
+        ],
+        "90": [
+          "wheat_seeds"
+        ]
+      },
+      "used": {
+        "10": [
+          "bread"
+        ],
+        "101": [
+          "iron_axe"
+        ],
+        "11": [
+          "iron_sword"
+        ],
+        "33": [
+          "wheat_seeds"
+        ],
+        "86": [
+          "iron_pickaxe"
+        ]
+      }
+    }
+  }
+}

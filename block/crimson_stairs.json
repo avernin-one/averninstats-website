@@ -1,0 +1,47 @@
+{
+  "name": "crimson_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "140": [
+        "Makishi25"
+      ],
+      "48": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "ScimMLG"
+      ],
+      "17": [
+        "Makishi25"
+      ],
+      "48": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "ScimMLG"
+      ],
+      "17": [
+        "Makishi25"
+      ],
+      "94": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "ScimMLG"
+      ],
+      "157": [
+        "Makishi25"
+      ],
+      "48": [
+        "leekcookie"
+      ]
+    }
+  }
+}

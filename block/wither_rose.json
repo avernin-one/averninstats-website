@@ -1,0 +1,68 @@
+{
+  "name": "wither_rose",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "santemjocko"
+      ],
+      "15": [
+        "lodoss2011"
+      ],
+      "66": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Iglo"
+      ],
+      "185": [
+        "Sayder13xr"
+      ],
+      "3": [
+        "leekcookie"
+      ],
+      "36": [
+        "__kreck"
+      ],
+      "4": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "108": [
+        "__kreck"
+      ],
+      "171": [
+        "iurie"
+      ],
+      "18": [
+        "lodoss2011"
+      ],
+      "310": [
+        "santemjocko"
+      ],
+      "36": [
+        "leekcookie"
+      ],
+      "422": [
+        "Sayder13xr"
+      ]
+    },
+    "used": {
+      "196": [
+        "Sayder13xr"
+      ],
+      "2155": [
+        "__kreck"
+      ],
+      "305": [
+        "iurie"
+      ],
+      "4": [
+        "leekcookie"
+      ]
+    }
+  }
+}

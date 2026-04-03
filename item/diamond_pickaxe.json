@@ -1,0 +1,179 @@
+{
+  "name": "diamond_pickaxe",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Lukas_126",
+        "Mamuschkaz",
+        "Iglo",
+        "owac",
+        "TrashSuperstar",
+        "Cpt_looper"
+      ],
+      "2": [
+        "nitram1572",
+        "Warhazarder"
+      ],
+      "3": [
+        "JonasderGamer"
+      ],
+      "7": [
+        "leekcookie"
+      ],
+      "8": [
+        "iurie"
+      ]
+    },
+    "crafted": {
+      "10": [
+        "__Iglo"
+      ],
+      "11": [
+        "nitram1572",
+        "XeonVirus"
+      ],
+      "15": [
+        "TrashSuperstar"
+      ],
+      "16": [
+        "__kreck"
+      ],
+      "18": [
+        "Warhazarder"
+      ],
+      "40": [
+        "iurie"
+      ],
+      "5": [
+        "santemjocko",
+        "chaos1989",
+        "Cpt_looper",
+        "Lord_HoruS",
+        "Teayo"
+      ],
+      "6": [
+        "owac",
+        "Sayder13xr"
+      ],
+      "8": [
+        "imabaldman"
+      ],
+      "96": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "10": [
+        "DornDasBrot"
+      ],
+      "11": [
+        "owac",
+        "__kreck"
+      ],
+      "18": [
+        "nitram1572"
+      ],
+      "2": [
+        "obvBasti",
+        "TrashSuperstar",
+        "Cpt_looper",
+        "Warhazarder"
+      ],
+      "3": [
+        "lodoss2011",
+        "minenicknick",
+        "Temeraiere",
+        "Teayo"
+      ],
+      "4": [
+        "Makishi25",
+        "__Iglo"
+      ],
+      "5": [
+        "Iglo",
+        "iurie",
+        "JonasderGamer"
+      ],
+      "6": [
+        "imabaldman"
+      ],
+      "8": [
+        "santemjocko",
+        "ScimMLG",
+        "SuperXXLProfi"
+      ],
+      "95": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "14": [
+        "Iglo",
+        "Sayder13xr"
+      ],
+      "17": [
+        "Lord_HoruS"
+      ],
+      "20": [
+        "lodoss2011",
+        "owac",
+        "__kreck"
+      ],
+      "21": [
+        "Warhazarder"
+      ],
+      "23": [
+        "SnuvomBodensatz"
+      ],
+      "26": [
+        "Cpt_looper"
+      ],
+      "32": [
+        "Makishi25"
+      ],
+      "33": [
+        "nitram1572"
+      ],
+      "338": [
+        "leekcookie"
+      ],
+      "34": [
+        "santemjocko",
+        "iurie"
+      ]
+    },
+    "used": {
+      "116206": [
+        "Iglo"
+      ],
+      "37393": [
+        "nitram1572"
+      ],
+      "400611": [
+        "Warhazarder"
+      ],
+      "42617": [
+        "JonasderGamer"
+      ],
+      "43051": [
+        "SnuvomBodensatz"
+      ],
+      "480122": [
+        "iurie"
+      ],
+      "637209": [
+        "leekcookie"
+      ],
+      "642781": [
+        "__kreck"
+      ],
+      "76610": [
+        "owac"
+      ],
+      "90968": [
+        "__Iglo"
+      ]
+    }
+  }
+}

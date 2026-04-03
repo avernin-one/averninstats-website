@@ -1,0 +1,28 @@
+{
+  "name": "sculk_catalyst",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "14": [
+        "XeonVirus"
+      ],
+      "47": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "14": [
+        "XeonVirus"
+      ],
+      "55": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie",
+        "XeonVirus"
+      ]
+    }
+  }
+}

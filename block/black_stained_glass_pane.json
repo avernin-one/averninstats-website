@@ -1,0 +1,63 @@
+{
+  "name": "black_stained_glass_pane",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "16": [
+        "iurie"
+      ],
+      "160": [
+        "imabaldman"
+      ],
+      "32": [
+        "obvBasti"
+      ],
+      "352": [
+        "santemjocko"
+      ],
+      "608": [
+        "Warhazarder"
+      ],
+      "640": [
+        "philxpx"
+      ]
+    },
+    "mined": {
+      "1": [
+        "minenicknick"
+      ],
+      "30": [
+        "philxpx"
+      ],
+      "5": [
+        "imabaldman",
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "23": [
+        "philxpx"
+      ],
+      "49": [
+        "Warhazarder"
+      ],
+      "5": [
+        "imabaldman"
+      ]
+    },
+    "used": {
+      "136": [
+        "imabaldman"
+      ],
+      "16": [
+        "iurie"
+      ],
+      "278": [
+        "philxpx"
+      ],
+      "484": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

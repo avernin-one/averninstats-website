@@ -1,0 +1,71 @@
+{
+  "name": "birch_fence_gate",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "__Iglo"
+      ],
+      "17": [
+        "Mandahaya"
+      ],
+      "24": [
+        "santemjocko"
+      ],
+      "30": [
+        "owac"
+      ],
+      "31": [
+        "lodoss2011"
+      ],
+      "91": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "2": [
+        "lodoss2011",
+        "__Iglo"
+      ],
+      "4": [
+        "owac"
+      ],
+      "5": [
+        "__kreck"
+      ],
+      "6": [
+        "Mandahaya"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "lodoss2011",
+        "__Iglo"
+      ],
+      "5": [
+        "owac",
+        "__kreck"
+      ],
+      "6": [
+        "Mandahaya"
+      ]
+    },
+    "used": {
+      "18": [
+        "lodoss2011"
+      ],
+      "22": [
+        "Mandahaya"
+      ],
+      "27": [
+        "owac"
+      ],
+      "3": [
+        "__Iglo"
+      ],
+      "95": [
+        "__kreck"
+      ]
+    }
+  }
+}

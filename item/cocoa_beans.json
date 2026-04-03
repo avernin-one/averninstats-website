@@ -1,0 +1,94 @@
+{
+  "name": "cocoa_beans",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "__Iglo"
+      ],
+      "10": [
+        "Iglo"
+      ],
+      "12": [
+        "Temeraiere"
+      ],
+      "15": [
+        "leekcookie"
+      ],
+      "2": [
+        "__kreck"
+      ],
+      "3": [
+        "Warhazarder"
+      ],
+      "6": [
+        "ScimMLG",
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "115": [
+        "Iglo"
+      ],
+      "121": [
+        "leekcookie"
+      ],
+      "226": [
+        "DornDasBrot"
+      ],
+      "300": [
+        "Teayo"
+      ],
+      "346": [
+        "santemjocko"
+      ],
+      "366": [
+        "nitram1572"
+      ],
+      "544": [
+        "owac"
+      ],
+      "620": [
+        "XeonVirus"
+      ],
+      "637": [
+        "chaos1989"
+      ],
+      "941": [
+        "Mandahaya"
+      ]
+    },
+    "used": {
+      "11": [
+        "leekcookie"
+      ],
+      "115": [
+        "chaos1989"
+      ],
+      "168": [
+        "Teayo"
+      ],
+      "173": [
+        "nitram1572"
+      ],
+      "191": [
+        "santemjocko"
+      ],
+      "245": [
+        "XeonVirus"
+      ],
+      "28": [
+        "Makishi25"
+      ],
+      "308": [
+        "Mandahaya"
+      ],
+      "49": [
+        "Iglo"
+      ],
+      "72": [
+        "DornDasBrot"
+      ]
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "salmon",
+  "type": "entity",
+  "scores": {
+    "dropped": {
+      "1": [
+        "ScimMLG",
+        "iurie",
+        "nitram1572",
+        "Sayder13xr",
+        "__Iglo"
+      ],
+      "2": [
+        "Warhazarder"
+      ],
+      "5": [
+        "XeonVirus"
+      ],
+      "820": [
+        "leekcookie"
+      ]
+    },
+    "killed": {
+      "11": [
+        "__kreck"
+      ],
+      "17": [
+        "Ivenor"
+      ],
+      "19": [
+        "SnuvomBodensatz"
+      ],
+      "193": [
+        "iurie"
+      ],
+      "20": [
+        "XeonVirus"
+      ],
+      "24": [
+        "StofftierAnabol"
+      ],
+      "26": [
+        "Warhazarder"
+      ],
+      "28": [
+        "minenicknick"
+      ],
+      "34": [
+        "leekcookie"
+      ],
+      "9": [
+        "imabaldman"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "DornDasBrot"
+      ],
+      "121": [
+        "Warhazarder"
+      ],
+      "177": [
+        "iurie"
+      ],
+      "20": [
+        "SnuvomBodensatz"
+      ],
+      "26": [
+        "nitram1572"
+      ],
+      "34": [
+        "StofftierAnabol"
+      ],
+      "42": [
+        "chaos1989"
+      ],
+      "45": [
+        "Ivenor",
+        "XeonVirus"
+      ],
+      "47": [
+        "Mandahaya"
+      ],
+      "544": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "leekcookie",
+        "cqzq",
+        "iurie",
+        "Teayo"
+      ],
+      "2": [
+        "SnuvomBodensatz",
+        "Makishi25",
+        "__kreck"
+      ]
+    }
+  }
+}

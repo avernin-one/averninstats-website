@@ -1,0 +1,164 @@
+{
+  "name": "oak_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1128": [
+        "Makishi25"
+      ],
+      "1524": [
+        "Warhazarder"
+      ],
+      "1636": [
+        "Lord_HoruS"
+      ],
+      "1896": [
+        "iurie"
+      ],
+      "2484": [
+        "leekcookie"
+      ],
+      "3246": [
+        "Teayo"
+      ],
+      "504": [
+        "Mandahaya"
+      ],
+      "528": [
+        "TrashSuperstar"
+      ],
+      "540": [
+        "DornDasBrot"
+      ],
+      "594": [
+        "chaos1989"
+      ]
+    },
+    "dropped": {
+      "4": [
+        "DornDasBrot"
+      ],
+      "45": [
+        "__kreck"
+      ],
+      "5": [
+        "Sayder13xr"
+      ],
+      "58": [
+        "santemjocko"
+      ],
+      "6": [
+        "Iglo",
+        "Telinnor"
+      ],
+      "651": [
+        "leekcookie"
+      ],
+      "7": [
+        "Lord_HoruS"
+      ],
+      "84": [
+        "Teayo"
+      ],
+      "92": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "124": [
+        "DornDasBrot"
+      ],
+      "164": [
+        "leekcookie"
+      ],
+      "41": [
+        "Ivenor"
+      ],
+      "43": [
+        "lodoss2011"
+      ],
+      "441": [
+        "Lord_HoruS"
+      ],
+      "48": [
+        "Warhazarder"
+      ],
+      "55": [
+        "Sayder13xr"
+      ],
+      "56": [
+        "Makishi25"
+      ],
+      "611": [
+        "Teayo"
+      ],
+      "80": [
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "123": [
+        "__Iglo"
+      ],
+      "137": [
+        "DornDasBrot"
+      ],
+      "257": [
+        "egoplayer_Felix"
+      ],
+      "295": [
+        "Cpt_looper"
+      ],
+      "518": [
+        "Lord_HoruS"
+      ],
+      "639": [
+        "leekcookie"
+      ],
+      "67": [
+        "lodoss2011"
+      ],
+      "71": [
+        "santemjocko"
+      ],
+      "822": [
+        "Teayo"
+      ],
+      "97": [
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1471": [
+        "Warhazarder"
+      ],
+      "1773": [
+        "Lord_HoruS"
+      ],
+      "263": [
+        "leekcookie"
+      ],
+      "3681": [
+        "Teayo"
+      ],
+      "452": [
+        "TrashSuperstar"
+      ],
+      "469": [
+        "egoplayer_Felix"
+      ],
+      "476": [
+        "Mandahaya"
+      ],
+      "534": [
+        "DornDasBrot"
+      ],
+      "595": [
+        "chaos1989"
+      ],
+      "751": [
+        "Makishi25"
+      ]
+    }
+  }
+}

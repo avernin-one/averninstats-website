@@ -1,0 +1,48 @@
+{
+  "name": "tall_grass",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "4": [
+        "Warhazarder"
+      ]
+    },
+    "mined": {
+      "146": [
+        "santemjocko"
+      ],
+      "153": [
+        "XeonVirus"
+      ],
+      "168": [
+        "chaos1989"
+      ],
+      "213": [
+        "Telinnor"
+      ],
+      "227": [
+        "Mandahaya"
+      ],
+      "231": [
+        "Warhazarder"
+      ],
+      "298": [
+        "SnuvomBodensatz"
+      ],
+      "486": [
+        "__Iglo"
+      ],
+      "638": [
+        "__kreck"
+      ],
+      "666": [
+        "Teayo"
+      ]
+    },
+    "picked_up": {
+      "6": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

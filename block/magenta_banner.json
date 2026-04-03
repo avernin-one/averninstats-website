@@ -1,0 +1,14 @@
+{
+  "name": "magenta_banner",
+  "type": "block",
+  "scores": {
+    "picked_up": {
+      "1": [
+        "Cpt_looper"
+      ],
+      "4": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

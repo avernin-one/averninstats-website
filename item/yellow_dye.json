@@ -1,0 +1,58 @@
+{
+  "name": "yellow_dye",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "11": [
+        "lodoss2011",
+        "iurie"
+      ],
+      "116": [
+        "SnuvomBodensatz"
+      ],
+      "2": [
+        "Iglo",
+        "nitram1572",
+        "imabaldman",
+        "Warhazarder"
+      ],
+      "23": [
+        "Makishi25"
+      ],
+      "3": [
+        "Mandahaya"
+      ],
+      "390": [
+        "leekcookie"
+      ],
+      "4": [
+        "DornDasBrot"
+      ],
+      "44": [
+        "chaos1989"
+      ],
+      "449": [
+        "__kreck"
+      ],
+      "95": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie"
+      ],
+      "19": [
+        "chaos1989"
+      ],
+      "3": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "__Iglo"
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "magenta_bed",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Mandahaya",
+        "__Iglo"
+      ],
+      "3": [
+        "Iglo"
+      ],
+      "36": [
+        "iurie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Mandahaya",
+        "iurie",
+        "__Iglo",
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Mandahaya",
+        "iurie",
+        "__Iglo"
+      ],
+      "2": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "2": [
+        "Mandahaya",
+        "__Iglo"
+      ],
+      "3": [
+        "Iglo"
+      ],
+      "37": [
+        "iurie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "mangrove_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "168": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "48": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "42": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "163": [
+        "leekcookie"
+      ]
+    }
+  }
+}

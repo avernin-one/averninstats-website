@@ -1,0 +1,58 @@
+{
+  "name": "bubble_coral",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "Cpt_looper"
+      ],
+      "2": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "1": [
+        "owac",
+        "Cpt_looper",
+        "Makishi25"
+      ],
+      "2": [
+        "leekcookie"
+      ],
+      "3": [
+        "santemjocko"
+      ],
+      "5": [
+        "Lord_HoruS"
+      ],
+      "9": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "owac",
+        "Cpt_looper"
+      ],
+      "3": [
+        "santemjocko",
+        "leekcookie"
+      ],
+      "4": [
+        "Lord_HoruS",
+        "Makishi25"
+      ],
+      "9": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "owac"
+      ],
+      "4": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

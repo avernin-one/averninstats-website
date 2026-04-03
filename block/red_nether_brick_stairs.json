@@ -1,0 +1,21 @@
+{
+  "name": "red_nether_brick_stairs",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "16": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "16": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "19": [
+        "santemjocko"
+      ]
+    }
+  }
+}

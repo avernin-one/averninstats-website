@@ -1,0 +1,165 @@
+{
+  "name": "cobbled_deepslate_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1014": [
+        "leekcookie"
+      ],
+      "126": [
+        "XeonVirus"
+      ],
+      "18": [
+        "Warhazarder"
+      ],
+      "24": [
+        "TrashSuperstar",
+        "Cpt_looper",
+        "__Iglo"
+      ],
+      "240": [
+        "Mamuschkaz"
+      ],
+      "256": [
+        "lodoss2011"
+      ],
+      "6": [
+        "santemjocko",
+        "Sayder13xr"
+      ],
+      "62": [
+        "__kreck"
+      ],
+      "748": [
+        "Lord_HoruS"
+      ],
+      "96": [
+        "Ivenor"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Lord_HoruS",
+        "__kreck"
+      ],
+      "252": [
+        "lodoss2011"
+      ],
+      "26": [
+        "Mamuschkaz"
+      ],
+      "3": [
+        "owac",
+        "imabaldman"
+      ],
+      "315": [
+        "leekcookie"
+      ],
+      "6": [
+        "Sayder13xr"
+      ]
+    },
+    "mined": {
+      "144": [
+        "Lord_HoruS"
+      ],
+      "18": [
+        "Mamuschkaz"
+      ],
+      "20": [
+        "imabaldman"
+      ],
+      "258": [
+        "leekcookie"
+      ],
+      "33": [
+        "XeonVirus"
+      ],
+      "531": [
+        "__kreck"
+      ],
+      "6": [
+        "owac"
+      ],
+      "7": [
+        "Sayder13xr"
+      ],
+      "8": [
+        "santemjocko",
+        "SuperXXLProfi",
+        "TrashSuperstar"
+      ],
+      "9": [
+        "Ivenor",
+        "Cpt_looper"
+      ]
+    },
+    "picked_up": {
+      "11": [
+        "Ivenor",
+        "SuperXXLProfi"
+      ],
+      "1203": [
+        "leekcookie"
+      ],
+      "1594": [
+        "__kreck"
+      ],
+      "17": [
+        "santemjocko"
+      ],
+      "20": [
+        "imabaldman",
+        "Sayder13xr"
+      ],
+      "33": [
+        "XeonVirus"
+      ],
+      "457": [
+        "Lord_HoruS"
+      ],
+      "6": [
+        "owac",
+        "TrashSuperstar"
+      ],
+      "70": [
+        "Mamuschkaz"
+      ],
+      "9": [
+        "Cpt_looper"
+      ]
+    },
+    "used": {
+      "107": [
+        "Ivenor"
+      ],
+      "138": [
+        "XeonVirus"
+      ],
+      "17": [
+        "imabaldman"
+      ],
+      "235": [
+        "Mamuschkaz"
+      ],
+      "27": [
+        "__Iglo"
+      ],
+      "29": [
+        "Cpt_looper"
+      ],
+      "412": [
+        "leekcookie"
+      ],
+      "6103": [
+        "__kreck"
+      ],
+      "89": [
+        "SuperXXLProfi"
+      ],
+      "896": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

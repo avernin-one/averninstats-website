@@ -1,0 +1,70 @@
+{
+  "name": "bubble_coral_fan",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "2": [
+        "owac"
+      ],
+      "6": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Sayder13xr",
+        "__kreck"
+      ],
+      "2": [
+        "owac"
+      ],
+      "3": [
+        "leekcookie",
+        "Lord_HoruS"
+      ],
+      "5": [
+        "iurie"
+      ],
+      "6": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "XeonVirus"
+      ],
+      "13": [
+        "leekcookie"
+      ],
+      "22": [
+        "Lord_HoruS"
+      ],
+      "25": [
+        "santemjocko"
+      ],
+      "3": [
+        "owac"
+      ],
+      "42": [
+        "iurie"
+      ],
+      "5": [
+        "Makishi25",
+        "Sayder13xr"
+      ],
+      "8": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "2": [
+        "owac",
+        "Makishi25",
+        "__kreck"
+      ],
+      "40": [
+        "iurie"
+      ]
+    }
+  }
+}

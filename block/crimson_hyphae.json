@@ -1,0 +1,16 @@
+{
+  "name": "crimson_hyphae",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "6": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "4": [
+        "leekcookie"
+      ]
+    }
+  }
+}

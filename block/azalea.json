@@ -1,0 +1,123 @@
+{
+  "name": "azalea",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "minenicknick"
+      ],
+      "122": [
+        "iurie"
+      ],
+      "174": [
+        "__Iglo"
+      ],
+      "2": [
+        "DornDasBrot"
+      ],
+      "203": [
+        "__kreck"
+      ],
+      "29": [
+        "philxpx"
+      ],
+      "444": [
+        "Sayder13xr"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Mandahaya",
+        "Lukas_126",
+        "obvBasti",
+        "minenicknick",
+        "Temeraiere",
+        "Lord_HoruS",
+        "Sayder13xr"
+      ],
+      "13": [
+        "iurie"
+      ],
+      "14": [
+        "TrashSuperstar"
+      ],
+      "19": [
+        "chaos1989"
+      ],
+      "2": [
+        "Iglo"
+      ],
+      "253": [
+        "__kreck"
+      ],
+      "301": [
+        "__Iglo"
+      ],
+      "53": [
+        "philxpx"
+      ],
+      "9": [
+        "SuperXXLProfi"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "santemjocko"
+      ],
+      "14": [
+        "SuperXXLProfi",
+        "TrashSuperstar"
+      ],
+      "2073": [
+        "iurie"
+      ],
+      "27": [
+        "leekcookie"
+      ],
+      "37": [
+        "chaos1989"
+      ],
+      "413": [
+        "__kreck"
+      ],
+      "436": [
+        "Sayder13xr"
+      ],
+      "46": [
+        "philxpx"
+      ],
+      "462": [
+        "__Iglo"
+      ],
+      "8": [
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "1": [
+        "obvBasti",
+        "philxpx",
+        "iurie",
+        "Lord_HoruS"
+      ],
+      "116": [
+        "__Iglo"
+      ],
+      "12": [
+        "TrashSuperstar"
+      ],
+      "2": [
+        "Mandahaya"
+      ],
+      "3": [
+        "santemjocko"
+      ],
+      "5": [
+        "SuperXXLProfi"
+      ],
+      "6": [
+        "__kreck"
+      ]
+    }
+  }
+}

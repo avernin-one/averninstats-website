@@ -1,0 +1,86 @@
+{
+  "name": "red_wool",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "115": [
+        "Makishi25"
+      ],
+      "12": [
+        "chaos1989"
+      ],
+      "3": [
+        "Ivenor"
+      ],
+      "6": [
+        "SnuvomBodensatz",
+        "lodoss2011",
+        "DornDasBrot"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Iglo",
+        "Telinnor"
+      ],
+      "2": [
+        "nitram1572"
+      ],
+      "6": [
+        "lodoss2011"
+      ],
+      "670": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "261": [
+        "leekcookie"
+      ],
+      "5": [
+        "lodoss2011"
+      ]
+    },
+    "picked_up": {
+      "1426": [
+        "leekcookie"
+      ],
+      "182": [
+        "chaos1989"
+      ],
+      "206": [
+        "lodoss2011"
+      ],
+      "33": [
+        "Telinnor"
+      ],
+      "40": [
+        "Iglo"
+      ],
+      "468": [
+        "SnuvomBodensatz"
+      ],
+      "47": [
+        "nitram1572"
+      ],
+      "50": [
+        "Mandahaya"
+      ],
+      "59": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo",
+        "nitram1572"
+      ],
+      "115": [
+        "lodoss2011"
+      ],
+      "744": [
+        "leekcookie"
+      ]
+    }
+  }
+}

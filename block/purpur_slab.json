@@ -1,0 +1,113 @@
+{
+  "name": "purpur_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "126": [
+        "owac"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "iurie"
+      ],
+      "13": [
+        "SnuvomBodensatz"
+      ],
+      "2": [
+        "TrashSuperstar"
+      ],
+      "27": [
+        "owac"
+      ],
+      "3": [
+        "imabaldman"
+      ],
+      "4": [
+        "Lord_HoruS"
+      ],
+      "6": [
+        "lodoss2011"
+      ]
+    },
+    "mined": {
+      "1": [
+        "StofftierAnabol",
+        "Sayder13xr"
+      ],
+      "2": [
+        "TrashSuperstar",
+        "__kreck"
+      ],
+      "28": [
+        "Warhazarder"
+      ],
+      "4": [
+        "lodoss2011"
+      ],
+      "5": [
+        "leekcookie"
+      ],
+      "6": [
+        "Lord_HoruS",
+        "imabaldman"
+      ],
+      "76": [
+        "owac"
+      ],
+      "8": [
+        "iurie"
+      ],
+      "84": [
+        "SnuvomBodensatz"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Sayder13xr"
+      ],
+      "195": [
+        "owac"
+      ],
+      "2": [
+        "StofftierAnabol",
+        "TrashSuperstar"
+      ],
+      "28": [
+        "Warhazarder"
+      ],
+      "3": [
+        "__kreck"
+      ],
+      "5": [
+        "leekcookie",
+        "imabaldman"
+      ],
+      "6": [
+        "Lord_HoruS"
+      ],
+      "77": [
+        "SnuvomBodensatz"
+      ],
+      "9": [
+        "lodoss2011",
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie",
+        "imabaldman",
+        "Sayder13xr",
+        "Warhazarder"
+      ],
+      "107": [
+        "owac"
+      ],
+      "2": [
+        "lodoss2011",
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "diorite_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "leekcookie"
+      ]
+    }
+  }
+}

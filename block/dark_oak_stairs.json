@@ -1,0 +1,143 @@
+{
+  "name": "dark_oak_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1132": [
+        "chaos1989"
+      ],
+      "128": [
+        "ScimMLG"
+      ],
+      "148": [
+        "lodoss2011"
+      ],
+      "152": [
+        "Makishi25"
+      ],
+      "1680": [
+        "iurie"
+      ],
+      "2160": [
+        "Warhazarder"
+      ],
+      "364": [
+        "owac"
+      ],
+      "366": [
+        "Mandahaya"
+      ],
+      "52": [
+        "JonasderGamer"
+      ],
+      "952": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "SuperXXLProfi",
+        "Makishi25"
+      ],
+      "2": [
+        "philxpx"
+      ]
+    },
+    "mined": {
+      "119": [
+        "Warhazarder"
+      ],
+      "12": [
+        "philxpx"
+      ],
+      "184": [
+        "leekcookie"
+      ],
+      "25": [
+        "chaos1989"
+      ],
+      "26": [
+        "imabaldman"
+      ],
+      "29": [
+        "owac"
+      ],
+      "31": [
+        "JonasderGamer"
+      ],
+      "423": [
+        "iurie"
+      ],
+      "57": [
+        "Mandahaya"
+      ],
+      "90": [
+        "ScimMLG"
+      ]
+    },
+    "picked_up": {
+      "16": [
+        "JonasderGamer"
+      ],
+      "184": [
+        "Warhazarder"
+      ],
+      "22": [
+        "chaos1989"
+      ],
+      "26": [
+        "imabaldman"
+      ],
+      "28": [
+        "owac"
+      ],
+      "30": [
+        "Makishi25"
+      ],
+      "311": [
+        "leekcookie"
+      ],
+      "401": [
+        "iurie"
+      ],
+      "57": [
+        "Mandahaya"
+      ],
+      "85": [
+        "ScimMLG"
+      ]
+    },
+    "used": {
+      "102": [
+        "lodoss2011"
+      ],
+      "1137": [
+        "chaos1989"
+      ],
+      "166": [
+        "Makishi25"
+      ],
+      "204": [
+        "ScimMLG"
+      ],
+      "2046": [
+        "iurie"
+      ],
+      "2184": [
+        "Warhazarder"
+      ],
+      "370": [
+        "Mandahaya"
+      ],
+      "389": [
+        "owac"
+      ],
+      "50": [
+        "JonasderGamer"
+      ],
+      "914": [
+        "leekcookie"
+      ]
+    }
+  }
+}

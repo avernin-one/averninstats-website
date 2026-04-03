@@ -1,0 +1,158 @@
+{
+  "name": "observer",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "148": [
+        "Warhazarder"
+      ],
+      "1506": [
+        "iurie"
+      ],
+      "152": [
+        "owac"
+      ],
+      "194": [
+        "Mamuschkaz"
+      ],
+      "216": [
+        "santemjocko"
+      ],
+      "2889": [
+        "leekcookie"
+      ],
+      "416": [
+        "Iglo"
+      ],
+      "609": [
+        "__kreck"
+      ],
+      "68": [
+        "Cpt_looper"
+      ],
+      "74": [
+        "DornDasBrot"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "owac"
+      ],
+      "2": [
+        "Iglo",
+        "Sayder13xr"
+      ],
+      "4": [
+        "Mamuschkaz"
+      ],
+      "48": [
+        "santemjocko"
+      ],
+      "50": [
+        "__Iglo"
+      ],
+      "523": [
+        "leekcookie"
+      ],
+      "6": [
+        "iurie"
+      ]
+    },
+    "mined": {
+      "121": [
+        "__Iglo"
+      ],
+      "123": [
+        "santemjocko"
+      ],
+      "1240": [
+        "iurie"
+      ],
+      "147": [
+        "owac"
+      ],
+      "181": [
+        "Warhazarder"
+      ],
+      "34": [
+        "Mamuschkaz"
+      ],
+      "44": [
+        "Iglo"
+      ],
+      "46": [
+        "Sayder13xr"
+      ],
+      "857": [
+        "leekcookie"
+      ],
+      "96": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "1124": [
+        "iurie"
+      ],
+      "155": [
+        "__kreck"
+      ],
+      "164": [
+        "__Iglo"
+      ],
+      "182": [
+        "santemjocko"
+      ],
+      "216": [
+        "owac"
+      ],
+      "217": [
+        "Warhazarder"
+      ],
+      "2409": [
+        "leekcookie"
+      ],
+      "49": [
+        "Cpt_looper"
+      ],
+      "50": [
+        "Sayder13xr"
+      ],
+      "57": [
+        "Iglo"
+      ]
+    },
+    "used": {
+      "123": [
+        "Iglo"
+      ],
+      "157": [
+        "__Iglo"
+      ],
+      "1775": [
+        "leekcookie"
+      ],
+      "2188": [
+        "iurie"
+      ],
+      "222": [
+        "Mamuschkaz"
+      ],
+      "265": [
+        "santemjocko"
+      ],
+      "280": [
+        "owac"
+      ],
+      "289": [
+        "Warhazarder"
+      ],
+      "298": [
+        "__kreck"
+      ],
+      "97": [
+        "Sayder13xr"
+      ]
+    }
+  }
+}

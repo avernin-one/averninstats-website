@@ -1,0 +1,43 @@
+{
+  "name": "ravager",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1": [
+        "obvBasti",
+        "santemjocko",
+        "XeonVirus"
+      ],
+      "2": [
+        "SnuvomBodensatz",
+        "Lord_HoruS",
+        "imabaldman",
+        "__kreck"
+      ],
+      "24": [
+        "Warhazarder"
+      ],
+      "3": [
+        "__Iglo"
+      ],
+      "4": [
+        "Sayder13xr"
+      ],
+      "5": [
+        "chaos1989"
+      ],
+      "6": [
+        "iurie"
+      ]
+    },
+    "killed_by": {
+      "1": [
+        "iurie",
+        "Lord_HoruS"
+      ],
+      "7": [
+        "leekcookie"
+      ]
+    }
+  }
+}

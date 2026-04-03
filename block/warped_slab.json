@@ -1,0 +1,83 @@
+{
+  "name": "warped_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "108": [
+        "Sayder13xr"
+      ],
+      "126": [
+        "Lord_HoruS"
+      ],
+      "24": [
+        "__Iglo"
+      ],
+      "6": [
+        "Cpt_looper",
+        "Warhazarder"
+      ],
+      "66": [
+        "__kreck"
+      ],
+      "90": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "52": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "1": [
+        "__kreck"
+      ],
+      "2": [
+        "Makishi25"
+      ],
+      "24": [
+        "Sayder13xr"
+      ],
+      "3": [
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "28": [
+        "Sayder13xr"
+      ],
+      "30": [
+        "owac"
+      ],
+      "33": [
+        "Makishi25"
+      ],
+      "4": [
+        "__Iglo"
+      ],
+      "6": [
+        "Warhazarder"
+      ],
+      "77": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "122": [
+        "Sayder13xr"
+      ],
+      "22": [
+        "__Iglo"
+      ],
+      "43": [
+        "__kreck"
+      ],
+      "6": [
+        "Cpt_looper"
+      ],
+      "74": [
+        "Makishi25"
+      ]
+    }
+  }
+}

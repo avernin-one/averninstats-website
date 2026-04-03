@@ -1,0 +1,11 @@
+{
+  "name": "infested_stone",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "3": [
+        "obvBasti"
+      ]
+    }
+  }
+}

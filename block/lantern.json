@@ -1,0 +1,155 @@
+{
+  "name": "lantern",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "130": [
+        "Teayo"
+      ],
+      "146": [
+        "TrashSuperstar"
+      ],
+      "160": [
+        "philxpx"
+      ],
+      "195": [
+        "Makishi25"
+      ],
+      "2149": [
+        "iurie"
+      ],
+      "268": [
+        "lodoss2011"
+      ],
+      "351": [
+        "Warhazarder"
+      ],
+      "395": [
+        "chaos1989"
+      ],
+      "482": [
+        "leekcookie"
+      ],
+      "585": [
+        "__kreck"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "lodoss2011",
+        "owac",
+        "SuperXXLProfi",
+        "__kreck"
+      ],
+      "12": [
+        "__Iglo"
+      ],
+      "2": [
+        "DornDasBrot",
+        "Makishi25"
+      ],
+      "39": [
+        "santemjocko"
+      ],
+      "50": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "12": [
+        "Ivenor"
+      ],
+      "17": [
+        "Makishi25"
+      ],
+      "18": [
+        "__kreck"
+      ],
+      "21": [
+        "ScimMLG"
+      ],
+      "24": [
+        "leekcookie"
+      ],
+      "30": [
+        "XeonVirus"
+      ],
+      "33": [
+        "Warhazarder"
+      ],
+      "40": [
+        "chaos1989"
+      ],
+      "59": [
+        "nitram1572"
+      ],
+      "79": [
+        "lodoss2011"
+      ]
+    },
+    "picked_up": {
+      "1057": [
+        "lodoss2011"
+      ],
+      "117": [
+        "Makishi25"
+      ],
+      "148": [
+        "leekcookie"
+      ],
+      "36": [
+        "santemjocko"
+      ],
+      "40": [
+        "chaos1989"
+      ],
+      "41": [
+        "Ivenor"
+      ],
+      "42": [
+        "Warhazarder"
+      ],
+      "47": [
+        "XeonVirus"
+      ],
+      "64": [
+        "minenicknick"
+      ],
+      "74": [
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "115": [
+        "nitram1572"
+      ],
+      "121": [
+        "Iglo"
+      ],
+      "217": [
+        "Makishi25"
+      ],
+      "239": [
+        "leekcookie"
+      ],
+      "314": [
+        "__kreck"
+      ],
+      "344": [
+        "lodoss2011"
+      ],
+      "378": [
+        "Warhazarder"
+      ],
+      "394": [
+        "chaos1989"
+      ],
+      "90": [
+        "TrashSuperstar"
+      ],
+      "93": [
+        "iurie"
+      ]
+    }
+  }
+}

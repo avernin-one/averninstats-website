@@ -1,0 +1,144 @@
+{
+  "name": "birch_sign",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "12": [
+        "chaos1989"
+      ],
+      "15": [
+        "Lord_HoruS"
+      ],
+      "24": [
+        "Mandahaya",
+        "__kreck"
+      ],
+      "264": [
+        "Teayo"
+      ],
+      "3": [
+        "ScimMLG",
+        "owac",
+        "__Iglo"
+      ],
+      "42": [
+        "imabaldman"
+      ],
+      "48": [
+        "lodoss2011"
+      ],
+      "712": [
+        "leekcookie"
+      ],
+      "9": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "__Iglo"
+      ],
+      "133": [
+        "leekcookie"
+      ],
+      "2": [
+        "imabaldman"
+      ],
+      "20": [
+        "lodoss2011"
+      ],
+      "3": [
+        "owac"
+      ],
+      "7": [
+        "chaos1989"
+      ],
+      "8": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Mandahaya",
+        "lodoss2011"
+      ],
+      "2": [
+        "leekcookie"
+      ],
+      "3": [
+        "__kreck"
+      ],
+      "5": [
+        "Teayo"
+      ],
+      "6": [
+        "imabaldman"
+      ]
+    },
+    "picked_up": {
+      "13": [
+        "imabaldman"
+      ],
+      "143": [
+        "Teayo"
+      ],
+      "168": [
+        "leekcookie"
+      ],
+      "3": [
+        "Iglo",
+        "JonasderGamer"
+      ],
+      "38": [
+        "__kreck"
+      ],
+      "4": [
+        "__Iglo"
+      ],
+      "41": [
+        "lodoss2011"
+      ],
+      "5": [
+        "Mandahaya"
+      ],
+      "6": [
+        "CuzimJxson"
+      ],
+      "9": [
+        "chaos1989"
+      ]
+    },
+    "used": {
+      "12": [
+        "chaos1989"
+      ],
+      "15": [
+        "Lord_HoruS"
+      ],
+      "28": [
+        "Mandahaya"
+      ],
+      "3": [
+        "owac"
+      ],
+      "328": [
+        "Teayo"
+      ],
+      "36": [
+        "__kreck"
+      ],
+      "451": [
+        "leekcookie"
+      ],
+      "52": [
+        "imabaldman"
+      ],
+      "6": [
+        "__Iglo"
+      ],
+      "65": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

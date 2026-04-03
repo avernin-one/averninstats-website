@@ -1,0 +1,157 @@
+{
+  "name": "iron_chestplate",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "lodoss2011",
+        "DornDasBrot"
+      ],
+      "3": [
+        "Mandahaya"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "Lukas_126",
+        "Mamuschkaz",
+        "philxpx",
+        "Ivenor",
+        "SuperXXLProfi",
+        "StofftierAnabol",
+        "TrashSuperstar",
+        "nitram1572",
+        "DornDasBrot",
+        "lu0de",
+        "Warhazarder",
+        "XeonVirus"
+      ],
+      "10": [
+        "__Iglo",
+        "__kreck"
+      ],
+      "18": [
+        "Iglo"
+      ],
+      "2": [
+        "leekcookie",
+        "owac",
+        "Temeraiere",
+        "imabaldman"
+      ],
+      "20": [
+        "iurie"
+      ],
+      "3": [
+        "SnuvomBodensatz",
+        "chaos1989",
+        "Austriana",
+        "Cpt_looper",
+        "Makishi25",
+        "Sayder13xr"
+      ],
+      "5": [
+        "Mandahaya",
+        "Lord_HoruS"
+      ],
+      "7": [
+        "santemjocko",
+        "lodoss2011"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "KleeneEle",
+        "SuperXXLProfi",
+        "Telinnor",
+        "TrashSuperstar"
+      ],
+      "2": [
+        "philxpx",
+        "Lord_HoruS"
+      ],
+      "22": [
+        "Iglo"
+      ],
+      "3": [
+        "lodoss2011",
+        "leekcookie",
+        "Mamuschkaz",
+        "Temeraiere",
+        "__kreck"
+      ],
+      "4": [
+        "Makishi25"
+      ],
+      "5": [
+        "santemjocko"
+      ],
+      "6": [
+        "imabaldman"
+      ],
+      "8": [
+        "owac"
+      ],
+      "9": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "santemjocko",
+        "lodoss2011",
+        "owac"
+      ],
+      "13": [
+        "Cpt_looper"
+      ],
+      "15": [
+        "iurie",
+        "__kreck"
+      ],
+      "19": [
+        "Iglo"
+      ],
+      "21": [
+        "Lord_HoruS"
+      ],
+      "24": [
+        "Mandahaya"
+      ],
+      "3": [
+        "chaos1989",
+        "leekcookie",
+        "Austriana",
+        "nitram1572",
+        "Warhazarder"
+      ],
+      "4": [
+        "Temeraiere"
+      ],
+      "5": [
+        "JonasderGamer",
+        "DornDasBrot"
+      ],
+      "9": [
+        "Makishi25",
+        "imabaldman"
+      ]
+    },
+    "used": {
+      "1": [
+        "PopCat007",
+        "iurie",
+        "Telinnor",
+        "StofftierAnabol",
+        "JonasderGamer",
+        "Makishi25",
+        "imabaldman",
+        "Sayder13xr"
+      ],
+      "2": [
+        "Iglo",
+        "Temeraiere"
+      ]
+    }
+  }
+}

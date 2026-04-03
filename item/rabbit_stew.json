@@ -1,0 +1,20 @@
+{
+  "name": "rabbit_stew",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "iurie"
+      ],
+      "10": [
+        "Teayo"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie",
+        "Teayo"
+      ]
+    }
+  }
+}

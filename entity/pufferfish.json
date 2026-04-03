@@ -1,0 +1,79 @@
+{
+  "name": "pufferfish",
+  "type": "entity",
+  "scores": {
+    "dropped": {
+      "1": [
+        "TrashSuperstar"
+      ],
+      "115": [
+        "leekcookie"
+      ],
+      "12": [
+        "chaos1989"
+      ],
+      "2": [
+        "owac"
+      ],
+      "3": [
+        "XeonVirus"
+      ]
+    },
+    "killed": {
+      "1": [
+        "chaos1989",
+        "XeonVirus"
+      ],
+      "11": [
+        "iurie"
+      ],
+      "3": [
+        "owac"
+      ],
+      "6": [
+        "Iglo"
+      ],
+      "9": [
+        "leekcookie",
+        "DornDasBrot"
+      ]
+    },
+    "picked_up": {
+      "15": [
+        "XeonVirus"
+      ],
+      "16": [
+        "DornDasBrot"
+      ],
+      "21": [
+        "nitram1572"
+      ],
+      "266": [
+        "leekcookie"
+      ],
+      "3": [
+        "__kreck"
+      ],
+      "38": [
+        "Mandahaya"
+      ],
+      "39": [
+        "Warhazarder"
+      ],
+      "52": [
+        "chaos1989"
+      ],
+      "6": [
+        "Iglo"
+      ],
+      "9": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ]
+    }
+  }
+}

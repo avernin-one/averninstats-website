@@ -1,0 +1,153 @@
+{
+  "name": "oak_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1124": [
+        "egoplayer_Felix"
+      ],
+      "1176": [
+        "Warhazarder"
+      ],
+      "1204": [
+        "Teayo"
+      ],
+      "124": [
+        "nitram1572"
+      ],
+      "1292": [
+        "Makishi25"
+      ],
+      "144": [
+        "Ivenor"
+      ],
+      "204": [
+        "TrashSuperstar"
+      ],
+      "210": [
+        "Mandahaya"
+      ],
+      "336": [
+        "Lord_HoruS"
+      ],
+      "504": [
+        "chaos1989"
+      ]
+    },
+    "dropped": {
+      "12": [
+        "__kreck",
+        "Teayo"
+      ],
+      "2": [
+        "Austriana"
+      ],
+      "3": [
+        "Telinnor"
+      ],
+      "38": [
+        "Mamuschkaz"
+      ],
+      "6": [
+        "Sayder13xr"
+      ]
+    },
+    "mined": {
+      "243": [
+        "Teayo"
+      ],
+      "30": [
+        "ScimMLG",
+        "Telinnor"
+      ],
+      "34": [
+        "Ivenor"
+      ],
+      "52": [
+        "Mandahaya"
+      ],
+      "54": [
+        "Sayder13xr"
+      ],
+      "55": [
+        "Warhazarder"
+      ],
+      "592": [
+        "Makishi25"
+      ],
+      "63": [
+        "egoplayer_Felix"
+      ],
+      "66": [
+        "DornDasBrot"
+      ],
+      "73": [
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "137": [
+        "egoplayer_Felix"
+      ],
+      "34": [
+        "Ivenor"
+      ],
+      "359": [
+        "Teayo"
+      ],
+      "40": [
+        "Mamuschkaz"
+      ],
+      "52": [
+        "Mandahaya"
+      ],
+      "54": [
+        "Warhazarder"
+      ],
+      "57": [
+        "Sayder13xr"
+      ],
+      "632": [
+        "Makishi25"
+      ],
+      "64": [
+        "DornDasBrot"
+      ],
+      "74": [
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1103": [
+        "Warhazarder"
+      ],
+      "1184": [
+        "egoplayer_Felix"
+      ],
+      "1362": [
+        "Teayo"
+      ],
+      "154": [
+        "Ivenor"
+      ],
+      "1691": [
+        "Makishi25"
+      ],
+      "184": [
+        "nitram1572"
+      ],
+      "197": [
+        "TrashSuperstar"
+      ],
+      "253": [
+        "Mandahaya"
+      ],
+      "318": [
+        "Lord_HoruS"
+      ],
+      "320": [
+        "chaos1989"
+      ]
+    }
+  }
+}

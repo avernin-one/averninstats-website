@@ -1,0 +1,144 @@
+{
+  "name": "bow",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Telinnor",
+        "Teayo"
+      ]
+    },
+    "crafted": {
+      "1115": [
+        "iurie"
+      ],
+      "144": [
+        "__Iglo"
+      ],
+      "28": [
+        "XeonVirus"
+      ],
+      "29": [
+        "__kreck"
+      ],
+      "31": [
+        "Teayo"
+      ],
+      "328": [
+        "leekcookie"
+      ],
+      "38": [
+        "Iglo",
+        "nitram1572"
+      ],
+      "47": [
+        "lodoss2011"
+      ],
+      "494": [
+        "owac"
+      ],
+      "80": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "10": [
+        "santemjocko",
+        "lodoss2011"
+      ],
+      "12": [
+        "DornDasBrot"
+      ],
+      "1236": [
+        "iurie"
+      ],
+      "15": [
+        "Iglo"
+      ],
+      "177": [
+        "__Iglo"
+      ],
+      "18": [
+        "__kreck"
+      ],
+      "25": [
+        "XeonVirus"
+      ],
+      "268": [
+        "leekcookie"
+      ],
+      "439": [
+        "owac"
+      ],
+      "44": [
+        "Sayder13xr"
+      ]
+    },
+    "picked_up": {
+      "188": [
+        "__Iglo"
+      ],
+      "269": [
+        "leekcookie"
+      ],
+      "28": [
+        "Teayo"
+      ],
+      "30": [
+        "Makishi25",
+        "Warhazarder",
+        "__kreck"
+      ],
+      "36": [
+        "chaos1989"
+      ],
+      "37": [
+        "XeonVirus"
+      ],
+      "468": [
+        "iurie"
+      ],
+      "50": [
+        "DornDasBrot"
+      ],
+      "63": [
+        "Sayder13xr"
+      ],
+      "87": [
+        "lodoss2011"
+      ]
+    },
+    "used": {
+      "1038": [
+        "nitram1572"
+      ],
+      "1103": [
+        "lodoss2011"
+      ],
+      "1238": [
+        "Lord_HoruS"
+      ],
+      "1311": [
+        "Iglo"
+      ],
+      "1458": [
+        "chaos1989"
+      ],
+      "1490": [
+        "TrashSuperstar"
+      ],
+      "1669": [
+        "__Iglo"
+      ],
+      "2095": [
+        "__kreck"
+      ],
+      "2870": [
+        "Warhazarder"
+      ],
+      "5941": [
+        "iurie"
+      ]
+    }
+  }
+}

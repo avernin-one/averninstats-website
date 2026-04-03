@@ -1,0 +1,55 @@
+{
+  "name": "blue_dye",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "103": [
+        "Teayo"
+      ],
+      "1341": [
+        "__kreck"
+      ],
+      "139": [
+        "santemjocko"
+      ],
+      "211": [
+        "leekcookie"
+      ],
+      "29": [
+        "iurie"
+      ],
+      "40": [
+        "imabaldman"
+      ],
+      "455": [
+        "__Iglo"
+      ],
+      "47": [
+        "Iglo"
+      ],
+      "65": [
+        "lodoss2011"
+      ],
+      "88": [
+        "XeonVirus"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "iurie"
+      ],
+      "29": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "leekcookie",
+        "iurie"
+      ],
+      "4": [
+        "__kreck"
+      ]
+    }
+  }
+}

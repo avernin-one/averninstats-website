@@ -1,0 +1,56 @@
+{
+  "name": "red_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "7511": [
+        "owac"
+      ],
+      "8": [
+        "Der_Sani"
+      ]
+    },
+    "dropped": {
+      "7": [
+        "owac"
+      ]
+    },
+    "mined": {
+      "4": [
+        "Der_Sani",
+        "philxpx"
+      ],
+      "59": [
+        "iurie"
+      ],
+      "653": [
+        "owac"
+      ],
+      "80": [
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "240": [
+        "Warhazarder"
+      ],
+      "3": [
+        "Der_Sani"
+      ],
+      "59": [
+        "iurie"
+      ],
+      "650": [
+        "owac"
+      ]
+    },
+    "used": {
+      "4": [
+        "Der_Sani"
+      ],
+      "8154": [
+        "owac"
+      ]
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "name": "white_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "40": [
+        "imabaldman"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "__Iglo",
+        "__kreck"
+      ],
+      "2": [
+        "Iglo"
+      ],
+      "236": [
+        "owac"
+      ],
+      "3": [
+        "philxpx"
+      ],
+      "4": [
+        "nitram1572",
+        "JonasderGamer"
+      ]
+    },
+    "mined": {
+      "128": [
+        "leekcookie"
+      ],
+      "158": [
+        "iurie"
+      ],
+      "1604": [
+        "Cpt_looper"
+      ],
+      "1874": [
+        "__kreck"
+      ],
+      "196": [
+        "chaos1989"
+      ],
+      "2105": [
+        "JonasderGamer"
+      ],
+      "2580": [
+        "owac"
+      ],
+      "280": [
+        "nitram1572"
+      ],
+      "308": [
+        "SnuvomBodensatz"
+      ],
+      "47": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "128": [
+        "leekcookie"
+      ],
+      "158": [
+        "iurie"
+      ],
+      "1604": [
+        "Cpt_looper"
+      ],
+      "1684": [
+        "JonasderGamer"
+      ],
+      "192": [
+        "chaos1989"
+      ],
+      "2876": [
+        "owac"
+      ],
+      "308": [
+        "SnuvomBodensatz"
+      ],
+      "405": [
+        "nitram1572"
+      ],
+      "50": [
+        "Makishi25"
+      ],
+      "8": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo",
+        "__kreck"
+      ],
+      "199": [
+        "nitram1572"
+      ],
+      "2": [
+        "JonasderGamer"
+      ],
+      "2154": [
+        "owac"
+      ],
+      "3": [
+        "__Iglo"
+      ],
+      "4": [
+        "Teayo"
+      ],
+      "74": [
+        "SnuvomBodensatz"
+      ]
+    }
+  }
+}

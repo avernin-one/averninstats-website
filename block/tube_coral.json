@@ -1,0 +1,49 @@
+{
+  "name": "tube_coral",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "4": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "santemjocko",
+        "KleeneEle",
+        "TrashSuperstar"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "74": [
+        "leekcookie"
+      ],
+      "8": [
+        "Lord_HoruS"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "santemjocko"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "77": [
+        "leekcookie"
+      ],
+      "8": [
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "12": [
+        "leekcookie"
+      ],
+      "8": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

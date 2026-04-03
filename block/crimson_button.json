@@ -1,0 +1,32 @@
+{
+  "name": "crimson_button",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "4": [
+        "Iglo"
+      ],
+      "64": [
+        "Makishi25"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "Makishi25"
+      ],
+      "4": [
+        "Iglo"
+      ]
+    }
+  }
+}

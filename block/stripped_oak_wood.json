@@ -1,0 +1,34 @@
+{
+  "name": "stripped_oak_wood",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "Sayder13xr"
+      ],
+      "2": [
+        "owac",
+        "Cpt_looper",
+        "Makishi25"
+      ],
+      "8": [
+        "Teayo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Sayder13xr"
+      ],
+      "2": [
+        "Cpt_looper",
+        "Makishi25"
+      ],
+      "3": [
+        "owac"
+      ],
+      "8": [
+        "Teayo"
+      ]
+    }
+  }
+}

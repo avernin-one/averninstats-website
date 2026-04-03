@@ -1,0 +1,53 @@
+{
+  "name": "spore_blossom",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "2": [
+        "owac",
+        "Makishi25"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Lukas_126",
+        "chaos1989",
+        "Ivenor",
+        "iurie"
+      ],
+      "2": [
+        "owac"
+      ],
+      "4": [
+        "TrashSuperstar",
+        "imabaldman"
+      ],
+      "5": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Ivenor",
+        "iurie"
+      ],
+      "2": [
+        "chaos1989",
+        "owac",
+        "Makishi25"
+      ],
+      "4": [
+        "TrashSuperstar",
+        "imabaldman"
+      ],
+      "5": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "4": [
+        "TrashSuperstar"
+      ]
+    }
+  }
+}

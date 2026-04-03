@@ -1,0 +1,102 @@
+{
+  "name": "gold_nugget",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1024": [
+        "minenicknick"
+      ],
+      "1109": [
+        "Ivenor"
+      ],
+      "1125": [
+        "Sayder13xr"
+      ],
+      "2304": [
+        "__Iglo"
+      ],
+      "232": [
+        "Lord_HoruS"
+      ],
+      "342": [
+        "obvBasti"
+      ],
+      "4599": [
+        "__kreck"
+      ],
+      "495": [
+        "Cpt_looper"
+      ],
+      "576": [
+        "imabaldman"
+      ],
+      "684": [
+        "chaos1989"
+      ]
+    },
+    "dropped": {
+      "101": [
+        "owac"
+      ],
+      "125": [
+        "leekcookie"
+      ],
+      "132": [
+        "santemjocko"
+      ],
+      "1800": [
+        "__kreck"
+      ],
+      "186": [
+        "imabaldman"
+      ],
+      "213": [
+        "minenicknick"
+      ],
+      "26101": [
+        "__Iglo"
+      ],
+      "42489": [
+        "iurie"
+      ],
+      "48": [
+        "DornDasBrot"
+      ],
+      "70": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "1202": [
+        "philxpx"
+      ],
+      "1233": [
+        "chaos1989"
+      ],
+      "1447": [
+        "lodoss2011"
+      ],
+      "1610": [
+        "Mamuschkaz"
+      ],
+      "1987": [
+        "santemjocko"
+      ],
+      "26117": [
+        "__Iglo"
+      ],
+      "3009": [
+        "TrashSuperstar"
+      ],
+      "3388": [
+        "Warhazarder"
+      ],
+      "42835": [
+        "iurie"
+      ],
+      "5732": [
+        "__kreck"
+      ]
+    }
+  }
+}

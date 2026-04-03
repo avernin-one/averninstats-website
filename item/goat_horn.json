@@ -1,0 +1,11 @@
+{
+  "name": "goat_horn",
+  "type": "item",
+  "scores": {
+    "picked_up": {
+      "1": [
+        "iurie"
+      ]
+    }
+  }
+}

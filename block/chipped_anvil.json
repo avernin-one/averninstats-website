@@ -1,0 +1,105 @@
+{
+  "name": "chipped_anvil",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "philxpx",
+        "imabaldman"
+      ],
+      "3": [
+        "minenicknick"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Iglo",
+        "Makishi25",
+        "Sayder13xr",
+        "__Iglo"
+      ],
+      "13": [
+        "minenicknick"
+      ],
+      "2": [
+        "santemjocko",
+        "Lord_HoruS"
+      ],
+      "3": [
+        "philxpx",
+        "imabaldman"
+      ],
+      "4": [
+        "lodoss2011",
+        "owac"
+      ],
+      "6": [
+        "leekcookie"
+      ],
+      "7": [
+        "SuperXXLProfi"
+      ],
+      "8": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Iglo",
+        "Makishi25",
+        "Sayder13xr",
+        "__Iglo"
+      ],
+      "17": [
+        "minenicknick"
+      ],
+      "2": [
+        "santemjocko",
+        "Lord_HoruS"
+      ],
+      "4": [
+        "lodoss2011",
+        "owac",
+        "imabaldman"
+      ],
+      "6": [
+        "philxpx"
+      ],
+      "7": [
+        "leekcookie",
+        "SuperXXLProfi"
+      ],
+      "8": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo",
+        "Makishi25",
+        "Sayder13xr",
+        "__Iglo"
+      ],
+      "12": [
+        "minenicknick"
+      ],
+      "2": [
+        "santemjocko",
+        "Lord_HoruS",
+        "imabaldman"
+      ],
+      "3": [
+        "lodoss2011",
+        "philxpx",
+        "owac"
+      ],
+      "4": [
+        "leekcookie"
+      ],
+      "7": [
+        "iurie",
+        "SuperXXLProfi"
+      ]
+    }
+  }
+}

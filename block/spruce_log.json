@@ -1,0 +1,134 @@
+{
+  "name": "spruce_log",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1025": [
+        "__Iglo"
+      ],
+      "110": [
+        "Mamuschkaz"
+      ],
+      "18": [
+        "XeonVirus"
+      ],
+      "19": [
+        "philxpx"
+      ],
+      "256": [
+        "owac"
+      ],
+      "318": [
+        "__kreck"
+      ],
+      "3555": [
+        "leekcookie"
+      ],
+      "47": [
+        "lodoss2011"
+      ],
+      "64": [
+        "SuperXXLProfi"
+      ],
+      "736": [
+        "JonasderGamer"
+      ]
+    },
+    "mined": {
+      "10576": [
+        "TrashSuperstar"
+      ],
+      "10605": [
+        "lodoss2011"
+      ],
+      "16984": [
+        "__kreck"
+      ],
+      "2790": [
+        "__Iglo"
+      ],
+      "2889": [
+        "JonasderGamer"
+      ],
+      "2927": [
+        "chaos1989"
+      ],
+      "4688": [
+        "owac"
+      ],
+      "5479": [
+        "Mamuschkaz"
+      ],
+      "5502": [
+        "leekcookie"
+      ],
+      "8656": [
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "10587": [
+        "TrashSuperstar"
+      ],
+      "11228": [
+        "lodoss2011"
+      ],
+      "17933": [
+        "__kreck"
+      ],
+      "2893": [
+        "Makishi25"
+      ],
+      "2915": [
+        "chaos1989"
+      ],
+      "3809": [
+        "__Iglo"
+      ],
+      "5738": [
+        "owac"
+      ],
+      "6279": [
+        "Mamuschkaz"
+      ],
+      "8435": [
+        "leekcookie"
+      ],
+      "8744": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "1063": [
+        "Warhazarder"
+      ],
+      "1245": [
+        "Mamuschkaz"
+      ],
+      "1443": [
+        "Makishi25"
+      ],
+      "193": [
+        "__kreck"
+      ],
+      "246": [
+        "Ivenor"
+      ],
+      "412": [
+        "TrashSuperstar"
+      ],
+      "5194": [
+        "lodoss2011"
+      ],
+      "722": [
+        "Mandahaya"
+      ],
+      "834": [
+        "leekcookie"
+      ],
+      "860": [
+        "chaos1989"
+      ]
+    }
+  }
+}

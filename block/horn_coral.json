@@ -1,0 +1,46 @@
+{
+  "name": "horn_coral",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "12": [
+        "leekcookie"
+      ],
+      "2": [
+        "Lord_HoruS",
+        "__kreck"
+      ],
+      "3": [
+        "santemjocko"
+      ],
+      "7": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Lord_HoruS",
+        "__kreck"
+      ],
+      "11": [
+        "leekcookie"
+      ],
+      "3": [
+        "santemjocko"
+      ],
+      "4": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

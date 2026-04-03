@@ -1,0 +1,95 @@
+{
+  "name": "cobbled_deepslate_wall",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "SuperXXLProfi"
+      ],
+      "1181": [
+        "leekcookie"
+      ],
+      "12": [
+        "santemjocko"
+      ],
+      "1988": [
+        "Lord_HoruS"
+      ],
+      "6": [
+        "Sayder13xr",
+        "Warhazarder"
+      ]
+    },
+    "dropped": {
+      "16": [
+        "Lord_HoruS"
+      ],
+      "307": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "owac",
+        "Warhazarder"
+      ],
+      "188": [
+        "leekcookie"
+      ],
+      "3": [
+        "Sayder13xr"
+      ],
+      "843": [
+        "Lord_HoruS"
+      ],
+      "9": [
+        "Telinnor"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "owac",
+        "Warhazarder"
+      ],
+      "3": [
+        "Sayder13xr"
+      ],
+      "460": [
+        "leekcookie"
+      ],
+      "8": [
+        "santemjocko"
+      ],
+      "825": [
+        "Lord_HoruS"
+      ],
+      "9": [
+        "Telinnor"
+      ]
+    },
+    "used": {
+      "1": [
+        "owac",
+        "SuperXXLProfi"
+      ],
+      "2094": [
+        "Lord_HoruS"
+      ],
+      "225": [
+        "leekcookie"
+      ],
+      "4": [
+        "santemjocko"
+      ],
+      "5": [
+        "Sayder13xr"
+      ],
+      "6": [
+        "Warhazarder"
+      ],
+      "9": [
+        "Telinnor"
+      ]
+    }
+  }
+}

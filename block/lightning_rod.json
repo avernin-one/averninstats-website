@@ -1,0 +1,145 @@
+{
+  "name": "lightning_rod",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "owac",
+        "iurie",
+        "__kreck"
+      ],
+      "127": [
+        "Cpt_looper"
+      ],
+      "1790": [
+        "Lord_HoruS"
+      ],
+      "2": [
+        "santemjocko"
+      ],
+      "3": [
+        "leekcookie"
+      ],
+      "4": [
+        "Warhazarder"
+      ],
+      "78": [
+        "SnuvomBodensatz"
+      ],
+      "82": [
+        "chaos1989"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "leekcookie"
+      ],
+      "4": [
+        "Lord_HoruS"
+      ]
+    },
+    "mined": {
+      "1": [
+        "santemjocko",
+        "leekcookie",
+        "SuperXXLProfi",
+        "imabaldman"
+      ],
+      "19": [
+        "SnuvomBodensatz"
+      ],
+      "2": [
+        "owac",
+        "iurie"
+      ],
+      "23": [
+        "Cpt_looper"
+      ],
+      "3": [
+        "lodoss2011",
+        "Teayo"
+      ],
+      "34": [
+        "__kreck"
+      ],
+      "355": [
+        "Lord_HoruS"
+      ],
+      "5": [
+        "XeonVirus"
+      ],
+      "7": [
+        "chaos1989",
+        "DornDasBrot"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "santemjocko",
+        "leekcookie",
+        "SuperXXLProfi",
+        "imabaldman"
+      ],
+      "19": [
+        "SnuvomBodensatz"
+      ],
+      "2": [
+        "owac",
+        "iurie"
+      ],
+      "23": [
+        "Cpt_looper"
+      ],
+      "3": [
+        "lodoss2011",
+        "Teayo"
+      ],
+      "33": [
+        "__kreck"
+      ],
+      "403": [
+        "Lord_HoruS"
+      ],
+      "5": [
+        "XeonVirus"
+      ],
+      "7": [
+        "chaos1989",
+        "DornDasBrot"
+      ]
+    },
+    "used": {
+      "1": [
+        "lodoss2011",
+        "SuperXXLProfi",
+        "imabaldman"
+      ],
+      "1688": [
+        "Lord_HoruS"
+      ],
+      "2": [
+        "leekcookie",
+        "iurie"
+      ],
+      "23": [
+        "Cpt_looper"
+      ],
+      "3": [
+        "santemjocko",
+        "owac",
+        "Teayo"
+      ],
+      "4": [
+        "Warhazarder",
+        "XeonVirus"
+      ],
+      "7": [
+        "chaos1989",
+        "DornDasBrot"
+      ],
+      "97": [
+        "SnuvomBodensatz"
+      ]
+    }
+  }
+}

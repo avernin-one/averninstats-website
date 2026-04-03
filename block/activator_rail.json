@@ -1,0 +1,139 @@
+{
+  "name": "activator_rail",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "12": [
+        "owac",
+        "Sayder13xr",
+        "XeonVirus"
+      ],
+      "156": [
+        "iurie"
+      ],
+      "24": [
+        "imabaldman"
+      ],
+      "42": [
+        "leekcookie",
+        "__Iglo"
+      ],
+      "6": [
+        "santemjocko",
+        "nitram1572"
+      ]
+    },
+    "dropped": {
+      "12": [
+        "Iglo"
+      ],
+      "2": [
+        "imabaldman"
+      ],
+      "3": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "JonasderGamer"
+      ],
+      "10": [
+        "Sayder13xr"
+      ],
+      "13": [
+        "XeonVirus"
+      ],
+      "17": [
+        "owac"
+      ],
+      "2": [
+        "santemjocko",
+        "__Iglo"
+      ],
+      "21": [
+        "imabaldman"
+      ],
+      "23": [
+        "iurie"
+      ],
+      "3": [
+        "__kreck"
+      ],
+      "7": [
+        "Iglo"
+      ],
+      "8": [
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "11": [
+        "Iglo"
+      ],
+      "164": [
+        "leekcookie"
+      ],
+      "21": [
+        "imabaldman"
+      ],
+      "24": [
+        "iurie",
+        "Makishi25"
+      ],
+      "25": [
+        "XeonVirus"
+      ],
+      "27": [
+        "owac"
+      ],
+      "37": [
+        "__kreck"
+      ],
+      "4": [
+        "Sayder13xr",
+        "__Iglo"
+      ],
+      "6": [
+        "santemjocko"
+      ],
+      "8": [
+        "nitram1572",
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "10": [
+        "nitram1572"
+      ],
+      "11": [
+        "leekcookie"
+      ],
+      "13": [
+        "XeonVirus"
+      ],
+      "14": [
+        "Sayder13xr"
+      ],
+      "2": [
+        "santemjocko",
+        "__kreck"
+      ],
+      "24": [
+        "owac"
+      ],
+      "36": [
+        "iurie"
+      ],
+      "39": [
+        "imabaldman"
+      ],
+      "4": [
+        "__Iglo"
+      ],
+      "7": [
+        "Iglo"
+      ]
+    }
+  }
+}

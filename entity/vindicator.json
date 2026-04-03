@@ -1,0 +1,57 @@
+{
+  "name": "vindicator",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1004": [
+        "obvBasti"
+      ],
+      "1056": [
+        "iurie"
+      ],
+      "122": [
+        "Warhazarder"
+      ],
+      "15": [
+        "chaos1989",
+        "Lord_HoruS",
+        "Sayder13xr",
+        "__kreck"
+      ],
+      "18": [
+        "__Iglo"
+      ],
+      "22": [
+        "SnuvomBodensatz"
+      ],
+      "460312": [
+        "leekcookie"
+      ],
+      "52463": [
+        "owac"
+      ],
+      "6015": [
+        "imabaldman"
+      ],
+      "8342": [
+        "philxpx"
+      ]
+    },
+    "killed_by": {
+      "1": [
+        "SnuvomBodensatz",
+        "Warhazarder"
+      ],
+      "2": [
+        "lodoss2011",
+        "iurie"
+      ],
+      "4": [
+        "XeonVirus"
+      ],
+      "8": [
+        "leekcookie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "name": "polished_deepslate",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1176": [
+        "santemjocko"
+      ],
+      "1340": [
+        "Sayder13xr"
+      ],
+      "17220": [
+        "Iglo"
+      ],
+      "1748": [
+        "philxpx"
+      ],
+      "2116": [
+        "TrashSuperstar"
+      ],
+      "31216": [
+        "iurie"
+      ],
+      "42168": [
+        "leekcookie"
+      ],
+      "6008": [
+        "__Iglo"
+      ],
+      "704": [
+        "__kreck"
+      ],
+      "9857": [
+        "SuperXXLProfi"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Mamuschkaz"
+      ],
+      "129": [
+        "Iglo",
+        "__Iglo"
+      ],
+      "2": [
+        "owac",
+        "Warhazarder"
+      ],
+      "3": [
+        "santemjocko",
+        "XeonVirus"
+      ],
+      "354": [
+        "__kreck"
+      ],
+      "4": [
+        "JonasderGamer"
+      ],
+      "522": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1120": [
+        "iurie"
+      ],
+      "199": [
+        "Iglo"
+      ],
+      "267": [
+        "leekcookie"
+      ],
+      "32": [
+        "__Iglo"
+      ],
+      "42": [
+        "santemjocko"
+      ],
+      "49": [
+        "__kreck"
+      ],
+      "6": [
+        "Warhazarder"
+      ],
+      "72": [
+        "philxpx"
+      ],
+      "8": [
+        "Lukas_126"
+      ],
+      "84": [
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "1081": [
+        "iurie"
+      ],
+      "1268": [
+        "leekcookie"
+      ],
+      "24": [
+        "santemjocko"
+      ],
+      "281": [
+        "__Iglo"
+      ],
+      "322": [
+        "Iglo"
+      ],
+      "6": [
+        "nitram1572"
+      ],
+      "668": [
+        "__kreck"
+      ],
+      "72": [
+        "philxpx"
+      ],
+      "76": [
+        "XeonVirus"
+      ],
+      "8": [
+        "Lukas_126",
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "1047": [
+        "Iglo"
+      ],
+      "18845": [
+        "iurie"
+      ],
+      "354": [
+        "XeonVirus"
+      ],
+      "3753": [
+        "__kreck"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "416": [
+        "philxpx"
+      ],
+      "468": [
+        "leekcookie"
+      ],
+      "48": [
+        "Lukas_126"
+      ],
+      "785": [
+        "santemjocko"
+      ],
+      "8": [
+        "imabaldman",
+        "Warhazarder"
+      ]
+    }
+  }
+}

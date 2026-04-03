@@ -1,0 +1,78 @@
+{
+  "name": "netherite_leggings",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "lodoss2011",
+        "philxpx",
+        "SuperXXLProfi",
+        "Cpt_looper",
+        "imabaldman",
+        "Sayder13xr",
+        "__kreck"
+      ],
+      "2": [
+        "TrashSuperstar",
+        "Lord_HoruS"
+      ],
+      "3": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "santemjocko",
+        "minenicknick",
+        "leekcookie",
+        "__kreck"
+      ],
+      "2": [
+        "philxpx"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "Mamuschkaz"
+      ],
+      "15": [
+        "lodoss2011"
+      ],
+      "22": [
+        "santemjocko"
+      ],
+      "29": [
+        "leekcookie"
+      ],
+      "4": [
+        "SuperXXLProfi"
+      ],
+      "5": [
+        "__Iglo"
+      ],
+      "6": [
+        "philxpx"
+      ],
+      "7": [
+        "Lord_HoruS"
+      ],
+      "8": [
+        "minenicknick"
+      ],
+      "9": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "leekcookie",
+        "Iglo",
+        "imabaldman"
+      ],
+      "11": [
+        "__Iglo"
+      ]
+    }
+  }
+}

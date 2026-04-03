@@ -1,0 +1,72 @@
+{
+  "name": "cut_copper_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "228": [
+        "Teayo"
+      ],
+      "48": [
+        "Telinnor"
+      ]
+    },
+    "dropped": {
+      "160": [
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "10": [
+        "leekcookie",
+        "SuperXXLProfi"
+      ],
+      "178": [
+        "Telinnor"
+      ],
+      "6": [
+        "Teayo"
+      ],
+      "88": [
+        "philxpx"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "SuperXXLProfi"
+      ],
+      "160": [
+        "imabaldman"
+      ],
+      "178": [
+        "Telinnor"
+      ],
+      "6": [
+        "Teayo"
+      ],
+      "64": [
+        "santemjocko"
+      ],
+      "74": [
+        "leekcookie"
+      ],
+      "82": [
+        "philxpx"
+      ]
+    },
+    "used": {
+      "110": [
+        "SuperXXLProfi"
+      ],
+      "1211": [
+        "philxpx"
+      ],
+      "303": [
+        "Telinnor"
+      ],
+      "43": [
+        "leekcookie",
+        "Teayo"
+      ]
+    }
+  }
+}

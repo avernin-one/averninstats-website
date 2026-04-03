@@ -1,0 +1,23 @@
+{
+  "name": "axolotl_bucket",
+  "type": "item",
+  "scores": {
+    "picked_up": {
+      "1": [
+        "minenicknick"
+      ]
+    },
+    "used": {
+      "1": [
+        "minenicknick",
+        "imabaldman"
+      ],
+      "11": [
+        "iurie"
+      ],
+      "3": [
+        "obvBasti"
+      ]
+    }
+  }
+}

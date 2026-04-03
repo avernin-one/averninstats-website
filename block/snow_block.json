@@ -1,0 +1,128 @@
+{
+  "name": "snow_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "116": [
+        "nitram1572"
+      ],
+      "1273": [
+        "santemjocko"
+      ],
+      "132": [
+        "leekcookie"
+      ],
+      "24": [
+        "XeonVirus"
+      ],
+      "25": [
+        "Ivenor"
+      ],
+      "41": [
+        "Sayder13xr"
+      ],
+      "46": [
+        "owac"
+      ],
+      "64": [
+        "Mandahaya",
+        "iurie"
+      ],
+      "9": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "__kreck"
+      ],
+      "4": [
+        "Sayder13xr"
+      ],
+      "41": [
+        "santemjocko"
+      ],
+      "64": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "100": [
+        "Lord_HoruS"
+      ],
+      "11": [
+        "Makishi25"
+      ],
+      "118": [
+        "iurie"
+      ],
+      "15": [
+        "leekcookie"
+      ],
+      "161": [
+        "owac"
+      ],
+      "186": [
+        "__kreck"
+      ],
+      "3926": [
+        "santemjocko"
+      ],
+      "40": [
+        "XeonVirus"
+      ],
+      "48": [
+        "Mandahaya"
+      ],
+      "74": [
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "1401": [
+        "santemjocko"
+      ],
+      "142": [
+        "owac"
+      ],
+      "2": [
+        "Mandahaya",
+        "iurie",
+        "__kreck"
+      ],
+      "4": [
+        "Sayder13xr"
+      ],
+      "40": [
+        "leekcookie"
+      ],
+      "64": [
+        "__Iglo"
+      ]
+    },
+    "used": {
+      "10": [
+        "__kreck",
+        "XeonVirus"
+      ],
+      "118": [
+        "owac"
+      ],
+      "16": [
+        "Sayder13xr"
+      ],
+      "160": [
+        "santemjocko"
+      ],
+      "34": [
+        "iurie"
+      ],
+      "5": [
+        "nitram1572"
+      ],
+      "75": [
+        "leekcookie"
+      ]
+    }
+  }
+}

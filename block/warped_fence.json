@@ -1,0 +1,67 @@
+{
+  "name": "warped_fence",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "3": [
+        "__kreck"
+      ],
+      "30": [
+        "Mamuschkaz"
+      ],
+      "48": [
+        "Cpt_looper"
+      ],
+      "9": [
+        "Sayder13xr"
+      ],
+      "90": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Mamuschkaz"
+      ]
+    },
+    "mined": {
+      "2": [
+        "Cpt_looper"
+      ],
+      "3": [
+        "Sayder13xr"
+      ],
+      "5": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "Cpt_looper"
+      ],
+      "3": [
+        "Sayder13xr"
+      ],
+      "5": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "10": [
+        "Cpt_looper"
+      ],
+      "29": [
+        "Mamuschkaz"
+      ],
+      "3": [
+        "__kreck"
+      ],
+      "4": [
+        "Sayder13xr"
+      ],
+      "85": [
+        "Makishi25"
+      ]
+    }
+  }
+}

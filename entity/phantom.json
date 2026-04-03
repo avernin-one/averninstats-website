@@ -1,0 +1,47 @@
+{
+  "name": "phantom",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "18": [
+        "minenicknick"
+      ],
+      "20": [
+        "obvBasti",
+        "Lord_HoruS",
+        "JonasderGamer"
+      ],
+      "26": [
+        "Mandahaya"
+      ],
+      "34": [
+        "DornDasBrot"
+      ],
+      "40": [
+        "lodoss2011"
+      ],
+      "44": [
+        "XeonVirus"
+      ],
+      "58": [
+        "Iglo"
+      ],
+      "76": [
+        "iurie",
+        "imabaldman"
+      ],
+      "8": [
+        "Sayder13xr"
+      ],
+      "9": [
+        "chaos1989",
+        "Telinnor"
+      ]
+    },
+    "killed_by": {
+      "2": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

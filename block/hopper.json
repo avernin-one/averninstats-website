@@ -1,0 +1,167 @@
+{
+  "name": "hopper",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1733": [
+        "__kreck"
+      ],
+      "1850": [
+        "TrashSuperstar"
+      ],
+      "2214": [
+        "iurie"
+      ],
+      "322": [
+        "nitram1572"
+      ],
+      "367": [
+        "owac"
+      ],
+      "377": [
+        "Sayder13xr"
+      ],
+      "398": [
+        "Lord_HoruS"
+      ],
+      "540": [
+        "santemjocko"
+      ],
+      "573": [
+        "Iglo"
+      ],
+      "5919": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "11": [
+        "minenicknick"
+      ],
+      "2": [
+        "Lord_HoruS",
+        "imabaldman"
+      ],
+      "3": [
+        "SuperXXLProfi"
+      ],
+      "442": [
+        "leekcookie"
+      ],
+      "5": [
+        "obvBasti"
+      ],
+      "61": [
+        "Mamuschkaz"
+      ],
+      "70": [
+        "__kreck"
+      ],
+      "75": [
+        "__Iglo"
+      ],
+      "8": [
+        "Cpt_looper"
+      ],
+      "94": [
+        "Iglo"
+      ]
+    },
+    "mined": {
+      "152": [
+        "Iglo"
+      ],
+      "158": [
+        "SuperXXLProfi"
+      ],
+      "205": [
+        "__Iglo"
+      ],
+      "209": [
+        "nitram1572"
+      ],
+      "210": [
+        "Sayder13xr"
+      ],
+      "288": [
+        "TrashSuperstar"
+      ],
+      "314": [
+        "owac"
+      ],
+      "522": [
+        "__kreck"
+      ],
+      "820": [
+        "iurie"
+      ],
+      "935": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "167": [
+        "Mamuschkaz"
+      ],
+      "179": [
+        "nitram1572"
+      ],
+      "231": [
+        "TrashSuperstar"
+      ],
+      "262": [
+        "__Iglo"
+      ],
+      "288": [
+        "owac"
+      ],
+      "291": [
+        "Iglo"
+      ],
+      "3143": [
+        "leekcookie"
+      ],
+      "387": [
+        "Sayder13xr"
+      ],
+      "655": [
+        "__kreck"
+      ],
+      "769": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1589": [
+        "__kreck"
+      ],
+      "2127": [
+        "TrashSuperstar"
+      ],
+      "2869": [
+        "iurie"
+      ],
+      "418": [
+        "Lord_HoruS"
+      ],
+      "439": [
+        "Iglo"
+      ],
+      "498": [
+        "nitram1572"
+      ],
+      "5037": [
+        "leekcookie"
+      ],
+      "565": [
+        "Sayder13xr"
+      ],
+      "624": [
+        "__Iglo"
+      ],
+      "641": [
+        "owac"
+      ]
+    }
+  }
+}

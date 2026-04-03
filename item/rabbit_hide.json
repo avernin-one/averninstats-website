@@ -1,0 +1,55 @@
+{
+  "name": "rabbit_hide",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "chaos1989",
+        "Cpt_looper"
+      ],
+      "11": [
+        "leekcookie"
+      ],
+      "2": [
+        "minenicknick"
+      ],
+      "3": [
+        "iurie",
+        "Sayder13xr"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "CuzimJxson",
+        "Cpt_looper"
+      ],
+      "11": [
+        "leekcookie"
+      ],
+      "2": [
+        "minenicknick",
+        "TrashSuperstar",
+        "DornDasBrot",
+        "Makishi25",
+        "XeonVirus"
+      ],
+      "3": [
+        "Sayder13xr",
+        "__Iglo"
+      ],
+      "30": [
+        "Iglo"
+      ],
+      "4": [
+        "lodoss2011",
+        "philxpx"
+      ],
+      "5": [
+        "chaos1989"
+      ],
+      "60": [
+        "iurie"
+      ]
+    }
+  }
+}

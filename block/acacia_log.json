@@ -1,0 +1,104 @@
+{
+  "name": "acacia_log",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "Makishi25"
+      ],
+      "4": [
+        "ScimMLG"
+      ],
+      "42": [
+        "Telinnor"
+      ]
+    },
+    "mined": {
+      "1102": [
+        "lodoss2011"
+      ],
+      "1447": [
+        "Warhazarder"
+      ],
+      "150": [
+        "nitram1572"
+      ],
+      "1561": [
+        "Telinnor"
+      ],
+      "182": [
+        "iurie"
+      ],
+      "24": [
+        "Iglo"
+      ],
+      "287": [
+        "ScimMLG"
+      ],
+      "306": [
+        "leekcookie"
+      ],
+      "331": [
+        "Makishi25"
+      ],
+      "44": [
+        "chaos1989"
+      ]
+    },
+    "picked_up": {
+      "1105": [
+        "lodoss2011"
+      ],
+      "142": [
+        "nitram1572"
+      ],
+      "1654": [
+        "Warhazarder"
+      ],
+      "1859": [
+        "Telinnor"
+      ],
+      "201": [
+        "iurie"
+      ],
+      "24": [
+        "Iglo"
+      ],
+      "285": [
+        "ScimMLG"
+      ],
+      "306": [
+        "leekcookie"
+      ],
+      "44": [
+        "chaos1989"
+      ],
+      "460": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "11": [
+        "Makishi25"
+      ],
+      "18": [
+        "chaos1989"
+      ],
+      "249": [
+        "Telinnor"
+      ],
+      "29": [
+        "iurie"
+      ],
+      "3": [
+        "ScimMLG"
+      ],
+      "348": [
+        "Warhazarder"
+      ],
+      "4": [
+        "leekcookie"
+      ]
+    }
+  }
+}

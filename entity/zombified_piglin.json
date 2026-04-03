@@ -1,0 +1,62 @@
+{
+  "name": "zombified_piglin",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "119787": [
+        "__kreck"
+      ],
+      "120": [
+        "minenicknick"
+      ],
+      "124": [
+        "iurie"
+      ],
+      "127": [
+        "imabaldman"
+      ],
+      "143": [
+        "santemjocko"
+      ],
+      "193485": [
+        "__Iglo"
+      ],
+      "25": [
+        "SnuvomBodensatz"
+      ],
+      "65": [
+        "Iglo",
+        "nitram1572"
+      ],
+      "79": [
+        "leekcookie"
+      ],
+      "85": [
+        "KleeneEle"
+      ]
+    },
+    "killed_by": {
+      "1": [
+        "Mandahaya",
+        "SnuvomBodensatz",
+        "Iglo",
+        "TrashSuperstar",
+        "Lord_HoruS",
+        "JonasderGamer",
+        "DornDasBrot"
+      ],
+      "11": [
+        "leekcookie"
+      ],
+      "2": [
+        "Cpt_looper"
+      ],
+      "4": [
+        "Mamuschkaz"
+      ],
+      "5": [
+        "santemjocko"
+      ]
+    }
+  }
+}

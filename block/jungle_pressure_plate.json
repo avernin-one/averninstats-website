@@ -1,0 +1,37 @@
+{
+  "name": "jungle_pressure_plate",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "4": [
+        "XeonVirus"
+      ],
+      "9": [
+        "SuperXXLProfi"
+      ]
+    },
+    "dropped": {
+      "4": [
+        "XeonVirus"
+      ]
+    },
+    "mined": {
+      "6": [
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "XeonVirus"
+      ]
+    },
+    "used": {
+      "3": [
+        "SuperXXLProfi"
+      ],
+      "8": [
+        "XeonVirus"
+      ]
+    }
+  }
+}

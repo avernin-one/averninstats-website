@@ -1,0 +1,114 @@
+{
+  "name": "golden_leggings",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Austriana",
+        "Temeraiere",
+        "egoplayer_Felix",
+        "iurie",
+        "Cpt_looper",
+        "Lord_HoruS",
+        "DornDasBrot",
+        "Makishi25"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "philxpx",
+        "Iglo",
+        "SuperXXLProfi",
+        "Telinnor",
+        "DornDasBrot",
+        "Makishi25",
+        "XeonVirus"
+      ],
+      "2": [
+        "owac"
+      ],
+      "20": [
+        "Sayder13xr"
+      ],
+      "3": [
+        "Lord_HoruS",
+        "__kreck"
+      ],
+      "46": [
+        "leekcookie"
+      ],
+      "5": [
+        "santemjocko",
+        "TrashSuperstar"
+      ],
+      "6": [
+        "__Iglo"
+      ],
+      "8": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "obvBasti",
+        "Austriana",
+        "Iglo",
+        "Temeraiere",
+        "SuperXXLProfi",
+        "nitram1572",
+        "imabaldman"
+      ],
+      "10": [
+        "Sayder13xr"
+      ],
+      "12": [
+        "iurie"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "philxpx",
+        "Ivenor",
+        "owac",
+        "egoplayer_Felix",
+        "Cpt_looper",
+        "DornDasBrot",
+        "Warhazarder",
+        "XeonVirus"
+      ],
+      "3": [
+        "Mandahaya",
+        "lodoss2011",
+        "chaos1989",
+        "Telinnor",
+        "Lord_HoruS",
+        "Teayo"
+      ],
+      "48": [
+        "leekcookie"
+      ],
+      "5": [
+        "TrashSuperstar",
+        "Makishi25",
+        "__kreck"
+      ],
+      "6": [
+        "santemjocko"
+      ],
+      "7": [
+        "__Iglo"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie",
+        "Makishi25"
+      ]
+    }
+  }
+}

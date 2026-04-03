@@ -1,0 +1,123 @@
+{
+  "name": "cooked_mutton",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "121": [
+        "Warhazarder"
+      ],
+      "20": [
+        "Lukas_126"
+      ],
+      "24": [
+        "Mamuschkaz"
+      ],
+      "28": [
+        "Sayder13xr"
+      ],
+      "29": [
+        "__kreck"
+      ],
+      "30": [
+        "Ivenor"
+      ],
+      "36": [
+        "Temeraiere"
+      ],
+      "37": [
+        "SnuvomBodensatz"
+      ],
+      "45": [
+        "owac"
+      ],
+      "60": [
+        "Telinnor"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "chaos1989",
+        "__kreck"
+      ],
+      "18": [
+        "Temeraiere"
+      ],
+      "5": [
+        "SnuvomBodensatz",
+        "XeonVirus"
+      ],
+      "6": [
+        "obvBasti"
+      ],
+      "9": [
+        "owac"
+      ]
+    },
+    "picked_up": {
+      "125": [
+        "Temeraiere"
+      ],
+      "155": [
+        "Warhazarder"
+      ],
+      "22": [
+        "Austriana"
+      ],
+      "25": [
+        "Telinnor"
+      ],
+      "28": [
+        "__kreck"
+      ],
+      "30": [
+        "Ivenor",
+        "JonasderGamer"
+      ],
+      "31": [
+        "SnuvomBodensatz"
+      ],
+      "78": [
+        "XeonVirus"
+      ],
+      "81": [
+        "owac"
+      ],
+      "98": [
+        "chaos1989"
+      ]
+    },
+    "used": {
+      "20": [
+        "Lukas_126"
+      ],
+      "22": [
+        "Temeraiere"
+      ],
+      "24": [
+        "Mamuschkaz"
+      ],
+      "28": [
+        "Sayder13xr"
+      ],
+      "30": [
+        "Ivenor"
+      ],
+      "42": [
+        "SnuvomBodensatz",
+        "Makishi25"
+      ],
+      "47": [
+        "__kreck"
+      ],
+      "51": [
+        "XeonVirus"
+      ],
+      "69": [
+        "Warhazarder"
+      ],
+      "77": [
+        "chaos1989"
+      ]
+    }
+  }
+}

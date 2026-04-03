@@ -1,0 +1,35 @@
+{
+  "name": "stripped_warped_stem",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "2": [
+        "Iglo"
+      ]
+    },
+    "mined": {
+      "12": [
+        "Sayder13xr"
+      ],
+      "5": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "Sayder13xr"
+      ],
+      "7": [
+        "Iglo"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo"
+      ],
+      "12": [
+        "Sayder13xr"
+      ]
+    }
+  }
+}

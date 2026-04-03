@@ -1,0 +1,134 @@
+{
+  "name": "cobblestone",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1293": [
+        "philxpx"
+      ],
+      "1383": [
+        "DornDasBrot"
+      ],
+      "1459": [
+        "Warhazarder"
+      ],
+      "17513": [
+        "leekcookie"
+      ],
+      "2951": [
+        "santemjocko"
+      ],
+      "3024": [
+        "obvBasti"
+      ],
+      "39160": [
+        "__Iglo"
+      ],
+      "4113": [
+        "Mamuschkaz"
+      ],
+      "624": [
+        "TrashSuperstar"
+      ],
+      "69653": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "1539": [
+        "leekcookie"
+      ],
+      "1579": [
+        "Sayder13xr"
+      ],
+      "1582": [
+        "Warhazarder"
+      ],
+      "1597": [
+        "JonasderGamer"
+      ],
+      "1745": [
+        "owac"
+      ],
+      "1779": [
+        "Mamuschkaz"
+      ],
+      "2085": [
+        "chaos1989"
+      ],
+      "2785": [
+        "iurie"
+      ],
+      "3050": [
+        "nitram1572"
+      ],
+      "3335": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "127737": [
+        "__kreck"
+      ],
+      "130063": [
+        "Warhazarder"
+      ],
+      "13570": [
+        "lodoss2011"
+      ],
+      "15973": [
+        "chaos1989"
+      ],
+      "21693": [
+        "Sayder13xr"
+      ],
+      "26394": [
+        "iurie"
+      ],
+      "26497": [
+        "santemjocko"
+      ],
+      "30308": [
+        "Mamuschkaz"
+      ],
+      "43152": [
+        "__Iglo"
+      ],
+      "63479": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "10257": [
+        "chaos1989"
+      ],
+      "3431": [
+        "Makishi25"
+      ],
+      "3552": [
+        "owac"
+      ],
+      "40718": [
+        "Warhazarder"
+      ],
+      "4078": [
+        "lodoss2011"
+      ],
+      "4792": [
+        "nitram1572"
+      ],
+      "5234": [
+        "Sayder13xr"
+      ],
+      "5845": [
+        "leekcookie"
+      ],
+      "8866": [
+        "iurie"
+      ],
+      "8948": [
+        "Mamuschkaz"
+      ]
+    }
+  }
+}

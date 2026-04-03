@@ -1,0 +1,45 @@
+{
+  "name": "yellow_wool",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "114": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "15": [
+        "Sayder13xr"
+      ],
+      "78": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "114": [
+        "Mandahaya"
+      ],
+      "15": [
+        "Sayder13xr"
+      ],
+      "29": [
+        "Iglo"
+      ],
+      "653": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo",
+        "nitram1572"
+      ],
+      "2": [
+        "lodoss2011"
+      ],
+      "868": [
+        "leekcookie"
+      ]
+    }
+  }
+}

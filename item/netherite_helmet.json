@@ -1,0 +1,82 @@
+{
+  "name": "netherite_helmet",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "santemjocko",
+        "lodoss2011",
+        "Iglo",
+        "SuperXXLProfi",
+        "Cpt_looper",
+        "imabaldman",
+        "__kreck"
+      ],
+      "2": [
+        "TrashSuperstar",
+        "Lord_HoruS"
+      ],
+      "4": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "__Iglo",
+        "__kreck"
+      ],
+      "2": [
+        "minenicknick",
+        "philxpx",
+        "imabaldman"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "chaos1989",
+        "Sayder13xr"
+      ],
+      "12": [
+        "Mamuschkaz"
+      ],
+      "14": [
+        "lodoss2011"
+      ],
+      "2": [
+        "leekcookie",
+        "__kreck"
+      ],
+      "20": [
+        "santemjocko"
+      ],
+      "4": [
+        "SuperXXLProfi",
+        "imabaldman"
+      ],
+      "6": [
+        "philxpx",
+        "__Iglo"
+      ],
+      "7": [
+        "Lord_HoruS"
+      ],
+      "8": [
+        "iurie"
+      ],
+      "9": [
+        "minenicknick"
+      ]
+    },
+    "used": {
+      "1": [
+        "imabaldman"
+      ],
+      "11": [
+        "__Iglo"
+      ],
+      "2": [
+        "Iglo"
+      ]
+    }
+  }
+}

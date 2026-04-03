@@ -1,0 +1,50 @@
+{
+  "name": "magenta_wool",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "2": [
+        "Mamuschkaz"
+      ]
+    },
+    "dropped": {
+      "3496": [
+        "Iglo"
+      ]
+    },
+    "mined": {
+      "18": [
+        "__kreck"
+      ],
+      "2": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "1139": [
+        "__kreck"
+      ],
+      "37": [
+        "Mandahaya"
+      ],
+      "5095": [
+        "Iglo"
+      ],
+      "54": [
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1": [
+        "nitram1572"
+      ],
+      "2": [
+        "leekcookie",
+        "Iglo"
+      ],
+      "4788": [
+        "__kreck"
+      ]
+    }
+  }
+}

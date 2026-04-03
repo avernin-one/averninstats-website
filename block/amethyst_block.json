@@ -1,0 +1,115 @@
+{
+  "name": "amethyst_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "DornDasBrot"
+      ],
+      "80": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "santemjocko",
+        "minenicknick",
+        "TrashSuperstar",
+        "__kreck"
+      ],
+      "17": [
+        "__Iglo"
+      ],
+      "2": [
+        "Lukas_126"
+      ],
+      "40": [
+        "Sayder13xr"
+      ]
+    },
+    "mined": {
+      "109": [
+        "__Iglo"
+      ],
+      "148": [
+        "iurie"
+      ],
+      "150": [
+        "XeonVirus"
+      ],
+      "163": [
+        "lodoss2011"
+      ],
+      "1775": [
+        "santemjocko"
+      ],
+      "192": [
+        "Lord_HoruS"
+      ],
+      "230": [
+        "Cpt_looper"
+      ],
+      "269": [
+        "TrashSuperstar"
+      ],
+      "692": [
+        "owac"
+      ],
+      "728": [
+        "Mandahaya"
+      ]
+    },
+    "picked_up": {
+      "106": [
+        "__Iglo"
+      ],
+      "146": [
+        "XeonVirus"
+      ],
+      "155": [
+        "iurie"
+      ],
+      "163": [
+        "lodoss2011"
+      ],
+      "1666": [
+        "santemjocko"
+      ],
+      "188": [
+        "Lord_HoruS"
+      ],
+      "230": [
+        "Cpt_looper"
+      ],
+      "267": [
+        "TrashSuperstar"
+      ],
+      "668": [
+        "Mandahaya"
+      ],
+      "692": [
+        "owac"
+      ]
+    },
+    "used": {
+      "1": [
+        "imabaldman"
+      ],
+      "130": [
+        "santemjocko"
+      ],
+      "163": [
+        "TrashSuperstar"
+      ],
+      "58": [
+        "Lord_HoruS"
+      ],
+      "7": [
+        "owac"
+      ],
+      "9": [
+        "Iglo"
+      ]
+    }
+  }
+}

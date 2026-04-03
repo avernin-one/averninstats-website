@@ -1,0 +1,166 @@
+{
+  "name": "white_bed",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "127": [
+        "santemjocko",
+        "minenicknick"
+      ],
+      "14": [
+        "TrashSuperstar"
+      ],
+      "18": [
+        "owac"
+      ],
+      "22": [
+        "iurie"
+      ],
+      "24": [
+        "Mandahaya",
+        "nitram1572"
+      ],
+      "31": [
+        "imabaldman"
+      ],
+      "32": [
+        "Sayder13xr",
+        "Warhazarder"
+      ],
+      "34": [
+        "Mamuschkaz"
+      ],
+      "61": [
+        "Telinnor"
+      ],
+      "81": [
+        "Teayo"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "lodoss2011",
+        "minenicknick",
+        "leekcookie",
+        "Mamuschkaz",
+        "Makishi25",
+        "Teayo"
+      ],
+      "17": [
+        "__kreck"
+      ],
+      "2": [
+        "StofftierAnabol"
+      ],
+      "3": [
+        "egoplayer_Felix"
+      ],
+      "30": [
+        "__Iglo"
+      ],
+      "4": [
+        "owac"
+      ]
+    },
+    "mined": {
+      "174": [
+        "iurie"
+      ],
+      "210": [
+        "nitram1572"
+      ],
+      "277": [
+        "owac"
+      ],
+      "31": [
+        "santemjocko",
+        "Temeraiere",
+        "__Iglo"
+      ],
+      "32": [
+        "SuperXXLProfi"
+      ],
+      "41": [
+        "lodoss2011",
+        "Teayo"
+      ],
+      "43": [
+        "TrashSuperstar"
+      ],
+      "44": [
+        "Makishi25"
+      ],
+      "69": [
+        "leekcookie"
+      ],
+      "75": [
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "173": [
+        "iurie"
+      ],
+      "218": [
+        "nitram1572"
+      ],
+      "282": [
+        "owac"
+      ],
+      "42": [
+        "Teayo"
+      ],
+      "43": [
+        "TrashSuperstar"
+      ],
+      "48": [
+        "Makishi25"
+      ],
+      "49": [
+        "santemjocko"
+      ],
+      "51": [
+        "__Iglo"
+      ],
+      "71": [
+        "leekcookie"
+      ],
+      "82": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "104": [
+        "Warhazarder"
+      ],
+      "115": [
+        "Teayo"
+      ],
+      "127": [
+        "minenicknick"
+      ],
+      "158": [
+        "santemjocko"
+      ],
+      "174": [
+        "iurie"
+      ],
+      "233": [
+        "nitram1572"
+      ],
+      "287": [
+        "owac"
+      ],
+      "56": [
+        "TrashSuperstar"
+      ],
+      "66": [
+        "Telinnor"
+      ],
+      "71": [
+        "leekcookie"
+      ]
+    }
+  }
+}

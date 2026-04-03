@@ -1,0 +1,52 @@
+{
+  "name": "yellow_stained_glass",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "128": [
+        "__kreck"
+      ],
+      "680": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "leekcookie"
+      ],
+      "60": [
+        "__kreck"
+      ],
+      "64": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "15": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "60": [
+        "__Iglo"
+      ],
+      "64": [
+        "__kreck"
+      ],
+      "651": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "111": [
+        "__kreck"
+      ],
+      "153": [
+        "leekcookie"
+      ],
+      "8": [
+        "__Iglo"
+      ]
+    }
+  }
+}

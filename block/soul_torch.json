@@ -1,0 +1,50 @@
+{
+  "name": "soul_torch",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "16": [
+        "XeonVirus"
+      ],
+      "180": [
+        "leekcookie"
+      ],
+      "256": [
+        "santemjocko"
+      ],
+      "4": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "3": [
+        "ScimMLG"
+      ]
+    },
+    "mined": {
+      "1": [
+        "iurie",
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "248": [
+        "iurie"
+      ],
+      "3": [
+        "ScimMLG"
+      ],
+      "5": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ],
+      "5": [
+        "Makishi25"
+      ]
+    }
+  }
+}

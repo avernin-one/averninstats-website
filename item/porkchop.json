@@ -1,0 +1,94 @@
+{
+  "name": "porkchop",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "11": [
+        "owac"
+      ],
+      "115": [
+        "iurie"
+      ],
+      "14": [
+        "lodoss2011"
+      ],
+      "16": [
+        "imabaldman"
+      ],
+      "22": [
+        "santemjocko"
+      ],
+      "30": [
+        "XeonVirus"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "66": [
+        "__kreck"
+      ],
+      "8": [
+        "TrashSuperstar"
+      ],
+      "9": [
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "108": [
+        "Mamuschkaz"
+      ],
+      "120": [
+        "Ivenor"
+      ],
+      "194": [
+        "Telinnor"
+      ],
+      "202": [
+        "XeonVirus"
+      ],
+      "272": [
+        "__kreck"
+      ],
+      "2890": [
+        "iurie"
+      ],
+      "59": [
+        "Austriana"
+      ],
+      "60": [
+        "leekcookie",
+        "Iglo"
+      ],
+      "64": [
+        "SuperXXLProfi"
+      ],
+      "78": [
+        "chaos1989"
+      ]
+    },
+    "used": {
+      "1": [
+        "SnuvomBodensatz",
+        "Temeraiere"
+      ],
+      "110": [
+        "iurie"
+      ],
+      "14": [
+        "CuzimJxson"
+      ],
+      "2": [
+        "JonasderGamer"
+      ],
+      "4": [
+        "Lukas_126",
+        "Lord_HoruS"
+      ],
+      "5": [
+        "Mamuschkaz",
+        "StofftierAnabol"
+      ]
+    }
+  }
+}

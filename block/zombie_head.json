@@ -1,0 +1,11 @@
+{
+  "name": "zombie_head",
+  "type": "block",
+  "scores": {
+    "picked_up": {
+      "4": [
+        "santemjocko"
+      ]
+    }
+  }
+}

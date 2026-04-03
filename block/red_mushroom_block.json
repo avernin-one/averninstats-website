@@ -1,0 +1,78 @@
+{
+  "name": "red_mushroom_block",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "22": [
+        "SuperXXLProfi"
+      ],
+      "8": [
+        "iurie"
+      ]
+    },
+    "mined": {
+      "122": [
+        "__kreck"
+      ],
+      "1426": [
+        "imabaldman"
+      ],
+      "225": [
+        "leekcookie"
+      ],
+      "256": [
+        "iurie"
+      ],
+      "27": [
+        "KleeneEle"
+      ],
+      "305": [
+        "chaos1989"
+      ],
+      "394": [
+        "Lord_HoruS"
+      ],
+      "45": [
+        "Mandahaya",
+        "lodoss2011",
+        "Telinnor",
+        "Sayder13xr",
+        "XeonVirus"
+      ],
+      "85": [
+        "SuperXXLProfi"
+      ],
+      "90": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Cpt_looper"
+      ],
+      "11": [
+        "iurie"
+      ],
+      "1370": [
+        "imabaldman"
+      ],
+      "145": [
+        "SuperXXLProfi"
+      ],
+      "46": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "101": [
+        "imabaldman"
+      ],
+      "155": [
+        "SuperXXLProfi"
+      ],
+      "2": [
+        "leekcookie"
+      ]
+    }
+  }
+}

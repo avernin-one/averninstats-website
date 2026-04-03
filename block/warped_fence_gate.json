@@ -1,0 +1,62 @@
+{
+  "name": "warped_fence_gate",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "14": [
+        "leekcookie"
+      ],
+      "2": [
+        "iurie",
+        "__kreck"
+      ],
+      "29": [
+        "Cpt_looper"
+      ],
+      "6": [
+        "Sayder13xr"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Cpt_looper",
+        "Sayder13xr"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "2": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Cpt_looper",
+        "Sayder13xr"
+      ],
+      "2": [
+        "__kreck"
+      ],
+      "42": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "23": [
+        "Cpt_looper"
+      ],
+      "4": [
+        "__kreck"
+      ],
+      "7": [
+        "Sayder13xr"
+      ]
+    }
+  }
+}

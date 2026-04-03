@@ -1,0 +1,51 @@
+{
+  "name": "mangrove_propagule",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "3": [
+        "Warhazarder"
+      ]
+    },
+    "dropped": {
+      "4": [
+        "nitram1572"
+      ]
+    },
+    "mined": {
+      "1": [
+        "leekcookie"
+      ],
+      "17": [
+        "nitram1572"
+      ],
+      "2": [
+        "lodoss2011"
+      ],
+      "3": [
+        "iurie",
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "20": [
+        "nitram1572"
+      ],
+      "3": [
+        "iurie",
+        "Warhazarder"
+      ],
+      "5": [
+        "lodoss2011"
+      ],
+      "83": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "17": [
+        "leekcookie"
+      ]
+    }
+  }
+}

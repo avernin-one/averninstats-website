@@ -1,0 +1,125 @@
+{
+  "name": "warped_fungus",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "lodoss2011",
+        "chaos1989",
+        "DornDasBrot",
+        "Sayder13xr",
+        "Warhazarder"
+      ],
+      "15": [
+        "santemjocko"
+      ],
+      "19": [
+        "owac"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "iurie",
+        "Lord_HoruS"
+      ],
+      "27": [
+        "__kreck"
+      ],
+      "5": [
+        "leekcookie",
+        "TrashSuperstar"
+      ],
+      "6": [
+        "Iglo"
+      ]
+    },
+    "mined": {
+      "19": [
+        "santemjocko",
+        "XeonVirus"
+      ],
+      "2": [
+        "Lord_HoruS"
+      ],
+      "20": [
+        "iurie"
+      ],
+      "263": [
+        "Iglo"
+      ],
+      "3": [
+        "lodoss2011"
+      ],
+      "32": [
+        "leekcookie"
+      ],
+      "4": [
+        "TrashSuperstar"
+      ],
+      "5": [
+        "owac",
+        "Makishi25"
+      ],
+      "7": [
+        "nitram1572"
+      ],
+      "95": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "104": [
+        "iurie"
+      ],
+      "110": [
+        "__kreck"
+      ],
+      "21": [
+        "XeonVirus"
+      ],
+      "245": [
+        "Iglo"
+      ],
+      "26": [
+        "santemjocko"
+      ],
+      "35": [
+        "Makishi25"
+      ],
+      "37": [
+        "owac"
+      ],
+      "42": [
+        "leekcookie"
+      ],
+      "6": [
+        "chaos1989"
+      ],
+      "7": [
+        "TrashSuperstar",
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo",
+        "owac",
+        "XeonVirus"
+      ],
+      "2": [
+        "lodoss2011"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "35": [
+        "Makishi25"
+      ],
+      "5": [
+        "santemjocko"
+      ],
+      "6": [
+        "__kreck"
+      ]
+    }
+  }
+}

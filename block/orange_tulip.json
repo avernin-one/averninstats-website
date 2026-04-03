@@ -1,0 +1,64 @@
+{
+  "name": "orange_tulip",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "4": [
+        "santemjocko"
+      ],
+      "6": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "nitram1572"
+      ],
+      "101": [
+        "Teayo"
+      ],
+      "2": [
+        "Mandahaya",
+        "ScimMLG"
+      ],
+      "42": [
+        "Makishi25"
+      ],
+      "43": [
+        "leekcookie"
+      ],
+      "9": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "101": [
+        "Teayo"
+      ],
+      "2": [
+        "Mandahaya",
+        "nitram1572"
+      ],
+      "3": [
+        "ScimMLG"
+      ],
+      "34": [
+        "santemjocko"
+      ],
+      "52": [
+        "Makishi25"
+      ],
+      "55": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "31": [
+        "leekcookie"
+      ],
+      "35": [
+        "Makishi25"
+      ]
+    }
+  }
+}

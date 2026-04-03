@@ -1,0 +1,26 @@
+{
+  "name": "mangrove_fence",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "57": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "33": [
+        "leekcookie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "name": "stripped_spruce_log",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "minenicknick",
+        "Mamuschkaz",
+        "owac",
+        "__Iglo",
+        "Warhazarder"
+      ],
+      "246": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "1421": [
+        "__kreck"
+      ],
+      "1837": [
+        "Makishi25"
+      ],
+      "2": [
+        "__Iglo"
+      ],
+      "36": [
+        "Warhazarder"
+      ],
+      "4": [
+        "Mandahaya"
+      ],
+      "491": [
+        "leekcookie"
+      ],
+      "5": [
+        "nitram1572"
+      ],
+      "7": [
+        "owac"
+      ],
+      "75": [
+        "lodoss2011"
+      ],
+      "8": [
+        "Mamuschkaz"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "minenicknick",
+        "Ivenor",
+        "KleeneEle",
+        "JonasderGamer",
+        "__Iglo"
+      ],
+      "1692": [
+        "__kreck"
+      ],
+      "1847": [
+        "Makishi25"
+      ],
+      "35": [
+        "Warhazarder"
+      ],
+      "4": [
+        "Mandahaya"
+      ],
+      "490": [
+        "leekcookie"
+      ],
+      "5": [
+        "nitram1572"
+      ],
+      "6": [
+        "Mamuschkaz",
+        "owac"
+      ],
+      "75": [
+        "lodoss2011"
+      ]
+    },
+    "used": {
+      "1173": [
+        "__kreck"
+      ],
+      "1441": [
+        "Makishi25"
+      ],
+      "34": [
+        "Warhazarder"
+      ],
+      "5": [
+        "nitram1572"
+      ],
+      "72": [
+        "lodoss2011"
+      ],
+      "83": [
+        "leekcookie"
+      ]
+    }
+  }
+}

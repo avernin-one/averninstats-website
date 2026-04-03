@@ -1,0 +1,14 @@
+{
+  "name": "angler_pottery_sherd",
+  "type": "item",
+  "scores": {
+    "picked_up": {
+      "2": [
+        "KleeneEle"
+      ],
+      "3": [
+        "iurie"
+      ]
+    }
+  }
+}

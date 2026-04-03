@@ -1,0 +1,154 @@
+{
+  "name": "iron_leggings",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "iurie",
+        "Lord_HoruS",
+        "DornDasBrot"
+      ],
+      "2": [
+        "Mandahaya"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "Lukas_126",
+        "obvBasti",
+        "Ivenor",
+        "StofftierAnabol",
+        "TrashSuperstar",
+        "lu0de"
+      ],
+      "10": [
+        "__Iglo",
+        "__kreck"
+      ],
+      "13": [
+        "nitram1572"
+      ],
+      "19": [
+        "Iglo"
+      ],
+      "2": [
+        "SnuvomBodensatz",
+        "chaos1989",
+        "Mamuschkaz",
+        "owac",
+        "Temeraiere",
+        "SuperXXLProfi",
+        "DornDasBrot",
+        "imabaldman",
+        "XeonVirus"
+      ],
+      "3": [
+        "leekcookie",
+        "Cpt_looper",
+        "Makishi25"
+      ],
+      "4": [
+        "Sayder13xr"
+      ],
+      "5": [
+        "Mandahaya",
+        "lodoss2011"
+      ],
+      "6": [
+        "iurie",
+        "Lord_HoruS"
+      ],
+      "7": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "philxpx",
+        "Temeraiere",
+        "TrashSuperstar",
+        "Sayder13xr"
+      ],
+      "12": [
+        "owac"
+      ],
+      "17": [
+        "iurie"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "SuperXXLProfi"
+      ],
+      "24": [
+        "Iglo"
+      ],
+      "3": [
+        "__kreck"
+      ],
+      "4": [
+        "Makishi25",
+        "imabaldman"
+      ],
+      "5": [
+        "santemjocko",
+        "lodoss2011",
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "santemjocko",
+        "Lord_HoruS"
+      ],
+      "13": [
+        "__kreck"
+      ],
+      "15": [
+        "owac"
+      ],
+      "17": [
+        "Iglo"
+      ],
+      "21": [
+        "Mandahaya",
+        "Cpt_looper"
+      ],
+      "34": [
+        "iurie"
+      ],
+      "6": [
+        "DornDasBrot"
+      ],
+      "7": [
+        "nitram1572",
+        "imabaldman"
+      ],
+      "8": [
+        "Austriana"
+      ],
+      "9": [
+        "lodoss2011",
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "obvBasti",
+        "PopCat007",
+        "leekcookie",
+        "owac",
+        "Makishi25",
+        "imabaldman",
+        "Sayder13xr"
+      ],
+      "2": [
+        "Temeraiere"
+      ],
+      "3": [
+        "Iglo",
+        "JonasderGamer"
+      ]
+    }
+  }
+}

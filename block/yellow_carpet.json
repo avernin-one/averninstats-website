@@ -1,0 +1,81 @@
+{
+  "name": "yellow_carpet",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1116": [
+        "leekcookie"
+      ],
+      "18": [
+        "nitram1572"
+      ],
+      "180": [
+        "__kreck"
+      ],
+      "240": [
+        "owac"
+      ],
+      "3": [
+        "Mandahaya",
+        "lodoss2011"
+      ]
+    },
+    "dropped": {
+      "15": [
+        "leekcookie"
+      ],
+      "2": [
+        "lodoss2011"
+      ],
+      "85": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "29": [
+        "owac"
+      ],
+      "3": [
+        "Teayo"
+      ],
+      "6": [
+        "nitram1572"
+      ],
+      "62": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "lodoss2011"
+      ],
+      "29": [
+        "owac"
+      ],
+      "358": [
+        "leekcookie"
+      ],
+      "6": [
+        "nitram1572",
+        "Teayo"
+      ]
+    },
+    "used": {
+      "11": [
+        "__kreck"
+      ],
+      "1101": [
+        "leekcookie"
+      ],
+      "19": [
+        "nitram1572"
+      ],
+      "2": [
+        "lodoss2011"
+      ],
+      "237": [
+        "owac"
+      ]
+    }
+  }
+}

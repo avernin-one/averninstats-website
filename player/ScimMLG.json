@@ -1,0 +1,325 @@
+{
+  "name": "ScimMLG",
+  "uuid": "250c0195-7580-4efe-99b9-6b15e2f160c9",
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2
+  },
+  "stats": {
+    "animals_bred": 148,
+    "aviate_one_cm": 34903283,
+    "boat_one_cm": 234094,
+    "climb_one_cm": 188878,
+    "crouch_one_cm": 722601,
+    "damage_dealt": 40250,
+    "damage_taken": 14727,
+    "deaths": 1,
+    "drop": 324,
+    "fall_one_cm": 509239,
+    "fish_caught": 1,
+    "fly_one_cm": 4419503,
+    "horse_one_cm": 7832,
+    "interact_with_anvil": 32,
+    "interact_with_blast_furnace": 11,
+    "interact_with_campfire": 111,
+    "interact_with_crafting_table": 230,
+    "interact_with_furnace": 39,
+    "interact_with_grindstone": 2,
+    "interact_with_loom": 5,
+    "interact_with_smithing_table": 1,
+    "interact_with_stonecutter": 2,
+    "jump": 23998,
+    "leave_game": 43,
+    "mob_kills": 2675,
+    "open_barrel": 85,
+    "open_chest": 1312,
+    "open_enderchest": 10,
+    "open_shulker_box": 82,
+    "play_time": 2102175,
+    "player_kills": 4,
+    "pot_flower": 9,
+    "raid_trigger": 1,
+    "sleep_in_bed": 96,
+    "sneak_time": 222665,
+    "sprint_one_cm": 6946397,
+    "swim_one_cm": 955435,
+    "talked_to_villager": 145,
+    "time_since_death": 2048670,
+    "time_since_rest": 2747,
+    "total_world_time": 2102175,
+    "traded_with_villager": 43,
+    "walk_on_water_one_cm": 212840,
+    "walk_one_cm": 2228489,
+    "walk_under_water_one_cm": 301598
+  },
+  "scores": {
+    "block": {
+      "crafted": {
+        "1056": [
+          "dark_oak_planks"
+        ],
+        "474": [
+          "acacia_slab"
+        ],
+        "600": [
+          "acacia_planks"
+        ],
+        "768": [
+          "dark_oak_slab"
+        ],
+        "778": [
+          "mossy_cobblestone"
+        ]
+      },
+      "dropped": {
+        "119": [
+          "deepslate"
+        ],
+        "121": [
+          "stone"
+        ],
+        "236": [
+          "crimson_stem"
+        ],
+        "396": [
+          "netherrack"
+        ],
+        "512": [
+          "sand"
+        ]
+      },
+      "mined": {
+        "1089": [
+          "dark_oak_log"
+        ],
+        "2724": [
+          "stone"
+        ],
+        "3517": [
+          "sand"
+        ],
+        "706": [
+          "carrots"
+        ],
+        "953": [
+          "vine"
+        ]
+      },
+      "picked_up": {
+        "1071": [
+          "dark_oak_log"
+        ],
+        "1143": [
+          "dirt"
+        ],
+        "3104": [
+          "sand"
+        ],
+        "914": [
+          "sugar_cane"
+        ],
+        "940": [
+          "stone"
+        ]
+      },
+      "used": {
+        "1022": [
+          "dark_oak_slab"
+        ],
+        "659": [
+          "white_concrete"
+        ],
+        "692": [
+          "dark_oak_log"
+        ],
+        "736": [
+          "dirt"
+        ],
+        "761": [
+          "mossy_cobblestone"
+        ]
+      }
+    },
+    "entity": {
+      "crafted": {
+        "2498": [
+          "firework_rocket"
+        ],
+        "6": [
+          "armor_stand"
+        ],
+        "86": [
+          "tnt"
+        ]
+      },
+      "dropped": {
+        "1": [
+          "salmon",
+          "item_frame",
+          "cod",
+          "ender_pearl"
+        ],
+        "15": [
+          "chicken"
+        ],
+        "159": [
+          "firework_rocket"
+        ],
+        "6": [
+          "arrow",
+          "egg"
+        ],
+        "8": [
+          "tropical_fish"
+        ]
+      },
+      "killed": {
+        "165": [
+          "magma_cube"
+        ],
+        "21": [
+          "skeleton",
+          "zombie"
+        ],
+        "22": [
+          "pig"
+        ],
+        "2324": [
+          "enderman"
+        ],
+        "47": [
+          "cow"
+        ]
+      },
+      "killed_by": {
+        "1": [
+          "player"
+        ]
+      },
+      "mined": {
+        "5": [
+          "tnt"
+        ]
+      },
+      "picked_up": {
+        "104": [
+          "firework_rocket"
+        ],
+        "16": [
+          "chicken"
+        ],
+        "18": [
+          "egg"
+        ],
+        "20": [
+          "arrow"
+        ],
+        "8": [
+          "tropical_fish",
+          "ender_pearl"
+        ]
+      },
+      "used": {
+        "13": [
+          "armor_stand"
+        ],
+        "4": [
+          "egg"
+        ],
+        "7": [
+          "ender_pearl"
+        ],
+        "881": [
+          "firework_rocket"
+        ],
+        "91": [
+          "tnt"
+        ]
+      }
+    },
+    "item": {
+      "broken": {
+        "3": [
+          "shears"
+        ]
+      },
+      "crafted": {
+        "1009": [
+          "emerald"
+        ],
+        "1821": [
+          "bone_meal"
+        ],
+        "204": [
+          "stick"
+        ],
+        "2498": [
+          "firework_rocket"
+        ],
+        "837": [
+          "paper"
+        ]
+      },
+      "dropped": {
+        "101": [
+          "stick"
+        ],
+        "159": [
+          "firework_rocket"
+        ],
+        "52": [
+          "baked_potato"
+        ],
+        "566": [
+          "wheat_seeds"
+        ],
+        "75": [
+          "carrot"
+        ]
+      },
+      "mined": {
+        "11": [
+          "flower_pot"
+        ],
+        "375": [
+          "wheat"
+        ]
+      },
+      "picked_up": {
+        "142": [
+          "beef"
+        ],
+        "216": [
+          "clay_ball"
+        ],
+        "2398": [
+          "carrot"
+        ],
+        "347": [
+          "wheat"
+        ],
+        "987": [
+          "wheat_seeds"
+        ]
+      },
+      "used": {
+        "1054": [
+          "shears"
+        ],
+        "1282": [
+          "carrot"
+        ],
+        "4997": [
+          "diamond_shovel"
+        ],
+        "5525": [
+          "diamond_axe"
+        ],
+        "5664": [
+          "diamond_pickaxe"
+        ]
+      }
+    }
+  }
+}

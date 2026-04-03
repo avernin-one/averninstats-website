@@ -1,0 +1,128 @@
+{
+  "name": "crossbow",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "owac",
+        "Lord_HoruS"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "XeonVirus"
+      ],
+      "10": [
+        "leekcookie"
+      ],
+      "16": [
+        "DornDasBrot"
+      ],
+      "27": [
+        "Teayo"
+      ],
+      "358": [
+        "owac"
+      ],
+      "716": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "1092": [
+        "philxpx"
+      ],
+      "14": [
+        "Iglo"
+      ],
+      "219": [
+        "leekcookie"
+      ],
+      "28": [
+        "JonasderGamer"
+      ],
+      "29": [
+        "santemjocko"
+      ],
+      "396": [
+        "SuperXXLProfi"
+      ],
+      "463": [
+        "imabaldman"
+      ],
+      "494": [
+        "owac"
+      ],
+      "66": [
+        "minenicknick"
+      ],
+      "987": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "113": [
+        "SuperXXLProfi"
+      ],
+      "134": [
+        "owac"
+      ],
+      "141": [
+        "leekcookie"
+      ],
+      "19": [
+        "santemjocko"
+      ],
+      "239": [
+        "iurie"
+      ],
+      "26": [
+        "Warhazarder"
+      ],
+      "27": [
+        "JonasderGamer"
+      ],
+      "34": [
+        "DornDasBrot"
+      ],
+      "370": [
+        "philxpx"
+      ],
+      "71": [
+        "imabaldman"
+      ]
+    },
+    "used": {
+      "1": [
+        "philxpx",
+        "Iglo"
+      ],
+      "122": [
+        "leekcookie"
+      ],
+      "2": [
+        "santemjocko"
+      ],
+      "26": [
+        "iurie"
+      ],
+      "4": [
+        "XeonVirus"
+      ],
+      "48": [
+        "owac"
+      ],
+      "5": [
+        "obvBasti",
+        "__kreck"
+      ],
+      "70": [
+        "DornDasBrot"
+      ],
+      "9": [
+        "Lord_HoruS",
+        "Teayo"
+      ]
+    }
+  }
+}

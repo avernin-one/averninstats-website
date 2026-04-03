@@ -1,0 +1,77 @@
+{
+  "name": "wooden_shovel",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "Austriana",
+        "XeonVirus"
+      ],
+      "2": [
+        "Der_Sani"
+      ],
+      "5": [
+        "nitram1572"
+      ],
+      "8": [
+        "Mandahaya"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "Austriana",
+        "Temeraiere",
+        "XeonVirus"
+      ],
+      "2": [
+        "Der_Sani"
+      ],
+      "4": [
+        "__kreck"
+      ],
+      "5": [
+        "nitram1572"
+      ],
+      "8": [
+        "Mandahaya"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Temeraiere",
+        "nitram1572"
+      ],
+      "5": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Mandahaya",
+        "Austriana",
+        "nitram1572"
+      ],
+      "2": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "124": [
+        "Der_Sani"
+      ],
+      "296": [
+        "nitram1572"
+      ],
+      "480": [
+        "Mandahaya"
+      ],
+      "60": [
+        "Austriana",
+        "XeonVirus"
+      ],
+      "98": [
+        "__kreck"
+      ]
+    }
+  }
+}

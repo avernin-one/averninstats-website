@@ -1,0 +1,78 @@
+{
+  "name": "brown_wool",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "2": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "Temeraiere"
+      ],
+      "129": [
+        "Iglo"
+      ],
+      "2": [
+        "Warhazarder"
+      ],
+      "4": [
+        "Mamuschkaz"
+      ],
+      "512": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "4": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "obvBasti",
+        "chaos1989",
+        "Iglo",
+        "Temeraiere",
+        "TrashSuperstar"
+      ],
+      "128": [
+        "lodoss2011"
+      ],
+      "2": [
+        "nitram1572",
+        "Sayder13xr",
+        "__Iglo"
+      ],
+      "3": [
+        "owac",
+        "Makishi25"
+      ],
+      "4": [
+        "Mamuschkaz",
+        "Cpt_looper"
+      ],
+      "47": [
+        "Mandahaya"
+      ],
+      "645": [
+        "leekcookie"
+      ],
+      "851": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo",
+        "owac",
+        "nitram1572"
+      ],
+      "7": [
+        "leekcookie"
+      ]
+    }
+  }
+}

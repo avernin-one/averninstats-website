@@ -1,0 +1,96 @@
+{
+  "name": "turtle_egg",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "14": [
+        "XeonVirus"
+      ],
+      "19": [
+        "nitram1572",
+        "DornDasBrot"
+      ],
+      "20": [
+        "iurie"
+      ],
+      "21": [
+        "__kreck"
+      ],
+      "24": [
+        "owac"
+      ],
+      "32": [
+        "Iglo"
+      ],
+      "4": [
+        "obvBasti"
+      ],
+      "5": [
+        "Sayder13xr"
+      ],
+      "7": [
+        "imabaldman"
+      ],
+      "9": [
+        "chaos1989"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "XeonVirus"
+      ],
+      "18": [
+        "nitram1572"
+      ],
+      "19": [
+        "iurie",
+        "DornDasBrot"
+      ],
+      "21": [
+        "__kreck"
+      ],
+      "24": [
+        "owac"
+      ],
+      "31": [
+        "Iglo"
+      ],
+      "4": [
+        "obvBasti"
+      ],
+      "5": [
+        "Sayder13xr"
+      ],
+      "6": [
+        "chaos1989"
+      ],
+      "7": [
+        "imabaldman"
+      ]
+    },
+    "used": {
+      "1": [
+        "nitram1572"
+      ],
+      "13": [
+        "__kreck"
+      ],
+      "19": [
+        "DornDasBrot"
+      ],
+      "2": [
+        "Sayder13xr"
+      ],
+      "4": [
+        "imabaldman"
+      ],
+      "5": [
+        "chaos1989"
+      ],
+      "9": [
+        "owac",
+        "iurie"
+      ]
+    }
+  }
+}

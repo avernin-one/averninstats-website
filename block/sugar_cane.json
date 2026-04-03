@@ -1,0 +1,138 @@
+{
+  "name": "sugar_cane",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "10": [
+        "owac"
+      ],
+      "16": [
+        "ScimMLG",
+        "imabaldman"
+      ],
+      "25": [
+        "Mamuschkaz",
+        "philxpx"
+      ],
+      "34": [
+        "XeonVirus"
+      ],
+      "6": [
+        "Lord_HoruS"
+      ],
+      "8": [
+        "lodoss2011",
+        "__kreck"
+      ],
+      "8012": [
+        "leekcookie"
+      ],
+      "863": [
+        "minenicknick"
+      ],
+      "9": [
+        "iurie",
+        "Makishi25"
+      ],
+      "94": [
+        "Iglo"
+      ]
+    },
+    "mined": {
+      "1101": [
+        "Mamuschkaz"
+      ],
+      "1619": [
+        "TrashSuperstar"
+      ],
+      "2171": [
+        "chaos1989"
+      ],
+      "2202": [
+        "Teayo"
+      ],
+      "2781": [
+        "Mandahaya"
+      ],
+      "3657": [
+        "Warhazarder"
+      ],
+      "3968": [
+        "owac"
+      ],
+      "4147": [
+        "santemjocko"
+      ],
+      "646": [
+        "Sayder13xr"
+      ],
+      "754": [
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "14125": [
+        "Warhazarder"
+      ],
+      "1933": [
+        "Mamuschkaz"
+      ],
+      "3088": [
+        "TrashSuperstar"
+      ],
+      "3776": [
+        "chaos1989"
+      ],
+      "4282": [
+        "Teayo"
+      ],
+      "4566": [
+        "iurie"
+      ],
+      "5667": [
+        "Mandahaya"
+      ],
+      "6197": [
+        "leekcookie"
+      ],
+      "6655": [
+        "santemjocko"
+      ],
+      "6824": [
+        "owac"
+      ]
+    },
+    "used": {
+      "1079": [
+        "owac"
+      ],
+      "152": [
+        "Iglo"
+      ],
+      "170": [
+        "iurie"
+      ],
+      "186": [
+        "chaos1989"
+      ],
+      "196": [
+        "Mamuschkaz"
+      ],
+      "201": [
+        "Teayo"
+      ],
+      "205": [
+        "Telinnor"
+      ],
+      "207": [
+        "Mandahaya"
+      ],
+      "210": [
+        "santemjocko"
+      ],
+      "522": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

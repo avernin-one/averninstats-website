@@ -1,0 +1,166 @@
+{
+  "name": "ender_chest",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "14": [
+        "Sayder13xr"
+      ],
+      "15": [
+        "minenicknick"
+      ],
+      "16": [
+        "imabaldman"
+      ],
+      "3": [
+        "SnuvomBodensatz",
+        "TrashSuperstar",
+        "DornDasBrot"
+      ],
+      "38": [
+        "santemjocko"
+      ],
+      "4": [
+        "leekcookie",
+        "nitram1572"
+      ],
+      "5": [
+        "__kreck"
+      ],
+      "53": [
+        "iurie"
+      ],
+      "6": [
+        "chaos1989",
+        "Lord_HoruS"
+      ],
+      "64": [
+        "Iglo"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "minenicknick",
+        "leekcookie",
+        "owac",
+        "iurie",
+        "SuperXXLProfi",
+        "TrashSuperstar"
+      ],
+      "10": [
+        "__Iglo"
+      ],
+      "13": [
+        "imabaldman"
+      ],
+      "16": [
+        "__kreck"
+      ],
+      "2": [
+        "santemjocko"
+      ],
+      "23": [
+        "lodoss2011"
+      ],
+      "5": [
+        "philxpx"
+      ]
+    },
+    "mined": {
+      "101": [
+        "__kreck"
+      ],
+      "150": [
+        "owac"
+      ],
+      "212": [
+        "santemjocko"
+      ],
+      "259": [
+        "imabaldman"
+      ],
+      "29": [
+        "obvBasti"
+      ],
+      "48": [
+        "Lord_HoruS"
+      ],
+      "64": [
+        "Iglo"
+      ],
+      "70": [
+        "__Iglo"
+      ],
+      "890": [
+        "iurie"
+      ],
+      "96": [
+        "minenicknick"
+      ]
+    },
+    "picked_up": {
+      "122": [
+        "minenicknick"
+      ],
+      "149": [
+        "owac"
+      ],
+      "151": [
+        "__kreck"
+      ],
+      "231": [
+        "santemjocko"
+      ],
+      "275": [
+        "imabaldman"
+      ],
+      "40": [
+        "lodoss2011"
+      ],
+      "51": [
+        "Lord_HoruS"
+      ],
+      "65": [
+        "Iglo"
+      ],
+      "81": [
+        "__Iglo"
+      ],
+      "897": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "101": [
+        "minenicknick"
+      ],
+      "116": [
+        "__kreck"
+      ],
+      "230": [
+        "santemjocko"
+      ],
+      "259": [
+        "imabaldman"
+      ],
+      "30": [
+        "obvBasti"
+      ],
+      "52": [
+        "Lord_HoruS"
+      ],
+      "64": [
+        "Iglo"
+      ],
+      "82": [
+        "owac"
+      ],
+      "86": [
+        "__Iglo"
+      ],
+      "896": [
+        "iurie"
+      ]
+    }
+  }
+}

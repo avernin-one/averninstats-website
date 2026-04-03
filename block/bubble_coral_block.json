@@ -1,0 +1,51 @@
+{
+  "name": "bubble_coral_block",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "Mandahaya"
+      ],
+      "11": [
+        "Lord_HoruS"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "55": [
+        "__kreck"
+      ],
+      "7": [
+        "TrashSuperstar"
+      ],
+      "8": [
+        "nitram1572"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "11": [
+        "Lord_HoruS"
+      ],
+      "18": [
+        "leekcookie"
+      ],
+      "2": [
+        "iurie"
+      ],
+      "24": [
+        "nitram1572"
+      ],
+      "55": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "4": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

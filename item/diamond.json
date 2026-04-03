@@ -1,0 +1,94 @@
+{
+  "name": "diamond",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "18": [
+        "Temeraiere",
+        "Sayder13xr"
+      ],
+      "423": [
+        "JonasderGamer"
+      ],
+      "54": [
+        "owac"
+      ],
+      "540": [
+        "iurie"
+      ],
+      "9": [
+        "leekcookie",
+        "Iglo"
+      ],
+      "90": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "113": [
+        "Warhazarder"
+      ],
+      "13": [
+        "leekcookie",
+        "Iglo",
+        "Sayder13xr"
+      ],
+      "152": [
+        "iurie"
+      ],
+      "18": [
+        "obvBasti"
+      ],
+      "212": [
+        "JonasderGamer"
+      ],
+      "22": [
+        "imabaldman"
+      ],
+      "36": [
+        "minenicknick"
+      ],
+      "42": [
+        "owac"
+      ],
+      "60": [
+        "lodoss2011"
+      ],
+      "76": [
+        "SuperXXLProfi"
+      ]
+    },
+    "picked_up": {
+      "194": [
+        "TrashSuperstar"
+      ],
+      "240": [
+        "Sayder13xr"
+      ],
+      "253": [
+        "SuperXXLProfi"
+      ],
+      "258": [
+        "__kreck"
+      ],
+      "275": [
+        "Warhazarder"
+      ],
+      "276": [
+        "Iglo"
+      ],
+      "386": [
+        "philxpx"
+      ],
+      "404": [
+        "XeonVirus"
+      ],
+      "478": [
+        "leekcookie"
+      ],
+      "971": [
+        "iurie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "name": "water_bucket",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "ScimMLG",
+        "Austriana",
+        "Temeraiere",
+        "nitram1572",
+        "Lord_HoruS",
+        "DornDasBrot",
+        "Sayder13xr"
+      ],
+      "11": [
+        "__Iglo"
+      ],
+      "15": [
+        "__kreck"
+      ],
+      "19": [
+        "minenicknick"
+      ],
+      "2": [
+        "philxpx",
+        "SuperXXLProfi"
+      ],
+      "3": [
+        "lodoss2011",
+        "owac"
+      ],
+      "4": [
+        "santemjocko",
+        "Mamuschkaz"
+      ],
+      "5": [
+        "Iglo",
+        "imabaldman"
+      ],
+      "7": [
+        "Cpt_looper"
+      ],
+      "8": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "Lord_HoruS"
+      ],
+      "15": [
+        "Mandahaya"
+      ],
+      "16": [
+        "santemjocko",
+        "__Iglo"
+      ],
+      "17": [
+        "Iglo"
+      ],
+      "20": [
+        "lodoss2011"
+      ],
+      "22": [
+        "Sayder13xr"
+      ],
+      "23": [
+        "minenicknick"
+      ],
+      "27": [
+        "Cpt_looper",
+        "__kreck"
+      ],
+      "84": [
+        "leekcookie"
+      ],
+      "9": [
+        "Telinnor",
+        "nitram1572",
+        "imabaldman"
+      ]
+    },
+    "used": {
+      "1017": [
+        "__kreck"
+      ],
+      "1143": [
+        "iurie"
+      ],
+      "1185": [
+        "leekcookie"
+      ],
+      "1786": [
+        "owac"
+      ],
+      "2885": [
+        "lodoss2011"
+      ],
+      "5157": [
+        "Teayo"
+      ],
+      "643": [
+        "nitram1572"
+      ],
+      "747": [
+        "SnuvomBodensatz"
+      ],
+      "816": [
+        "Sayder13xr"
+      ],
+      "949": [
+        "imabaldman"
+      ]
+    }
+  }
+}

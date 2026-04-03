@@ -1,0 +1,49 @@
+{
+  "name": "end_stone_brick_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "4": [
+        "DornDasBrot"
+      ],
+      "8": [
+        "__kreck"
+      ],
+      "84": [
+        "Lord_HoruS"
+      ]
+    },
+    "dropped": {
+      "15": [
+        "Iglo"
+      ]
+    },
+    "mined": {
+      "15": [
+        "Iglo"
+      ],
+      "2": [
+        "Lord_HoruS",
+        "DornDasBrot"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "Lord_HoruS",
+        "DornDasBrot"
+      ],
+      "30": [
+        "Iglo"
+      ]
+    },
+    "used": {
+      "47": [
+        "Lord_HoruS"
+      ],
+      "5": [
+        "DornDasBrot",
+        "__kreck"
+      ]
+    }
+  }
+}

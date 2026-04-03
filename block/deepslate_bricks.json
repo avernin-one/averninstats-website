@@ -1,0 +1,168 @@
+{
+  "name": "deepslate_bricks",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1176": [
+        "santemjocko"
+      ],
+      "1228": [
+        "philxpx"
+      ],
+      "1341": [
+        "Sayder13xr"
+      ],
+      "14568": [
+        "Iglo"
+      ],
+      "2116": [
+        "TrashSuperstar"
+      ],
+      "21204": [
+        "leekcookie"
+      ],
+      "320": [
+        "Mamuschkaz"
+      ],
+      "5212": [
+        "__Iglo"
+      ],
+      "740": [
+        "__kreck"
+      ],
+      "9856": [
+        "SuperXXLProfi"
+      ]
+    },
+    "dropped": {
+      "10": [
+        "Iglo"
+      ],
+      "164": [
+        "__kreck"
+      ],
+      "2": [
+        "Mamuschkaz"
+      ],
+      "234": [
+        "philxpx"
+      ],
+      "3": [
+        "santemjocko",
+        "JonasderGamer"
+      ],
+      "31": [
+        "DornDasBrot"
+      ],
+      "36": [
+        "SuperXXLProfi"
+      ],
+      "387": [
+        "leekcookie"
+      ],
+      "4": [
+        "owac"
+      ],
+      "959": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "129": [
+        "leekcookie"
+      ],
+      "142": [
+        "TrashSuperstar"
+      ],
+      "150": [
+        "santemjocko"
+      ],
+      "160": [
+        "SuperXXLProfi"
+      ],
+      "354": [
+        "chaos1989"
+      ],
+      "46": [
+        "__Iglo",
+        "Warhazarder"
+      ],
+      "48": [
+        "XeonVirus"
+      ],
+      "54": [
+        "__kreck"
+      ],
+      "61": [
+        "philxpx"
+      ],
+      "64": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "131": [
+        "TrashSuperstar"
+      ],
+      "141": [
+        "santemjocko"
+      ],
+      "165": [
+        "Iglo"
+      ],
+      "187": [
+        "Warhazarder"
+      ],
+      "354": [
+        "chaos1989"
+      ],
+      "361": [
+        "__Iglo"
+      ],
+      "422": [
+        "leekcookie"
+      ],
+      "423": [
+        "SuperXXLProfi"
+      ],
+      "73": [
+        "nitram1572"
+      ],
+      "998": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1209": [
+        "santemjocko"
+      ],
+      "1756": [
+        "Warhazarder"
+      ],
+      "1894": [
+        "chaos1989"
+      ],
+      "377": [
+        "leekcookie"
+      ],
+      "378": [
+        "philxpx"
+      ],
+      "403": [
+        "DornDasBrot"
+      ],
+      "5763": [
+        "__kreck"
+      ],
+      "752": [
+        "Iglo"
+      ],
+      "8217": [
+        "SuperXXLProfi"
+      ],
+      "989": [
+        "TrashSuperstar"
+      ]
+    }
+  }
+}

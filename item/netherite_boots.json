@@ -1,0 +1,82 @@
+{
+  "name": "netherite_boots",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "lodoss2011",
+        "Mamuschkaz",
+        "SuperXXLProfi",
+        "Cpt_looper",
+        "imabaldman",
+        "__kreck",
+        "Teayo"
+      ],
+      "2": [
+        "TrashSuperstar",
+        "Lord_HoruS"
+      ],
+      "3": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "minenicknick",
+        "philxpx",
+        "__Iglo",
+        "__kreck"
+      ],
+      "2": [
+        "SuperXXLProfi"
+      ]
+    },
+    "picked_up": {
+      "13": [
+        "Mamuschkaz"
+      ],
+      "15": [
+        "lodoss2011"
+      ],
+      "2": [
+        "imabaldman",
+        "__kreck"
+      ],
+      "20": [
+        "santemjocko"
+      ],
+      "4": [
+        "Sayder13xr"
+      ],
+      "5": [
+        "philxpx"
+      ],
+      "6": [
+        "SuperXXLProfi",
+        "__Iglo"
+      ],
+      "7": [
+        "leekcookie",
+        "Lord_HoruS"
+      ],
+      "8": [
+        "iurie"
+      ],
+      "9": [
+        "minenicknick"
+      ]
+    },
+    "used": {
+      "1": [
+        "minenicknick",
+        "philxpx",
+        "Iglo",
+        "imabaldman",
+        "Sayder13xr"
+      ],
+      "8": [
+        "__Iglo"
+      ]
+    }
+  }
+}

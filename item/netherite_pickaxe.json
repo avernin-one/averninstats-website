@@ -1,0 +1,141 @@
+{
+  "name": "netherite_pickaxe",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "leekcookie",
+        "__kreck"
+      ],
+      "2": [
+        "iurie"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "lodoss2011",
+        "Mamuschkaz",
+        "Temeraiere",
+        "imabaldman",
+        "Sayder13xr",
+        "__Iglo",
+        "Warhazarder",
+        "__kreck",
+        "Teayo"
+      ],
+      "2": [
+        "obvBasti",
+        "chaos1989",
+        "SuperXXLProfi",
+        "Cpt_looper"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "4": [
+        "TrashSuperstar",
+        "Lord_HoruS"
+      ],
+      "5": [
+        "philxpx"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "lodoss2011",
+        "chaos1989",
+        "leekcookie",
+        "iurie",
+        "Cpt_looper",
+        "imabaldman"
+      ],
+      "2": [
+        "minenicknick",
+        "Mamuschkaz",
+        "SuperXXLProfi",
+        "Telinnor"
+      ],
+      "3": [
+        "TrashSuperstar"
+      ],
+      "4": [
+        "santemjocko",
+        "__Iglo",
+        "__kreck"
+      ],
+      "5": [
+        "obvBasti"
+      ],
+      "6": [
+        "philxpx"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "__Iglo"
+      ],
+      "12": [
+        "iurie"
+      ],
+      "13": [
+        "minenicknick",
+        "philxpx",
+        "Lord_HoruS"
+      ],
+      "16": [
+        "Mamuschkaz"
+      ],
+      "22": [
+        "lodoss2011"
+      ],
+      "46": [
+        "santemjocko"
+      ],
+      "6": [
+        "imabaldman"
+      ],
+      "7": [
+        "Cpt_looper"
+      ],
+      "8": [
+        "SuperXXLProfi",
+        "Telinnor"
+      ],
+      "9": [
+        "Sayder13xr"
+      ]
+    },
+    "used": {
+      "131599": [
+        "Lord_HoruS"
+      ],
+      "133031": [
+        "__Iglo"
+      ],
+      "165372": [
+        "iurie"
+      ],
+      "237719": [
+        "santemjocko"
+      ],
+      "48676": [
+        "Warhazarder"
+      ],
+      "50622": [
+        "owac"
+      ],
+      "52581": [
+        "imabaldman"
+      ],
+      "64289": [
+        "Mamuschkaz"
+      ],
+      "91877": [
+        "chaos1989"
+      ],
+      "95081": [
+        "TrashSuperstar"
+      ]
+    }
+  }
+}

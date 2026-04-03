@@ -1,0 +1,21 @@
+{
+  "name": "dead_bubble_coral_fan",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "40": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "84": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "65": [
+        "iurie"
+      ]
+    }
+  }
+}

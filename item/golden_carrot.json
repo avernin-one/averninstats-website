@@ -1,0 +1,134 @@
+{
+  "name": "golden_carrot",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "11718": [
+        "iurie"
+      ],
+      "1358": [
+        "__kreck"
+      ],
+      "1560": [
+        "santemjocko"
+      ],
+      "1856": [
+        "__Iglo"
+      ],
+      "2340": [
+        "Iglo"
+      ],
+      "348": [
+        "DornDasBrot"
+      ],
+      "477": [
+        "minenicknick"
+      ],
+      "5769": [
+        "leekcookie"
+      ],
+      "711": [
+        "TrashSuperstar"
+      ],
+      "828": [
+        "owac"
+      ]
+    },
+    "dropped": {
+      "233": [
+        "leekcookie"
+      ],
+      "243": [
+        "iurie"
+      ],
+      "279": [
+        "__Iglo"
+      ],
+      "289": [
+        "__kreck"
+      ],
+      "43": [
+        "TrashSuperstar"
+      ],
+      "45": [
+        "ScimMLG"
+      ],
+      "48": [
+        "santemjocko"
+      ],
+      "49": [
+        "imabaldman"
+      ],
+      "52": [
+        "Sayder13xr"
+      ],
+      "520": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "1128": [
+        "iurie"
+      ],
+      "1470": [
+        "santemjocko"
+      ],
+      "160": [
+        "minenicknick"
+      ],
+      "192": [
+        "XeonVirus"
+      ],
+      "221": [
+        "TrashSuperstar"
+      ],
+      "230": [
+        "Cpt_looper"
+      ],
+      "410": [
+        "Iglo"
+      ],
+      "530": [
+        "__Iglo"
+      ],
+      "6292": [
+        "leekcookie"
+      ],
+      "984": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1151": [
+        "__Iglo"
+      ],
+      "1364": [
+        "santemjocko"
+      ],
+      "2156": [
+        "__kreck"
+      ],
+      "345": [
+        "minenicknick"
+      ],
+      "3662": [
+        "leekcookie"
+      ],
+      "376": [
+        "DornDasBrot"
+      ],
+      "385": [
+        "imabaldman"
+      ],
+      "5863": [
+        "iurie"
+      ],
+      "694": [
+        "owac"
+      ],
+      "923": [
+        "Iglo"
+      ]
+    }
+  }
+}

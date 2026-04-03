@@ -1,0 +1,76 @@
+{
+  "name": "jungle_door",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "126": [
+        "chaos1989"
+      ],
+      "3": [
+        "leekcookie",
+        "nitram1572"
+      ],
+      "6": [
+        "TrashSuperstar"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "leekcookie",
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "1": [
+        "TrashSuperstar"
+      ],
+      "11": [
+        "chaos1989"
+      ],
+      "3": [
+        "leekcookie"
+      ],
+      "40": [
+        "iurie"
+      ],
+      "6": [
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "__Iglo"
+      ],
+      "11": [
+        "chaos1989"
+      ],
+      "2": [
+        "TrashSuperstar"
+      ],
+      "45": [
+        "iurie"
+      ],
+      "8": [
+        "nitram1572"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "4": [
+        "leekcookie"
+      ],
+      "5": [
+        "iurie"
+      ],
+      "63": [
+        "chaos1989"
+      ],
+      "8": [
+        "TrashSuperstar",
+        "nitram1572"
+      ]
+    }
+  }
+}

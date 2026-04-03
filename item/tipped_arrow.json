@@ -1,0 +1,36 @@
+{
+  "name": "tipped_arrow",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "430": [
+        "iurie"
+      ],
+      "45": [
+        "owac"
+      ],
+      "60": [
+        "minenicknick"
+      ]
+    },
+    "dropped": {
+      "40": [
+        "owac"
+      ],
+      "52": [
+        "minenicknick"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "iurie"
+      ],
+      "40": [
+        "owac"
+      ],
+      "5": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "arrow",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "192": [
+        "minenicknick"
+      ],
+      "20": [
+        "Warhazarder"
+      ],
+      "2158": [
+        "owac"
+      ],
+      "236": [
+        "DornDasBrot"
+      ],
+      "24": [
+        "chaos1989"
+      ],
+      "3280": [
+        "iurie"
+      ],
+      "512": [
+        "lodoss2011"
+      ],
+      "64": [
+        "SuperXXLProfi"
+      ],
+      "890": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "1426": [
+        "XeonVirus"
+      ],
+      "1764": [
+        "Sayder13xr"
+      ],
+      "1836": [
+        "lodoss2011"
+      ],
+      "1857": [
+        "Lord_HoruS"
+      ],
+      "2225": [
+        "iurie"
+      ],
+      "316": [
+        "__kreck"
+      ],
+      "329": [
+        "santemjocko"
+      ],
+      "6103": [
+        "owac"
+      ],
+      "621": [
+        "Teayo"
+      ],
+      "917": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1080": [
+        "Sayder13xr"
+      ],
+      "1136": [
+        "Lord_HoruS"
+      ],
+      "1256": [
+        "leekcookie"
+      ],
+      "1265": [
+        "owac"
+      ],
+      "1287": [
+        "XeonVirus"
+      ],
+      "1672": [
+        "SnuvomBodensatz"
+      ],
+      "1977": [
+        "iurie"
+      ],
+      "2588": [
+        "Teayo"
+      ],
+      "7405": [
+        "lodoss2011"
+      ],
+      "885": [
+        "santemjocko"
+      ]
+    }
+  }
+}

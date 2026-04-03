@@ -1,0 +1,132 @@
+{
+  "name": "iron_ore",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "SuperXXLProfi",
+        "imabaldman"
+      ],
+      "16": [
+        "obvBasti"
+      ],
+      "165": [
+        "__Iglo"
+      ],
+      "2": [
+        "Iglo"
+      ],
+      "26": [
+        "leekcookie"
+      ],
+      "4": [
+        "santemjocko"
+      ],
+      "483": [
+        "__kreck"
+      ],
+      "5": [
+        "philxpx",
+        "owac"
+      ],
+      "8": [
+        "Lord_HoruS"
+      ]
+    },
+    "mined": {
+      "1437": [
+        "__kreck"
+      ],
+      "302": [
+        "Sayder13xr"
+      ],
+      "330": [
+        "chaos1989"
+      ],
+      "345": [
+        "Teayo"
+      ],
+      "512": [
+        "__Iglo"
+      ],
+      "592": [
+        "santemjocko"
+      ],
+      "708": [
+        "leekcookie"
+      ],
+      "734": [
+        "Mandahaya"
+      ],
+      "804": [
+        "Warhazarder"
+      ],
+      "862": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "104": [
+        "chaos1989"
+      ],
+      "137": [
+        "nitram1572"
+      ],
+      "216": [
+        "santemjocko"
+      ],
+      "233": [
+        "__Iglo"
+      ],
+      "244": [
+        "iurie"
+      ],
+      "422": [
+        "leekcookie"
+      ],
+      "49": [
+        "Sayder13xr"
+      ],
+      "50": [
+        "SuperXXLProfi"
+      ],
+      "87": [
+        "Warhazarder"
+      ],
+      "893": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1": [
+        "owac",
+        "Cpt_looper",
+        "__Iglo"
+      ],
+      "110": [
+        "leekcookie"
+      ],
+      "12": [
+        "SuperXXLProfi"
+      ],
+      "148": [
+        "iurie"
+      ],
+      "159": [
+        "santemjocko"
+      ],
+      "2": [
+        "Makishi25"
+      ],
+      "41": [
+        "nitram1572"
+      ],
+      "76": [
+        "chaos1989"
+      ],
+      "84": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

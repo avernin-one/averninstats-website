@@ -1,0 +1,11 @@
+{
+  "name": "spruce_hanging_sign",
+  "type": "block",
+  "scores": {
+    "picked_up": {
+      "3": [
+        "iurie"
+      ]
+    }
+  }
+}

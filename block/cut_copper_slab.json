@@ -1,0 +1,71 @@
+{
+  "name": "cut_copper_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "40": [
+        "Telinnor"
+      ],
+      "44": [
+        "DornDasBrot"
+      ],
+      "90": [
+        "Teayo"
+      ]
+    },
+    "dropped": {
+      "3": [
+        "leekcookie"
+      ],
+      "90": [
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "1": [
+        "philxpx",
+        "Teayo"
+      ],
+      "13": [
+        "leekcookie"
+      ],
+      "2": [
+        "Telinnor",
+        "DornDasBrot"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "philxpx",
+        "Teayo"
+      ],
+      "2": [
+        "Telinnor",
+        "DornDasBrot"
+      ],
+      "346": [
+        "leekcookie"
+      ],
+      "90": [
+        "imabaldman"
+      ]
+    },
+    "used": {
+      "1": [
+        "Teayo"
+      ],
+      "42": [
+        "Telinnor"
+      ],
+      "60": [
+        "leekcookie"
+      ],
+      "74": [
+        "philxpx"
+      ],
+      "76": [
+        "DornDasBrot"
+      ]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "warped_roots",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "11": [
+        "Mamuschkaz",
+        "TrashSuperstar"
+      ],
+      "15": [
+        "leekcookie"
+      ],
+      "16": [
+        "lodoss2011"
+      ],
+      "19": [
+        "Lord_HoruS"
+      ],
+      "258": [
+        "owac"
+      ],
+      "35": [
+        "Iglo"
+      ],
+      "64": [
+        "XeonVirus"
+      ],
+      "641": [
+        "Makishi25"
+      ],
+      "7": [
+        "Warhazarder"
+      ],
+      "78": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "11": [
+        "Sayder13xr"
+      ],
+      "12": [
+        "Lord_HoruS"
+      ],
+      "138": [
+        "__kreck"
+      ],
+      "35": [
+        "leekcookie"
+      ],
+      "587": [
+        "Iglo"
+      ],
+      "7": [
+        "lodoss2011"
+      ],
+      "70": [
+        "santemjocko"
+      ],
+      "8": [
+        "Mamuschkaz",
+        "iurie",
+        "TrashSuperstar",
+        "Makishi25"
+      ],
+      "9": [
+        "Mandahaya"
+      ],
+      "97": [
+        "XeonVirus"
+      ]
+    },
+    "picked_up": {
+      "1233": [
+        "iurie"
+      ],
+      "145": [
+        "XeonVirus"
+      ],
+      "195": [
+        "Makishi25"
+      ],
+      "271": [
+        "__kreck"
+      ],
+      "28": [
+        "lodoss2011"
+      ],
+      "305": [
+        "owac"
+      ],
+      "31": [
+        "santemjocko"
+      ],
+      "39": [
+        "Lord_HoruS"
+      ],
+      "41": [
+        "leekcookie"
+      ],
+      "578": [
+        "Iglo"
+      ]
+    },
+    "used": {
+      "1": [
+        "lodoss2011",
+        "XeonVirus"
+      ],
+      "12": [
+        "iurie"
+      ],
+      "3": [
+        "Sayder13xr"
+      ],
+      "327": [
+        "Makishi25"
+      ],
+      "42": [
+        "owac"
+      ]
+    }
+  }
+}

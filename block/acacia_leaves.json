@@ -1,0 +1,80 @@
+{
+  "name": "acacia_leaves",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "14": [
+        "Telinnor"
+      ],
+      "2": [
+        "Makishi25"
+      ],
+      "4": [
+        "KleeneEle"
+      ],
+      "6": [
+        "leekcookie",
+        "Warhazarder"
+      ]
+    },
+    "mined": {
+      "163": [
+        "Warhazarder"
+      ],
+      "2": [
+        "santemjocko",
+        "chaos1989",
+        "KleeneEle",
+        "Iglo",
+        "TrashSuperstar"
+      ],
+      "205": [
+        "lodoss2011"
+      ],
+      "37": [
+        "Makishi25"
+      ],
+      "393": [
+        "leekcookie"
+      ],
+      "5": [
+        "LumpenBrot"
+      ],
+      "54": [
+        "ScimMLG"
+      ],
+      "56": [
+        "iurie"
+      ],
+      "585": [
+        "Telinnor"
+      ],
+      "80": [
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "14": [
+        "Telinnor"
+      ],
+      "19": [
+        "leekcookie"
+      ],
+      "2": [
+        "Makishi25"
+      ],
+      "29": [
+        "Warhazarder"
+      ],
+      "4": [
+        "KleeneEle",
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "10": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

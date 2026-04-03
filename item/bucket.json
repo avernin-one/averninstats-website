@@ -1,0 +1,142 @@
+{
+  "name": "bucket",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "221": [
+        "iurie",
+        "__kreck"
+      ],
+      "43": [
+        "Cpt_looper"
+      ],
+      "46": [
+        "SuperXXLProfi"
+      ],
+      "55": [
+        "Sayder13xr"
+      ],
+      "67": [
+        "__Iglo"
+      ],
+      "70": [
+        "nitram1572"
+      ],
+      "71": [
+        "owac"
+      ],
+      "80": [
+        "santemjocko"
+      ],
+      "87": [
+        "lodoss2011"
+      ],
+      "918": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "SnuvomBodensatz",
+        "lodoss2011",
+        "minenicknick",
+        "Mamuschkaz",
+        "KleeneEle",
+        "egoplayer_Felix",
+        "Makishi25"
+      ],
+      "132": [
+        "leekcookie"
+      ],
+      "2": [
+        "owac",
+        "nitram1572",
+        "__Iglo"
+      ],
+      "3": [
+        "imabaldman"
+      ],
+      "4": [
+        "ScimMLG",
+        "DornDasBrot"
+      ],
+      "6": [
+        "Temeraiere",
+        "Cpt_looper"
+      ],
+      "7": [
+        "Iglo"
+      ],
+      "9": [
+        "santemjocko"
+      ],
+      "96": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "104": [
+        "__kreck"
+      ],
+      "13": [
+        "Warhazarder"
+      ],
+      "16": [
+        "Lord_HoruS"
+      ],
+      "18": [
+        "Sayder13xr"
+      ],
+      "22": [
+        "Makishi25"
+      ],
+      "24": [
+        "philxpx"
+      ],
+      "38": [
+        "santemjocko"
+      ],
+      "42": [
+        "Cpt_looper"
+      ],
+      "499": [
+        "leekcookie"
+      ],
+      "52": [
+        "lodoss2011"
+      ]
+    },
+    "used": {
+      "1059": [
+        "imabaldman"
+      ],
+      "1219": [
+        "__kreck"
+      ],
+      "1681": [
+        "iurie"
+      ],
+      "1983": [
+        "owac"
+      ],
+      "2776": [
+        "leekcookie"
+      ],
+      "5947": [
+        "lodoss2011"
+      ],
+      "755": [
+        "SnuvomBodensatz"
+      ],
+      "7707": [
+        "Teayo"
+      ],
+      "894": [
+        "Sayder13xr"
+      ],
+      "955": [
+        "nitram1572"
+      ]
+    }
+  }
+}

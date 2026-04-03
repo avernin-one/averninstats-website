@@ -1,0 +1,70 @@
+{
+  "name": "netherite_chestplate",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "lodoss2011",
+        "Mamuschkaz",
+        "philxpx",
+        "owac",
+        "SuperXXLProfi",
+        "imabaldman",
+        "Sayder13xr",
+        "XeonVirus"
+      ],
+      "2": [
+        "iurie",
+        "TrashSuperstar",
+        "Lord_HoruS"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "lodoss2011",
+        "minenicknick",
+        "imabaldman"
+      ],
+      "2": [
+        "philxpx"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "obvBasti",
+        "leekcookie"
+      ],
+      "10": [
+        "santemjocko"
+      ],
+      "2": [
+        "Lord_HoruS"
+      ],
+      "3": [
+        "Mamuschkaz",
+        "iurie",
+        "imabaldman",
+        "Sayder13xr"
+      ],
+      "4": [
+        "SuperXXLProfi"
+      ],
+      "6": [
+        "philxpx"
+      ],
+      "8": [
+        "minenicknick"
+      ],
+      "9": [
+        "lodoss2011"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie",
+        "imabaldman"
+      ]
+    }
+  }
+}

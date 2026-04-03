@@ -1,0 +1,72 @@
+{
+  "name": "emerald_ore",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "Telinnor",
+        "TrashSuperstar",
+        "Teayo"
+      ],
+      "15": [
+        "XeonVirus"
+      ],
+      "2": [
+        "Lukas_126",
+        "DornDasBrot"
+      ],
+      "23": [
+        "iurie"
+      ],
+      "3": [
+        "philxpx",
+        "Ivenor",
+        "Lord_HoruS"
+      ],
+      "4": [
+        "Warhazarder"
+      ],
+      "48": [
+        "santemjocko"
+      ],
+      "59": [
+        "obvBasti"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "TrashSuperstar",
+        "DornDasBrot"
+      ],
+      "11": [
+        "XeonVirus"
+      ],
+      "23": [
+        "iurie"
+      ],
+      "24": [
+        "santemjocko"
+      ],
+      "3": [
+        "obvBasti",
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "1": [
+        "DornDasBrot",
+        "Teayo"
+      ],
+      "15": [
+        "santemjocko"
+      ],
+      "21": [
+        "iurie"
+      ],
+      "3": [
+        "obvBasti",
+        "XeonVirus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sculk_vein",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "14": [
+        "XeonVirus"
+      ],
+      "26": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "15": [
+        "XeonVirus"
+      ],
+      "20": [
+        "iurie"
+      ]
+    }
+  }
+}

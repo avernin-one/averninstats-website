@@ -1,0 +1,55 @@
+{
+  "name": "ink_sac",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "DornDasBrot"
+      ],
+      "2": [
+        "Warhazarder"
+      ],
+      "6": [
+        "philxpx"
+      ],
+      "71": [
+        "minenicknick"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "132": [
+        "iurie"
+      ],
+      "139": [
+        "Makishi25"
+      ],
+      "188": [
+        "minenicknick"
+      ],
+      "262": [
+        "santemjocko"
+      ],
+      "296": [
+        "leekcookie"
+      ],
+      "41": [
+        "imabaldman"
+      ],
+      "50": [
+        "XeonVirus"
+      ],
+      "65": [
+        "DornDasBrot"
+      ],
+      "67": [
+        "philxpx"
+      ],
+      "87": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

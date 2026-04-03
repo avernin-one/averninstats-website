@@ -1,0 +1,117 @@
+{
+  "name": "leather_boots",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "lodoss2011",
+        "StofftierAnabol",
+        "Cpt_looper"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "chaos1989",
+        "CuzimJxson",
+        "nitram1572",
+        "Makishi25"
+      ],
+      "18": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Mandahaya",
+        "Telinnor",
+        "nitram1572",
+        "Lord_HoruS"
+      ],
+      "12": [
+        "Sayder13xr"
+      ],
+      "2": [
+        "Mamuschkaz",
+        "owac",
+        "DornDasBrot",
+        "Makishi25"
+      ],
+      "21": [
+        "TrashSuperstar"
+      ],
+      "3": [
+        "lodoss2011",
+        "minenicknick",
+        "__kreck"
+      ],
+      "33": [
+        "leekcookie"
+      ],
+      "4": [
+        "Teayo",
+        "XeonVirus"
+      ],
+      "5": [
+        "santemjocko",
+        "chaos1989",
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Ivenor",
+        "CuzimJxson",
+        "Telinnor",
+        "Lord_HoruS"
+      ],
+      "11": [
+        "Mandahaya"
+      ],
+      "2": [
+        "SnuvomBodensatz",
+        "Mamuschkaz",
+        "Austriana",
+        "owac",
+        "DornDasBrot"
+      ],
+      "27": [
+        "leekcookie"
+      ],
+      "3": [
+        "minenicknick",
+        "StofftierAnabol",
+        "nitram1572"
+      ],
+      "4": [
+        "Makishi25",
+        "Warhazarder",
+        "__kreck",
+        "Teayo"
+      ],
+      "5": [
+        "lodoss2011",
+        "Cpt_looper"
+      ],
+      "6": [
+        "TrashSuperstar",
+        "Sayder13xr",
+        "XeonVirus"
+      ],
+      "7": [
+        "chaos1989",
+        "iurie"
+      ],
+      "9": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ],
+      "3": [
+        "StofftierAnabol"
+      ]
+    }
+  }
+}

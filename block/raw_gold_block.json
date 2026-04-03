@@ -1,0 +1,35 @@
+{
+  "name": "raw_gold_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "leekcookie"
+      ],
+      "25": [
+        "Temeraiere"
+      ],
+      "3": [
+        "Mandahaya"
+      ]
+    },
+    "mined": {
+      "1": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "leekcookie"
+      ],
+      "23": [
+        "Temeraiere"
+      ]
+    },
+    "used": {
+      "1": [
+        "leekcookie"
+      ]
+    }
+  }
+}

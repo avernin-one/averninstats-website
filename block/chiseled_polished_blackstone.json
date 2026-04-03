@@ -1,0 +1,76 @@
+{
+  "name": "chiseled_polished_blackstone",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "21": [
+        "Makishi25"
+      ],
+      "24": [
+        "leekcookie"
+      ],
+      "9": [
+        "nitram1572"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "2": [
+        "nitram1572"
+      ],
+      "20": [
+        "iurie"
+      ],
+      "26": [
+        "owac"
+      ],
+      "48": [
+        "leekcookie"
+      ],
+      "51": [
+        "imabaldman"
+      ],
+      "7": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "19": [
+        "iurie"
+      ],
+      "2": [
+        "nitram1572"
+      ],
+      "44": [
+        "leekcookie"
+      ],
+      "48": [
+        "imabaldman"
+      ],
+      "6": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "11": [
+        "nitram1572"
+      ],
+      "152": [
+        "leekcookie"
+      ],
+      "16": [
+        "santemjocko"
+      ],
+      "26": [
+        "Makishi25"
+      ],
+      "9": [
+        "imabaldman"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "golden_horse_armor",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "leekcookie",
+        "owac",
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Mandahaya",
+        "leekcookie",
+        "owac",
+        "Sayder13xr",
+        "Teayo"
+      ],
+      "12": [
+        "iurie"
+      ]
+    }
+  }
+}

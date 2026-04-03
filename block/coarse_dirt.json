@@ -1,0 +1,106 @@
+{
+  "name": "coarse_dirt",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "125": [
+        "Mamuschkaz"
+      ],
+      "22": [
+        "Temeraiere"
+      ],
+      "24": [
+        "XeonVirus"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Iglo",
+        "__kreck"
+      ],
+      "1515": [
+        "DornDasBrot"
+      ],
+      "157": [
+        "Temeraiere"
+      ],
+      "179": [
+        "Mamuschkaz"
+      ],
+      "19": [
+        "Cpt_looper"
+      ],
+      "26": [
+        "XeonVirus"
+      ],
+      "3": [
+        "nitram1572"
+      ],
+      "47": [
+        "chaos1989"
+      ],
+      "5": [
+        "lodoss2011"
+      ],
+      "533": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1457": [
+        "DornDasBrot"
+      ],
+      "153": [
+        "Temeraiere"
+      ],
+      "2": [
+        "Iglo"
+      ],
+      "21": [
+        "Cpt_looper"
+      ],
+      "221": [
+        "Mamuschkaz"
+      ],
+      "3": [
+        "nitram1572"
+      ],
+      "4": [
+        "lodoss2011"
+      ],
+      "47": [
+        "chaos1989"
+      ],
+      "50": [
+        "XeonVirus"
+      ],
+      "514": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "Iglo",
+        "__kreck"
+      ],
+      "12": [
+        "Cpt_looper"
+      ],
+      "1273": [
+        "DornDasBrot"
+      ],
+      "15": [
+        "XeonVirus"
+      ],
+      "25": [
+        "chaos1989"
+      ],
+      "4": [
+        "lodoss2011"
+      ],
+      "46": [
+        "Mamuschkaz"
+      ]
+    }
+  }
+}

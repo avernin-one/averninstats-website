@@ -1,0 +1,112 @@
+{
+  "name": "crimson_fungus",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "XeonVirus"
+      ],
+      "13": [
+        "santemjocko"
+      ],
+      "2": [
+        "philxpx",
+        "Iglo",
+        "Cpt_looper",
+        "Makishi25"
+      ],
+      "4": [
+        "ScimMLG"
+      ],
+      "5": [
+        "__kreck"
+      ],
+      "6": [
+        "iurie"
+      ],
+      "8": [
+        "owac",
+        "Lord_HoruS"
+      ]
+    },
+    "mined": {
+      "1": [
+        "philxpx",
+        "owac",
+        "TrashSuperstar",
+        "Makishi25"
+      ],
+      "15": [
+        "leekcookie"
+      ],
+      "16": [
+        "XeonVirus"
+      ],
+      "22": [
+        "__kreck"
+      ],
+      "24": [
+        "santemjocko"
+      ],
+      "27": [
+        "Iglo"
+      ],
+      "6": [
+        "Lord_HoruS"
+      ],
+      "9": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "137": [
+        "iurie"
+      ],
+      "15": [
+        "owac"
+      ],
+      "16": [
+        "leekcookie",
+        "XeonVirus"
+      ],
+      "2": [
+        "philxpx"
+      ],
+      "21": [
+        "Iglo"
+      ],
+      "23": [
+        "__kreck"
+      ],
+      "3": [
+        "ScimMLG"
+      ],
+      "33": [
+        "santemjocko"
+      ],
+      "4": [
+        "Cpt_looper"
+      ],
+      "9": [
+        "Lord_HoruS",
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "XeonVirus"
+      ],
+      "12": [
+        "leekcookie"
+      ],
+      "2": [
+        "santemjocko",
+        "iurie",
+        "__kreck"
+      ],
+      "7": [
+        "Makishi25"
+      ]
+    }
+  }
+}

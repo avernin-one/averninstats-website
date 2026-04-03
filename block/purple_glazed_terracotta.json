@@ -1,0 +1,24 @@
+{
+  "name": "purple_glazed_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "12": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "4": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "leekcookie"
+      ],
+      "4": [
+        "iurie"
+      ]
+    }
+  }
+}

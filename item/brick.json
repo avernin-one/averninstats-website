@@ -1,0 +1,74 @@
+{
+  "name": "brick",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1088": [
+        "leekcookie"
+      ],
+      "1230": [
+        "lodoss2011"
+      ],
+      "12614": [
+        "philxpx"
+      ],
+      "128": [
+        "Mandahaya"
+      ],
+      "1368": [
+        "owac"
+      ],
+      "200": [
+        "Teayo"
+      ],
+      "284": [
+        "DornDasBrot"
+      ],
+      "365": [
+        "Der_Sani"
+      ],
+      "5520": [
+        "SuperXXLProfi"
+      ],
+      "61": [
+        "nitram1572"
+      ]
+    },
+    "dropped": {
+      "100": [
+        "leekcookie"
+      ],
+      "1360": [
+        "owac"
+      ],
+      "2": [
+        "ScimMLG"
+      ],
+      "704": [
+        "philxpx"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "KleeneEle"
+      ],
+      "2": [
+        "Makishi25",
+        "XeonVirus"
+      ],
+      "3": [
+        "leekcookie",
+        "iurie"
+      ],
+      "4": [
+        "Der_Sani"
+      ],
+      "64": [
+        "philxpx"
+      ],
+      "640": [
+        "SuperXXLProfi"
+      ]
+    }
+  }
+}

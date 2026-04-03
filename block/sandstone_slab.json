@@ -1,0 +1,91 @@
+{
+  "name": "sandstone_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "12": [
+        "KleeneEle"
+      ],
+      "2": [
+        "chaos1989"
+      ],
+      "24": [
+        "SuperXXLProfi"
+      ],
+      "2460": [
+        "iurie"
+      ],
+      "6": [
+        "__Iglo"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "KleeneEle"
+      ],
+      "124": [
+        "iurie"
+      ],
+      "2": [
+        "imabaldman"
+      ],
+      "4": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "1": [
+        "KleeneEle",
+        "SuperXXLProfi",
+        "__Iglo",
+        "XeonVirus"
+      ],
+      "1488": [
+        "iurie"
+      ],
+      "34": [
+        "chaos1989"
+      ],
+      "9": [
+        "philxpx"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "KleeneEle"
+      ],
+      "2": [
+        "imabaldman"
+      ],
+      "34": [
+        "chaos1989"
+      ],
+      "4": [
+        "__Iglo"
+      ],
+      "655": [
+        "iurie"
+      ],
+      "7": [
+        "philxpx"
+      ]
+    },
+    "used": {
+      "10": [
+        "SuperXXLProfi"
+      ],
+      "137": [
+        "chaos1989"
+      ],
+      "2029": [
+        "iurie"
+      ],
+      "6": [
+        "__Iglo"
+      ],
+      "7": [
+        "KleeneEle"
+      ]
+    }
+  }
+}

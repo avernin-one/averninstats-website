@@ -1,0 +1,126 @@
+{
+  "name": "jungle_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "18": [
+        "__kreck"
+      ],
+      "228": [
+        "leekcookie"
+      ],
+      "24": [
+        "nitram1572"
+      ],
+      "300": [
+        "Iglo"
+      ],
+      "358": [
+        "XeonVirus"
+      ],
+      "42": [
+        "philxpx"
+      ],
+      "498": [
+        "Temeraiere"
+      ],
+      "54": [
+        "Warhazarder"
+      ],
+      "66": [
+        "TrashSuperstar",
+        "imabaldman"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "obvBasti",
+        "Temeraiere"
+      ],
+      "132": [
+        "XeonVirus"
+      ],
+      "2": [
+        "__kreck"
+      ],
+      "5": [
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "1": [
+        "obvBasti"
+      ],
+      "11": [
+        "Temeraiere"
+      ],
+      "12": [
+        "TrashSuperstar"
+      ],
+      "2": [
+        "iurie"
+      ],
+      "21": [
+        "imabaldman"
+      ],
+      "257": [
+        "XeonVirus"
+      ],
+      "6": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "obvBasti",
+        "SuperXXLProfi"
+      ],
+      "11": [
+        "Temeraiere"
+      ],
+      "12": [
+        "TrashSuperstar"
+      ],
+      "16": [
+        "imabaldman"
+      ],
+      "2": [
+        "iurie",
+        "__kreck"
+      ],
+      "3": [
+        "minenicknick"
+      ],
+      "376": [
+        "XeonVirus"
+      ],
+      "6": [
+        "leekcookie",
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "18": [
+        "nitram1572"
+      ],
+      "284": [
+        "Temeraiere"
+      ],
+      "3": [
+        "minenicknick"
+      ],
+      "300": [
+        "XeonVirus"
+      ],
+      "35": [
+        "TrashSuperstar"
+      ],
+      "58": [
+        "imabaldman"
+      ],
+      "6": [
+        "leekcookie"
+      ]
+    }
+  }
+}

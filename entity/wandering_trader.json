@@ -1,0 +1,48 @@
+{
+  "name": "wandering_trader",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1": [
+        "Lukas_126",
+        "ScimMLG",
+        "SuperXXLProfi",
+        "TrashSuperstar",
+        "Cpt_looper",
+        "JonasderGamer",
+        "Sayder13xr",
+        "__kreck"
+      ],
+      "11": [
+        "chaos1989",
+        "iurie",
+        "Teayo"
+      ],
+      "2": [
+        "santemjocko",
+        "leekcookie",
+        "philxpx",
+        "__Iglo",
+        "Warhazarder"
+      ],
+      "3": [
+        "owac",
+        "Telinnor"
+      ],
+      "4": [
+        "DornDasBrot",
+        "Makishi25"
+      ],
+      "5": [
+        "SnuvomBodensatz",
+        "lodoss2011"
+      ],
+      "7": [
+        "XeonVirus"
+      ],
+      "8": [
+        "Iglo"
+      ]
+    }
+  }
+}

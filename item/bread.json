@@ -1,0 +1,135 @@
+{
+  "name": "bread",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1014": [
+        "Teayo"
+      ],
+      "1302": [
+        "Mamuschkaz"
+      ],
+      "1521": [
+        "SnuvomBodensatz"
+      ],
+      "295": [
+        "Makishi25"
+      ],
+      "373": [
+        "Iglo"
+      ],
+      "485": [
+        "Telinnor"
+      ],
+      "498": [
+        "owac"
+      ],
+      "522": [
+        "XeonVirus"
+      ],
+      "668": [
+        "Sayder13xr"
+      ],
+      "728": [
+        "Lord_HoruS"
+      ]
+    },
+    "dropped": {
+      "104": [
+        "Telinnor"
+      ],
+      "111": [
+        "Iglo"
+      ],
+      "119": [
+        "owac"
+      ],
+      "143": [
+        "Mamuschkaz"
+      ],
+      "543": [
+        "Teayo"
+      ],
+      "60": [
+        "obvBasti"
+      ],
+      "67": [
+        "Mandahaya"
+      ],
+      "831": [
+        "Sayder13xr"
+      ],
+      "90": [
+        "lodoss2011"
+      ],
+      "93": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "125": [
+        "__kreck"
+      ],
+      "150": [
+        "leekcookie",
+        "DornDasBrot"
+      ],
+      "197": [
+        "Telinnor"
+      ],
+      "207": [
+        "Sayder13xr"
+      ],
+      "319": [
+        "lodoss2011"
+      ],
+      "392": [
+        "Lord_HoruS"
+      ],
+      "529": [
+        "Mamuschkaz"
+      ],
+      "745": [
+        "SnuvomBodensatz"
+      ],
+      "81": [
+        "XeonVirus"
+      ],
+      "96": [
+        "Cpt_looper"
+      ]
+    },
+    "used": {
+      "1154": [
+        "Mamuschkaz"
+      ],
+      "1350": [
+        "SnuvomBodensatz"
+      ],
+      "234": [
+        "lodoss2011"
+      ],
+      "244": [
+        "__kreck"
+      ],
+      "285": [
+        "owac"
+      ],
+      "308": [
+        "XeonVirus"
+      ],
+      "334": [
+        "Makishi25"
+      ],
+      "381": [
+        "Telinnor"
+      ],
+      "498": [
+        "Teayo"
+      ],
+      "616": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

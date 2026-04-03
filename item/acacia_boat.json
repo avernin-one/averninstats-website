@@ -1,0 +1,26 @@
+{
+  "name": "acacia_boat",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "2": [
+        "Telinnor"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Telinnor"
+      ]
+    },
+    "picked_up": {
+      "37": [
+        "Telinnor"
+      ]
+    },
+    "used": {
+      "33": [
+        "Telinnor"
+      ]
+    }
+  }
+}

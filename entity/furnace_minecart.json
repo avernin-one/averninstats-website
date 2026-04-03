@@ -1,0 +1,38 @@
+{
+  "name": "furnace_minecart",
+  "type": "entity",
+  "scores": {
+    "crafted": {
+      "1": [
+        "leekcookie",
+        "owac",
+        "Cpt_looper",
+        "DornDasBrot"
+      ],
+      "10": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "30": [
+        "iurie"
+      ],
+      "4": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "owac",
+        "Cpt_looper",
+        "DornDasBrot"
+      ],
+      "3": [
+        "leekcookie"
+      ],
+      "38": [
+        "iurie"
+      ]
+    }
+  }
+}

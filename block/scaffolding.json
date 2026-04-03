@@ -1,0 +1,166 @@
+{
+  "name": "scaffolding",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1152": [
+        "owac"
+      ],
+      "252": [
+        "Iglo"
+      ],
+      "288": [
+        "lodoss2011",
+        "philxpx"
+      ],
+      "318": [
+        "Warhazarder"
+      ],
+      "330": [
+        "ScimMLG",
+        "Teayo"
+      ],
+      "3324": [
+        "__Iglo"
+      ],
+      "3456": [
+        "iurie"
+      ],
+      "384": [
+        "__kreck"
+      ],
+      "684": [
+        "santemjocko"
+      ],
+      "844": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "__Iglo"
+      ],
+      "183": [
+        "__kreck"
+      ],
+      "2": [
+        "TrashSuperstar",
+        "JonasderGamer"
+      ],
+      "3": [
+        "owac"
+      ],
+      "474": [
+        "leekcookie"
+      ],
+      "48": [
+        "Teayo"
+      ],
+      "5": [
+        "Iglo"
+      ],
+      "56": [
+        "santemjocko"
+      ],
+      "87": [
+        "ScimMLG"
+      ]
+    },
+    "mined": {
+      "1646": [
+        "Warhazarder"
+      ],
+      "254": [
+        "iurie"
+      ],
+      "260": [
+        "TrashSuperstar"
+      ],
+      "289": [
+        "philxpx"
+      ],
+      "375": [
+        "owac"
+      ],
+      "562": [
+        "santemjocko"
+      ],
+      "661": [
+        "Teayo"
+      ],
+      "774": [
+        "lodoss2011"
+      ],
+      "819": [
+        "__kreck"
+      ],
+      "948": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "1096": [
+        "Teayo"
+      ],
+      "1197": [
+        "lodoss2011"
+      ],
+      "1388": [
+        "owac"
+      ],
+      "1435": [
+        "TrashSuperstar"
+      ],
+      "1621": [
+        "santemjocko"
+      ],
+      "1846": [
+        "leekcookie"
+      ],
+      "2276": [
+        "__kreck"
+      ],
+      "2527": [
+        "Warhazarder"
+      ],
+      "3770": [
+        "Makishi25"
+      ],
+      "945": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1066": [
+        "leekcookie"
+      ],
+      "1272": [
+        "lodoss2011"
+      ],
+      "1277": [
+        "owac"
+      ],
+      "1322": [
+        "Teayo"
+      ],
+      "1440": [
+        "TrashSuperstar"
+      ],
+      "1795": [
+        "santemjocko"
+      ],
+      "2626": [
+        "Warhazarder"
+      ],
+      "3574": [
+        "Makishi25"
+      ],
+      "4231": [
+        "iurie"
+      ],
+      "5361": [
+        "__kreck"
+      ]
+    }
+  }
+}

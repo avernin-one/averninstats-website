@@ -1,0 +1,136 @@
+{
+  "name": "cracked_stone_bricks",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "11": [
+        "nitram1572"
+      ],
+      "21": [
+        "TrashSuperstar"
+      ],
+      "32": [
+        "leekcookie"
+      ],
+      "5": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "__Iglo"
+      ],
+      "2": [
+        "Austriana"
+      ],
+      "228": [
+        "__kreck"
+      ],
+      "3": [
+        "nitram1572"
+      ],
+      "4": [
+        "imabaldman"
+      ],
+      "5": [
+        "santemjocko",
+        "DornDasBrot"
+      ]
+    },
+    "mined": {
+      "12": [
+        "chaos1989"
+      ],
+      "124": [
+        "iurie"
+      ],
+      "15": [
+        "leekcookie"
+      ],
+      "2": [
+        "Cpt_looper",
+        "Sayder13xr"
+      ],
+      "21": [
+        "imabaldman"
+      ],
+      "4": [
+        "Lord_HoruS"
+      ],
+      "6": [
+        "TrashSuperstar",
+        "DornDasBrot"
+      ],
+      "65": [
+        "lodoss2011"
+      ],
+      "7": [
+        "Mandahaya",
+        "nitram1572"
+      ],
+      "9": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "chaos1989",
+        "nitram1572"
+      ],
+      "117": [
+        "iurie"
+      ],
+      "17": [
+        "imabaldman"
+      ],
+      "209": [
+        "__kreck"
+      ],
+      "26": [
+        "leekcookie"
+      ],
+      "3": [
+        "Lord_HoruS",
+        "__Iglo"
+      ],
+      "5": [
+        "DornDasBrot"
+      ],
+      "50": [
+        "lodoss2011"
+      ],
+      "6": [
+        "TrashSuperstar"
+      ],
+      "8": [
+        "Mandahaya"
+      ]
+    },
+    "used": {
+      "1": [
+        "Sayder13xr"
+      ],
+      "2": [
+        "Mandahaya"
+      ],
+      "25": [
+        "leekcookie"
+      ],
+      "26": [
+        "lodoss2011"
+      ],
+      "27": [
+        "TrashSuperstar"
+      ],
+      "5": [
+        "imabaldman"
+      ],
+      "643": [
+        "__kreck"
+      ],
+      "9": [
+        "nitram1572"
+      ]
+    }
+  }
+}

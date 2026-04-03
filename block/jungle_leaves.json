@@ -1,0 +1,114 @@
+{
+  "name": "jungle_leaves",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "100": [
+        "owac"
+      ],
+      "2": [
+        "imabaldman",
+        "Sayder13xr"
+      ],
+      "21": [
+        "minenicknick"
+      ],
+      "30": [
+        "ScimMLG"
+      ],
+      "33": [
+        "leekcookie"
+      ],
+      "4": [
+        "Warhazarder"
+      ],
+      "64": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "152": [
+        "iurie"
+      ],
+      "160": [
+        "__kreck"
+      ],
+      "163": [
+        "Iglo"
+      ],
+      "384": [
+        "leekcookie"
+      ],
+      "387": [
+        "nitram1572"
+      ],
+      "408": [
+        "Warhazarder"
+      ],
+      "411": [
+        "chaos1989"
+      ],
+      "74": [
+        "ScimMLG"
+      ],
+      "81": [
+        "Makishi25"
+      ],
+      "822": [
+        "owac"
+      ]
+    },
+    "picked_up": {
+      "116": [
+        "__kreck"
+      ],
+      "2": [
+        "iurie",
+        "imabaldman",
+        "Sayder13xr"
+      ],
+      "22": [
+        "minenicknick"
+      ],
+      "29": [
+        "nitram1572"
+      ],
+      "3": [
+        "philxpx"
+      ],
+      "42": [
+        "ScimMLG"
+      ],
+      "475": [
+        "owac"
+      ],
+      "66": [
+        "Makishi25"
+      ],
+      "92": [
+        "leekcookie"
+      ],
+      "99": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "1": [
+        "lodoss2011",
+        "owac"
+      ],
+      "2": [
+        "iurie"
+      ],
+      "4": [
+        "__kreck"
+      ],
+      "40": [
+        "Warhazarder"
+      ],
+      "66": [
+        "Makishi25"
+      ]
+    }
+  }
+}

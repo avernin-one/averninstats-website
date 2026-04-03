@@ -1,0 +1,31 @@
+{
+  "name": "blue_glazed_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "460": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "3": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "97": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "88": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "449": [
+        "santemjocko"
+      ]
+    }
+  }
+}

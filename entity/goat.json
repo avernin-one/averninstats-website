@@ -1,0 +1,14 @@
+{
+  "name": "goat",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1": [
+        "TrashSuperstar"
+      ],
+      "7": [
+        "iurie"
+      ]
+    }
+  }
+}

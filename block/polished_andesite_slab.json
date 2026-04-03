@@ -1,0 +1,88 @@
+{
+  "name": "polished_andesite_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "2": [
+        "leekcookie"
+      ],
+      "22": [
+        "Makishi25"
+      ],
+      "86": [
+        "lodoss2011"
+      ],
+      "96": [
+        "Lukas_126"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "chaos1989"
+      ],
+      "113": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "leekcookie"
+      ],
+      "14": [
+        "Lukas_126"
+      ],
+      "15": [
+        "ScimMLG"
+      ],
+      "20": [
+        "Makishi25"
+      ],
+      "5": [
+        "lodoss2011"
+      ],
+      "8": [
+        "chaos1989"
+      ]
+    },
+    "picked_up": {
+      "14": [
+        "Lukas_126"
+      ],
+      "17": [
+        "ScimMLG"
+      ],
+      "212": [
+        "leekcookie"
+      ],
+      "26": [
+        "Makishi25"
+      ],
+      "5": [
+        "lodoss2011"
+      ],
+      "7": [
+        "chaos1989"
+      ]
+    },
+    "used": {
+      "15": [
+        "chaos1989"
+      ],
+      "17": [
+        "leekcookie"
+      ],
+      "22": [
+        "ScimMLG"
+      ],
+      "67": [
+        "lodoss2011"
+      ],
+      "82": [
+        "Makishi25"
+      ],
+      "85": [
+        "Lukas_126"
+      ]
+    }
+  }
+}

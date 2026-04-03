@@ -1,0 +1,16 @@
+{
+  "name": "skeleton_skull",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie"
+      ]
+    }
+  }
+}

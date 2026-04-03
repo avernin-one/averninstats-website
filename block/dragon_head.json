@@ -1,0 +1,57 @@
+{
+  "name": "dragon_head",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "2": [
+        "DornDasBrot"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "santemjocko",
+        "lodoss2011",
+        "minenicknick",
+        "TrashSuperstar",
+        "Cpt_looper",
+        "Lord_HoruS",
+        "Warhazarder"
+      ],
+      "138": [
+        "owac"
+      ],
+      "2": [
+        "XeonVirus"
+      ],
+      "26": [
+        "iurie"
+      ],
+      "4": [
+        "imabaldman"
+      ],
+      "6": [
+        "SnuvomBodensatz"
+      ],
+      "7": [
+        "DornDasBrot"
+      ]
+    },
+    "used": {
+      "1": [
+        "Lord_HoruS",
+        "imabaldman"
+      ],
+      "2": [
+        "XeonVirus"
+      ],
+      "6": [
+        "DornDasBrot"
+      ]
+    }
+  }
+}

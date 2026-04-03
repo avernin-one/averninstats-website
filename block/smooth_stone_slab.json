@@ -1,0 +1,159 @@
+{
+  "name": "smooth_stone_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1074": [
+        "__Iglo"
+      ],
+      "18": [
+        "ScimMLG"
+      ],
+      "252": [
+        "TrashSuperstar",
+        "Warhazarder"
+      ],
+      "30": [
+        "Mamuschkaz",
+        "DornDasBrot"
+      ],
+      "372": [
+        "Teayo"
+      ],
+      "4136": [
+        "__kreck"
+      ],
+      "4282": [
+        "leekcookie"
+      ],
+      "48": [
+        "Lukas_126"
+      ],
+      "66": [
+        "Iglo"
+      ],
+      "7458": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Warhazarder"
+      ],
+      "1185": [
+        "leekcookie"
+      ],
+      "128": [
+        "__Iglo"
+      ],
+      "29": [
+        "Mamuschkaz"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "363": [
+        "__kreck"
+      ],
+      "7": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "10": [
+        "Teayo"
+      ],
+      "19": [
+        "Warhazarder"
+      ],
+      "2606": [
+        "leekcookie"
+      ],
+      "262": [
+        "__kreck"
+      ],
+      "28": [
+        "Lukas_126"
+      ],
+      "2937": [
+        "iurie"
+      ],
+      "324": [
+        "chaos1989"
+      ],
+      "56": [
+        "Mamuschkaz"
+      ],
+      "63": [
+        "__Iglo"
+      ],
+      "9": [
+        "DornDasBrot"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "DornDasBrot"
+      ],
+      "1001": [
+        "__kreck"
+      ],
+      "107": [
+        "__Iglo"
+      ],
+      "11": [
+        "Teayo"
+      ],
+      "112": [
+        "Mamuschkaz"
+      ],
+      "2369": [
+        "iurie"
+      ],
+      "24": [
+        "Warhazarder"
+      ],
+      "31": [
+        "Lukas_126"
+      ],
+      "397": [
+        "chaos1989"
+      ],
+      "6365": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1419": [
+        "chaos1989"
+      ],
+      "17294": [
+        "__kreck"
+      ],
+      "227": [
+        "TrashSuperstar"
+      ],
+      "331": [
+        "Teayo"
+      ],
+      "69": [
+        "Mamuschkaz"
+      ],
+      "77": [
+        "__Iglo"
+      ],
+      "79": [
+        "Lukas_126"
+      ],
+      "8648": [
+        "iurie"
+      ],
+      "8723": [
+        "leekcookie"
+      ],
+      "931": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

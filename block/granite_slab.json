@@ -1,0 +1,27 @@
+{
+  "name": "granite_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "2": [
+        "leekcookie"
+      ],
+      "6": [
+        "KleeneEle"
+      ]
+    },
+    "dropped": {
+      "4": [
+        "KleeneEle"
+      ]
+    },
+    "used": {
+      "1": [
+        "leekcookie"
+      ],
+      "2": [
+        "KleeneEle"
+      ]
+    }
+  }
+}

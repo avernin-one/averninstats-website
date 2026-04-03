@@ -1,0 +1,34 @@
+{
+  "name": "dried_kelp_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "276": [
+        "DornDasBrot"
+      ],
+      "33": [
+        "nitram1572"
+      ],
+      "560": [
+        "Mamuschkaz"
+      ],
+      "6": [
+        "Makishi25",
+        "__Iglo"
+      ],
+      "7": [
+        "KleeneEle"
+      ]
+    },
+    "picked_up": {
+      "15": [
+        "Mamuschkaz"
+      ]
+    },
+    "used": {
+      "6": [
+        "Makishi25"
+      ]
+    }
+  }
+}

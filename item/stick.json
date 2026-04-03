@@ -1,0 +1,102 @@
+{
+  "name": "stick",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "10880": [
+        "obvBasti"
+      ],
+      "11498": [
+        "Warhazarder"
+      ],
+      "11799": [
+        "Lord_HoruS"
+      ],
+      "12692": [
+        "iurie"
+      ],
+      "16183": [
+        "leekcookie"
+      ],
+      "3776": [
+        "Teayo"
+      ],
+      "38104": [
+        "owac"
+      ],
+      "4904": [
+        "santemjocko"
+      ],
+      "7643": [
+        "lodoss2011"
+      ],
+      "7910": [
+        "Sayder13xr"
+      ]
+    },
+    "dropped": {
+      "1334": [
+        "lodoss2011"
+      ],
+      "1823": [
+        "__kreck"
+      ],
+      "3745": [
+        "philxpx"
+      ],
+      "381": [
+        "chaos1989"
+      ],
+      "406": [
+        "JonasderGamer"
+      ],
+      "640": [
+        "owac"
+      ],
+      "665": [
+        "santemjocko"
+      ],
+      "743": [
+        "imabaldman"
+      ],
+      "7735": [
+        "leekcookie"
+      ],
+      "912": [
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "11647": [
+        "leekcookie"
+      ],
+      "2340": [
+        "Lord_HoruS"
+      ],
+      "2384": [
+        "Teayo"
+      ],
+      "2393": [
+        "__Iglo"
+      ],
+      "2563": [
+        "owac"
+      ],
+      "2751": [
+        "lodoss2011"
+      ],
+      "3041": [
+        "chaos1989"
+      ],
+      "3193": [
+        "iurie"
+      ],
+      "4734": [
+        "__kreck"
+      ],
+      "4955": [
+        "Warhazarder"
+      ]
+    }
+  }
+}

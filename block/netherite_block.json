@@ -1,0 +1,26 @@
+{
+  "name": "netherite_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "6": [
+        "iurie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ]
+    }
+  }
+}

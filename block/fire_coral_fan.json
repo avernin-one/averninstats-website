@@ -1,0 +1,102 @@
+{
+  "name": "fire_coral_fan",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "santemjocko"
+      ],
+      "4": [
+        "Mamuschkaz"
+      ]
+    },
+    "mined": {
+      "1": [
+        "lodoss2011",
+        "Cpt_looper",
+        "nitram1572",
+        "Sayder13xr"
+      ],
+      "2": [
+        "TrashSuperstar"
+      ],
+      "23": [
+        "leekcookie"
+      ],
+      "3": [
+        "santemjocko"
+      ],
+      "4": [
+        "Lord_HoruS"
+      ],
+      "9": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "owac",
+        "Cpt_looper",
+        "nitram1572",
+        "XeonVirus"
+      ],
+      "10": [
+        "__kreck"
+      ],
+      "17": [
+        "Lord_HoruS"
+      ],
+      "19": [
+        "santemjocko"
+      ],
+      "2": [
+        "imabaldman",
+        "Teayo"
+      ],
+      "3": [
+        "Makishi25",
+        "Sayder13xr"
+      ],
+      "330": [
+        "leekcookie"
+      ],
+      "34": [
+        "iurie"
+      ],
+      "4": [
+        "Mamuschkaz"
+      ],
+      "9": [
+        "lodoss2011"
+      ]
+    },
+    "used": {
+      "1": [
+        "Cpt_looper",
+        "nitram1572",
+        "Makishi25",
+        "XeonVirus"
+      ],
+      "10": [
+        "__kreck"
+      ],
+      "14": [
+        "iurie"
+      ],
+      "17": [
+        "Lord_HoruS"
+      ],
+      "2": [
+        "santemjocko",
+        "owac",
+        "Sayder13xr"
+      ],
+      "9": [
+        "lodoss2011"
+      ],
+      "95": [
+        "leekcookie"
+      ]
+    }
+  }
+}

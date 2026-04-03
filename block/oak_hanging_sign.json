@@ -1,0 +1,11 @@
+{
+  "name": "oak_hanging_sign",
+  "type": "block",
+  "scores": {
+    "picked_up": {
+      "2": [
+        "iurie"
+      ]
+    }
+  }
+}

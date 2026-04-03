@@ -1,0 +1,35 @@
+{
+  "name": "light_gray_concrete",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "2": [
+        "ScimMLG"
+      ]
+    },
+    "mined": {
+      "13": [
+        "ScimMLG"
+      ],
+      "53": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "12": [
+        "ScimMLG"
+      ],
+      "63": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "ScimMLG"
+      ],
+      "52": [
+        "Makishi25"
+      ]
+    }
+  }
+}

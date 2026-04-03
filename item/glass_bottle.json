@@ -1,0 +1,134 @@
+{
+  "name": "glass_bottle",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "114": [
+        "owac"
+      ],
+      "19992": [
+        "iurie"
+      ],
+      "2946": [
+        "Cpt_looper"
+      ],
+      "3395": [
+        "leekcookie"
+      ],
+      "360": [
+        "santemjocko"
+      ],
+      "57": [
+        "chaos1989"
+      ],
+      "60": [
+        "Teayo"
+      ],
+      "78": [
+        "Mamuschkaz"
+      ],
+      "8272": [
+        "nitram1572"
+      ],
+      "96": [
+        "TrashSuperstar"
+      ]
+    },
+    "dropped": {
+      "100": [
+        "owac"
+      ],
+      "108": [
+        "santemjocko"
+      ],
+      "14": [
+        "Iglo"
+      ],
+      "1743": [
+        "philxpx"
+      ],
+      "23": [
+        "__kreck"
+      ],
+      "288": [
+        "leekcookie"
+      ],
+      "29": [
+        "iurie"
+      ],
+      "30": [
+        "minenicknick"
+      ],
+      "32": [
+        "JonasderGamer"
+      ],
+      "85": [
+        "imabaldman"
+      ]
+    },
+    "picked_up": {
+      "104": [
+        "SuperXXLProfi"
+      ],
+      "110": [
+        "Teayo"
+      ],
+      "169": [
+        "Cpt_looper"
+      ],
+      "346": [
+        "santemjocko"
+      ],
+      "356": [
+        "philxpx"
+      ],
+      "4935": [
+        "leekcookie"
+      ],
+      "76": [
+        "imabaldman"
+      ],
+      "84": [
+        "nitram1572"
+      ],
+      "91": [
+        "iurie"
+      ],
+      "93": [
+        "owac"
+      ]
+    },
+    "used": {
+      "105": [
+        "Iglo"
+      ],
+      "283": [
+        "leekcookie"
+      ],
+      "34": [
+        "Sayder13xr"
+      ],
+      "36": [
+        "minenicknick"
+      ],
+      "41": [
+        "nitram1572"
+      ],
+      "51": [
+        "owac"
+      ],
+      "625": [
+        "Teayo"
+      ],
+      "683": [
+        "iurie"
+      ],
+      "75": [
+        "chaos1989"
+      ],
+      "942": [
+        "santemjocko"
+      ]
+    }
+  }
+}

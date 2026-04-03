@@ -1,0 +1,82 @@
+{
+  "name": "jungle_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "12": [
+        "__kreck"
+      ],
+      "300": [
+        "Temeraiere"
+      ],
+      "44": [
+        "TrashSuperstar"
+      ],
+      "8": [
+        "nitram1572",
+        "imabaldman"
+      ]
+    },
+    "dropped": {
+      "5": [
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "14": [
+        "Temeraiere"
+      ],
+      "2": [
+        "lodoss2011"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "5": [
+        "imabaldman"
+      ],
+      "6": [
+        "TrashSuperstar"
+      ],
+      "8": [
+        "leekcookie"
+      ],
+      "9": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "14": [
+        "Temeraiere"
+      ],
+      "2": [
+        "lodoss2011"
+      ],
+      "4": [
+        "iurie",
+        "nitram1572"
+      ],
+      "6": [
+        "TrashSuperstar"
+      ],
+      "8": [
+        "leekcookie",
+        "imabaldman"
+      ]
+    },
+    "used": {
+      "244": [
+        "Temeraiere"
+      ],
+      "32": [
+        "TrashSuperstar"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "8": [
+        "imabaldman"
+      ]
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "name": "nether_gold_ore",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "SuperXXLProfi"
+      ],
+      "12": [
+        "iurie",
+        "JonasderGamer"
+      ],
+      "17": [
+        "santemjocko"
+      ],
+      "280": [
+        "minenicknick"
+      ],
+      "3": [
+        "imabaldman"
+      ],
+      "31": [
+        "__kreck"
+      ],
+      "33": [
+        "leekcookie"
+      ],
+      "4": [
+        "__Iglo"
+      ],
+      "6": [
+        "Iglo"
+      ],
+      "8": [
+        "owac"
+      ]
+    },
+    "mined": {
+      "1057": [
+        "leekcookie"
+      ],
+      "272": [
+        "chaos1989"
+      ],
+      "319": [
+        "Iglo"
+      ],
+      "348": [
+        "minenicknick"
+      ],
+      "388": [
+        "Warhazarder"
+      ],
+      "509": [
+        "owac"
+      ],
+      "583": [
+        "TrashSuperstar"
+      ],
+      "664": [
+        "__kreck"
+      ],
+      "695": [
+        "iurie"
+      ],
+      "799": [
+        "Lord_HoruS"
+      ]
+    },
+    "picked_up": {
+      "100": [
+        "chaos1989"
+      ],
+      "1057": [
+        "leekcookie"
+      ],
+      "119": [
+        "santemjocko"
+      ],
+      "174": [
+        "TrashSuperstar"
+      ],
+      "284": [
+        "minenicknick"
+      ],
+      "292": [
+        "Iglo"
+      ],
+      "325": [
+        "owac"
+      ],
+      "428": [
+        "iurie"
+      ],
+      "435": [
+        "__kreck"
+      ],
+      "803": [
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "14": [
+        "__kreck"
+      ],
+      "17": [
+        "leekcookie"
+      ],
+      "2": [
+        "Iglo",
+        "SuperXXLProfi",
+        "Lord_HoruS"
+      ],
+      "25": [
+        "Cpt_looper"
+      ],
+      "4": [
+        "XeonVirus"
+      ],
+      "49": [
+        "TrashSuperstar"
+      ],
+      "56": [
+        "santemjocko"
+      ],
+      "7": [
+        "Makishi25"
+      ],
+      "9": [
+        "nitram1572"
+      ],
+      "95": [
+        "chaos1989"
+      ]
+    }
+  }
+}

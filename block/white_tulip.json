@@ -1,0 +1,73 @@
+{
+  "name": "white_tulip",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "XeonVirus"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "33": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "1": [
+        "ScimMLG",
+        "XeonVirus"
+      ],
+      "10": [
+        "TrashSuperstar"
+      ],
+      "12": [
+        "Makishi25"
+      ],
+      "18": [
+        "santemjocko"
+      ],
+      "2": [
+        "Mandahaya"
+      ],
+      "57": [
+        "leekcookie"
+      ],
+      "69": [
+        "Teayo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "ScimMLG",
+        "XeonVirus"
+      ],
+      "10": [
+        "TrashSuperstar"
+      ],
+      "17": [
+        "Makishi25"
+      ],
+      "2": [
+        "Mandahaya"
+      ],
+      "67": [
+        "santemjocko"
+      ],
+      "69": [
+        "Teayo"
+      ],
+      "84": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "46": [
+        "leekcookie"
+      ],
+      "7": [
+        "Makishi25"
+      ]
+    }
+  }
+}

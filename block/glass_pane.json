@@ -1,0 +1,155 @@
+{
+  "name": "glass_pane",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1392": [
+        "Teayo"
+      ],
+      "240": [
+        "chaos1989"
+      ],
+      "256": [
+        "Mandahaya",
+        "Cpt_looper"
+      ],
+      "288": [
+        "lodoss2011"
+      ],
+      "2912": [
+        "SnuvomBodensatz"
+      ],
+      "368": [
+        "XeonVirus"
+      ],
+      "496": [
+        "owac"
+      ],
+      "512": [
+        "Temeraiere"
+      ],
+      "560": [
+        "Mamuschkaz"
+      ],
+      "7456": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "10": [
+        "__Iglo"
+      ],
+      "184": [
+        "XeonVirus"
+      ],
+      "4": [
+        "Sayder13xr"
+      ],
+      "5": [
+        "SnuvomBodensatz",
+        "Mamuschkaz"
+      ],
+      "6": [
+        "lodoss2011"
+      ]
+    },
+    "mined": {
+      "25": [
+        "chaos1989",
+        "leekcookie"
+      ],
+      "29": [
+        "Warhazarder"
+      ],
+      "34": [
+        "Temeraiere"
+      ],
+      "388": [
+        "owac"
+      ],
+      "49": [
+        "Sayder13xr"
+      ],
+      "55": [
+        "Makishi25"
+      ],
+      "58": [
+        "santemjocko"
+      ],
+      "63": [
+        "ScimMLG"
+      ],
+      "69": [
+        "Mamuschkaz",
+        "XeonVirus"
+      ],
+      "85": [
+        "SnuvomBodensatz"
+      ]
+    },
+    "picked_up": {
+      "128": [
+        "SnuvomBodensatz"
+      ],
+      "129": [
+        "santemjocko"
+      ],
+      "162": [
+        "XeonVirus"
+      ],
+      "179": [
+        "leekcookie"
+      ],
+      "32": [
+        "DornDasBrot"
+      ],
+      "34": [
+        "ScimMLG"
+      ],
+      "399": [
+        "owac"
+      ],
+      "454": [
+        "Sayder13xr"
+      ],
+      "57": [
+        "chaos1989"
+      ],
+      "89": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "108": [
+        "nitram1572"
+      ],
+      "121": [
+        "TrashSuperstar"
+      ],
+      "146": [
+        "Mandahaya"
+      ],
+      "158": [
+        "chaos1989"
+      ],
+      "2072": [
+        "SnuvomBodensatz"
+      ],
+      "226": [
+        "santemjocko"
+      ],
+      "265": [
+        "lodoss2011"
+      ],
+      "378": [
+        "Temeraiere"
+      ],
+      "428": [
+        "owac"
+      ],
+      "559": [
+        "Mamuschkaz"
+      ]
+    }
+  }
+}

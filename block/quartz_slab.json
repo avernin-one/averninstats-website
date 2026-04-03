@@ -1,0 +1,76 @@
+{
+  "name": "quartz_slab",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "222": [
+        "Makishi25"
+      ],
+      "588": [
+        "imabaldman"
+      ],
+      "96": [
+        "__kreck"
+      ],
+      "996": [
+        "owac"
+      ]
+    },
+    "dropped": {
+      "51": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "SuperXXLProfi"
+      ],
+      "102": [
+        "leekcookie"
+      ],
+      "192": [
+        "owac"
+      ],
+      "235": [
+        "imabaldman"
+      ],
+      "4": [
+        "obvBasti"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "SuperXXLProfi"
+      ],
+      "171": [
+        "leekcookie"
+      ],
+      "189": [
+        "owac"
+      ],
+      "245": [
+        "imabaldman"
+      ],
+      "4": [
+        "obvBasti"
+      ]
+    },
+    "used": {
+      "1": [
+        "SuperXXLProfi"
+      ],
+      "1061": [
+        "owac"
+      ],
+      "4": [
+        "obvBasti"
+      ],
+      "814": [
+        "leekcookie"
+      ],
+      "898": [
+        "imabaldman"
+      ]
+    }
+  }
+}

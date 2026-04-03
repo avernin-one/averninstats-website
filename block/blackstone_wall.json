@@ -1,0 +1,50 @@
+{
+  "name": "blackstone_wall",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "114": [
+        "Makishi25"
+      ],
+      "32": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "2": [
+        "__Iglo"
+      ],
+      "6": [
+        "santemjocko",
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "__Iglo"
+      ],
+      "4": [
+        "Makishi25"
+      ],
+      "6": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "109": [
+        "Makishi25"
+      ],
+      "12": [
+        "leekcookie"
+      ],
+      "15": [
+        "santemjocko"
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "bamboo_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "2310": [
+        "leekcookie"
+      ],
+      "7": [
+        "Der_Sani"
+      ]
+    },
+    "dropped": {
+      "30": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "495": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "leekcookie"
+      ]
+    }
+  }
+}

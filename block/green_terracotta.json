@@ -1,0 +1,21 @@
+{
+  "name": "green_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "3": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "3": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "9": [
+        "leekcookie"
+      ]
+    }
+  }
+}

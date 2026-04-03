@@ -1,0 +1,79 @@
+{
+  "name": "raw_gold",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "225": [
+        "Temeraiere"
+      ],
+      "9": [
+        "Mandahaya",
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "16": [
+        "philxpx"
+      ],
+      "17": [
+        "__Iglo"
+      ],
+      "2": [
+        "Iglo"
+      ],
+      "3": [
+        "Mamuschkaz"
+      ],
+      "4": [
+        "minenicknick"
+      ],
+      "5": [
+        "Cpt_looper"
+      ],
+      "6": [
+        "santemjocko"
+      ],
+      "78": [
+        "owac"
+      ],
+      "8": [
+        "leekcookie"
+      ],
+      "86": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "1135": [
+        "iurie"
+      ],
+      "220": [
+        "Makishi25"
+      ],
+      "245": [
+        "Ivenor"
+      ],
+      "318": [
+        "chaos1989"
+      ],
+      "321": [
+        "Temeraiere"
+      ],
+      "344": [
+        "Sayder13xr"
+      ],
+      "358": [
+        "obvBasti"
+      ],
+      "3780": [
+        "philxpx"
+      ],
+      "464": [
+        "__kreck"
+      ],
+      "862": [
+        "leekcookie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "bee",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1": [
+        "Iglo",
+        "DornDasBrot",
+        "Sayder13xr"
+      ],
+      "14": [
+        "iurie",
+        "XeonVirus"
+      ],
+      "2": [
+        "Lukas_126",
+        "leekcookie"
+      ],
+      "28": [
+        "nitram1572"
+      ],
+      "3": [
+        "santemjocko"
+      ],
+      "5": [
+        "TrashSuperstar"
+      ],
+      "6": [
+        "Teayo"
+      ]
+    }
+  }
+}

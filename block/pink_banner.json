@@ -1,0 +1,16 @@
+{
+  "name": "pink_banner",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "4": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "4": [
+        "iurie"
+      ]
+    }
+  }
+}

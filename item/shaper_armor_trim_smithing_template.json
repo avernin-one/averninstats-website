@@ -1,0 +1,11 @@
+{
+  "name": "shaper_armor_trim_smithing_template",
+  "type": "item",
+  "scores": {
+    "picked_up": {
+      "1": [
+        "iurie"
+      ]
+    }
+  }
+}

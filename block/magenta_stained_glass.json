@@ -1,0 +1,119 @@
+{
+  "name": "magenta_stained_glass",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "128": [
+        "__kreck"
+      ],
+      "1960": [
+        "SuperXXLProfi"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Iglo",
+        "iurie",
+        "XeonVirus"
+      ],
+      "2": [
+        "santemjocko",
+        "imabaldman"
+      ],
+      "3": [
+        "SnuvomBodensatz"
+      ],
+      "57": [
+        "__kreck"
+      ],
+      "64": [
+        "SuperXXLProfi"
+      ],
+      "65": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "1": [
+        "StofftierAnabol",
+        "TrashSuperstar",
+        "Warhazarder"
+      ],
+      "12": [
+        "__kreck"
+      ],
+      "1234": [
+        "SuperXXLProfi"
+      ],
+      "16": [
+        "SnuvomBodensatz"
+      ],
+      "2": [
+        "lodoss2011",
+        "owac",
+        "Lord_HoruS",
+        "DornDasBrot"
+      ],
+      "21": [
+        "iurie",
+        "imabaldman"
+      ],
+      "3": [
+        "XeonVirus"
+      ],
+      "8": [
+        "santemjocko",
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "lodoss2011",
+        "TrashSuperstar"
+      ],
+      "1262": [
+        "SuperXXLProfi"
+      ],
+      "2": [
+        "Iglo",
+        "owac",
+        "XeonVirus"
+      ],
+      "5": [
+        "santemjocko"
+      ],
+      "58": [
+        "__Iglo"
+      ],
+      "6": [
+        "imabaldman"
+      ],
+      "72": [
+        "__kreck"
+      ],
+      "8": [
+        "iurie"
+      ],
+      "9": [
+        "SnuvomBodensatz"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ],
+      "115": [
+        "__kreck"
+      ],
+      "2": [
+        "imabaldman"
+      ],
+      "3187": [
+        "SuperXXLProfi"
+      ],
+      "8": [
+        "__Iglo"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "lava_cauldron",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "iurie"
+      ],
+      "28": [
+        "leekcookie"
+      ]
+    }
+  }
+}

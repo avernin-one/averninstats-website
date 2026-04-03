@@ -1,0 +1,61 @@
+{
+  "name": "cake",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "santemjocko",
+        "DornDasBrot",
+        "imabaldman"
+      ],
+      "13": [
+        "iurie"
+      ],
+      "4": [
+        "leekcookie"
+      ],
+      "6": [
+        "nitram1572",
+        "Teayo"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "nitram1572"
+      ]
+    },
+    "mined": {
+      "1": [
+        "DornDasBrot"
+      ],
+      "3": [
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "DornDasBrot"
+      ],
+      "2": [
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1": [
+        "santemjocko",
+        "DornDasBrot",
+        "imabaldman"
+      ],
+      "13": [
+        "iurie"
+      ],
+      "4": [
+        "leekcookie",
+        "nitram1572"
+      ],
+      "6": [
+        "Teayo"
+      ]
+    }
+  }
+}

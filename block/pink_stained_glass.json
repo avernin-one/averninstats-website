@@ -1,0 +1,31 @@
+{
+  "name": "pink_stained_glass",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "7912": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "256": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "77": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "908": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "5573": [
+        "leekcookie"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": "white_dye",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "132": [
+        "santemjocko"
+      ],
+      "1367": [
+        "Teayo"
+      ],
+      "1407": [
+        "__kreck"
+      ],
+      "207": [
+        "Makishi25"
+      ],
+      "223": [
+        "__Iglo"
+      ],
+      "2319": [
+        "iurie"
+      ],
+      "290": [
+        "imabaldman"
+      ],
+      "4096": [
+        "leekcookie"
+      ],
+      "86": [
+        "lodoss2011"
+      ],
+      "97": [
+        "owac"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "owac"
+      ],
+      "17": [
+        "__kreck"
+      ],
+      "2": [
+        "Telinnor"
+      ],
+      "285": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "chaos1989",
+        "iurie"
+      ],
+      "12": [
+        "Makishi25"
+      ],
+      "2": [
+        "__kreck"
+      ],
+      "258": [
+        "leekcookie"
+      ],
+      "26": [
+        "__Iglo"
+      ],
+      "64": [
+        "santemjocko"
+      ],
+      "8": [
+        "owac"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ],
+      "11": [
+        "Makishi25"
+      ],
+      "42": [
+        "leekcookie"
+      ],
+      "44": [
+        "owac"
+      ],
+      "6": [
+        "ScimMLG"
+      ]
+    }
+  }
+}

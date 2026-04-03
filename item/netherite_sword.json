@@ -1,0 +1,121 @@
+{
+  "name": "netherite_sword",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "lodoss2011",
+        "Mamuschkaz",
+        "owac",
+        "iurie",
+        "Cpt_looper",
+        "imabaldman",
+        "Sayder13xr",
+        "XeonVirus"
+      ],
+      "2": [
+        "minenicknick",
+        "TrashSuperstar",
+        "Lord_HoruS"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Temeraiere",
+        "iurie",
+        "TrashSuperstar",
+        "DornDasBrot",
+        "imabaldman",
+        "Sayder13xr",
+        "__Iglo"
+      ],
+      "2": [
+        "obvBasti",
+        "lodoss2011",
+        "leekcookie",
+        "Lord_HoruS"
+      ],
+      "3": [
+        "santemjocko",
+        "minenicknick"
+      ],
+      "4": [
+        "philxpx",
+        "Cpt_looper"
+      ],
+      "5": [
+        "Mamuschkaz",
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "11": [
+        "santemjocko"
+      ],
+      "17": [
+        "Lord_HoruS"
+      ],
+      "19": [
+        "lodoss2011"
+      ],
+      "2": [
+        "obvBasti",
+        "TrashSuperstar"
+      ],
+      "20": [
+        "Mamuschkaz"
+      ],
+      "28": [
+        "leekcookie"
+      ],
+      "5": [
+        "Cpt_looper"
+      ],
+      "6": [
+        "imabaldman",
+        "Sayder13xr",
+        "__Iglo",
+        "__kreck"
+      ],
+      "8": [
+        "philxpx"
+      ],
+      "9": [
+        "minenicknick",
+        "iurie"
+      ]
+    },
+    "used": {
+      "19345": [
+        "owac"
+      ],
+      "24252": [
+        "leekcookie"
+      ],
+      "2989": [
+        "minenicknick"
+      ],
+      "3025": [
+        "Mamuschkaz"
+      ],
+      "3117": [
+        "lodoss2011"
+      ],
+      "3637": [
+        "Lord_HoruS"
+      ],
+      "49812": [
+        "__Iglo"
+      ],
+      "7420": [
+        "imabaldman"
+      ],
+      "7831": [
+        "philxpx"
+      ],
+      "8196": [
+        "iurie"
+      ]
+    }
+  }
+}

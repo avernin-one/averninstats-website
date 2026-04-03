@@ -1,0 +1,38 @@
+{
+  "name": "orange_glazed_terracotta",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "nitram1572"
+      ],
+      "20": [
+        "DornDasBrot"
+      ],
+      "9": [
+        "SnuvomBodensatz"
+      ]
+    },
+    "mined": {
+      "1": [
+        "DornDasBrot"
+      ],
+      "11": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "DornDasBrot"
+      ],
+      "11": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "DornDasBrot"
+      ]
+    }
+  }
+}

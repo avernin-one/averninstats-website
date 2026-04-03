@@ -1,0 +1,47 @@
+{
+  "name": "mossy_stone_brick_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "lodoss2011"
+      ],
+      "4": [
+        "nitram1572"
+      ]
+    },
+    "dropped": {
+      "3": [
+        "Telinnor"
+      ]
+    },
+    "mined": {
+      "1": [
+        "chaos1989",
+        "iurie",
+        "nitram1572"
+      ],
+      "3": [
+        "Teayo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "chaos1989",
+        "iurie",
+        "nitram1572"
+      ],
+      "3": [
+        "Teayo"
+      ]
+    },
+    "used": {
+      "1": [
+        "lodoss2011"
+      ],
+      "5": [
+        "nitram1572"
+      ]
+    }
+  }
+}

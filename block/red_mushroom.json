@@ -1,0 +1,108 @@
+{
+  "name": "red_mushroom",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "lodoss2011",
+        "owac",
+        "imabaldman"
+      ],
+      "12": [
+        "santemjocko"
+      ],
+      "134": [
+        "__kreck"
+      ],
+      "18": [
+        "XeonVirus"
+      ],
+      "2": [
+        "leekcookie"
+      ],
+      "237": [
+        "Lord_HoruS"
+      ],
+      "7": [
+        "TrashSuperstar"
+      ]
+    },
+    "mined": {
+      "1": [
+        "iurie",
+        "TrashSuperstar"
+      ],
+      "117": [
+        "__kreck"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "18": [
+        "santemjocko"
+      ],
+      "2": [
+        "owac",
+        "Sayder13xr"
+      ],
+      "3": [
+        "lodoss2011"
+      ],
+      "4": [
+        "Mamuschkaz",
+        "Lord_HoruS"
+      ]
+    },
+    "picked_up": {
+      "106": [
+        "leekcookie"
+      ],
+      "23": [
+        "lodoss2011"
+      ],
+      "25": [
+        "santemjocko"
+      ],
+      "275": [
+        "Lord_HoruS"
+      ],
+      "297": [
+        "__kreck"
+      ],
+      "36": [
+        "XeonVirus"
+      ],
+      "38": [
+        "Iglo"
+      ],
+      "39": [
+        "Mandahaya"
+      ],
+      "78": [
+        "iurie"
+      ],
+      "88": [
+        "chaos1989"
+      ]
+    },
+    "used": {
+      "1": [
+        "owac",
+        "Sayder13xr"
+      ],
+      "16": [
+        "leekcookie"
+      ],
+      "2": [
+        "iurie",
+        "Telinnor"
+      ],
+      "3": [
+        "Lord_HoruS"
+      ],
+      "4": [
+        "__kreck"
+      ]
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "name": "white_shulker_box",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "santemjocko",
+        "DornDasBrot"
+      ],
+      "10": [
+        "imabaldman"
+      ],
+      "11": [
+        "leekcookie"
+      ],
+      "2": [
+        "iurie",
+        "Warhazarder"
+      ],
+      "3": [
+        "lodoss2011"
+      ],
+      "6": [
+        "__kreck"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Telinnor",
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "11": [
+        "Teayo"
+      ],
+      "135": [
+        "iurie"
+      ],
+      "16": [
+        "minenicknick"
+      ],
+      "21": [
+        "__kreck"
+      ],
+      "4": [
+        "DornDasBrot"
+      ],
+      "43": [
+        "lodoss2011"
+      ],
+      "56": [
+        "santemjocko"
+      ],
+      "67": [
+        "imabaldman"
+      ],
+      "71": [
+        "leekcookie"
+      ],
+      "9": [
+        "Telinnor"
+      ]
+    },
+    "picked_up": {
+      "11": [
+        "Teayo"
+      ],
+      "135": [
+        "iurie"
+      ],
+      "16": [
+        "minenicknick"
+      ],
+      "18": [
+        "Telinnor"
+      ],
+      "21": [
+        "__kreck"
+      ],
+      "4": [
+        "DornDasBrot"
+      ],
+      "46": [
+        "lodoss2011"
+      ],
+      "56": [
+        "santemjocko"
+      ],
+      "69": [
+        "imabaldman"
+      ],
+      "72": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "135": [
+        "iurie"
+      ],
+      "16": [
+        "minenicknick"
+      ],
+      "2": [
+        "SuperXXLProfi",
+        "Warhazarder"
+      ],
+      "21": [
+        "__kreck"
+      ],
+      "46": [
+        "lodoss2011"
+      ],
+      "5": [
+        "DornDasBrot",
+        "Teayo"
+      ],
+      "56": [
+        "santemjocko"
+      ],
+      "74": [
+        "imabaldman"
+      ],
+      "76": [
+        "leekcookie"
+      ],
+      "9": [
+        "Telinnor"
+      ]
+    }
+  }
+}

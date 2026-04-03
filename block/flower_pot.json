@@ -1,0 +1,129 @@
+{
+  "name": "flower_pot",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "12": [
+        "philxpx"
+      ],
+      "13": [
+        "Makishi25"
+      ],
+      "2": [
+        "owac",
+        "DornDasBrot"
+      ],
+      "37": [
+        "lodoss2011"
+      ],
+      "4": [
+        "Mandahaya"
+      ],
+      "5": [
+        "leekcookie",
+        "nitram1572"
+      ],
+      "6": [
+        "Telinnor"
+      ],
+      "7": [
+        "ScimMLG",
+        "XeonVirus"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "iurie",
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "1": [
+        "DornDasBrot"
+      ],
+      "11": [
+        "ScimMLG"
+      ],
+      "2": [
+        "Makishi25"
+      ],
+      "4": [
+        "owac"
+      ],
+      "5": [
+        "lodoss2011"
+      ],
+      "7": [
+        "philxpx"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "leekcookie",
+        "Iglo",
+        "SuperXXLProfi",
+        "DornDasBrot",
+        "Teayo",
+        "XeonVirus"
+      ],
+      "13": [
+        "ScimMLG"
+      ],
+      "14": [
+        "lodoss2011",
+        "__kreck"
+      ],
+      "2": [
+        "Makishi25"
+      ],
+      "3": [
+        "nitram1572"
+      ],
+      "4": [
+        "owac"
+      ],
+      "42": [
+        "iurie"
+      ],
+      "9": [
+        "philxpx"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie",
+        "SuperXXLProfi",
+        "__kreck"
+      ],
+      "15": [
+        "Makishi25"
+      ],
+      "20": [
+        "ScimMLG"
+      ],
+      "21": [
+        "philxpx"
+      ],
+      "26": [
+        "lodoss2011"
+      ],
+      "3": [
+        "DornDasBrot"
+      ],
+      "4": [
+        "Mandahaya",
+        "nitram1572"
+      ],
+      "5": [
+        "leekcookie"
+      ],
+      "6": [
+        "owac",
+        "Telinnor"
+      ],
+      "8": [
+        "XeonVirus"
+      ]
+    }
+  }
+}

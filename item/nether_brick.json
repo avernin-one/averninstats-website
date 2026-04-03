@@ -1,0 +1,93 @@
+{
+  "name": "nether_brick",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1354": [
+        "__kreck"
+      ],
+      "192": [
+        "leekcookie"
+      ],
+      "480": [
+        "Makishi25"
+      ],
+      "5": [
+        "nitram1572"
+      ],
+      "5371": [
+        "chaos1989"
+      ],
+      "6041": [
+        "santemjocko"
+      ],
+      "64": [
+        "Warhazarder"
+      ]
+    },
+    "dropped": {
+      "15": [
+        "lodoss2011"
+      ],
+      "171": [
+        "owac"
+      ],
+      "2": [
+        "leekcookie"
+      ],
+      "203": [
+        "obvBasti"
+      ],
+      "252": [
+        "imabaldman"
+      ],
+      "26": [
+        "santemjocko"
+      ],
+      "3102": [
+        "__kreck"
+      ],
+      "409": [
+        "minenicknick"
+      ],
+      "445": [
+        "philxpx"
+      ],
+      "6655": [
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "1385": [
+        "__kreck"
+      ],
+      "171": [
+        "owac"
+      ],
+      "203": [
+        "obvBasti"
+      ],
+      "2267": [
+        "__Iglo"
+      ],
+      "2299": [
+        "leekcookie"
+      ],
+      "295": [
+        "imabaldman"
+      ],
+      "424": [
+        "minenicknick"
+      ],
+      "490": [
+        "philxpx"
+      ],
+      "63": [
+        "nitram1572"
+      ],
+      "64": [
+        "Iglo"
+      ]
+    }
+  }
+}

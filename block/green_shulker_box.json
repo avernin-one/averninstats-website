@@ -1,0 +1,60 @@
+{
+  "name": "green_shulker_box",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "lodoss2011",
+        "__kreck"
+      ],
+      "2": [
+        "leekcookie"
+      ],
+      "3": [
+        "iurie"
+      ]
+    },
+    "mined": {
+      "4": [
+        "__kreck"
+      ],
+      "41": [
+        "lodoss2011"
+      ],
+      "50": [
+        "iurie"
+      ],
+      "7": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "leekcookie"
+      ],
+      "4": [
+        "__kreck"
+      ],
+      "42": [
+        "lodoss2011"
+      ],
+      "50": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "4": [
+        "__kreck"
+      ],
+      "42": [
+        "lodoss2011"
+      ],
+      "50": [
+        "iurie"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    }
+  }
+}

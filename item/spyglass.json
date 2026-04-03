@@ -1,0 +1,56 @@
+{
+  "name": "spyglass",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1": [
+        "santemjocko",
+        "Lord_HoruS"
+      ],
+      "2": [
+        "iurie"
+      ],
+      "5": [
+        "Teayo"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "lodoss2011",
+        "Telinnor",
+        "Teayo"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "PopCat007"
+      ],
+      "2": [
+        "santemjocko",
+        "lodoss2011",
+        "Telinnor",
+        "Teayo"
+      ]
+    },
+    "used": {
+      "10": [
+        "Telinnor"
+      ],
+      "22": [
+        "santemjocko"
+      ],
+      "3": [
+        "Teayo"
+      ],
+      "34": [
+        "Lord_HoruS"
+      ],
+      "39": [
+        "iurie"
+      ],
+      "4": [
+        "PopCat007"
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "crimson_trapdoor",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "16": [
+        "__Iglo"
+      ],
+      "4": [
+        "__kreck"
+      ],
+      "50": [
+        "leekcookie"
+      ],
+      "6": [
+        "iurie",
+        "XeonVirus"
+      ]
+    },
+    "mined": {
+      "10": [
+        "__kreck"
+      ],
+      "13": [
+        "XeonVirus"
+      ],
+      "32": [
+        "leekcookie"
+      ],
+      "34": [
+        "__Iglo"
+      ],
+      "4": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "13": [
+        "XeonVirus"
+      ],
+      "27": [
+        "__Iglo"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "52": [
+        "leekcookie"
+      ],
+      "7": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "10": [
+        "iurie",
+        "__kreck"
+      ],
+      "19": [
+        "XeonVirus"
+      ],
+      "33": [
+        "leekcookie"
+      ],
+      "41": [
+        "__Iglo"
+      ]
+    }
+  }
+}

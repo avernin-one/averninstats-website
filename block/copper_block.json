@@ -1,0 +1,118 @@
+{
+  "name": "copper_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1288": [
+        "obvBasti"
+      ],
+      "1798": [
+        "Warhazarder"
+      ],
+      "221": [
+        "chaos1989"
+      ],
+      "261": [
+        "imabaldman",
+        "XeonVirus"
+      ],
+      "4561": [
+        "leekcookie"
+      ],
+      "65": [
+        "Telinnor"
+      ],
+      "650": [
+        "iurie"
+      ],
+      "732": [
+        "Teayo"
+      ],
+      "75": [
+        "philxpx"
+      ],
+      "766": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "philxpx"
+      ],
+      "261": [
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Temeraiere",
+        "iurie",
+        "XeonVirus"
+      ],
+      "152": [
+        "philxpx"
+      ],
+      "23": [
+        "leekcookie"
+      ],
+      "40": [
+        "Cpt_looper"
+      ],
+      "42": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Temeraiere",
+        "iurie",
+        "XeonVirus"
+      ],
+      "14": [
+        "Warhazarder"
+      ],
+      "150": [
+        "philxpx"
+      ],
+      "2": [
+        "__kreck"
+      ],
+      "261": [
+        "imabaldman"
+      ],
+      "40": [
+        "Cpt_looper"
+      ],
+      "47": [
+        "santemjocko"
+      ],
+      "802": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "Temeraiere",
+        "iurie"
+      ],
+      "116": [
+        "XeonVirus"
+      ],
+      "168": [
+        "santemjocko"
+      ],
+      "2": [
+        "lu0de"
+      ],
+      "37": [
+        "leekcookie"
+      ],
+      "40": [
+        "Cpt_looper"
+      ],
+      "904": [
+        "philxpx"
+      ]
+    }
+  }
+}

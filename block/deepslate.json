@@ -1,0 +1,160 @@
+{
+  "name": "deepslate",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "SuperXXLProfi",
+        "DornDasBrot",
+        "imabaldman"
+      ],
+      "102": [
+        "lodoss2011"
+      ],
+      "24": [
+        "nitram1572"
+      ],
+      "2638": [
+        "SnuvomBodensatz"
+      ],
+      "545": [
+        "__kreck"
+      ],
+      "64": [
+        "leekcookie"
+      ],
+      "67": [
+        "TrashSuperstar"
+      ]
+    },
+    "dropped": {
+      "1975": [
+        "Iglo"
+      ],
+      "255": [
+        "XeonVirus"
+      ],
+      "256": [
+        "philxpx"
+      ],
+      "281": [
+        "iurie"
+      ],
+      "3008": [
+        "owac"
+      ],
+      "3298": [
+        "JonasderGamer"
+      ],
+      "4513": [
+        "__kreck"
+      ],
+      "4617": [
+        "leekcookie"
+      ],
+      "5884": [
+        "__Iglo"
+      ],
+      "671": [
+        "Lord_HoruS"
+      ]
+    },
+    "mined": {
+      "118018": [
+        "__kreck"
+      ],
+      "13476": [
+        "lodoss2011"
+      ],
+      "135877": [
+        "leekcookie"
+      ],
+      "16455": [
+        "Lord_HoruS"
+      ],
+      "20425": [
+        "__Iglo"
+      ],
+      "21639": [
+        "Warhazarder"
+      ],
+      "24968": [
+        "chaos1989"
+      ],
+      "26567": [
+        "Iglo"
+      ],
+      "29852": [
+        "TrashSuperstar"
+      ],
+      "46651": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "12599": [
+        "__Iglo"
+      ],
+      "19205": [
+        "TrashSuperstar"
+      ],
+      "25793": [
+        "leekcookie"
+      ],
+      "2791": [
+        "santemjocko"
+      ],
+      "3424": [
+        "JonasderGamer"
+      ],
+      "3644": [
+        "owac",
+        "Lord_HoruS"
+      ],
+      "44832": [
+        "__kreck"
+      ],
+      "6572": [
+        "iurie"
+      ],
+      "7758": [
+        "Iglo"
+      ],
+      "9045": [
+        "Warhazarder"
+      ]
+    },
+    "used": {
+      "1148": [
+        "__Iglo"
+      ],
+      "1371": [
+        "TrashSuperstar"
+      ],
+      "2441": [
+        "SnuvomBodensatz"
+      ],
+      "3002": [
+        "Lord_HoruS"
+      ],
+      "3673": [
+        "__kreck"
+      ],
+      "589": [
+        "Iglo"
+      ],
+      "7090": [
+        "Warhazarder"
+      ],
+      "766": [
+        "iurie"
+      ],
+      "855": [
+        "santemjocko"
+      ],
+      "860": [
+        "leekcookie"
+      ]
+    }
+  }
+}

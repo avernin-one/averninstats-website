@@ -1,0 +1,119 @@
+{
+  "name": "spruce_leaves",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "Mamuschkaz",
+        "__Iglo"
+      ],
+      "2": [
+        "minenicknick",
+        "Makishi25"
+      ],
+      "22": [
+        "imabaldman"
+      ],
+      "4": [
+        "owac"
+      ],
+      "5": [
+        "leekcookie",
+        "SuperXXLProfi"
+      ],
+      "609": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "1037": [
+        "Mamuschkaz"
+      ],
+      "2033": [
+        "__kreck"
+      ],
+      "221": [
+        "Ivenor"
+      ],
+      "318": [
+        "JonasderGamer"
+      ],
+      "334": [
+        "Makishi25"
+      ],
+      "380": [
+        "lodoss2011",
+        "Warhazarder"
+      ],
+      "585": [
+        "owac"
+      ],
+      "631": [
+        "Mandahaya"
+      ],
+      "637": [
+        "leekcookie"
+      ],
+      "643": [
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "SuperXXLProfi"
+      ],
+      "119": [
+        "leekcookie"
+      ],
+      "16": [
+        "SnuvomBodensatz"
+      ],
+      "17": [
+        "Warhazarder"
+      ],
+      "2269": [
+        "__kreck"
+      ],
+      "32": [
+        "minenicknick"
+      ],
+      "42": [
+        "imabaldman"
+      ],
+      "447": [
+        "owac"
+      ],
+      "49": [
+        "Mamuschkaz"
+      ],
+      "5": [
+        "Mandahaya",
+        "iurie",
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "imabaldman",
+        "__Iglo",
+        "Warhazarder",
+        "Teayo"
+      ],
+      "1220": [
+        "__kreck"
+      ],
+      "126": [
+        "owac"
+      ],
+      "34": [
+        "leekcookie"
+      ],
+      "48": [
+        "Mamuschkaz"
+      ],
+      "5": [
+        "iurie"
+      ]
+    }
+  }
+}

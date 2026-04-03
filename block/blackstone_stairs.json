@@ -1,0 +1,53 @@
+{
+  "name": "blackstone_stairs",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "256": [
+        "__kreck"
+      ],
+      "4": [
+        "Makishi25"
+      ],
+      "56": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "11": [
+        "leekcookie"
+      ],
+      "13": [
+        "__kreck"
+      ],
+      "2": [
+        "Sayder13xr"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Makishi25"
+      ],
+      "13": [
+        "__kreck"
+      ],
+      "2": [
+        "Sayder13xr"
+      ],
+      "35": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "203": [
+        "__kreck"
+      ],
+      "3": [
+        "Makishi25"
+      ],
+      "60": [
+        "leekcookie"
+      ]
+    }
+  }
+}

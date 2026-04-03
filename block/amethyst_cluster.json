@@ -1,0 +1,95 @@
+{
+  "name": "amethyst_cluster",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "santemjocko",
+        "owac"
+      ]
+    },
+    "mined": {
+      "169": [
+        "Cpt_looper"
+      ],
+      "19": [
+        "XeonVirus"
+      ],
+      "29": [
+        "Iglo",
+        "__Iglo"
+      ],
+      "31": [
+        "TrashSuperstar",
+        "Sayder13xr"
+      ],
+      "34": [
+        "SnuvomBodensatz"
+      ],
+      "36": [
+        "chaos1989"
+      ],
+      "414": [
+        "santemjocko"
+      ],
+      "48": [
+        "Teayo"
+      ],
+      "55": [
+        "owac"
+      ],
+      "64": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "owac"
+      ],
+      "167": [
+        "santemjocko"
+      ],
+      "17": [
+        "Warhazarder"
+      ],
+      "2": [
+        "lodoss2011",
+        "TrashSuperstar",
+        "__kreck"
+      ],
+      "22": [
+        "iurie"
+      ],
+      "27": [
+        "chaos1989"
+      ],
+      "28": [
+        "Iglo"
+      ],
+      "29": [
+        "__Iglo"
+      ],
+      "54": [
+        "Cpt_looper"
+      ],
+      "9": [
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "1": [
+        "chaos1989"
+      ],
+      "165": [
+        "santemjocko"
+      ],
+      "2": [
+        "TrashSuperstar",
+        "__kreck"
+      ],
+      "9": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

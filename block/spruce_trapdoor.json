@@ -1,0 +1,163 @@
+{
+  "name": "spruce_trapdoor",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1272": [
+        "owac"
+      ],
+      "164": [
+        "SuperXXLProfi"
+      ],
+      "2046": [
+        "leekcookie"
+      ],
+      "248": [
+        "Mamuschkaz"
+      ],
+      "302": [
+        "Ivenor"
+      ],
+      "3478": [
+        "Warhazarder"
+      ],
+      "460": [
+        "TrashSuperstar"
+      ],
+      "612": [
+        "Makishi25"
+      ],
+      "644": [
+        "lodoss2011"
+      ],
+      "674": [
+        "__kreck"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "ScimMLG"
+      ],
+      "240": [
+        "__Iglo"
+      ],
+      "3": [
+        "JonasderGamer"
+      ],
+      "349": [
+        "leekcookie"
+      ],
+      "6": [
+        "owac"
+      ],
+      "60": [
+        "lodoss2011"
+      ],
+      "7": [
+        "Warhazarder"
+      ],
+      "75": [
+        "Mamuschkaz"
+      ],
+      "83": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "105": [
+        "ScimMLG"
+      ],
+      "108": [
+        "Ivenor"
+      ],
+      "1445": [
+        "leekcookie"
+      ],
+      "155": [
+        "Mamuschkaz"
+      ],
+      "157": [
+        "lodoss2011"
+      ],
+      "231": [
+        "Warhazarder"
+      ],
+      "25": [
+        "imabaldman"
+      ],
+      "31": [
+        "Telinnor"
+      ],
+      "66": [
+        "owac"
+      ],
+      "74": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "105": [
+        "ScimMLG"
+      ],
+      "107": [
+        "Ivenor"
+      ],
+      "159": [
+        "__kreck"
+      ],
+      "183": [
+        "__Iglo"
+      ],
+      "201": [
+        "owac"
+      ],
+      "220": [
+        "Mamuschkaz"
+      ],
+      "258": [
+        "Warhazarder"
+      ],
+      "2922": [
+        "leekcookie"
+      ],
+      "358": [
+        "lodoss2011"
+      ],
+      "99": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "109": [
+        "Telinnor"
+      ],
+      "116": [
+        "ScimMLG"
+      ],
+      "1269": [
+        "owac"
+      ],
+      "1822": [
+        "leekcookie"
+      ],
+      "349": [
+        "Mamuschkaz"
+      ],
+      "3633": [
+        "Warhazarder"
+      ],
+      "389": [
+        "Ivenor"
+      ],
+      "563": [
+        "__kreck"
+      ],
+      "588": [
+        "Makishi25"
+      ],
+      "773": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

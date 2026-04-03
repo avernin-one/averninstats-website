@@ -1,0 +1,137 @@
+{
+  "name": "cooked_porkchop",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "22": [
+        "XeonVirus"
+      ],
+      "31": [
+        "chaos1989"
+      ],
+      "38": [
+        "Makishi25"
+      ],
+      "40": [
+        "Ivenor"
+      ],
+      "42": [
+        "__kreck"
+      ],
+      "46": [
+        "SnuvomBodensatz"
+      ],
+      "51": [
+        "Telinnor"
+      ],
+      "57": [
+        "Austriana"
+      ],
+      "64": [
+        "SuperXXLProfi"
+      ],
+      "86": [
+        "Mamuschkaz"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Austriana",
+        "__Iglo"
+      ],
+      "11": [
+        "imabaldman"
+      ],
+      "13": [
+        "philxpx"
+      ],
+      "14": [
+        "minenicknick"
+      ],
+      "18": [
+        "santemjocko"
+      ],
+      "3": [
+        "lodoss2011",
+        "owac",
+        "Warhazarder"
+      ],
+      "37": [
+        "Lord_HoruS"
+      ],
+      "45": [
+        "Iglo"
+      ],
+      "5": [
+        "iurie"
+      ],
+      "64": [
+        "SuperXXLProfi"
+      ]
+    },
+    "picked_up": {
+      "102": [
+        "Temeraiere"
+      ],
+      "145": [
+        "Iglo"
+      ],
+      "152": [
+        "imabaldman"
+      ],
+      "195": [
+        "__kreck"
+      ],
+      "478": [
+        "Lord_HoruS"
+      ],
+      "54": [
+        "TrashSuperstar"
+      ],
+      "59": [
+        "XeonVirus"
+      ],
+      "80": [
+        "philxpx"
+      ],
+      "82": [
+        "iurie"
+      ],
+      "90": [
+        "chaos1989"
+      ]
+    },
+    "used": {
+      "119": [
+        "Lord_HoruS"
+      ],
+      "131": [
+        "chaos1989"
+      ],
+      "140": [
+        "imabaldman"
+      ],
+      "49": [
+        "TrashSuperstar"
+      ],
+      "50": [
+        "Austriana"
+      ],
+      "51": [
+        "Telinnor"
+      ],
+      "54": [
+        "SnuvomBodensatz"
+      ],
+      "72": [
+        "lodoss2011"
+      ],
+      "86": [
+        "Mamuschkaz"
+      ],
+      "94": [
+        "__kreck"
+      ]
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "name": "hay_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "11": [
+        "Lord_HoruS"
+      ],
+      "1175": [
+        "iurie"
+      ],
+      "120": [
+        "__Iglo"
+      ],
+      "18": [
+        "Makishi25"
+      ],
+      "28": [
+        "Warhazarder"
+      ],
+      "32": [
+        "Mandahaya"
+      ],
+      "324": [
+        "__kreck"
+      ],
+      "8": [
+        "Sayder13xr"
+      ],
+      "9": [
+        "lodoss2011"
+      ],
+      "908": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Mamuschkaz"
+      ],
+      "12": [
+        "Makishi25"
+      ],
+      "56": [
+        "leekcookie"
+      ],
+      "72": [
+        "minenicknick"
+      ],
+      "8": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "264": [
+        "Sayder13xr"
+      ],
+      "47": [
+        "iurie",
+        "StofftierAnabol"
+      ],
+      "51": [
+        "Der_Sani"
+      ],
+      "52": [
+        "Telinnor",
+        "Warhazarder"
+      ],
+      "54": [
+        "Cpt_looper"
+      ],
+      "58": [
+        "owac",
+        "Lord_HoruS"
+      ],
+      "64": [
+        "lodoss2011"
+      ],
+      "72": [
+        "__kreck"
+      ],
+      "74": [
+        "TrashSuperstar"
+      ],
+      "95": [
+        "imabaldman"
+      ]
+    },
+    "picked_up": {
+      "110": [
+        "minenicknick"
+      ],
+      "197": [
+        "leekcookie"
+      ],
+      "407": [
+        "Sayder13xr"
+      ],
+      "52": [
+        "Telinnor",
+        "Cpt_looper"
+      ],
+      "58": [
+        "Lord_HoruS"
+      ],
+      "64": [
+        "lodoss2011"
+      ],
+      "69": [
+        "Teayo"
+      ],
+      "74": [
+        "TrashSuperstar"
+      ],
+      "88": [
+        "Warhazarder",
+        "__kreck"
+      ],
+      "95": [
+        "owac",
+        "imabaldman"
+      ]
+    },
+    "used": {
+      "10": [
+        "lodoss2011"
+      ],
+      "11": [
+        "owac"
+      ],
+      "16": [
+        "Makishi25"
+      ],
+      "32": [
+        "TrashSuperstar"
+      ],
+      "33": [
+        "Mandahaya",
+        "__kreck"
+      ],
+      "36": [
+        "Warhazarder"
+      ],
+      "37": [
+        "SuperXXLProfi"
+      ],
+      "4": [
+        "Der_Sani"
+      ],
+      "5": [
+        "leekcookie"
+      ],
+      "9": [
+        "Sayder13xr"
+      ]
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "name": "slime_ball",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "1315": [
+        "leekcookie"
+      ],
+      "135": [
+        "owac"
+      ],
+      "1609": [
+        "__Iglo"
+      ],
+      "1683": [
+        "iurie"
+      ],
+      "173": [
+        "Mamuschkaz"
+      ],
+      "252": [
+        "Cpt_looper"
+      ],
+      "3456": [
+        "Iglo"
+      ],
+      "531": [
+        "__kreck"
+      ],
+      "72": [
+        "Sayder13xr"
+      ],
+      "792": [
+        "santemjocko"
+      ]
+    },
+    "dropped": {
+      "2646": [
+        "leekcookie"
+      ],
+      "379": [
+        "__Iglo"
+      ],
+      "4": [
+        "chaos1989"
+      ],
+      "497": [
+        "__kreck"
+      ],
+      "614": [
+        "santemjocko"
+      ],
+      "67": [
+        "owac"
+      ],
+      "8": [
+        "lodoss2011"
+      ],
+      "84": [
+        "iurie"
+      ],
+      "983": [
+        "Iglo"
+      ]
+    },
+    "picked_up": {
+      "100": [
+        "Mamuschkaz"
+      ],
+      "1026": [
+        "santemjocko"
+      ],
+      "146": [
+        "chaos1989"
+      ],
+      "1829": [
+        "Iglo"
+      ],
+      "272": [
+        "Sayder13xr"
+      ],
+      "3150": [
+        "iurie"
+      ],
+      "3377": [
+        "leekcookie"
+      ],
+      "802": [
+        "__Iglo"
+      ],
+      "84": [
+        "Lord_HoruS",
+        "Warhazarder"
+      ],
+      "941": [
+        "__kreck"
+      ]
+    }
+  }
+}

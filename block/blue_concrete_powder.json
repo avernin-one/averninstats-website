@@ -1,0 +1,33 @@
+{
+  "name": "blue_concrete_powder",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1480": [
+        "__kreck"
+      ],
+      "512": [
+        "__Iglo"
+      ],
+      "64": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "328": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1480": [
+        "__kreck"
+      ],
+      "512": [
+        "__Iglo"
+      ],
+      "64": [
+        "leekcookie"
+      ]
+    }
+  }
+}

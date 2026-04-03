@@ -1,0 +1,106 @@
+{
+  "name": "nether_brick_fence",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "18": [
+        "leekcookie"
+      ],
+      "78": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "3": [
+        "santemjocko"
+      ],
+      "4": [
+        "chaos1989",
+        "Mamuschkaz"
+      ]
+    },
+    "mined": {
+      "103": [
+        "iurie"
+      ],
+      "12": [
+        "chaos1989"
+      ],
+      "2": [
+        "lodoss2011",
+        "Iglo"
+      ],
+      "3": [
+        "Makishi25"
+      ],
+      "33": [
+        "Telinnor"
+      ],
+      "4": [
+        "Mamuschkaz",
+        "TrashSuperstar"
+      ],
+      "5": [
+        "santemjocko",
+        "Lord_HoruS"
+      ],
+      "53": [
+        "__kreck"
+      ],
+      "6": [
+        "Sayder13xr"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "lodoss2011"
+      ],
+      "11": [
+        "chaos1989"
+      ],
+      "2": [
+        "Iglo"
+      ],
+      "26": [
+        "__kreck"
+      ],
+      "29": [
+        "Makishi25"
+      ],
+      "3": [
+        "TrashSuperstar"
+      ],
+      "37": [
+        "leekcookie"
+      ],
+      "4": [
+        "Mamuschkaz",
+        "Lord_HoruS",
+        "Sayder13xr"
+      ],
+      "8": [
+        "santemjocko"
+      ],
+      "85": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "13": [
+        "leekcookie"
+      ],
+      "2": [
+        "__kreck"
+      ],
+      "4": [
+        "Sayder13xr"
+      ],
+      "77": [
+        "Makishi25"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "light_gray_concrete_powder",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "24": [
+        "Makishi25"
+      ]
+    },
+    "mined": {
+      "2": [
+        "Makishi25"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "26": [
+        "Makishi25"
+      ]
+    }
+  }
+}

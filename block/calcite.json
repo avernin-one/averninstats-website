@@ -1,0 +1,127 @@
+{
+  "name": "calcite",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "leekcookie",
+        "Cpt_looper",
+        "Teayo"
+      ],
+      "11": [
+        "Temeraiere"
+      ],
+      "2": [
+        "iurie",
+        "__kreck"
+      ],
+      "21": [
+        "__Iglo"
+      ],
+      "253": [
+        "Telinnor"
+      ],
+      "26": [
+        "owac"
+      ],
+      "4": [
+        "santemjocko",
+        "Lord_HoruS"
+      ],
+      "5359": [
+        "imabaldman"
+      ]
+    },
+    "mined": {
+      "104": [
+        "__Iglo"
+      ],
+      "1405": [
+        "santemjocko"
+      ],
+      "146": [
+        "XeonVirus"
+      ],
+      "156": [
+        "leekcookie"
+      ],
+      "181": [
+        "Mandahaya"
+      ],
+      "280": [
+        "lodoss2011"
+      ],
+      "3089": [
+        "Telinnor"
+      ],
+      "418": [
+        "TrashSuperstar"
+      ],
+      "923": [
+        "iurie"
+      ],
+      "946": [
+        "owac"
+      ]
+    },
+    "picked_up": {
+      "1294": [
+        "santemjocko"
+      ],
+      "171": [
+        "leekcookie"
+      ],
+      "180": [
+        "Mandahaya"
+      ],
+      "2334": [
+        "Telinnor"
+      ],
+      "280": [
+        "lodoss2011"
+      ],
+      "415": [
+        "TrashSuperstar"
+      ],
+      "4339": [
+        "imabaldman"
+      ],
+      "902": [
+        "Teayo"
+      ],
+      "903": [
+        "iurie"
+      ],
+      "972": [
+        "owac"
+      ]
+    },
+    "used": {
+      "1": [
+        "Telinnor"
+      ],
+      "1153": [
+        "Teayo"
+      ],
+      "17": [
+        "chaos1989"
+      ],
+      "270": [
+        "SuperXXLProfi"
+      ],
+      "58": [
+        "leekcookie"
+      ],
+      "6": [
+        "Iglo",
+        "Warhazarder"
+      ],
+      "648": [
+        "iurie"
+      ],
+      "85": [
+        "TrashSuperstar"
+      ]
+    }
+  }
+}

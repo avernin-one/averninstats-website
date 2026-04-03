@@ -1,0 +1,195 @@
+{
+  "name": "Marvin1099",
+  "uuid": "d0b185da-85b7-4748-93cd-3881afcdde88",
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "stats": {
+    "boat_one_cm": 1152449,
+    "climb_one_cm": 292,
+    "crouch_one_cm": 680,
+    "damage_taken": 2214,
+    "deaths": 2,
+    "drop": 6,
+    "fall_one_cm": 55702,
+    "fly_one_cm": 639511,
+    "interact_with_crafting_table": 15,
+    "jump": 2507,
+    "leave_game": 5,
+    "open_chest": 12,
+    "play_time": 142948,
+    "sneak_time": 591,
+    "sprint_one_cm": 545897,
+    "swim_one_cm": 9421,
+    "talked_to_villager": 1,
+    "time_since_death": 41661,
+    "time_since_rest": 41681,
+    "total_world_time": 142948,
+    "walk_on_water_one_cm": 9066,
+    "walk_one_cm": 181126,
+    "walk_under_water_one_cm": 22375
+  },
+  "scores": {
+    "block": {
+      "crafted": {
+        "1": [
+          "furnace"
+        ],
+        "2": [
+          "crafting_table"
+        ],
+        "32": [
+          "oak_planks"
+        ]
+      },
+      "dropped": {
+        "1": [
+          "spruce_sapling"
+        ],
+        "4": [
+          "oak_sapling"
+        ]
+      },
+      "mined": {
+        "12": [
+          "grass_block"
+        ],
+        "15": [
+          "spruce_log"
+        ],
+        "16": [
+          "oak_log"
+        ],
+        "321": [
+          "wheat"
+        ],
+        "38": [
+          "stone"
+        ]
+      },
+      "picked_up": {
+        "14": [
+          "spruce_log"
+        ],
+        "19": [
+          "dirt"
+        ],
+        "21": [
+          "oak_log"
+        ],
+        "333": [
+          "wheat"
+        ],
+        "59": [
+          "cobblestone"
+        ]
+      },
+      "used": {
+        "1": [
+          "oak_sapling",
+          "light_gray_carpet"
+        ],
+        "13": [
+          "dirt"
+        ],
+        "3": [
+          "composter"
+        ],
+        "8": [
+          "crafting_table"
+        ]
+      }
+    },
+    "entity": {
+      "crafted": {
+        "2": [
+          "oak_boat"
+        ]
+      },
+      "killed_by": {
+        "1": [
+          "zombie"
+        ]
+      },
+      "picked_up": {
+        "10": [
+          "oak_boat"
+        ]
+      },
+      "used": {
+        "9": [
+          "oak_boat"
+        ]
+      }
+    },
+    "item": {
+      "crafted": {
+        "1": [
+          "stone_shovel",
+          "stone_pickaxe",
+          "stone_sword",
+          "wooden_pickaxe",
+          "stone_axe"
+        ],
+        "12": [
+          "stick"
+        ],
+        "2": [
+          "oak_boat"
+        ],
+        "93": [
+          "bread"
+        ]
+      },
+      "dropped": {
+        "1": [
+          "filled_map"
+        ],
+        "192": [
+          "wheat_seeds"
+        ]
+      },
+      "mined": {
+        "321": [
+          "wheat"
+        ]
+      },
+      "picked_up": {
+        "1236": [
+          "wheat_seeds"
+        ],
+        "13": [
+          "paper"
+        ],
+        "15": [
+          "iron_nugget"
+        ],
+        "333": [
+          "wheat"
+        ],
+        "66": [
+          "bread"
+        ]
+      },
+      "used": {
+        "16": [
+          "stone_shovel"
+        ],
+        "27": [
+          "bread"
+        ],
+        "368": [
+          "wheat_seeds"
+        ],
+        "38": [
+          "wooden_pickaxe"
+        ],
+        "41": [
+          "stone_axe"
+        ]
+      }
+    }
+  }
+}

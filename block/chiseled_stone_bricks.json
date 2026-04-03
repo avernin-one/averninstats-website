@@ -1,0 +1,152 @@
+{
+  "name": "chiseled_stone_bricks",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "16": [
+        "DornDasBrot"
+      ],
+      "2": [
+        "Cpt_looper",
+        "nitram1572"
+      ],
+      "20": [
+        "SnuvomBodensatz"
+      ],
+      "220": [
+        "leekcookie"
+      ],
+      "32": [
+        "Lord_HoruS"
+      ],
+      "34": [
+        "Makishi25"
+      ],
+      "6": [
+        "Warhazarder"
+      ],
+      "620": [
+        "owac"
+      ],
+      "8": [
+        "lodoss2011"
+      ],
+      "96": [
+        "Teayo"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "DornDasBrot",
+        "imabaldman"
+      ],
+      "365": [
+        "__kreck"
+      ],
+      "620": [
+        "owac"
+      ],
+      "84": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "101": [
+        "Warhazarder"
+      ],
+      "13": [
+        "chaos1989"
+      ],
+      "15": [
+        "Mandahaya"
+      ],
+      "17": [
+        "Lord_HoruS"
+      ],
+      "2": [
+        "lodoss2011"
+      ],
+      "29": [
+        "imabaldman"
+      ],
+      "3": [
+        "SnuvomBodensatz",
+        "DornDasBrot"
+      ],
+      "5": [
+        "XeonVirus"
+      ],
+      "68": [
+        "iurie"
+      ],
+      "8": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "106": [
+        "Warhazarder"
+      ],
+      "112": [
+        "leekcookie"
+      ],
+      "13": [
+        "chaos1989"
+      ],
+      "15": [
+        "Mandahaya"
+      ],
+      "16": [
+        "Lord_HoruS"
+      ],
+      "18": [
+        "DornDasBrot"
+      ],
+      "29": [
+        "Makishi25",
+        "imabaldman"
+      ],
+      "352": [
+        "__kreck"
+      ],
+      "4": [
+        "XeonVirus"
+      ],
+      "68": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "10": [
+        "lodoss2011"
+      ],
+      "163": [
+        "chaos1989"
+      ],
+      "18": [
+        "DornDasBrot"
+      ],
+      "203": [
+        "imabaldman"
+      ],
+      "2598": [
+        "Warhazarder"
+      ],
+      "307": [
+        "__kreck"
+      ],
+      "34": [
+        "XeonVirus"
+      ],
+      "37": [
+        "Makishi25"
+      ],
+      "45": [
+        "Lord_HoruS"
+      ],
+      "59": [
+        "SnuvomBodensatz"
+      ]
+    }
+  }
+}

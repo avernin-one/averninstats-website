@@ -1,0 +1,24 @@
+{
+  "name": "diorite_wall",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "leekcookie"
+      ]
+    },
+    "picked_up": {
+      "30": [
+        "__kreck"
+      ]
+    },
+    "used": {
+      "1": [
+        "leekcookie"
+      ],
+      "98": [
+        "__kreck"
+      ]
+    }
+  }
+}

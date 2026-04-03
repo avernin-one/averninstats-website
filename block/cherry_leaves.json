@@ -1,0 +1,33 @@
+{
+  "name": "cherry_leaves",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "4": [
+        "KleeneEle"
+      ],
+      "42": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "2609": [
+        "leekcookie"
+      ],
+      "33": [
+        "KleeneEle"
+      ],
+      "42": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "134": [
+        "leekcookie"
+      ],
+      "20": [
+        "KleeneEle"
+      ]
+    }
+  }
+}

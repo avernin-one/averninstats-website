@@ -1,0 +1,121 @@
+{
+  "name": "wooden_sword",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "LumpenBrot",
+        "chaos1989",
+        "__kreck",
+        "XeonVirus"
+      ],
+      "2": [
+        "Temeraiere"
+      ],
+      "4": [
+        "__Iglo"
+      ],
+      "6": [
+        "Cpt_looper"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "LumpenBrot",
+        "chaos1989",
+        "ScimMLG",
+        "leekcookie",
+        "cqzq",
+        "SuperXXLProfi",
+        "Lord_HoruS"
+      ],
+      "13": [
+        "imabaldman"
+      ],
+      "2": [
+        "__kreck",
+        "XeonVirus"
+      ],
+      "3": [
+        "DornDasBrot"
+      ],
+      "4": [
+        "Lukas_126",
+        "Temeraiere",
+        "nitram1572"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "philxpx",
+        "SuperXXLProfi",
+        "__Iglo",
+        "__kreck"
+      ],
+      "2": [
+        "Lukas_126",
+        "leekcookie"
+      ],
+      "3": [
+        "DornDasBrot",
+        "imabaldman"
+      ],
+      "4": [
+        "nitram1572"
+      ],
+      "5": [
+        "Cpt_looper"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "minenicknick",
+        "__Iglo",
+        "__kreck",
+        "XeonVirus"
+      ],
+      "10": [
+        "leekcookie"
+      ],
+      "4": [
+        "imabaldman"
+      ],
+      "5": [
+        "Cpt_looper"
+      ]
+    },
+    "used": {
+      "107": [
+        "Lukas_126"
+      ],
+      "171": [
+        "Temeraiere"
+      ],
+      "284": [
+        "__Iglo"
+      ],
+      "35": [
+        "LumpenBrot"
+      ],
+      "55": [
+        "philxpx"
+      ],
+      "573": [
+        "Cpt_looper"
+      ],
+      "60": [
+        "chaos1989",
+        "XeonVirus"
+      ],
+      "63": [
+        "__kreck"
+      ],
+      "70": [
+        "nitram1572"
+      ],
+      "85": [
+        "ScimMLG"
+      ]
+    }
+  }
+}

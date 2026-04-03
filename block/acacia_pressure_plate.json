@@ -1,0 +1,32 @@
+{
+  "name": "acacia_pressure_plate",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "15": [
+        "Telinnor"
+      ],
+      "56": [
+        "lodoss2011"
+      ]
+    },
+    "mined": {
+      "2": [
+        "Telinnor"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "Telinnor"
+      ]
+    },
+    "used": {
+      "17": [
+        "Telinnor"
+      ],
+      "29": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

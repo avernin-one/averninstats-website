@@ -1,0 +1,147 @@
+{
+  "name": "tnt",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "185": [
+        "lodoss2011"
+      ],
+      "1991": [
+        "leekcookie"
+      ],
+      "2057": [
+        "santemjocko"
+      ],
+      "209": [
+        "__kreck"
+      ],
+      "246": [
+        "Lord_HoruS"
+      ],
+      "4936": [
+        "iurie"
+      ],
+      "608": [
+        "TrashSuperstar"
+      ],
+      "650": [
+        "Cpt_looper"
+      ],
+      "86": [
+        "ScimMLG"
+      ],
+      "87": [
+        "SuperXXLProfi"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Mamuschkaz"
+      ],
+      "25": [
+        "leekcookie"
+      ],
+      "53": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "10": [
+        "lodoss2011"
+      ],
+      "13": [
+        "__kreck"
+      ],
+      "174": [
+        "leekcookie"
+      ],
+      "18": [
+        "chaos1989",
+        "TrashSuperstar"
+      ],
+      "27": [
+        "XeonVirus"
+      ],
+      "32": [
+        "santemjocko"
+      ],
+      "473": [
+        "iurie"
+      ],
+      "5": [
+        "ScimMLG"
+      ],
+      "66": [
+        "Cpt_looper"
+      ],
+      "9": [
+        "KleeneEle",
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "178": [
+        "__kreck"
+      ],
+      "181": [
+        "santemjocko"
+      ],
+      "20": [
+        "chaos1989"
+      ],
+      "27": [
+        "XeonVirus"
+      ],
+      "36": [
+        "nitram1572"
+      ],
+      "389": [
+        "Cpt_looper"
+      ],
+      "496": [
+        "iurie"
+      ],
+      "50": [
+        "lodoss2011"
+      ],
+      "84": [
+        "TrashSuperstar"
+      ],
+      "946": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "149": [
+        "__kreck"
+      ],
+      "192": [
+        "lodoss2011"
+      ],
+      "1972": [
+        "santemjocko"
+      ],
+      "249": [
+        "Lord_HoruS"
+      ],
+      "433": [
+        "leekcookie"
+      ],
+      "473": [
+        "TrashSuperstar"
+      ],
+      "474": [
+        "Cpt_looper"
+      ],
+      "4746": [
+        "iurie"
+      ],
+      "89": [
+        "SuperXXLProfi"
+      ],
+      "91": [
+        "ScimMLG"
+      ]
+    }
+  }
+}

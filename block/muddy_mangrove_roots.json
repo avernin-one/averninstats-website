@@ -1,0 +1,34 @@
+{
+  "name": "muddy_mangrove_roots",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "1": [
+        "__kreck"
+      ],
+      "167": [
+        "Warhazarder"
+      ],
+      "25": [
+        "iurie"
+      ],
+      "39": [
+        "lodoss2011"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "__kreck"
+      ],
+      "152": [
+        "Warhazarder"
+      ],
+      "25": [
+        "iurie"
+      ],
+      "37": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "name": "shield",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "SnuvomBodensatz",
+        "Mamuschkaz",
+        "Austriana",
+        "Iglo",
+        "Temeraiere"
+      ],
+      "14": [
+        "Mandahaya"
+      ],
+      "2": [
+        "Telinnor",
+        "Teayo"
+      ],
+      "3": [
+        "iurie"
+      ],
+      "5": [
+        "DornDasBrot"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "PopCat007",
+        "TrashSuperstar",
+        "Cpt_looper",
+        "nitram1572",
+        "lu0de",
+        "Makishi25",
+        "imabaldman"
+      ],
+      "2": [
+        "Lukas_126",
+        "chaos1989",
+        "owac",
+        "Temeraiere"
+      ],
+      "22": [
+        "Mandahaya",
+        "Teayo"
+      ],
+      "3": [
+        "Austriana",
+        "egoplayer_Felix",
+        "Telinnor",
+        "Lord_HoruS"
+      ],
+      "4": [
+        "lodoss2011",
+        "iurie",
+        "Warhazarder",
+        "__kreck"
+      ],
+      "41": [
+        "Iglo"
+      ],
+      "5": [
+        "Mamuschkaz"
+      ],
+      "6": [
+        "SnuvomBodensatz"
+      ],
+      "7": [
+        "santemjocko",
+        "DornDasBrot"
+      ],
+      "9": [
+        "leekcookie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "Lukas_126",
+        "obvBasti",
+        "minenicknick",
+        "Austriana",
+        "philxpx",
+        "owac",
+        "Lord_HoruS",
+        "__kreck",
+        "Teayo"
+      ],
+      "2": [
+        "lodoss2011",
+        "leekcookie",
+        "Mamuschkaz",
+        "DornDasBrot"
+      ],
+      "39": [
+        "Iglo"
+      ],
+      "6": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "10": [
+        "Mamuschkaz"
+      ],
+      "18": [
+        "Mandahaya"
+      ],
+      "29": [
+        "santemjocko"
+      ],
+      "3": [
+        "egoplayer_Felix"
+      ],
+      "37": [
+        "lodoss2011"
+      ],
+      "4": [
+        "Temeraiere",
+        "Warhazarder"
+      ],
+      "5": [
+        "Makishi25",
+        "imabaldman",
+        "__kreck"
+      ],
+      "6": [
+        "minenicknick",
+        "Iglo",
+        "DornDasBrot"
+      ],
+      "7": [
+        "SnuvomBodensatz",
+        "leekcookie",
+        "Teayo"
+      ],
+      "8": [
+        "Austriana",
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "137": [
+        "SnuvomBodensatz"
+      ],
+      "143": [
+        "Mamuschkaz"
+      ],
+      "156": [
+        "Austriana"
+      ],
+      "186": [
+        "santemjocko"
+      ],
+      "188": [
+        "Temeraiere"
+      ],
+      "207": [
+        "iurie"
+      ],
+      "255": [
+        "Teayo"
+      ],
+      "379": [
+        "lodoss2011"
+      ],
+      "510": [
+        "DornDasBrot"
+      ],
+      "838": [
+        "Mandahaya"
+      ]
+    }
+  }
+}

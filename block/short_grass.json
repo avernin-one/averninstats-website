@@ -1,0 +1,39 @@
+{
+  "name": "short_grass",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "3": [
+        "lodoss2011"
+      ]
+    },
+    "mined": {
+      "1193": [
+        "__Iglo"
+      ],
+      "160": [
+        "lodoss2011"
+      ],
+      "1600": [
+        "leekcookie"
+      ],
+      "264": [
+        "Sayder13xr"
+      ],
+      "2797": [
+        "__kreck"
+      ],
+      "921": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "34": [
+        "leekcookie"
+      ],
+      "9": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

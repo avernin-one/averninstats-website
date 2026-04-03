@@ -1,0 +1,102 @@
+{
+  "name": "cracked_polished_blackstone_bricks",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "imabaldman"
+      ],
+      "50": [
+        "__kreck"
+      ],
+      "7": [
+        "__Iglo"
+      ]
+    },
+    "mined": {
+      "10": [
+        "Iglo"
+      ],
+      "12": [
+        "lodoss2011"
+      ],
+      "13": [
+        "__kreck"
+      ],
+      "138": [
+        "iurie"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "17": [
+        "__Iglo"
+      ],
+      "37": [
+        "owac"
+      ],
+      "53": [
+        "imabaldman"
+      ],
+      "6": [
+        "Sayder13xr"
+      ],
+      "9": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "11": [
+        "leekcookie"
+      ],
+      "130": [
+        "iurie"
+      ],
+      "16": [
+        "__Iglo"
+      ],
+      "21": [
+        "Iglo"
+      ],
+      "22": [
+        "lodoss2011"
+      ],
+      "33": [
+        "owac"
+      ],
+      "47": [
+        "imabaldman"
+      ],
+      "50": [
+        "__kreck"
+      ],
+      "6": [
+        "Sayder13xr"
+      ],
+      "9": [
+        "santemjocko"
+      ]
+    },
+    "used": {
+      "2": [
+        "leekcookie"
+      ],
+      "3": [
+        "santemjocko"
+      ],
+      "79": [
+        "iurie"
+      ],
+      "8": [
+        "owac",
+        "imabaldman"
+      ],
+      "9": [
+        "__Iglo"
+      ],
+      "91": [
+        "__kreck"
+      ]
+    }
+  }
+}

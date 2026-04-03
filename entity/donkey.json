@@ -1,0 +1,12 @@
+{
+  "name": "donkey",
+  "type": "entity",
+  "scores": {
+    "killed": {
+      "1": [
+        "SnuvomBodensatz",
+        "__kreck"
+      ]
+    }
+  }
+}

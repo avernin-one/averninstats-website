@@ -1,0 +1,45 @@
+{
+  "name": "lime_stained_glass",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "6008": [
+        "leekcookie"
+      ],
+      "800": [
+        "__kreck"
+      ],
+      "88": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "1628": [
+        "leekcookie"
+      ],
+      "2": [
+        "santemjocko",
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "2": [
+        "__kreck"
+      ],
+      "2897": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "40": [
+        "santemjocko"
+      ],
+      "55": [
+        "__kreck"
+      ],
+      "6263": [
+        "leekcookie"
+      ]
+    }
+  }
+}

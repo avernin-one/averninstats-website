@@ -1,0 +1,133 @@
+{
+  "name": "oak_boat",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "10": [
+        "santemjocko"
+      ],
+      "13": [
+        "Lord_HoruS"
+      ],
+      "14": [
+        "Iglo"
+      ],
+      "16": [
+        "owac"
+      ],
+      "17": [
+        "Sayder13xr"
+      ],
+      "20": [
+        "iurie"
+      ],
+      "28": [
+        "Cpt_looper"
+      ],
+      "3": [
+        "chaos1989",
+        "leekcookie",
+        "Temeraiere",
+        "DornDasBrot",
+        "imabaldman"
+      ],
+      "5": [
+        "lodoss2011",
+        "__kreck"
+      ],
+      "7": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "santemjocko",
+        "SuperXXLProfi",
+        "__Iglo"
+      ],
+      "13": [
+        "Lord_HoruS"
+      ],
+      "2": [
+        "lodoss2011",
+        "Temeraiere"
+      ],
+      "3": [
+        "Cpt_looper"
+      ],
+      "7": [
+        "Iglo",
+        "DornDasBrot",
+        "__kreck"
+      ],
+      "8": [
+        "owac"
+      ]
+    },
+    "picked_up": {
+      "107": [
+        "imabaldman"
+      ],
+      "114": [
+        "owac"
+      ],
+      "122": [
+        "Cpt_looper"
+      ],
+      "300": [
+        "Iglo"
+      ],
+      "66": [
+        "Sayder13xr"
+      ],
+      "68": [
+        "santemjocko"
+      ],
+      "72": [
+        "Makishi25"
+      ],
+      "77": [
+        "lodoss2011"
+      ],
+      "80": [
+        "DornDasBrot"
+      ],
+      "95": [
+        "Lord_HoruS"
+      ]
+    },
+    "used": {
+      "104": [
+        "imabaldman"
+      ],
+      "105": [
+        "owac"
+      ],
+      "117": [
+        "Cpt_looper"
+      ],
+      "297": [
+        "Iglo"
+      ],
+      "48": [
+        "SnuvomBodensatz"
+      ],
+      "55": [
+        "iurie"
+      ],
+      "70": [
+        "Makishi25",
+        "Sayder13xr"
+      ],
+      "73": [
+        "DornDasBrot"
+      ],
+      "75": [
+        "lodoss2011"
+      ],
+      "80": [
+        "Lord_HoruS"
+      ]
+    }
+  }
+}

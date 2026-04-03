@@ -1,0 +1,19 @@
+{
+  "name": "tadpole_bucket",
+  "type": "item",
+  "scores": {
+    "picked_up": {
+      "6": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "15": [
+        "leekcookie"
+      ],
+      "17": [
+        "iurie"
+      ]
+    }
+  }
+}

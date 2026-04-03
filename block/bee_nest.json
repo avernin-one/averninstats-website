@@ -1,0 +1,133 @@
+{
+  "name": "bee_nest",
+  "type": "block",
+  "scores": {
+    "dropped": {
+      "1": [
+        "owac"
+      ],
+      "3": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "10": [
+        "leekcookie"
+      ],
+      "2": [
+        "SnuvomBodensatz",
+        "Warhazarder"
+      ],
+      "26": [
+        "santemjocko",
+        "Teayo"
+      ],
+      "3": [
+        "__kreck"
+      ],
+      "37": [
+        "XeonVirus"
+      ],
+      "4": [
+        "nitram1572",
+        "Sayder13xr"
+      ],
+      "5": [
+        "lodoss2011",
+        "chaos1989",
+        "Iglo",
+        "Makishi25"
+      ],
+      "6": [
+        "imabaldman"
+      ],
+      "7": [
+        "owac",
+        "iurie",
+        "TrashSuperstar"
+      ],
+      "8": [
+        "DornDasBrot"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Mamuschkaz",
+        "Warhazarder"
+      ],
+      "24": [
+        "santemjocko"
+      ],
+      "27": [
+        "Teayo"
+      ],
+      "3": [
+        "chaos1989",
+        "leekcookie",
+        "__kreck"
+      ],
+      "38": [
+        "XeonVirus"
+      ],
+      "4": [
+        "lodoss2011",
+        "nitram1572",
+        "Sayder13xr"
+      ],
+      "5": [
+        "Makishi25"
+      ],
+      "6": [
+        "imabaldman"
+      ],
+      "7": [
+        "Iglo",
+        "iurie",
+        "TrashSuperstar",
+        "DornDasBrot"
+      ],
+      "9": [
+        "owac"
+      ]
+    },
+    "used": {
+      "1": [
+        "lodoss2011",
+        "Mamuschkaz",
+        "Warhazarder",
+        "__kreck"
+      ],
+      "10": [
+        "Iglo"
+      ],
+      "13": [
+        "Teayo"
+      ],
+      "16": [
+        "santemjocko"
+      ],
+      "2": [
+        "owac",
+        "imabaldman"
+      ],
+      "20": [
+        "XeonVirus"
+      ],
+      "3": [
+        "chaos1989",
+        "leekcookie",
+        "iurie"
+      ],
+      "4": [
+        "nitram1572",
+        "Sayder13xr"
+      ],
+      "5": [
+        "Makishi25"
+      ],
+      "7": [
+        "DornDasBrot"
+      ]
+    }
+  }
+}

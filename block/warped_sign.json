@@ -1,0 +1,66 @@
+{
+  "name": "warped_sign",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "12": [
+        "santemjocko"
+      ],
+      "3": [
+        "Iglo"
+      ],
+      "66": [
+        "Cpt_looper"
+      ],
+      "75": [
+        "__kreck"
+      ],
+      "9": [
+        "__Iglo"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "santemjocko"
+      ]
+    },
+    "mined": {
+      "1": [
+        "santemjocko",
+        "__Iglo",
+        "Warhazarder"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "santemjocko",
+        "__Iglo",
+        "Warhazarder"
+      ],
+      "11": [
+        "__kreck"
+      ],
+      "2": [
+        "Iglo"
+      ],
+      "3": [
+        "Cpt_looper"
+      ]
+    },
+    "used": {
+      "22": [
+        "Cpt_looper"
+      ],
+      "4": [
+        "santemjocko",
+        "Iglo"
+      ],
+      "7": [
+        "__Iglo"
+      ],
+      "77": [
+        "__kreck"
+      ]
+    }
+  }
+}

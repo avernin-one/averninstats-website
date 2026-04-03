@@ -1,0 +1,61 @@
+{
+  "name": "orange_stained_glass",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "24": [
+        "Makishi25"
+      ],
+      "256": [
+        "__kreck"
+      ],
+      "592": [
+        "leekcookie"
+      ],
+      "8": [
+        "chaos1989"
+      ]
+    },
+    "dropped": {
+      "10": [
+        "__kreck"
+      ],
+      "168": [
+        "leekcookie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "chaos1989"
+      ],
+      "105": [
+        "leekcookie"
+      ],
+      "12": [
+        "__kreck"
+      ]
+    },
+    "picked_up": {
+      "22": [
+        "__kreck"
+      ],
+      "803": [
+        "leekcookie"
+      ]
+    },
+    "used": {
+      "1": [
+        "chaos1989"
+      ],
+      "18": [
+        "Makishi25"
+      ],
+      "258": [
+        "__kreck"
+      ],
+      "523": [
+        "leekcookie"
+      ]
+    }
+  }
+}

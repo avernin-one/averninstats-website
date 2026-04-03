@@ -1,0 +1,149 @@
+{
+  "name": "bone_block",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "109": [
+        "DornDasBrot"
+      ],
+      "1298": [
+        "Sayder13xr"
+      ],
+      "1864": [
+        "Teayo"
+      ],
+      "1877": [
+        "__Iglo"
+      ],
+      "20129": [
+        "iurie"
+      ],
+      "2027": [
+        "chaos1989"
+      ],
+      "2129": [
+        "SnuvomBodensatz"
+      ],
+      "2322": [
+        "santemjocko"
+      ],
+      "2610": [
+        "Iglo"
+      ],
+      "576": [
+        "lodoss2011"
+      ]
+    },
+    "dropped": {
+      "157": [
+        "__Iglo"
+      ],
+      "42": [
+        "Teayo"
+      ],
+      "64": [
+        "iurie"
+      ],
+      "77": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "17": [
+        "Ivenor"
+      ],
+      "186": [
+        "SnuvomBodensatz"
+      ],
+      "22": [
+        "__kreck"
+      ],
+      "24": [
+        "Mandahaya"
+      ],
+      "31": [
+        "santemjocko"
+      ],
+      "8": [
+        "lodoss2011"
+      ],
+      "83": [
+        "__Iglo"
+      ],
+      "86": [
+        "leekcookie"
+      ],
+      "951": [
+        "iurie"
+      ],
+      "98": [
+        "chaos1989"
+      ]
+    },
+    "picked_up": {
+      "118": [
+        "chaos1989"
+      ],
+      "17": [
+        "Ivenor"
+      ],
+      "176": [
+        "SnuvomBodensatz"
+      ],
+      "250": [
+        "leekcookie"
+      ],
+      "30": [
+        "santemjocko"
+      ],
+      "371": [
+        "__Iglo"
+      ],
+      "413": [
+        "__kreck"
+      ],
+      "42": [
+        "Teayo"
+      ],
+      "48": [
+        "Mandahaya"
+      ],
+      "979": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "101": [
+        "__Iglo"
+      ],
+      "1515": [
+        "SnuvomBodensatz"
+      ],
+      "162": [
+        "chaos1989"
+      ],
+      "2": [
+        "leekcookie",
+        "Sayder13xr"
+      ],
+      "20": [
+        "__kreck"
+      ],
+      "24": [
+        "Makishi25"
+      ],
+      "38": [
+        "santemjocko"
+      ],
+      "5": [
+        "Warhazarder"
+      ],
+      "6203": [
+        "iurie"
+      ],
+      "79": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

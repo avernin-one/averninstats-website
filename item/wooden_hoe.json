@@ -1,0 +1,100 @@
+{
+  "name": "wooden_hoe",
+  "type": "item",
+  "scores": {
+    "broken": {
+      "1": [
+        "lodoss2011",
+        "leekcookie",
+        "KleeneEle",
+        "iurie",
+        "DornDasBrot"
+      ]
+    },
+    "crafted": {
+      "1": [
+        "LumpenBrot",
+        "Der_Sani",
+        "ScimMLG",
+        "leekcookie",
+        "Austriana",
+        "iurie",
+        "Cpt_looper",
+        "DornDasBrot",
+        "XeonVirus"
+      ],
+      "3": [
+        "Mandahaya",
+        "lodoss2011",
+        "nitram1572"
+      ],
+      "56": [
+        "owac"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "KleeneEle",
+        "owac",
+        "XeonVirus"
+      ],
+      "12": [
+        "iurie"
+      ],
+      "3": [
+        "nitram1572"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "owac"
+      ],
+      "12": [
+        "iurie"
+      ],
+      "2": [
+        "Mandahaya",
+        "lodoss2011",
+        "Austriana",
+        "KleeneEle",
+        "Cpt_looper",
+        "nitram1572"
+      ]
+    },
+    "used": {
+      "1": [
+        "XeonVirus"
+      ],
+      "14": [
+        "Cpt_looper"
+      ],
+      "26": [
+        "nitram1572"
+      ],
+      "4": [
+        "ScimMLG"
+      ],
+      "41": [
+        "Austriana"
+      ],
+      "44": [
+        "LumpenBrot"
+      ],
+      "45": [
+        "Der_Sani"
+      ],
+      "59": [
+        "Mandahaya",
+        "leekcookie",
+        "iurie",
+        "DornDasBrot"
+      ],
+      "67": [
+        "KleeneEle"
+      ],
+      "81": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

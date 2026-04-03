@@ -1,0 +1,78 @@
+{
+  "name": "dark_oak_door",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "21": [
+        "philxpx"
+      ],
+      "3": [
+        "Mandahaya",
+        "ScimMLG",
+        "leekcookie",
+        "XeonVirus"
+      ],
+      "6": [
+        "lodoss2011",
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "XeonVirus"
+      ]
+    },
+    "mined": {
+      "1": [
+        "leekcookie"
+      ],
+      "15": [
+        "philxpx"
+      ],
+      "3": [
+        "XeonVirus"
+      ],
+      "8": [
+        "ScimMLG"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "leekcookie"
+      ],
+      "15": [
+        "philxpx"
+      ],
+      "2": [
+        "Makishi25"
+      ],
+      "4": [
+        "XeonVirus"
+      ],
+      "8": [
+        "ScimMLG"
+      ]
+    },
+    "used": {
+      "1": [
+        "Mandahaya"
+      ],
+      "24": [
+        "philxpx"
+      ],
+      "3": [
+        "leekcookie",
+        "XeonVirus"
+      ],
+      "4": [
+        "Makishi25"
+      ],
+      "5": [
+        "lodoss2011"
+      ],
+      "8": [
+        "ScimMLG"
+      ]
+    }
+  }
+}

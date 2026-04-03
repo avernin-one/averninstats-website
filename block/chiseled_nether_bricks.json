@@ -1,0 +1,43 @@
+{
+  "name": "chiseled_nether_bricks",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "santemjocko"
+      ],
+      "39": [
+        "__kreck"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "santemjocko"
+      ],
+      "33": [
+        "__kreck"
+      ]
+    },
+    "mined": {
+      "1": [
+        "santemjocko"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "santemjocko"
+      ],
+      "33": [
+        "__Iglo"
+      ]
+    },
+    "used": {
+      "1": [
+        "santemjocko"
+      ],
+      "7": [
+        "__kreck"
+      ]
+    }
+  }
+}

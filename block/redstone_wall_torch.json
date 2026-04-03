@@ -1,0 +1,40 @@
+{
+  "name": "redstone_wall_torch",
+  "type": "block",
+  "scores": {
+    "mined": {
+      "10": [
+        "Iglo",
+        "DornDasBrot"
+      ],
+      "117": [
+        "leekcookie"
+      ],
+      "12": [
+        "santemjocko"
+      ],
+      "142": [
+        "Lord_HoruS"
+      ],
+      "15": [
+        "Sayder13xr"
+      ],
+      "19": [
+        "owac",
+        "Cpt_looper"
+      ],
+      "33": [
+        "nitram1572"
+      ],
+      "37": [
+        "iurie"
+      ],
+      "46": [
+        "__kreck"
+      ],
+      "50": [
+        "TrashSuperstar"
+      ]
+    }
+  }
+}

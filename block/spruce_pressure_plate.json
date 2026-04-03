@@ -1,0 +1,87 @@
+{
+  "name": "spruce_pressure_plate",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "Ivenor",
+        "__Iglo"
+      ],
+      "18": [
+        "Mamuschkaz"
+      ],
+      "2": [
+        "Mandahaya"
+      ],
+      "34": [
+        "__kreck"
+      ],
+      "4": [
+        "ScimMLG"
+      ],
+      "48": [
+        "Warhazarder"
+      ],
+      "62": [
+        "lodoss2011"
+      ],
+      "8": [
+        "Makishi25"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "Mamuschkaz"
+      ],
+      "48": [
+        "Warhazarder"
+      ]
+    },
+    "mined": {
+      "1": [
+        "Ivenor"
+      ],
+      "4": [
+        "Mamuschkaz",
+        "Makishi25"
+      ],
+      "5": [
+        "ScimMLG"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "Mandahaya"
+      ],
+      "15": [
+        "ScimMLG"
+      ],
+      "2": [
+        "Ivenor"
+      ],
+      "4": [
+        "Mamuschkaz",
+        "Makishi25"
+      ]
+    },
+    "used": {
+      "1": [
+        "__Iglo"
+      ],
+      "12": [
+        "ScimMLG",
+        "Makishi25"
+      ],
+      "20": [
+        "Mamuschkaz"
+      ],
+      "3": [
+        "Mandahaya",
+        "Ivenor"
+      ],
+      "45": [
+        "lodoss2011"
+      ]
+    }
+  }
+}

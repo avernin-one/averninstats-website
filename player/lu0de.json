@@ -1,0 +1,227 @@
+{
+  "name": "lu0de",
+  "uuid": "dbb20f72-40de-47a6-a578-b3ce125e296a",
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "stats": {
+    "boat_one_cm": 390029,
+    "climb_one_cm": 2582,
+    "crouch_one_cm": 7833,
+    "damage_blocked_by_shield": 945,
+    "damage_dealt": 4669,
+    "damage_taken": 1845,
+    "deaths": 2,
+    "drop": 1,
+    "fall_one_cm": 25523,
+    "fly_one_cm": 101729,
+    "interact_with_crafting_table": 35,
+    "interact_with_furnace": 58,
+    "jump": 1360,
+    "leave_game": 1,
+    "mob_kills": 23,
+    "open_chest": 52,
+    "open_shulker_box": 6,
+    "play_time": 151382,
+    "sleep_in_bed": 6,
+    "sneak_time": 3217,
+    "sprint_one_cm": 126792,
+    "swim_one_cm": 3698,
+    "talked_to_villager": 12,
+    "time_since_death": 27071,
+    "time_since_rest": 27091,
+    "total_world_time": 151382,
+    "walk_on_water_one_cm": 7022,
+    "walk_one_cm": 618236,
+    "walk_under_water_one_cm": 2542
+  },
+  "scores": {
+    "block": {
+      "crafted": {
+        "136": [
+          "cobblestone_stairs"
+        ],
+        "140": [
+          "torch"
+        ],
+        "18": [
+          "copper_block"
+        ],
+        "63": [
+          "wheat"
+        ],
+        "68": [
+          "oak_planks"
+        ]
+      },
+      "mined": {
+        "116": [
+          "coal_ore"
+        ],
+        "448": [
+          "stone"
+        ],
+        "63": [
+          "deepslate_iron_ore"
+        ],
+        "80": [
+          "deepslate"
+        ],
+        "97": [
+          "copper_ore"
+        ]
+      },
+      "picked_up": {
+        "131": [
+          "cobbled_deepslate"
+        ],
+        "41": [
+          "diorite"
+        ],
+        "481": [
+          "cobblestone"
+        ],
+        "51": [
+          "oak_log"
+        ],
+        "67": [
+          "cobblestone_stairs"
+        ]
+      },
+      "used": {
+        "113": [
+          "cobblestone_stairs"
+        ],
+        "15": [
+          "cobblestone",
+          "oak_sapling"
+        ],
+        "159": [
+          "torch"
+        ],
+        "2": [
+          "copper_block",
+          "chest",
+          "furnace",
+          "andesite",
+          "cobbled_deepslate"
+        ],
+        "3": [
+          "dirt",
+          "crafting_table"
+        ]
+      }
+    },
+    "entity": {
+      "crafted": {
+        "1": [
+          "oak_boat"
+        ]
+      },
+      "killed": {
+        "1": [
+          "creeper",
+          "witch"
+        ],
+        "16": [
+          "zombie"
+        ],
+        "2": [
+          "spider"
+        ],
+        "3": [
+          "skeleton"
+        ]
+      },
+      "killed_by": {
+        "2": [
+          "skeleton"
+        ]
+      },
+      "picked_up": {
+        "4": [
+          "arrow"
+        ],
+        "7": [
+          "oak_boat"
+        ]
+      },
+      "used": {
+        "5": [
+          "oak_boat"
+        ]
+      }
+    },
+    "item": {
+      "broken": {
+        "3": [
+          "iron_pickaxe"
+        ]
+      },
+      "crafted": {
+        "170": [
+          "copper_ingot"
+        ],
+        "22": [
+          "bread"
+        ],
+        "44": [
+          "stick"
+        ],
+        "63": [
+          "wheat"
+        ],
+        "88": [
+          "iron_ingot"
+        ]
+      },
+      "dropped": {
+        "1": [
+          "iron_ingot"
+        ]
+      },
+      "mined": {
+        "4": [
+          "wheat"
+        ]
+      },
+      "picked_up": {
+        "174": [
+          "redstone",
+          "coal"
+        ],
+        "19": [
+          "wheat_seeds"
+        ],
+        "222": [
+          "lapis_lazuli"
+        ],
+        "264": [
+          "raw_iron"
+        ],
+        "734": [
+          "raw_copper"
+        ]
+      },
+      "used": {
+        "110": [
+          "iron_axe"
+        ],
+        "24": [
+          "shield"
+        ],
+        "26": [
+          "bread"
+        ],
+        "8": [
+          "rotten_flesh"
+        ],
+        "961": [
+          "iron_pickaxe"
+        ]
+      }
+    }
+  }
+}

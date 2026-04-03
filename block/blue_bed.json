@@ -1,0 +1,78 @@
+{
+  "name": "blue_bed",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "DornDasBrot",
+        "imabaldman"
+      ],
+      "3": [
+        "philxpx"
+      ]
+    },
+    "mined": {
+      "1": [
+        "obvBasti",
+        "DornDasBrot"
+      ],
+      "12": [
+        "imabaldman"
+      ],
+      "2": [
+        "lodoss2011",
+        "owac",
+        "egoplayer_Felix",
+        "SuperXXLProfi"
+      ],
+      "23": [
+        "philxpx"
+      ],
+      "9": [
+        "Mamuschkaz"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "obvBasti",
+        "DornDasBrot"
+      ],
+      "10": [
+        "Mamuschkaz"
+      ],
+      "12": [
+        "imabaldman"
+      ],
+      "2": [
+        "lodoss2011",
+        "owac",
+        "egoplayer_Felix",
+        "SuperXXLProfi"
+      ],
+      "23": [
+        "philxpx"
+      ]
+    },
+    "used": {
+      "1": [
+        "obvBasti",
+        "lodoss2011",
+        "owac"
+      ],
+      "13": [
+        "imabaldman"
+      ],
+      "2": [
+        "egoplayer_Felix",
+        "SuperXXLProfi",
+        "DornDasBrot"
+      ],
+      "25": [
+        "philxpx"
+      ],
+      "7": [
+        "Mamuschkaz"
+      ]
+    }
+  }
+}

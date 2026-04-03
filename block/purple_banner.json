@@ -1,0 +1,31 @@
+{
+  "name": "purple_banner",
+  "type": "block",
+  "scores": {
+    "crafted": {
+      "1": [
+        "iurie"
+      ]
+    },
+    "dropped": {
+      "1": [
+        "iurie"
+      ]
+    },
+    "mined": {
+      "1": [
+        "iurie"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "iurie"
+      ]
+    },
+    "used": {
+      "1": [
+        "iurie"
+      ]
+    }
+  }
+}

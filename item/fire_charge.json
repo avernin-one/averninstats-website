@@ -1,0 +1,86 @@
+{
+  "name": "fire_charge",
+  "type": "item",
+  "scores": {
+    "crafted": {
+      "18": [
+        "Teayo"
+      ]
+    },
+    "dropped": {
+      "2": [
+        "Lord_HoruS"
+      ],
+      "22": [
+        "owac"
+      ],
+      "23": [
+        "imabaldman"
+      ],
+      "233": [
+        "philxpx"
+      ],
+      "48": [
+        "obvBasti"
+      ],
+      "5": [
+        "lodoss2011"
+      ],
+      "683": [
+        "__kreck"
+      ],
+      "76": [
+        "minenicknick"
+      ],
+      "963": [
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "233": [
+        "philxpx"
+      ],
+      "28": [
+        "owac"
+      ],
+      "30": [
+        "imabaldman"
+      ],
+      "4": [
+        "lodoss2011"
+      ],
+      "48": [
+        "obvBasti"
+      ],
+      "542": [
+        "__kreck"
+      ],
+      "578": [
+        "__Iglo"
+      ],
+      "6": [
+        "santemjocko",
+        "iurie"
+      ],
+      "7": [
+        "XeonVirus"
+      ],
+      "89": [
+        "minenicknick"
+      ]
+    },
+    "used": {
+      "1": [
+        "santemjocko",
+        "leekcookie",
+        "imabaldman"
+      ],
+      "13": [
+        "minenicknick"
+      ],
+      "6": [
+        "owac"
+      ]
+    }
+  }
+}

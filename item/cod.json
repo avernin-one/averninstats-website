@@ -1,0 +1,88 @@
+{
+  "name": "cod",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "santemjocko",
+        "ScimMLG",
+        "nitram1572"
+      ],
+      "12941": [
+        "Lord_HoruS"
+      ],
+      "2": [
+        "lodoss2011",
+        "Mamuschkaz"
+      ],
+      "407": [
+        "__kreck"
+      ],
+      "5": [
+        "owac",
+        "XeonVirus"
+      ],
+      "852": [
+        "leekcookie"
+      ],
+      "8635": [
+        "__Iglo"
+      ]
+    },
+    "picked_up": {
+      "109": [
+        "Mandahaya"
+      ],
+      "159": [
+        "iurie"
+      ],
+      "216": [
+        "chaos1989"
+      ],
+      "224": [
+        "Warhazarder"
+      ],
+      "257": [
+        "santemjocko"
+      ],
+      "310": [
+        "__kreck"
+      ],
+      "314": [
+        "__Iglo"
+      ],
+      "3374": [
+        "Lord_HoruS"
+      ],
+      "511": [
+        "leekcookie"
+      ],
+      "58": [
+        "XeonVirus"
+      ]
+    },
+    "used": {
+      "1": [
+        "Teayo"
+      ],
+      "14": [
+        "leekcookie"
+      ],
+      "16": [
+        "__Iglo"
+      ],
+      "2": [
+        "iurie"
+      ],
+      "4": [
+        "Lord_HoruS"
+      ],
+      "5": [
+        "lodoss2011"
+      ],
+      "9": [
+        "chaos1989"
+      ]
+    }
+  }
+}

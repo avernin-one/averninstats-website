@@ -1,0 +1,25 @@
+{
+  "name": "diamond_horse_armor",
+  "type": "item",
+  "scores": {
+    "dropped": {
+      "1": [
+        "santemjocko",
+        "imabaldman"
+      ]
+    },
+    "picked_up": {
+      "1": [
+        "imabaldman",
+        "__kreck"
+      ],
+      "11": [
+        "iurie"
+      ],
+      "2": [
+        "leekcookie",
+        "owac"
+      ]
+    }
+  }
+}
