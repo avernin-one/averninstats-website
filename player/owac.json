@@ -254,12 +254,12 @@
     "item": {
       "broken": {
         "1": [
-          "diamond_pickaxe",
-          "crossbow"
+          "crossbow",
+          "diamond_pickaxe"
         ],
         "2": [
-          "stone_pickaxe",
-          "stone_axe"
+          "stone_axe",
+          "stone_pickaxe"
         ],
         "4": [
           "iron_pickaxe"

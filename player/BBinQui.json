@@ -104,8 +104,8 @@
     "entity": {
       "killed": {
         "1": [
-          "spider",
-          "creeper"
+          "creeper",
+          "spider"
         ],
         "2": [
           "drowned"
@@ -118,8 +118,8 @@
     "item": {
       "crafted": {
         "1": [
-          "wooden_pickaxe",
-          "wooden_axe"
+          "wooden_axe",
+          "wooden_pickaxe"
         ],
         "11": [
           "bread"
@@ -130,8 +130,8 @@
       },
       "dropped": {
         "1": [
-          "iron_pickaxe",
-          "bread"
+          "bread",
+          "iron_pickaxe"
         ]
       },
       "mined": {
@@ -142,8 +142,8 @@
       "picked_up": {
         "1": [
           "apple",
-          "leather_leggings",
-          "iron_pickaxe"
+          "iron_pickaxe",
+          "leather_leggings"
         ],
         "11": [
           "stick"

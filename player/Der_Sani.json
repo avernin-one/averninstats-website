@@ -45,12 +45,12 @@
           "oak_fence"
         ],
         "44": [
-          "torch",
-          "birch_planks"
+          "birch_planks",
+          "torch"
         ],
         "75": [
-          "clay",
-          "bricks"
+          "bricks",
+          "clay"
         ],
         "81": [
           "wheat"
@@ -116,8 +116,8 @@
       },
       "killed": {
         "1": [
-          "spider",
           "creeper",
+          "spider",
           "squid"
         ],
         "2": [
@@ -144,20 +144,20 @@
     "item": {
       "broken": {
         "1": [
+          "golden_axe",
           "golden_pickaxe",
-          "wooden_pickaxe",
           "golden_sword",
           "iron_axe",
-          "golden_axe"
+          "wooden_pickaxe"
         ],
         "2": [
-          "wooden_shovel",
           "stone_axe",
-          "stone_sword"
+          "stone_sword",
+          "wooden_shovel"
         ],
         "3": [
-          "stone_shovel",
-          "stone_pickaxe"
+          "stone_pickaxe",
+          "stone_shovel"
         ],
         "4": [
           "iron_pickaxe"

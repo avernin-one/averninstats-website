@@ -170,11 +170,11 @@
       },
       "dropped": {
         "1": [
-          "spruce_boat",
-          "salmon",
-          "egg",
           "chicken",
-          "cod"
+          "cod",
+          "egg",
+          "salmon",
+          "spruce_boat"
         ],
         "2": [
           "arrow"
@@ -205,12 +205,12 @@
           "magma_cube"
         ],
         "2": [
-          "zombie",
-          "creeper"
+          "creeper",
+          "zombie"
         ],
         "4": [
-          "piglin",
           "iron_golem",
+          "piglin",
           "skeleton"
         ]
       },

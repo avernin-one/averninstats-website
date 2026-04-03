@@ -177,9 +177,9 @@
           "egg"
         ],
         "3": [
+          "firework_rocket",
           "minecart",
-          "oak_boat",
-          "firework_rocket"
+          "oak_boat"
         ],
         "40": [
           "ender_pearl"
@@ -207,13 +207,13 @@
       },
       "killed_by": {
         "1": [
+          "cave_spider",
           "guardian",
-          "piglin",
-          "cave_spider"
+          "piglin"
         ],
         "2": [
-          "zombie_villager",
           "zombie",
+          "zombie_villager",
           "zombified_piglin"
         ],
         "3": [

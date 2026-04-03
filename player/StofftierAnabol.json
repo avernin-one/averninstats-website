@@ -160,8 +160,8 @@
       },
       "picked_up": {
         "1": [
-          "ender_pearl",
-          "egg"
+          "egg",
+          "ender_pearl"
         ],
         "13": [
           "birch_boat"
@@ -185,15 +185,15 @@
     "item": {
       "broken": {
         "1": [
-          "stone_sword",
-          "leather_leggings",
-          "leather_chestplate",
           "golden_sword",
           "iron_axe",
-          "leather_boots",
-          "stone_axe",
           "iron_pickaxe",
-          "stone_shovel"
+          "leather_boots",
+          "leather_chestplate",
+          "leather_leggings",
+          "stone_axe",
+          "stone_shovel",
+          "stone_sword"
         ]
       },
       "crafted": {
@@ -215,10 +215,10 @@
       },
       "dropped": {
         "1": [
-          "ender_pearl",
-          "emerald",
-          "golden_chestplate",
           "bread",
+          "emerald",
+          "ender_pearl",
+          "golden_chestplate",
           "porkchop"
         ]
       },

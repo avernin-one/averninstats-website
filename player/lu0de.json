@@ -102,15 +102,15 @@
           "torch"
         ],
         "2": [
-          "copper_block",
-          "chest",
-          "furnace",
           "andesite",
-          "cobbled_deepslate"
+          "chest",
+          "cobbled_deepslate",
+          "copper_block",
+          "furnace"
         ],
         "3": [
-          "dirt",
-          "crafting_table"
+          "crafting_table",
+          "dirt"
         ]
       }
     },
@@ -189,8 +189,8 @@
       },
       "picked_up": {
         "174": [
-          "redstone",
-          "coal"
+          "coal",
+          "redstone"
         ],
         "19": [
           "wheat_seeds"

@@ -88,8 +88,8 @@
       },
       "used": {
         "1": [
-          "oak_sapling",
-          "light_gray_carpet"
+          "light_gray_carpet",
+          "oak_sapling"
         ],
         "13": [
           "dirt"
@@ -127,11 +127,11 @@
     "item": {
       "crafted": {
         "1": [
-          "stone_shovel",
+          "stone_axe",
           "stone_pickaxe",
+          "stone_shovel",
           "stone_sword",
-          "wooden_pickaxe",
-          "stone_axe"
+          "wooden_pickaxe"
         ],
         "12": [
           "stick"

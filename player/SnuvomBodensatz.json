@@ -187,11 +187,11 @@
           "zombified_piglin"
         ],
         "2": [
-          "skeleton",
-          "zombie",
-          "vex",
           "creeper",
-          "piglin"
+          "piglin",
+          "skeleton",
+          "vex",
+          "zombie"
         ]
       },
       "picked_up": {

@@ -155,10 +155,10 @@
       },
       "dropped": {
         "1": [
-          "salmon",
-          "item_frame",
           "cod",
-          "ender_pearl"
+          "ender_pearl",
+          "item_frame",
+          "salmon"
         ],
         "15": [
           "chicken"
@@ -216,8 +216,8 @@
           "arrow"
         ],
         "8": [
-          "tropical_fish",
-          "ender_pearl"
+          "ender_pearl",
+          "tropical_fish"
         ]
       },
       "used": {

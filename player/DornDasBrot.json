@@ -206,9 +206,9 @@
       },
       "killed_by": {
         "1": [
-          "zombified_piglin",
           "creeper",
-          "iron_golem"
+          "iron_golem",
+          "zombified_piglin"
         ],
         "2": [
           "skeleton"
@@ -306,8 +306,8 @@
       },
       "mined": {
         "1": [
-          "flower_pot",
-          "cauldron"
+          "cauldron",
+          "flower_pot"
         ],
         "104": [
           "nether_wart"

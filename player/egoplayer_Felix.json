@@ -67,8 +67,8 @@
           "dirt"
         ],
         "3": [
-          "white_bed",
-          "gravel"
+          "gravel",
+          "white_bed"
         ],
         "5": [
           "birch_sapling"
@@ -158,8 +158,8 @@
       },
       "killed_by": {
         "1": [
-          "skeleton",
-          "enderman"
+          "enderman",
+          "skeleton"
         ],
         "4": [
           "creeper"
@@ -167,8 +167,8 @@
       },
       "picked_up": {
         "2": [
-          "oak_boat",
-          "egg"
+          "egg",
+          "oak_boat"
         ],
         "44": [
           "arrow"
@@ -182,9 +182,9 @@
       },
       "used": {
         "2": [
+          "egg",
           "ender_pearl",
-          "oak_boat",
-          "egg"
+          "oak_boat"
         ],
         "6": [
           "birch_boat"
@@ -194,16 +194,16 @@
     "item": {
       "broken": {
         "1": [
-          "iron_hoe",
-          "golden_hoe",
-          "stone_sword",
-          "stone_axe",
-          "iron_sword",
+          "golden_boots",
           "golden_chestplate",
           "golden_helmet",
-          "golden_boots",
+          "golden_hoe",
           "golden_leggings",
-          "stone_shovel"
+          "iron_hoe",
+          "iron_sword",
+          "stone_axe",
+          "stone_shovel",
+          "stone_sword"
         ],
         "2": [
           "stone_pickaxe"

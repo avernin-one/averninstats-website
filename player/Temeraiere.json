@@ -169,8 +169,8 @@
           "chicken"
         ],
         "51": [
-          "skeleton",
-          "sheep"
+          "sheep",
+          "skeleton"
         ],
         "6023": [
           "enderman"
@@ -222,18 +222,18 @@
     "item": {
       "broken": {
         "1": [
-          "iron_shovel",
           "chainmail_boots",
           "golden_leggings",
+          "iron_axe",
+          "iron_shovel",
           "iron_sword",
-          "wooden_pickaxe",
           "shield",
-          "iron_axe"
+          "wooden_pickaxe"
         ],
         "2": [
-          "wooden_sword",
+          "iron_pickaxe",
           "stone_sword",
-          "iron_pickaxe"
+          "wooden_sword"
         ],
         "3": [
           "stone_pickaxe"

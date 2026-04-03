@@ -257,24 +257,24 @@
     "item": {
       "broken": {
         "1": [
-          "diamond_helmet",
-          "iron_axe",
-          "wooden_axe",
-          "fishing_rod",
-          "iron_hoe",
-          "golden_leggings",
           "diamond_boots",
-          "stone_shovel"
+          "diamond_helmet",
+          "fishing_rod",
+          "golden_leggings",
+          "iron_axe",
+          "iron_hoe",
+          "stone_shovel",
+          "wooden_axe"
         ],
         "14": [
           "stone_pickaxe"
         ],
         "2": [
-          "stone_axe",
-          "shears",
           "iron_sword",
-          "stone_sword",
-          "stone_hoe"
+          "shears",
+          "stone_axe",
+          "stone_hoe",
+          "stone_sword"
         ],
         "5": [
           "iron_pickaxe"

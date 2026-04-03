@@ -197,13 +197,13 @@
       },
       "killed_by": {
         "1": [
-          "witch",
           "player",
+          "witch",
           "zombie"
         ],
         "2": [
-          "vex",
-          "piglin"
+          "piglin",
+          "vex"
         ]
       },
       "picked_up": {

@@ -220,17 +220,17 @@
       },
       "killed_by": {
         "1": [
-          "husk",
-          "warden",
           "guardian",
+          "husk",
           "ravager",
+          "warden",
           "zombie"
         ],
         "2": [
-          "skeleton",
-          "vindicator",
           "creeper",
-          "hoglin"
+          "hoglin",
+          "skeleton",
+          "vindicator"
         ],
         "3": [
           "enderman"
@@ -289,21 +289,21 @@
         ],
         "2": [
           "flint_and_steel",
-          "stone_axe",
-          "netherite_pickaxe"
+          "netherite_pickaxe",
+          "stone_axe"
         ],
         "3": [
-          "iron_hoe",
-          "stone_pickaxe",
           "iron_axe",
-          "shield"
+          "iron_hoe",
+          "shield",
+          "stone_pickaxe"
         ],
         "6": [
           "stone_hoe"
         ],
         "8": [
-          "iron_pickaxe",
-          "diamond_pickaxe"
+          "diamond_pickaxe",
+          "iron_pickaxe"
         ]
       },
       "crafted": {

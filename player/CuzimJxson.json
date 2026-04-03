@@ -39,8 +39,8 @@
       "crafted": {
         "1": [
           "crafting_table",
-          "white_bed",
-          "furnace"
+          "furnace",
+          "white_bed"
         ],
         "24": [
           "oak_planks"
@@ -113,12 +113,12 @@
           "pig"
         ],
         "5": [
-          "zombie",
-          "skeleton"
+          "skeleton",
+          "zombie"
         ],
         "6": [
-          "spider",
-          "chicken"
+          "chicken",
+          "spider"
         ],
         "8": [
           "cow"
@@ -126,8 +126,8 @@
       },
       "killed_by": {
         "1": [
-          "skeleton",
-          "enderman"
+          "enderman",
+          "skeleton"
         ]
       },
       "picked_up": {
@@ -150,8 +150,8 @@
           "stick"
         ],
         "2": [
-          "diamond_sword",
-          "charcoal"
+          "charcoal",
+          "diamond_sword"
         ],
         "6": [
           "iron_ingot"
@@ -165,8 +165,8 @@
       },
       "dropped": {
         "1": [
-          "stone_pickaxe",
-          "fishing_rod"
+          "fishing_rod",
+          "stone_pickaxe"
         ],
         "2": [
           "stone_sword"

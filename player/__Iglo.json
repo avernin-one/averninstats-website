@@ -203,8 +203,8 @@
       },
       "killed_by": {
         "1": [
-          "shulker",
-          "piglin"
+          "piglin",
+          "shulker"
         ],
         "4": [
           "iron_golem"

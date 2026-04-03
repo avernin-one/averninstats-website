@@ -206,22 +206,22 @@
       },
       "killed_by": {
         "1": [
-          "piglin",
           "iron_golem",
-          "zombie",
+          "piglin",
           "piglin_brute",
           "wither_skeleton",
+          "zombie",
           "zombie_villager"
         ],
         "2": [
           "blaze",
-          "vindicator",
-          "ender_dragon"
+          "ender_dragon",
+          "vindicator"
         ],
         "3": [
-          "guardian",
           "creeper",
-          "enderman"
+          "enderman",
+          "guardian"
         ],
         "39": [
           "player"

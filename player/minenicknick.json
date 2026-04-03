@@ -115,8 +115,8 @@
           "blackstone"
         ],
         "1382": [
-          "stone",
-          "gravel"
+          "gravel",
+          "stone"
         ],
         "14636": [
           "netherrack"
@@ -192,9 +192,9 @@
       "killed_by": {
         "1": [
           "creeper",
-          "zombie",
           "player",
-          "skeleton"
+          "skeleton",
+          "zombie"
         ]
       },
       "picked_up": {

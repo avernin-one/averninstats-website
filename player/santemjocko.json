@@ -214,9 +214,9 @@
           "skeleton"
         ],
         "5": [
+          "piglin",
           "wither_skeleton",
-          "zombified_piglin",
-          "piglin"
+          "zombified_piglin"
         ],
         "8": [
           "player"

@@ -150,8 +150,8 @@
       },
       "dropped": {
         "1": [
-          "rabbit",
-          "egg"
+          "egg",
+          "rabbit"
         ],
         "14": [
           "arrow"
@@ -186,9 +186,9 @@
       },
       "killed_by": {
         "1": [
-          "zombified_piglin",
           "creeper",
-          "zombie"
+          "zombie",
+          "zombified_piglin"
         ],
         "14": [
           "iron_golem"

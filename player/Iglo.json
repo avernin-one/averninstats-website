@@ -251,13 +251,13 @@
     "item": {
       "broken": {
         "1": [
-          "iron_hoe",
-          "wooden_pickaxe",
-          "iron_helmet",
-          "stone_axe",
           "diamond_pickaxe",
+          "golden_pickaxe",
+          "iron_helmet",
+          "iron_hoe",
           "shield",
-          "golden_pickaxe"
+          "stone_axe",
+          "wooden_pickaxe"
         ],
         "16": [
           "iron_pickaxe"
@@ -269,8 +269,8 @@
           "stone_sword"
         ],
         "3": [
-          "shears",
-          "iron_axe"
+          "iron_axe",
+          "shears"
         ],
         "5": [
           "stone_pickaxe"

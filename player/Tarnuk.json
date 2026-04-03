@@ -42,8 +42,8 @@
       },
       "mined": {
         "1": [
-          "white_bed",
-          "birch_log"
+          "birch_log",
+          "white_bed"
         ],
         "14": [
           "spruce_leaves"
@@ -58,8 +58,8 @@
       },
       "picked_up": {
         "1": [
-          "white_bed",
-          "birch_log"
+          "birch_log",
+          "white_bed"
         ],
         "2": [
           "moss_carpet"

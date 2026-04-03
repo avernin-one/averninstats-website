@@ -157,8 +157,8 @@
           "firework_rocket"
         ],
         "2": [
-          "minecart",
-          "item_frame"
+          "item_frame",
+          "minecart"
         ],
         "24": [
           "arrow"
@@ -171,15 +171,15 @@
         "1": [
           "firework_rocket",
           "minecart",
-          "trident",
-          "potion"
+          "potion",
+          "trident"
         ],
         "12": [
           "pufferfish"
         ],
         "2": [
-          "egg",
           "birch_boat",
+          "egg",
           "tropical_fish"
         ],
         "3": [
@@ -208,8 +208,8 @@
       },
       "killed_by": {
         "1": [
-          "zombie",
-          "skeleton"
+          "skeleton",
+          "zombie"
         ]
       },
       "mined": {
@@ -257,15 +257,15 @@
         "1": [
           "golden_hoe",
           "iron_axe",
-          "wooden_sword",
-          "iron_hoe"
+          "iron_hoe",
+          "wooden_sword"
         ],
         "11": [
           "iron_pickaxe"
         ],
         "2": [
-          "shears",
           "iron_helmet",
+          "shears",
           "stone_axe"
         ],
         "4": [

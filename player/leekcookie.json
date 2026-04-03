@@ -280,10 +280,10 @@
           "wooden_axe"
         ],
         "7": [
-          "iron_axe",
           "diamond_pickaxe",
-          "stone_sword",
-          "stone_axe"
+          "iron_axe",
+          "stone_axe",
+          "stone_sword"
         ]
       },
       "crafted": {

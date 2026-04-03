@@ -203,8 +203,8 @@
       },
       "killed_by": {
         "1": [
-          "zombie",
-          "wither"
+          "wither",
+          "zombie"
         ],
         "2": [
           "enderman",
@@ -254,8 +254,8 @@
     "item": {
       "broken": {
         "1": [
-          "stone_hoe",
           "iron_shovel",
+          "stone_hoe",
           "stone_shovel"
         ],
         "2": [

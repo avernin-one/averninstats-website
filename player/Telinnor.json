@@ -152,9 +152,9 @@
     "entity": {
       "crafted": {
         "2": [
+          "acacia_boat",
           "hopper_minecart",
-          "minecart",
-          "acacia_boat"
+          "minecart"
         ],
         "8": [
           "item_frame"
@@ -191,11 +191,11 @@
       },
       "killed_by": {
         "1": [
-          "zombie",
-          "trader_llama",
           "creeper",
           "iron_golem",
-          "skeleton"
+          "skeleton",
+          "trader_llama",
+          "zombie"
         ]
       },
       "picked_up": {
@@ -217,8 +217,8 @@
       },
       "used": {
         "2": [
-          "oak_boat",
-          "hopper_minecart"
+          "hopper_minecart",
+          "oak_boat"
         ],
         "3": [
           "splash_potion"
@@ -230,21 +230,21 @@
           "firework_rocket"
         ],
         "8": [
-          "minecart",
-          "item_frame"
+          "item_frame",
+          "minecart"
         ]
       }
     },
     "item": {
       "broken": {
         "1": [
-          "golden_sword",
-          "golden_helmet",
+          "bow",
           "diamond_leggings",
+          "golden_chestplate",
+          "golden_helmet",
+          "golden_sword",
           "iron_helmet",
           "leather_leggings",
-          "bow",
-          "golden_chestplate",
           "stone_sword"
         ],
         "13": [
@@ -254,10 +254,10 @@
           "iron_shovel"
         ],
         "2": [
+          "diamond_helmet",
           "iron_hoe",
           "iron_pickaxe",
-          "shield",
-          "diamond_helmet"
+          "shield"
         ],
         "3": [
           "iron_sword"

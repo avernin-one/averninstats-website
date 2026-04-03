@@ -212,8 +212,8 @@
           "piglin"
         ],
         "4": [
-          "vindicator",
-          "skeleton"
+          "skeleton",
+          "vindicator"
         ]
       },
       "mined": {
@@ -251,9 +251,9 @@
           "snowball"
         ],
         "4": [
+          "egg",
           "potion",
-          "trident",
-          "egg"
+          "trident"
         ],
         "8": [
           "hopper_minecart"
@@ -263,15 +263,15 @@
     "item": {
       "broken": {
         "1": [
-          "stone_axe",
-          "golden_hoe",
+          "diamond_chestplate",
+          "diamond_helmet",
           "diamond_shovel",
-          "wooden_sword",
+          "golden_hoe",
           "iron_hoe",
           "iron_pickaxe",
-          "diamond_chestplate",
+          "stone_axe",
           "wooden_shovel",
-          "diamond_helmet"
+          "wooden_sword"
         ],
         "2": [
           "stone_pickaxe"

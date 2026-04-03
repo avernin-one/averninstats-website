@@ -155,8 +155,8 @@
       },
       "killed_by": {
         "1": [
-          "iron_golem",
           "hoglin",
+          "iron_golem",
           "spider"
         ],
         "4": [
@@ -190,19 +190,19 @@
     "item": {
       "broken": {
         "1": [
-          "iron_helmet",
-          "stone_pickaxe",
           "diamond_pickaxe",
           "iron_boots",
+          "iron_helmet",
+          "stone_pickaxe",
           "wooden_pickaxe"
         ],
         "15": [
           "iron_pickaxe"
         ],
         "2": [
+          "iron_axe",
           "iron_shovel",
-          "iron_sword",
-          "iron_axe"
+          "iron_sword"
         ]
       },
       "crafted": {

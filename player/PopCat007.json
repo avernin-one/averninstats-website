@@ -55,8 +55,8 @@
       },
       "dropped": {
         "1": [
-          "cobblestone",
-          "andesite"
+          "andesite",
+          "cobblestone"
         ],
         "2": [
           "dirt"
@@ -107,8 +107,8 @@
           "cobblestone_stairs"
         ],
         "48": [
-          "white_stained_glass_pane",
-          "scaffolding"
+          "scaffolding",
+          "white_stained_glass_pane"
         ],
         "504": [
           "oak_planks"
@@ -132,8 +132,8 @@
       },
       "killed_by": {
         "1": [
-          "skeleton",
-          "player"
+          "player",
+          "skeleton"
         ]
       },
       "picked_up": {
@@ -161,15 +161,15 @@
       "crafted": {
         "1": [
           "iron_pickaxe",
-          "stone_pickaxe",
+          "iron_sword",
           "shield",
-          "iron_sword"
+          "stone_pickaxe"
         ],
         "2": [
+          "bucket",
           "iron_axe",
-          "wooden_pickaxe",
           "stone_shovel",
-          "bucket"
+          "wooden_pickaxe"
         ],
         "7": [
           "iron_ingot"
@@ -180,14 +180,14 @@
       },
       "dropped": {
         "1": [
+          "apple",
           "diamond_pickaxe",
-          "wheat_seeds",
           "rotten_flesh",
-          "apple"
+          "wheat_seeds"
         ],
         "2": [
-          "gunpowder",
           "beetroot_seeds",
+          "gunpowder",
           "stone_pickaxe"
         ],
         "4": [

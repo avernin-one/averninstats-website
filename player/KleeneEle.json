@@ -59,8 +59,8 @@
           "chest"
         ],
         "80": [
-          "oak_planks",
-          "cobbled_deepslate_stairs"
+          "cobbled_deepslate_stairs",
+          "oak_planks"
         ],
         "820": [
           "cherry_planks"
@@ -80,8 +80,8 @@
           "kelp"
         ],
         "64": [
-          "cobblestone",
-          "cherry_sapling"
+          "cherry_sapling",
+          "cobblestone"
         ]
       },
       "mined": {
@@ -192,8 +192,8 @@
           "ender_pearl"
         ],
         "9": [
-          "tnt",
-          "arrow"
+          "arrow",
+          "tnt"
         ]
       },
       "used": {
@@ -233,22 +233,22 @@
       },
       "dropped": {
         "1": [
-          "wheat",
-          "wooden_hoe",
           "bucket",
           "cookie",
-          "elytra",
-          "netherite_axe",
           "diamond_pickaxe",
-          "rotten_flesh",
+          "elytra",
           "flint",
-          "iron_chestplate"
+          "iron_chestplate",
+          "netherite_axe",
+          "rotten_flesh",
+          "wheat",
+          "wooden_hoe"
         ],
         "2": [
-          "wheat_seeds",
           "dried_kelp",
           "iron_hoe",
-          "iron_shovel"
+          "iron_shovel",
+          "wheat_seeds"
         ],
         "279": [
           "ender_pearl"

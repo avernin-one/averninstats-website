@@ -204,14 +204,14 @@
       },
       "killed_by": {
         "1": [
-          "hoglin",
-          "creeper",
+          "blaze",
           "cave_spider",
-          "blaze"
+          "creeper",
+          "hoglin"
         ],
         "2": [
-          "wither_skeleton",
-          "iron_golem"
+          "iron_golem",
+          "wither_skeleton"
         ],
         "6": [
           "enderman"

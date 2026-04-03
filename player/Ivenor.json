@@ -158,9 +158,9 @@
           "sheep"
         ],
         "23": [
-          "spider",
+          "cow",
           "pig",
-          "cow"
+          "spider"
         ],
         "90": [
           "skeleton"
@@ -207,8 +207,8 @@
       "broken": {
         "1": [
           "chainmail_boots",
-          "diamond_boots",
           "chainmail_helmet",
+          "diamond_boots",
           "diamond_helmet"
         ],
         "7": [

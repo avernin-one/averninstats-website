@@ -167,8 +167,8 @@
       },
       "dropped": {
         "1": [
-          "tropical_fish",
-          "pufferfish"
+          "pufferfish",
+          "tropical_fish"
         ],
         "21": [
           "egg"
@@ -202,10 +202,10 @@
       },
       "killed_by": {
         "1": [
-          "zombified_piglin",
-          "wither_skeleton",
           "enderman",
-          "zombie"
+          "wither_skeleton",
+          "zombie",
+          "zombified_piglin"
         ]
       },
       "mined": {
@@ -251,11 +251,11 @@
     "item": {
       "broken": {
         "1": [
-          "golden_helmet",
-          "shears",
-          "diamond_shovel",
           "diamond_pickaxe",
-          "iron_hoe"
+          "diamond_shovel",
+          "golden_helmet",
+          "iron_hoe",
+          "shears"
         ],
         "5": [
           "iron_pickaxe",

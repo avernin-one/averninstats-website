@@ -194,9 +194,9 @@
       },
       "killed_by": {
         "1": [
+          "guardian",
           "pillager",
-          "zombie",
-          "guardian"
+          "zombie"
         ],
         "2": [
           "creeper"

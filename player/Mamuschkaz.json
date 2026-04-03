@@ -199,13 +199,13 @@
       "killed_by": {
         "1": [
           "piglin",
-          "zombie_villager",
-          "zombie"
+          "zombie",
+          "zombie_villager"
         ],
         "2": [
-          "wither_skeleton",
           "creeper",
-          "skeleton"
+          "skeleton",
+          "wither_skeleton"
         ],
         "4": [
           "zombified_piglin"

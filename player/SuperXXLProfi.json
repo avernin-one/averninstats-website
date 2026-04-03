@@ -179,10 +179,10 @@
           "wither_skeleton"
         ],
         "3": [
-          "villager",
-          "spider",
           "ghast",
-          "skeleton"
+          "skeleton",
+          "spider",
+          "villager"
         ],
         "49": [
           "mooshroom"
@@ -223,8 +223,8 @@
           "ender_pearl"
         ],
         "3": [
-          "oak_boat",
-          "armor_stand"
+          "armor_stand",
+          "oak_boat"
         ],
         "4": [
           "minecart"
@@ -240,8 +240,8 @@
     "item": {
       "broken": {
         "1": [
-          "iron_sword",
-          "flint_and_steel"
+          "flint_and_steel",
+          "iron_sword"
         ]
       },
       "crafted": {

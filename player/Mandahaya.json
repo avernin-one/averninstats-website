@@ -83,9 +83,9 @@
         ],
         "2": [
           "crafting_table",
-          "pumpkin",
           "diorite",
-          "player_head"
+          "player_head",
+          "pumpkin"
         ],
         "3": [
           "tuff"
@@ -180,10 +180,10 @@
       "killed_by": {
         "1": [
           "hoglin",
-          "zombified_piglin",
-          "polar_bear",
           "piglin",
-          "witch"
+          "polar_bear",
+          "witch",
+          "zombified_piglin"
         ],
         "2": [
           "creeper"
@@ -203,8 +203,8 @@
           "cod"
         ],
         "320": [
-          "snowball",
-          "arrow"
+          "arrow",
+          "snowball"
         ],
         "376": [
           "egg"

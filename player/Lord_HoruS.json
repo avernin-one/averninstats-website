@@ -203,18 +203,18 @@
       },
       "killed_by": {
         "1": [
-          "zombified_piglin",
+          "piglin",
           "ravager",
-          "piglin"
+          "zombified_piglin"
         ],
         "2": [
+          "guardian",
           "phantom",
-          "vex",
-          "guardian"
+          "vex"
         ],
         "3": [
-          "skeleton",
-          "enderman"
+          "enderman",
+          "skeleton"
         ],
         "4": [
           "zombie"

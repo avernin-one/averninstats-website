@@ -100,8 +100,8 @@
           "crafting_table"
         ],
         "5": [
-          "oak_planks",
-          "furnace"
+          "furnace",
+          "oak_planks"
         ],
         "6": [
           "jungle_planks"
@@ -119,9 +119,9 @@
       },
       "killed": {
         "1": [
-          "sheep",
+          "chicken",
           "horse",
-          "chicken"
+          "sheep"
         ],
         "2": [
           "squid"
@@ -150,20 +150,20 @@
     "item": {
       "broken": {
         "1": [
+          "stone_axe",
           "wooden_pickaxe",
-          "wooden_sword",
-          "stone_axe"
+          "wooden_sword"
         ]
       },
       "crafted": {
         "1": [
-          "wooden_sword",
-          "stone_axe",
-          "jungle_boat",
-          "wooden_pickaxe",
           "bread",
+          "jungle_boat",
+          "stone_axe",
+          "stone_pickaxe",
           "wooden_hoe",
-          "stone_pickaxe"
+          "wooden_pickaxe",
+          "wooden_sword"
         ],
         "12": [
           "stick"
@@ -182,14 +182,14 @@
       },
       "picked_up": {
         "2": [
-          "mutton",
-          "jungle_boat",
           "feather",
+          "jungle_boat",
+          "mutton",
           "raw_iron"
         ],
         "4": [
-          "wheat",
-          "porkchop"
+          "porkchop",
+          "wheat"
         ],
         "5": [
           "ink_sac"

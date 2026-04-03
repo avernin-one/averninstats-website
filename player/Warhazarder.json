@@ -153,12 +153,12 @@
           "oak_boat"
         ],
         "20": [
-          "tnt",
-          "arrow"
+          "arrow",
+          "tnt"
         ],
         "4": [
-          "minecart",
-          "hopper_minecart"
+          "hopper_minecart",
+          "minecart"
         ],
         "4890": [
           "firework_rocket"
@@ -255,8 +255,8 @@
           "stone_axe"
         ],
         "2": [
-          "shears",
-          "diamond_pickaxe"
+          "diamond_pickaxe",
+          "shears"
         ],
         "4": [
           "stone_hoe"
