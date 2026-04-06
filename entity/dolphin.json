@@ -1,15 +1,11 @@
 {
-  "name": "dolphin",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "chaos1989",
-        "JonasderGamer"
-      ],
-      "2": [
-        "iurie"
-      ]
-    }
+  "killed": {
+    "1": [
+      "JonasderGamer",
+      "chaos1989"
+    ],
+    "2": [
+      "iurie"
+    ]
   }
 }

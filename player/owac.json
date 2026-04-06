@@ -2,9 +2,9 @@
   "name": "owac",
   "uuid": "5b50e823-b7ca-4d93-9495-9b77eecc60f8",
   "medals": {
-    "gold": 2,
-    "silver": 3,
-    "bronze": 7
+    "gold": 4,
+    "silver": 13,
+    "bronze": 15
   },
   "stats": {
     "animals_bred": 7,
@@ -155,40 +155,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "12": [
-          "armor_stand"
-        ],
-        "13537": [
-          "firework_rocket"
-        ],
-        "16": [
-          "oak_boat"
-        ],
-        "2158": [
-          "arrow"
-        ],
-        "77": [
-          "minecart"
-        ]
-      },
-      "dropped": {
-        "1029": [
-          "firework_rocket"
-        ],
-        "1398": [
-          "ender_pearl"
-        ],
-        "212": [
-          "spectral_arrow"
-        ],
-        "32": [
-          "potion"
-        ],
-        "6103": [
-          "arrow"
-        ]
-      },
       "killed": {
         "10086": [
           "enderman"
@@ -209,45 +175,6 @@
       "killed_by": {
         "1": [
           "iron_golem"
-        ]
-      },
-      "mined": {
-        "4": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "1123": [
-          "firework_rocket"
-        ],
-        "1265": [
-          "arrow"
-        ],
-        "1412": [
-          "ender_pearl"
-        ],
-        "212": [
-          "spectral_arrow"
-        ],
-        "268": [
-          "minecart"
-        ]
-      },
-      "used": {
-        "105": [
-          "oak_boat"
-        ],
-        "12717": [
-          "firework_rocket"
-        ],
-        "154": [
-          "minecart"
-        ],
-        "155": [
-          "trident"
-        ],
-        "48": [
-          "splash_potion"
         ]
       }
     },
@@ -303,21 +230,6 @@
         ],
         "6103": [
           "arrow"
-        ]
-      },
-      "mined": {
-        "113": [
-          "wheat"
-        ],
-        "19": [
-          "nether_wart"
-        ],
-        "4": [
-          "cauldron",
-          "flower_pot"
-        ],
-        "40": [
-          "brewing_stand"
         ]
       },
       "picked_up": {

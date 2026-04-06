@@ -1,134 +1,130 @@
 {
-  "name": "diorite",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "126": [
-        "Mamuschkaz"
-      ],
-      "13017": [
-        "__kreck"
-      ],
-      "134": [
-        "XeonVirus"
-      ],
-      "144": [
-        "Ivenor"
-      ],
-      "1543": [
-        "leekcookie"
-      ],
-      "205": [
-        "obvBasti"
-      ],
-      "265": [
-        "philxpx"
-      ],
-      "397": [
-        "owac"
-      ],
-      "423": [
-        "santemjocko"
-      ],
-      "8557": [
-        "__Iglo"
-      ]
-    },
-    "mined": {
-      "12254": [
-        "__Iglo"
-      ],
-      "17785": [
-        "__kreck"
-      ],
-      "2176": [
-        "iurie"
-      ],
-      "2205": [
-        "Mamuschkaz"
-      ],
-      "2982": [
-        "Sayder13xr"
-      ],
-      "3097": [
-        "chaos1989"
-      ],
-      "4421": [
-        "santemjocko"
-      ],
-      "5988": [
-        "Warhazarder"
-      ],
-      "6518": [
-        "leekcookie"
-      ],
-      "8619": [
-        "Teayo"
-      ]
-    },
-    "picked_up": {
-      "1995": [
-        "Mamuschkaz"
-      ],
-      "2016": [
-        "iurie"
-      ],
-      "24102": [
-        "__kreck"
-      ],
-      "3084": [
-        "chaos1989"
-      ],
-      "3828": [
-        "santemjocko"
-      ],
-      "3969": [
-        "Sayder13xr"
-      ],
-      "5736": [
-        "Warhazarder"
-      ],
-      "8680": [
-        "Teayo"
-      ],
-      "9038": [
-        "__Iglo"
-      ],
-      "9287": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "104": [
-        "Makishi25"
-      ],
-      "113": [
-        "SuperXXLProfi"
-      ],
-      "114": [
-        "iurie"
-      ],
-      "129": [
-        "Ivenor"
-      ],
-      "173": [
-        "__Iglo"
-      ],
-      "195": [
-        "Cpt_looper"
-      ],
-      "237": [
-        "Sayder13xr"
-      ],
-      "411": [
-        "leekcookie"
-      ],
-      "4296": [
-        "__kreck"
-      ],
-      "80": [
-        "santemjocko"
-      ]
-    }
+  "dropped": {
+    "126": [
+      "Mamuschkaz"
+    ],
+    "13017": [
+      "__kreck"
+    ],
+    "134": [
+      "XeonVirus"
+    ],
+    "144": [
+      "Ivenor"
+    ],
+    "1543": [
+      "leekcookie"
+    ],
+    "205": [
+      "obvBasti"
+    ],
+    "265": [
+      "philxpx"
+    ],
+    "397": [
+      "owac"
+    ],
+    "423": [
+      "santemjocko"
+    ],
+    "8557": [
+      "__Iglo"
+    ]
+  },
+  "mined": {
+    "12254": [
+      "__Iglo"
+    ],
+    "17785": [
+      "__kreck"
+    ],
+    "2176": [
+      "iurie"
+    ],
+    "2205": [
+      "Mamuschkaz"
+    ],
+    "2982": [
+      "Sayder13xr"
+    ],
+    "3097": [
+      "chaos1989"
+    ],
+    "4421": [
+      "santemjocko"
+    ],
+    "5988": [
+      "Warhazarder"
+    ],
+    "6518": [
+      "leekcookie"
+    ],
+    "8619": [
+      "Teayo"
+    ]
+  },
+  "picked_up": {
+    "1995": [
+      "Mamuschkaz"
+    ],
+    "2016": [
+      "iurie"
+    ],
+    "24102": [
+      "__kreck"
+    ],
+    "3084": [
+      "chaos1989"
+    ],
+    "3828": [
+      "santemjocko"
+    ],
+    "3969": [
+      "Sayder13xr"
+    ],
+    "5736": [
+      "Warhazarder"
+    ],
+    "8680": [
+      "Teayo"
+    ],
+    "9038": [
+      "__Iglo"
+    ],
+    "9287": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "104": [
+      "Makishi25"
+    ],
+    "113": [
+      "SuperXXLProfi"
+    ],
+    "114": [
+      "iurie"
+    ],
+    "129": [
+      "Ivenor"
+    ],
+    "173": [
+      "__Iglo"
+    ],
+    "195": [
+      "Cpt_looper"
+    ],
+    "237": [
+      "Sayder13xr"
+    ],
+    "411": [
+      "leekcookie"
+    ],
+    "4296": [
+      "__kreck"
+    ],
+    "80": [
+      "santemjocko"
+    ]
   }
 }

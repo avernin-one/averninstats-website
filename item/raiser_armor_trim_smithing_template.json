@@ -1,11 +1,7 @@
 {
-  "name": "raiser_armor_trim_smithing_template",
-  "type": "item",
-  "scores": {
-    "picked_up": {
-      "2": [
-        "iurie"
-      ]
-    }
+  "picked_up": {
+    "2": [
+      "iurie"
+    ]
   }
 }

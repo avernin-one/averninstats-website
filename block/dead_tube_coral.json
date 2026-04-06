@@ -1,21 +1,17 @@
 {
-  "name": "dead_tube_coral",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "2": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "12": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "15": [
-        "leekcookie"
-      ]
-    }
+  "dropped": {
+    "2": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "12": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "15": [
+      "leekcookie"
+    ]
   }
 }

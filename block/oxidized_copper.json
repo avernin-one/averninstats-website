@@ -1,21 +1,17 @@
 {
-  "name": "oxidized_copper",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "66": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "66": [
-        "santemjocko"
-      ]
-    },
-    "used": {
-      "4": [
-        "santemjocko"
-      ]
-    }
+  "mined": {
+    "66": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "66": [
+      "santemjocko"
+    ]
+  },
+  "used": {
+    "4": [
+      "santemjocko"
+    ]
   }
 }

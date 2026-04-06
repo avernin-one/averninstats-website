@@ -1,159 +1,155 @@
 {
-  "name": "flint_and_steel",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "1": [
-        "SuperXXLProfi"
-      ],
-      "2": [
-        "iurie"
-      ],
-      "4": [
-        "Teayo"
-      ]
-    },
-    "crafted": {
-      "1": [
-        "Mandahaya",
-        "Lukas_126",
-        "lodoss2011",
-        "Mamuschkaz",
-        "Austriana",
-        "philxpx",
-        "Iglo",
-        "egoplayer_Felix",
-        "Telinnor",
-        "TrashSuperstar",
-        "__Iglo",
-        "XeonVirus"
-      ],
-      "11": [
-        "leekcookie",
-        "__kreck"
-      ],
-      "2": [
-        "ScimMLG",
-        "SuperXXLProfi",
-        "nitram1572",
-        "Makishi25"
-      ],
-      "21": [
-        "Teayo"
-      ],
-      "3": [
-        "SnuvomBodensatz",
-        "chaos1989",
-        "imabaldman",
-        "Warhazarder"
-      ],
-      "4": [
-        "owac",
-        "Cpt_looper",
-        "Lord_HoruS"
-      ],
-      "5": [
-        "santemjocko",
-        "iurie",
-        "Sayder13xr"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Mandahaya",
-        "TrashSuperstar",
-        "Sayder13xr"
-      ],
-      "2": [
-        "Lukas_126",
-        "philxpx",
-        "iurie",
-        "Lord_HoruS",
-        "imabaldman",
-        "__Iglo"
-      ],
-      "3": [
-        "ScimMLG"
-      ],
-      "4": [
-        "Iglo"
-      ],
-      "6": [
-        "santemjocko"
-      ],
-      "8": [
-        "leekcookie",
-        "__kreck"
-      ],
-      "9": [
-        "DornDasBrot"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "Iglo"
-      ],
-      "13": [
-        "__kreck"
-      ],
-      "14": [
-        "lodoss2011"
-      ],
-      "15": [
-        "Lord_HoruS"
-      ],
-      "20": [
-        "santemjocko"
-      ],
-      "21": [
-        "leekcookie"
-      ],
-      "5": [
-        "Cpt_looper",
-        "DornDasBrot"
-      ],
-      "6": [
-        "Makishi25"
-      ],
-      "7": [
-        "imabaldman",
-        "Sayder13xr"
-      ],
-      "9": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "110": [
-        "leekcookie"
-      ],
-      "132": [
-        "__kreck"
-      ],
-      "213": [
-        "santemjocko"
-      ],
-      "284": [
-        "iurie"
-      ],
-      "297": [
-        "Teayo"
-      ],
-      "69": [
-        "DornDasBrot"
-      ],
-      "73": [
-        "Iglo"
-      ],
-      "75": [
-        "SuperXXLProfi"
-      ],
-      "89": [
-        "owac"
-      ],
-      "91": [
-        "__Iglo"
-      ]
-    }
+  "broken": {
+    "1": [
+      "SuperXXLProfi"
+    ],
+    "2": [
+      "iurie"
+    ],
+    "4": [
+      "Teayo"
+    ]
+  },
+  "crafted": {
+    "1": [
+      "Austriana",
+      "Iglo",
+      "Lukas_126",
+      "Mamuschkaz",
+      "Mandahaya",
+      "Telinnor",
+      "TrashSuperstar",
+      "XeonVirus",
+      "__Iglo",
+      "egoplayer_Felix",
+      "lodoss2011",
+      "philxpx"
+    ],
+    "11": [
+      "__kreck",
+      "leekcookie"
+    ],
+    "2": [
+      "Makishi25",
+      "ScimMLG",
+      "SuperXXLProfi",
+      "nitram1572"
+    ],
+    "21": [
+      "Teayo"
+    ],
+    "3": [
+      "SnuvomBodensatz",
+      "Warhazarder",
+      "chaos1989",
+      "imabaldman"
+    ],
+    "4": [
+      "Cpt_looper",
+      "Lord_HoruS",
+      "owac"
+    ],
+    "5": [
+      "Sayder13xr",
+      "iurie",
+      "santemjocko"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Mandahaya",
+      "Sayder13xr",
+      "TrashSuperstar"
+    ],
+    "2": [
+      "Lord_HoruS",
+      "Lukas_126",
+      "__Iglo",
+      "imabaldman",
+      "iurie",
+      "philxpx"
+    ],
+    "3": [
+      "ScimMLG"
+    ],
+    "4": [
+      "Iglo"
+    ],
+    "6": [
+      "santemjocko"
+    ],
+    "8": [
+      "__kreck",
+      "leekcookie"
+    ],
+    "9": [
+      "DornDasBrot"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "Iglo"
+    ],
+    "13": [
+      "__kreck"
+    ],
+    "14": [
+      "lodoss2011"
+    ],
+    "15": [
+      "Lord_HoruS"
+    ],
+    "20": [
+      "santemjocko"
+    ],
+    "21": [
+      "leekcookie"
+    ],
+    "5": [
+      "Cpt_looper",
+      "DornDasBrot"
+    ],
+    "6": [
+      "Makishi25"
+    ],
+    "7": [
+      "Sayder13xr",
+      "imabaldman"
+    ],
+    "9": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "110": [
+      "leekcookie"
+    ],
+    "132": [
+      "__kreck"
+    ],
+    "213": [
+      "santemjocko"
+    ],
+    "284": [
+      "iurie"
+    ],
+    "297": [
+      "Teayo"
+    ],
+    "69": [
+      "DornDasBrot"
+    ],
+    "73": [
+      "Iglo"
+    ],
+    "75": [
+      "SuperXXLProfi"
+    ],
+    "89": [
+      "owac"
+    ],
+    "91": [
+      "__Iglo"
+    ]
   }
 }

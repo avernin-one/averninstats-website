@@ -1,104 +1,100 @@
 {
-  "name": "coal_block",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "101": [
-        "Temeraiere"
-      ],
-      "134": [
-        "Iglo"
-      ],
-      "163": [
-        "leekcookie"
-      ],
-      "166": [
-        "__Iglo"
-      ],
-      "2493": [
-        "__kreck"
-      ],
-      "275": [
-        "owac"
-      ],
-      "312": [
-        "XeonVirus"
-      ],
-      "350": [
-        "santemjocko"
-      ],
-      "785": [
-        "Warhazarder"
-      ],
-      "972": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "183": [
-        "__Iglo"
-      ],
-      "53": [
-        "Temeraiere"
-      ]
-    },
-    "mined": {
-      "10": [
-        "Mandahaya"
-      ],
-      "4": [
-        "Iglo"
-      ],
-      "9": [
-        "leekcookie",
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "1018": [
-        "__kreck"
-      ],
-      "12": [
-        "Mandahaya"
-      ],
-      "16": [
-        "__Iglo"
-      ],
-      "183": [
-        "KleeneEle"
-      ],
-      "195": [
-        "Temeraiere"
-      ],
-      "20": [
-        "Cpt_looper"
-      ],
-      "4": [
-        "Iglo"
-      ],
-      "466": [
-        "owac"
-      ],
-      "9": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1": [
-        "Makishi25"
-      ],
-      "10": [
-        "Mandahaya"
-      ],
-      "117": [
-        "leekcookie"
-      ],
-      "8": [
-        "Iglo"
-      ],
-      "9": [
-        "__Iglo"
-      ]
-    }
+  "crafted": {
+    "101": [
+      "Temeraiere"
+    ],
+    "134": [
+      "Iglo"
+    ],
+    "163": [
+      "leekcookie"
+    ],
+    "166": [
+      "__Iglo"
+    ],
+    "2493": [
+      "__kreck"
+    ],
+    "275": [
+      "owac"
+    ],
+    "312": [
+      "XeonVirus"
+    ],
+    "350": [
+      "santemjocko"
+    ],
+    "785": [
+      "Warhazarder"
+    ],
+    "972": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "183": [
+      "__Iglo"
+    ],
+    "53": [
+      "Temeraiere"
+    ]
+  },
+  "mined": {
+    "10": [
+      "Mandahaya"
+    ],
+    "4": [
+      "Iglo"
+    ],
+    "9": [
+      "__Iglo",
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1018": [
+      "__kreck"
+    ],
+    "12": [
+      "Mandahaya"
+    ],
+    "16": [
+      "__Iglo"
+    ],
+    "183": [
+      "KleeneEle"
+    ],
+    "195": [
+      "Temeraiere"
+    ],
+    "20": [
+      "Cpt_looper"
+    ],
+    "4": [
+      "Iglo"
+    ],
+    "466": [
+      "owac"
+    ],
+    "9": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1": [
+      "Makishi25"
+    ],
+    "10": [
+      "Mandahaya"
+    ],
+    "117": [
+      "leekcookie"
+    ],
+    "8": [
+      "Iglo"
+    ],
+    "9": [
+      "__Iglo"
+    ]
   }
 }

@@ -1,34 +1,30 @@
 {
-  "name": "light_blue_stained_glass_pane",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "256": [
-        "XeonVirus"
-      ]
-    },
-    "dropped": {
-      "33": [
-        "XeonVirus"
-      ]
-    },
-    "mined": {
-      "11": [
-        "XeonVirus"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "iurie"
-      ],
-      "41": [
-        "XeonVirus"
-      ]
-    },
-    "used": {
-      "231": [
-        "XeonVirus"
-      ]
-    }
+  "crafted": {
+    "256": [
+      "XeonVirus"
+    ]
+  },
+  "dropped": {
+    "33": [
+      "XeonVirus"
+    ]
+  },
+  "mined": {
+    "11": [
+      "XeonVirus"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "iurie"
+    ],
+    "41": [
+      "XeonVirus"
+    ]
+  },
+  "used": {
+    "231": [
+      "XeonVirus"
+    ]
   }
 }

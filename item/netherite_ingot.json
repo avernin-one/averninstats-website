@@ -1,64 +1,60 @@
 {
-  "name": "netherite_ingot",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "10": [
-        "obvBasti",
-        "minenicknick"
-      ],
-      "11": [
-        "owac"
-      ],
-      "12": [
-        "Sayder13xr"
-      ],
-      "14": [
-        "Iglo",
-        "SuperXXLProfi"
-      ],
-      "16": [
-        "Mamuschkaz",
-        "Lord_HoruS"
-      ],
-      "19": [
-        "TrashSuperstar"
-      ],
-      "21": [
-        "santemjocko"
-      ],
-      "43": [
-        "philxpx"
-      ],
-      "75": [
-        "iurie"
-      ],
-      "9": [
-        "lodoss2011",
-        "Cpt_looper"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "TrashSuperstar",
-        "Cpt_looper",
-        "__kreck"
-      ],
-      "7": [
-        "Iglo"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Iglo",
-        "Temeraiere"
-      ],
-      "3": [
-        "Teayo"
-      ],
-      "8": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "10": [
+      "minenicknick",
+      "obvBasti"
+    ],
+    "11": [
+      "owac"
+    ],
+    "12": [
+      "Sayder13xr"
+    ],
+    "14": [
+      "Iglo",
+      "SuperXXLProfi"
+    ],
+    "16": [
+      "Lord_HoruS",
+      "Mamuschkaz"
+    ],
+    "19": [
+      "TrashSuperstar"
+    ],
+    "21": [
+      "santemjocko"
+    ],
+    "43": [
+      "philxpx"
+    ],
+    "75": [
+      "iurie"
+    ],
+    "9": [
+      "Cpt_looper",
+      "lodoss2011"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Cpt_looper",
+      "TrashSuperstar",
+      "__kreck"
+    ],
+    "7": [
+      "Iglo"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Iglo",
+      "Temeraiere"
+    ],
+    "3": [
+      "Teayo"
+    ],
+    "8": [
+      "__kreck"
+    ]
   }
 }

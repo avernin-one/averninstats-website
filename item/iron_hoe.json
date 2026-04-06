@@ -1,159 +1,155 @@
 {
-  "name": "iron_hoe",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "1": [
-        "chaos1989",
-        "Iglo",
-        "egoplayer_Felix",
-        "TrashSuperstar",
-        "nitram1572",
-        "Makishi25",
-        "XeonVirus"
-      ],
-      "16": [
-        "SnuvomBodensatz"
-      ],
-      "2": [
-        "Mamuschkaz",
-        "Telinnor",
-        "__kreck"
-      ],
-      "3": [
-        "iurie",
-        "DornDasBrot"
-      ],
-      "4": [
-        "Teayo"
-      ]
-    },
-    "crafted": {
-      "1": [
-        "Lukas_126",
-        "KleeneEle",
-        "egoplayer_Felix",
-        "TrashSuperstar",
-        "Makishi25"
-      ],
-      "11": [
-        "Iglo",
-        "__kreck"
-      ],
-      "2": [
-        "santemjocko",
-        "chaos1989",
-        "Sayder13xr",
-        "XeonVirus"
-      ],
-      "24": [
-        "SnuvomBodensatz"
-      ],
-      "3": [
-        "Lord_HoruS"
-      ],
-      "4": [
-        "iurie",
-        "Cpt_looper",
-        "nitram1572",
-        "Warhazarder",
-        "Teayo"
-      ],
-      "5": [
-        "Telinnor",
-        "DornDasBrot"
-      ],
-      "6": [
-        "Mamuschkaz"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "lodoss2011",
-        "owac",
-        "DornDasBrot"
-      ],
-      "2": [
-        "KleeneEle",
-        "Iglo",
-        "__kreck"
-      ],
-      "3": [
-        "Mamuschkaz"
-      ],
-      "5": [
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Lukas_126",
-        "leekcookie",
-        "KleeneEle",
-        "Telinnor",
-        "__Iglo",
-        "Teayo",
-        "XeonVirus"
-      ],
-      "13": [
-        "Mamuschkaz"
-      ],
-      "14": [
-        "Cpt_looper"
-      ],
-      "2": [
-        "owac"
-      ],
-      "3": [
-        "Iglo",
-        "Lord_HoruS",
-        "DornDasBrot",
-        "__kreck"
-      ],
-      "4": [
-        "santemjocko",
-        "lodoss2011",
-        "Warhazarder"
-      ],
-      "6": [
-        "SnuvomBodensatz",
-        "nitram1572"
-      ],
-      "7": [
-        "Makishi25"
-      ]
-    },
-    "used": {
-      "1087": [
-        "DornDasBrot"
-      ],
-      "1154": [
-        "Teayo"
-      ],
-      "2582": [
-        "__kreck"
-      ],
-      "4370": [
-        "SnuvomBodensatz"
-      ],
-      "544": [
-        "nitram1572"
-      ],
-      "751": [
-        "Iglo"
-      ],
-      "784": [
-        "Cpt_looper"
-      ],
-      "841": [
-        "Telinnor"
-      ],
-      "906": [
-        "iurie"
-      ],
-      "926": [
-        "Mamuschkaz"
-      ]
-    }
+  "broken": {
+    "1": [
+      "Iglo",
+      "Makishi25",
+      "TrashSuperstar",
+      "XeonVirus",
+      "chaos1989",
+      "egoplayer_Felix",
+      "nitram1572"
+    ],
+    "16": [
+      "SnuvomBodensatz"
+    ],
+    "2": [
+      "Mamuschkaz",
+      "Telinnor",
+      "__kreck"
+    ],
+    "3": [
+      "DornDasBrot",
+      "iurie"
+    ],
+    "4": [
+      "Teayo"
+    ]
+  },
+  "crafted": {
+    "1": [
+      "KleeneEle",
+      "Lukas_126",
+      "Makishi25",
+      "TrashSuperstar",
+      "egoplayer_Felix"
+    ],
+    "11": [
+      "Iglo",
+      "__kreck"
+    ],
+    "2": [
+      "Sayder13xr",
+      "XeonVirus",
+      "chaos1989",
+      "santemjocko"
+    ],
+    "24": [
+      "SnuvomBodensatz"
+    ],
+    "3": [
+      "Lord_HoruS"
+    ],
+    "4": [
+      "Cpt_looper",
+      "Teayo",
+      "Warhazarder",
+      "iurie",
+      "nitram1572"
+    ],
+    "5": [
+      "DornDasBrot",
+      "Telinnor"
+    ],
+    "6": [
+      "Mamuschkaz"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "DornDasBrot",
+      "lodoss2011",
+      "owac"
+    ],
+    "2": [
+      "Iglo",
+      "KleeneEle",
+      "__kreck"
+    ],
+    "3": [
+      "Mamuschkaz"
+    ],
+    "5": [
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "KleeneEle",
+      "Lukas_126",
+      "Teayo",
+      "Telinnor",
+      "XeonVirus",
+      "__Iglo",
+      "leekcookie"
+    ],
+    "13": [
+      "Mamuschkaz"
+    ],
+    "14": [
+      "Cpt_looper"
+    ],
+    "2": [
+      "owac"
+    ],
+    "3": [
+      "DornDasBrot",
+      "Iglo",
+      "Lord_HoruS",
+      "__kreck"
+    ],
+    "4": [
+      "Warhazarder",
+      "lodoss2011",
+      "santemjocko"
+    ],
+    "6": [
+      "SnuvomBodensatz",
+      "nitram1572"
+    ],
+    "7": [
+      "Makishi25"
+    ]
+  },
+  "used": {
+    "1087": [
+      "DornDasBrot"
+    ],
+    "1154": [
+      "Teayo"
+    ],
+    "2582": [
+      "__kreck"
+    ],
+    "4370": [
+      "SnuvomBodensatz"
+    ],
+    "544": [
+      "nitram1572"
+    ],
+    "751": [
+      "Iglo"
+    ],
+    "784": [
+      "Cpt_looper"
+    ],
+    "841": [
+      "Telinnor"
+    ],
+    "906": [
+      "iurie"
+    ],
+    "926": [
+      "Mamuschkaz"
+    ]
   }
 }

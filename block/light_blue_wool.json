@@ -1,54 +1,50 @@
 {
-  "name": "light_blue_wool",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "leekcookie"
-      ],
-      "128": [
-        "Iglo"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Sayder13xr"
-      ],
-      "5": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "nitram1572"
-      ],
-      "10": [
-        "Telinnor"
-      ],
-      "29": [
-        "Iglo"
-      ],
-      "5": [
-        "leekcookie"
-      ],
-      "56": [
-        "Mandahaya"
-      ],
-      "6": [
-        "DornDasBrot"
-      ]
-    },
-    "used": {
-      "1": [
-        "Iglo",
-        "nitram1572"
-      ],
-      "12": [
-        "lodoss2011"
-      ],
-      "26": [
-        "leekcookie"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "leekcookie"
+    ],
+    "128": [
+      "Iglo"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Sayder13xr"
+    ],
+    "5": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "nitram1572"
+    ],
+    "10": [
+      "Telinnor"
+    ],
+    "29": [
+      "Iglo"
+    ],
+    "5": [
+      "leekcookie"
+    ],
+    "56": [
+      "Mandahaya"
+    ],
+    "6": [
+      "DornDasBrot"
+    ]
+  },
+  "used": {
+    "1": [
+      "Iglo",
+      "nitram1572"
+    ],
+    "12": [
+      "lodoss2011"
+    ],
+    "26": [
+      "leekcookie"
+    ]
   }
 }

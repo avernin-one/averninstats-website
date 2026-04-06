@@ -1,16 +1,12 @@
 {
-  "name": "crimson_sign",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "3": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "2": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "3": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "2": [
+      "iurie"
+    ]
   }
 }

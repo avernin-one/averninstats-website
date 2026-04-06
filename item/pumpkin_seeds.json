@@ -1,136 +1,132 @@
 {
-  "name": "pumpkin_seeds",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "12": [
-        "Mandahaya",
-        "Ivenor"
-      ],
-      "152": [
-        "iurie"
-      ],
-      "16": [
-        "Telinnor"
-      ],
-      "28": [
-        "DornDasBrot"
-      ],
-      "40": [
-        "Cpt_looper"
-      ],
-      "628": [
-        "SnuvomBodensatz"
-      ],
-      "64": [
-        "leekcookie"
-      ],
-      "72": [
-        "santemjocko"
-      ],
-      "8": [
-        "XeonVirus"
-      ],
-      "84": [
-        "Iglo",
-        "Teayo"
-      ]
-    },
-    "dropped": {
-      "12": [
-        "Iglo"
-      ],
-      "132": [
-        "__Iglo"
-      ],
-      "200": [
-        "Lord_HoruS"
-      ],
-      "262": [
-        "__kreck"
-      ],
-      "36": [
-        "Sayder13xr"
-      ],
-      "44": [
-        "nitram1572"
-      ],
-      "60": [
-        "santemjocko"
-      ],
-      "64": [
-        "iurie"
-      ],
-      "7": [
-        "DornDasBrot"
-      ],
-      "904": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "100": [
-        "Sayder13xr"
-      ],
-      "101": [
-        "owac"
-      ],
-      "112": [
-        "__Iglo"
-      ],
-      "1892": [
-        "leekcookie"
-      ],
-      "272": [
-        "__kreck"
-      ],
-      "328": [
-        "Lord_HoruS"
-      ],
-      "429": [
-        "SnuvomBodensatz"
-      ],
-      "430": [
-        "iurie"
-      ],
-      "68": [
-        "santemjocko"
-      ],
-      "792": [
-        "nitram1572"
-      ]
-    },
-    "used": {
-      "108": [
-        "iurie"
-      ],
-      "16": [
-        "__Iglo"
-      ],
-      "17": [
-        "Iglo"
-      ],
-      "23": [
-        "Cpt_looper"
-      ],
-      "288": [
-        "nitram1572"
-      ],
-      "30": [
-        "santemjocko"
-      ],
-      "36": [
-        "DornDasBrot"
-      ],
-      "56": [
-        "Lord_HoruS"
-      ],
-      "633": [
-        "SnuvomBodensatz"
-      ],
-      "85": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "Ivenor",
+      "Mandahaya"
+    ],
+    "152": [
+      "iurie"
+    ],
+    "16": [
+      "Telinnor"
+    ],
+    "28": [
+      "DornDasBrot"
+    ],
+    "40": [
+      "Cpt_looper"
+    ],
+    "628": [
+      "SnuvomBodensatz"
+    ],
+    "64": [
+      "leekcookie"
+    ],
+    "72": [
+      "santemjocko"
+    ],
+    "8": [
+      "XeonVirus"
+    ],
+    "84": [
+      "Iglo",
+      "Teayo"
+    ]
+  },
+  "dropped": {
+    "12": [
+      "Iglo"
+    ],
+    "132": [
+      "__Iglo"
+    ],
+    "200": [
+      "Lord_HoruS"
+    ],
+    "262": [
+      "__kreck"
+    ],
+    "36": [
+      "Sayder13xr"
+    ],
+    "44": [
+      "nitram1572"
+    ],
+    "60": [
+      "santemjocko"
+    ],
+    "64": [
+      "iurie"
+    ],
+    "7": [
+      "DornDasBrot"
+    ],
+    "904": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "100": [
+      "Sayder13xr"
+    ],
+    "101": [
+      "owac"
+    ],
+    "112": [
+      "__Iglo"
+    ],
+    "1892": [
+      "leekcookie"
+    ],
+    "272": [
+      "__kreck"
+    ],
+    "328": [
+      "Lord_HoruS"
+    ],
+    "429": [
+      "SnuvomBodensatz"
+    ],
+    "430": [
+      "iurie"
+    ],
+    "68": [
+      "santemjocko"
+    ],
+    "792": [
+      "nitram1572"
+    ]
+  },
+  "used": {
+    "108": [
+      "iurie"
+    ],
+    "16": [
+      "__Iglo"
+    ],
+    "17": [
+      "Iglo"
+    ],
+    "23": [
+      "Cpt_looper"
+    ],
+    "288": [
+      "nitram1572"
+    ],
+    "30": [
+      "santemjocko"
+    ],
+    "36": [
+      "DornDasBrot"
+    ],
+    "56": [
+      "Lord_HoruS"
+    ],
+    "633": [
+      "SnuvomBodensatz"
+    ],
+    "85": [
+      "leekcookie"
+    ]
   }
 }

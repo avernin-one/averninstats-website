@@ -4,7 +4,7 @@
   "medals": {
     "gold": 1,
     "silver": 1,
-    "bronze": 1
+    "bronze": 3
   },
   "stats": {
     "animals_bred": 22,
@@ -150,41 +150,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "16": [
-          "item_frame"
-        ],
-        "2913": [
-          "firework_rocket"
-        ],
-        "4": [
-          "spruce_boat",
-          "tnt"
-        ],
-        "5": [
-          "minecart"
-        ],
-        "7": [
-          "oak_boat"
-        ]
-      },
-      "dropped": {
-        "1": [
-          "dark_oak_boat"
-        ],
-        "11": [
-          "arrow"
-        ],
-        "263": [
-          "ender_pearl"
-        ],
-        "64": [
-          "firework_rocket"
-        ],
-        "8": [
-          "chicken"
-        ]
-      },
       "killed": {
         "104": [
           "creeper"
@@ -217,40 +182,6 @@
         ],
         "85": [
           "iron_golem"
-        ]
-      },
-      "picked_up": {
-        "2235": [
-          "firework_rocket"
-        ],
-        "438": [
-          "ender_pearl"
-        ],
-        "477": [
-          "arrow"
-        ],
-        "57": [
-          "egg"
-        ],
-        "72": [
-          "oak_boat"
-        ]
-      },
-      "used": {
-        "13": [
-          "birch_boat"
-        ],
-        "24": [
-          "item_frame"
-        ],
-        "3291": [
-          "firework_rocket"
-        ],
-        "50": [
-          "egg"
-        ],
-        "70": [
-          "oak_boat"
         ]
       }
     },
@@ -312,20 +243,6 @@
         ],
         "551": [
           "wheat_seeds"
-        ]
-      },
-      "mined": {
-        "1": [
-          "brewing_stand"
-        ],
-        "1153": [
-          "wheat"
-        ],
-        "2": [
-          "flower_pot"
-        ],
-        "5": [
-          "cauldron"
         ]
       },
       "picked_up": {

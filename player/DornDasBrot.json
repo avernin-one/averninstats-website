@@ -3,7 +3,7 @@
   "uuid": "c33d5469-9c7c-4da8-8d90-6baac45dbbde",
   "medals": {
     "gold": 1,
-    "silver": 2,
+    "silver": 5,
     "bronze": 2
   },
   "stats": {
@@ -153,40 +153,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1122": [
-          "firework_rocket"
-        ],
-        "17": [
-          "hopper_minecart"
-        ],
-        "236": [
-          "arrow"
-        ],
-        "33": [
-          "minecart"
-        ],
-        "8": [
-          "painting"
-        ]
-      },
-      "dropped": {
-        "1": [
-          "arrow"
-        ],
-        "29": [
-          "potion"
-        ],
-        "39": [
-          "firework_rocket"
-        ],
-        "564": [
-          "ender_pearl"
-        ],
-        "7": [
-          "oak_boat"
-        ]
-      },
       "killed": {
         "102": [
           "blaze"
@@ -215,40 +181,6 @@
         ],
         "3": [
           "zombie"
-        ]
-      },
-      "picked_up": {
-        "290": [
-          "arrow"
-        ],
-        "43": [
-          "minecart"
-        ],
-        "529": [
-          "ender_pearl"
-        ],
-        "56": [
-          "egg"
-        ],
-        "80": [
-          "oak_boat"
-        ]
-      },
-      "used": {
-        "290": [
-          "trident"
-        ],
-        "60": [
-          "minecart"
-        ],
-        "606": [
-          "firework_rocket"
-        ],
-        "66": [
-          "egg"
-        ],
-        "73": [
-          "oak_boat"
         ]
       }
     },
@@ -304,25 +236,7 @@
           "ender_pearl"
         ]
       },
-      "mined": {
-        "1": [
-          "cauldron",
-          "flower_pot"
-        ],
-        "104": [
-          "nether_wart"
-        ],
-        "2": [
-          "brewing_stand"
-        ],
-        "2084": [
-          "wheat"
-        ]
-      },
       "picked_up": {
-        "1968": [
-          "wheat"
-        ],
         "2396": [
           "potato"
         ],
@@ -331,6 +245,9 @@
         ],
         "5220": [
           "wheat_seeds"
+        ],
+        "895": [
+          "raw_copper"
         ],
         "971": [
           "melon_slice"

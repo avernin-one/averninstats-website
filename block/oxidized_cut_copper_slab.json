@@ -1,21 +1,17 @@
 {
-  "name": "oxidized_cut_copper_slab",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "Telinnor"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Telinnor"
-      ]
-    },
-    "used": {
-      "1": [
-        "Telinnor"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Telinnor"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Telinnor"
+    ]
+  },
+  "used": {
+    "1": [
+      "Telinnor"
+    ]
   }
 }

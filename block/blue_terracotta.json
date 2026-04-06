@@ -1,47 +1,43 @@
 {
-  "name": "blue_terracotta",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "460": [
-        "santemjocko"
-      ],
-      "7": [
-        "owac"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "XeonVirus"
-      ],
-      "7": [
-        "owac"
-      ]
-    },
-    "mined": {
-      "1": [
-        "chaos1989",
-        "XeonVirus"
-      ],
-      "91": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "chaos1989"
-      ],
-      "2": [
-        "XeonVirus"
-      ],
-      "90": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "1": [
-        "XeonVirus"
-      ]
-    }
+  "crafted": {
+    "460": [
+      "santemjocko"
+    ],
+    "7": [
+      "owac"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "XeonVirus"
+    ],
+    "7": [
+      "owac"
+    ]
+  },
+  "mined": {
+    "1": [
+      "XeonVirus",
+      "chaos1989"
+    ],
+    "91": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "chaos1989"
+    ],
+    "2": [
+      "XeonVirus"
+    ],
+    "90": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "1": [
+      "XeonVirus"
+    ]
   }
 }

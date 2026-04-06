@@ -1,58 +1,54 @@
 {
-  "name": "fire_coral",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "1": [
-        "santemjocko",
-        "owac",
-        "TrashSuperstar",
-        "Cpt_looper"
-      ],
-      "10": [
-        "leekcookie"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "6": [
-        "iurie"
-      ],
-      "7": [
-        "Lord_HoruS"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "santemjocko",
-        "Cpt_looper"
-      ],
-      "11": [
-        "leekcookie"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "5": [
-        "iurie"
-      ],
-      "6": [
-        "Lord_HoruS"
-      ]
-    },
-    "used": {
-      "1": [
-        "Cpt_looper",
-        "__kreck"
-      ],
-      "6": [
-        "Lord_HoruS"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Cpt_looper",
+      "TrashSuperstar",
+      "owac",
+      "santemjocko"
+    ],
+    "10": [
+      "leekcookie"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "6": [
+      "iurie"
+    ],
+    "7": [
+      "Lord_HoruS"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Cpt_looper",
+      "santemjocko"
+    ],
+    "11": [
+      "leekcookie"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "5": [
+      "iurie"
+    ],
+    "6": [
+      "Lord_HoruS"
+    ]
+  },
+  "used": {
+    "1": [
+      "Cpt_looper",
+      "__kreck"
+    ],
+    "6": [
+      "Lord_HoruS"
+    ]
   }
 }

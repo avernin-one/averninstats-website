@@ -1,38 +1,34 @@
 {
-  "name": "cave_vines_plant",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "10": [
-        "DornDasBrot"
-      ],
-      "11": [
-        "iurie"
-      ],
-      "122": [
-        "Warhazarder"
-      ],
-      "13": [
-        "chaos1989"
-      ],
-      "15": [
-        "TrashSuperstar"
-      ],
-      "23": [
-        "Iglo"
-      ],
-      "29": [
-        "__kreck"
-      ],
-      "319": [
-        "Lord_HoruS"
-      ],
-      "49": [
-        "__Iglo"
-      ],
-      "544": [
-        "XeonVirus"
-      ]
-    }
+  "mined": {
+    "10": [
+      "DornDasBrot"
+    ],
+    "11": [
+      "iurie"
+    ],
+    "122": [
+      "Warhazarder"
+    ],
+    "13": [
+      "chaos1989"
+    ],
+    "15": [
+      "TrashSuperstar"
+    ],
+    "23": [
+      "Iglo"
+    ],
+    "29": [
+      "__kreck"
+    ],
+    "319": [
+      "Lord_HoruS"
+    ],
+    "49": [
+      "__Iglo"
+    ],
+    "544": [
+      "XeonVirus"
+    ]
   }
 }

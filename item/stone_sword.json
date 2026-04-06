@@ -1,177 +1,173 @@
 {
-  "name": "stone_sword",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "1": [
-        "SnuvomBodensatz",
-        "lodoss2011",
-        "Mamuschkaz",
-        "egoplayer_Felix",
-        "Telinnor",
-        "StofftierAnabol",
-        "__kreck"
-      ],
-      "14": [
-        "__Iglo"
-      ],
-      "2": [
-        "Mandahaya",
-        "Der_Sani",
-        "Iglo",
-        "Temeraiere",
-        "Makishi25"
-      ],
-      "5": [
-        "Lord_HoruS",
-        "Teayo"
-      ],
-      "7": [
-        "leekcookie"
-      ],
-      "8": [
-        "nitram1572"
-      ]
-    },
-    "crafted": {
-      "1": [
-        "Lukas_126",
-        "SnuvomBodensatz",
-        "Mamuschkaz",
-        "CuzimJxson",
-        "egoplayer_Felix",
-        "DornDasBrot",
-        "Marvin1099",
-        "imabaldman",
-        "Sayder13xr",
-        "XeonVirus"
-      ],
-      "10": [
-        "leekcookie",
-        "nitram1572"
-      ],
-      "2": [
-        "chaos1989",
-        "iurie",
-        "StofftierAnabol",
-        "Makishi25",
-        "__kreck"
-      ],
-      "3": [
-        "Mandahaya",
-        "lodoss2011",
-        "Temeraiere",
-        "Cpt_looper"
-      ],
-      "4": [
-        "Der_Sani"
-      ],
-      "5": [
-        "Teayo"
-      ],
-      "7": [
-        "Lord_HoruS"
-      ]
-    },
-    "dropped": {
-      "107": [
-        "__Iglo"
-      ],
-      "13": [
-        "Lord_HoruS"
-      ],
-      "14": [
-        "imabaldman",
-        "Sayder13xr"
-      ],
-      "15": [
-        "chaos1989"
-      ],
-      "150": [
-        "leekcookie"
-      ],
-      "21": [
-        "owac"
-      ],
-      "252": [
-        "__kreck"
-      ],
-      "27": [
-        "santemjocko",
-        "Mamuschkaz"
-      ],
-      "52": [
-        "Iglo"
-      ],
-      "67": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "14": [
-        "imabaldman",
-        "Sayder13xr"
-      ],
-      "15": [
-        "chaos1989"
-      ],
-      "22": [
-        "owac"
-      ],
-      "23": [
-        "Lord_HoruS"
-      ],
-      "34": [
-        "Mamuschkaz"
-      ],
-      "37": [
-        "santemjocko",
-        "__Iglo"
-      ],
-      "51": [
-        "Iglo"
-      ],
-      "60": [
-        "iurie"
-      ],
-      "65": [
-        "leekcookie"
-      ],
-      "80": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "210": [
-        "Mandahaya"
-      ],
-      "246": [
-        "__kreck"
-      ],
-      "260": [
-        "StofftierAnabol"
-      ],
-      "279": [
-        "Makishi25"
-      ],
-      "364": [
-        "Temeraiere"
-      ],
-      "495": [
-        "__Iglo"
-      ],
-      "552": [
-        "Teayo"
-      ],
-      "554": [
-        "leekcookie"
-      ],
-      "614": [
-        "Lord_HoruS"
-      ],
-      "956": [
-        "nitram1572"
-      ]
-    }
+  "broken": {
+    "1": [
+      "Mamuschkaz",
+      "SnuvomBodensatz",
+      "StofftierAnabol",
+      "Telinnor",
+      "__kreck",
+      "egoplayer_Felix",
+      "lodoss2011"
+    ],
+    "14": [
+      "__Iglo"
+    ],
+    "2": [
+      "Der_Sani",
+      "Iglo",
+      "Makishi25",
+      "Mandahaya",
+      "Temeraiere"
+    ],
+    "5": [
+      "Lord_HoruS",
+      "Teayo"
+    ],
+    "7": [
+      "leekcookie"
+    ],
+    "8": [
+      "nitram1572"
+    ]
+  },
+  "crafted": {
+    "1": [
+      "CuzimJxson",
+      "DornDasBrot",
+      "Lukas_126",
+      "Mamuschkaz",
+      "Marvin1099",
+      "Sayder13xr",
+      "SnuvomBodensatz",
+      "XeonVirus",
+      "egoplayer_Felix",
+      "imabaldman"
+    ],
+    "10": [
+      "leekcookie",
+      "nitram1572"
+    ],
+    "2": [
+      "Makishi25",
+      "StofftierAnabol",
+      "__kreck",
+      "chaos1989",
+      "iurie"
+    ],
+    "3": [
+      "Cpt_looper",
+      "Mandahaya",
+      "Temeraiere",
+      "lodoss2011"
+    ],
+    "4": [
+      "Der_Sani"
+    ],
+    "5": [
+      "Teayo"
+    ],
+    "7": [
+      "Lord_HoruS"
+    ]
+  },
+  "dropped": {
+    "107": [
+      "__Iglo"
+    ],
+    "13": [
+      "Lord_HoruS"
+    ],
+    "14": [
+      "Sayder13xr",
+      "imabaldman"
+    ],
+    "15": [
+      "chaos1989"
+    ],
+    "150": [
+      "leekcookie"
+    ],
+    "21": [
+      "owac"
+    ],
+    "252": [
+      "__kreck"
+    ],
+    "27": [
+      "Mamuschkaz",
+      "santemjocko"
+    ],
+    "52": [
+      "Iglo"
+    ],
+    "67": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "14": [
+      "Sayder13xr",
+      "imabaldman"
+    ],
+    "15": [
+      "chaos1989"
+    ],
+    "22": [
+      "owac"
+    ],
+    "23": [
+      "Lord_HoruS"
+    ],
+    "34": [
+      "Mamuschkaz"
+    ],
+    "37": [
+      "__Iglo",
+      "santemjocko"
+    ],
+    "51": [
+      "Iglo"
+    ],
+    "60": [
+      "iurie"
+    ],
+    "65": [
+      "leekcookie"
+    ],
+    "80": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "210": [
+      "Mandahaya"
+    ],
+    "246": [
+      "__kreck"
+    ],
+    "260": [
+      "StofftierAnabol"
+    ],
+    "279": [
+      "Makishi25"
+    ],
+    "364": [
+      "Temeraiere"
+    ],
+    "495": [
+      "__Iglo"
+    ],
+    "552": [
+      "Teayo"
+    ],
+    "554": [
+      "leekcookie"
+    ],
+    "614": [
+      "Lord_HoruS"
+    ],
+    "956": [
+      "nitram1572"
+    ]
   }
 }

@@ -1,11 +1,7 @@
 {
-  "name": "torchflower_seeds",
-  "type": "item",
-  "scores": {
-    "picked_up": {
-      "2": [
-        "iurie"
-      ]
-    }
+  "picked_up": {
+    "2": [
+      "iurie"
+    ]
   }
 }

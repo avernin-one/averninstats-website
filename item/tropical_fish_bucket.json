@@ -1,41 +1,37 @@
 {
-  "name": "tropical_fish_bucket",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "4": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Cpt_looper"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "DornDasBrot"
-      ]
-    },
-    "used": {
-      "1": [
-        "leekcookie"
-      ],
-      "2": [
-        "iurie"
-      ],
-      "20": [
-        "ScimMLG"
-      ],
-      "24": [
-        "Lord_HoruS"
-      ],
-      "3": [
-        "nitram1572"
-      ],
-      "9": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "4": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Cpt_looper"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "DornDasBrot"
+    ]
+  },
+  "used": {
+    "1": [
+      "leekcookie"
+    ],
+    "2": [
+      "iurie"
+    ],
+    "20": [
+      "ScimMLG"
+    ],
+    "24": [
+      "Lord_HoruS"
+    ],
+    "3": [
+      "nitram1572"
+    ],
+    "9": [
+      "Makishi25"
+    ]
   }
 }

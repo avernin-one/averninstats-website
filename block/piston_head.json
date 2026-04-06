@@ -1,35 +1,31 @@
 {
-  "name": "piston_head",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "Mandahaya",
-        "TrashSuperstar",
-        "Cpt_looper",
-        "nitram1572",
-        "Lord_HoruS",
-        "imabaldman"
-      ],
-      "10": [
-        "Mamuschkaz",
-        "__Iglo"
-      ],
-      "2": [
-        "owac"
-      ],
-      "30": [
-        "iurie"
-      ],
-      "35": [
-        "leekcookie"
-      ],
-      "7": [
-        "__kreck"
-      ],
-      "8": [
-        "Sayder13xr"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Cpt_looper",
+      "Lord_HoruS",
+      "Mandahaya",
+      "TrashSuperstar",
+      "imabaldman",
+      "nitram1572"
+    ],
+    "10": [
+      "Mamuschkaz",
+      "__Iglo"
+    ],
+    "2": [
+      "owac"
+    ],
+    "30": [
+      "iurie"
+    ],
+    "35": [
+      "leekcookie"
+    ],
+    "7": [
+      "__kreck"
+    ],
+    "8": [
+      "Sayder13xr"
+    ]
   }
 }

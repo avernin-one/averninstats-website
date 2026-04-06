@@ -1,102 +1,98 @@
 {
-  "name": "wheat_seeds",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "1188": [
-        "XeonVirus"
-      ],
-      "1567": [
-        "Telinnor"
-      ],
-      "1750": [
-        "__kreck"
-      ],
-      "2316": [
-        "santemjocko"
-      ],
-      "3749": [
-        "iurie"
-      ],
-      "5082": [
-        "Lord_HoruS"
-      ],
-      "6052": [
-        "leekcookie"
-      ],
-      "653": [
-        "TrashSuperstar"
-      ],
-      "675": [
-        "Warhazarder"
-      ],
-      "838": [
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "10631": [
-        "Warhazarder"
-      ],
-      "18310": [
-        "Teayo"
-      ],
-      "34428": [
-        "SnuvomBodensatz"
-      ],
-      "3754": [
-        "nitram1572"
-      ],
-      "4018": [
-        "Iglo"
-      ],
-      "4235": [
-        "Lord_HoruS"
-      ],
-      "5220": [
-        "DornDasBrot"
-      ],
-      "5551": [
-        "Telinnor"
-      ],
-      "7102": [
-        "iurie"
-      ],
-      "9107": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "14567": [
-        "SnuvomBodensatz"
-      ],
-      "1711": [
-        "__kreck"
-      ],
-      "1739": [
-        "Iglo"
-      ],
-      "1757": [
-        "nitram1572"
-      ],
-      "2194": [
-        "Mandahaya"
-      ],
-      "2494": [
-        "Telinnor"
-      ],
-      "2660": [
-        "DornDasBrot"
-      ],
-      "3811": [
-        "Warhazarder"
-      ],
-      "4411": [
-        "leekcookie"
-      ],
-      "5174": [
-        "Teayo"
-      ]
-    }
+  "dropped": {
+    "1188": [
+      "XeonVirus"
+    ],
+    "1567": [
+      "Telinnor"
+    ],
+    "1750": [
+      "__kreck"
+    ],
+    "2316": [
+      "santemjocko"
+    ],
+    "3749": [
+      "iurie"
+    ],
+    "5082": [
+      "Lord_HoruS"
+    ],
+    "6052": [
+      "leekcookie"
+    ],
+    "653": [
+      "TrashSuperstar"
+    ],
+    "675": [
+      "Warhazarder"
+    ],
+    "838": [
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "10631": [
+      "Warhazarder"
+    ],
+    "18310": [
+      "Teayo"
+    ],
+    "34428": [
+      "SnuvomBodensatz"
+    ],
+    "3754": [
+      "nitram1572"
+    ],
+    "4018": [
+      "Iglo"
+    ],
+    "4235": [
+      "Lord_HoruS"
+    ],
+    "5220": [
+      "DornDasBrot"
+    ],
+    "5551": [
+      "Telinnor"
+    ],
+    "7102": [
+      "iurie"
+    ],
+    "9107": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "14567": [
+      "SnuvomBodensatz"
+    ],
+    "1711": [
+      "__kreck"
+    ],
+    "1739": [
+      "Iglo"
+    ],
+    "1757": [
+      "nitram1572"
+    ],
+    "2194": [
+      "Mandahaya"
+    ],
+    "2494": [
+      "Telinnor"
+    ],
+    "2660": [
+      "DornDasBrot"
+    ],
+    "3811": [
+      "Warhazarder"
+    ],
+    "4411": [
+      "leekcookie"
+    ],
+    "5174": [
+      "Teayo"
+    ]
   }
 }

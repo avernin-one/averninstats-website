@@ -1,97 +1,93 @@
 {
-  "name": "beef",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "1": [
-        "Cpt_looper"
-      ],
-      "13": [
-        "lodoss2011",
-        "Telinnor"
-      ],
-      "17": [
-        "owac"
-      ],
-      "2": [
-        "Lord_HoruS"
-      ],
-      "20": [
-        "Warhazarder"
-      ],
-      "21": [
-        "XeonVirus"
-      ],
-      "55": [
-        "philxpx"
-      ],
-      "6": [
-        "leekcookie"
-      ],
-      "8": [
-        "Mamuschkaz"
-      ]
-    },
-    "picked_up": {
-      "133": [
-        "Mamuschkaz"
-      ],
-      "142": [
-        "ScimMLG"
-      ],
-      "145": [
-        "SnuvomBodensatz"
-      ],
-      "170": [
-        "Lord_HoruS"
-      ],
-      "182": [
-        "__kreck"
-      ],
-      "231": [
-        "Telinnor"
-      ],
-      "259": [
-        "TrashSuperstar"
-      ],
-      "413": [
-        "Sayder13xr"
-      ],
-      "539": [
-        "XeonVirus"
-      ],
-      "662": [
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "1": [
-        "obvBasti",
-        "ScimMLG",
-        "StofftierAnabol"
-      ],
-      "10": [
-        "Lukas_126"
-      ],
-      "12": [
-        "santemjocko",
-        "philxpx"
-      ],
-      "2": [
-        "leekcookie",
-        "Temeraiere"
-      ],
-      "3": [
-        "iurie"
-      ],
-      "4": [
-        "SuperXXLProfi"
-      ],
-      "7": [
-        "SnuvomBodensatz",
-        "Mamuschkaz",
-        "CuzimJxson"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "Cpt_looper"
+    ],
+    "13": [
+      "Telinnor",
+      "lodoss2011"
+    ],
+    "17": [
+      "owac"
+    ],
+    "2": [
+      "Lord_HoruS"
+    ],
+    "20": [
+      "Warhazarder"
+    ],
+    "21": [
+      "XeonVirus"
+    ],
+    "55": [
+      "philxpx"
+    ],
+    "6": [
+      "leekcookie"
+    ],
+    "8": [
+      "Mamuschkaz"
+    ]
+  },
+  "picked_up": {
+    "133": [
+      "Mamuschkaz"
+    ],
+    "142": [
+      "ScimMLG"
+    ],
+    "145": [
+      "SnuvomBodensatz"
+    ],
+    "170": [
+      "Lord_HoruS"
+    ],
+    "182": [
+      "__kreck"
+    ],
+    "231": [
+      "Telinnor"
+    ],
+    "259": [
+      "TrashSuperstar"
+    ],
+    "413": [
+      "Sayder13xr"
+    ],
+    "539": [
+      "XeonVirus"
+    ],
+    "662": [
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "1": [
+      "ScimMLG",
+      "StofftierAnabol",
+      "obvBasti"
+    ],
+    "10": [
+      "Lukas_126"
+    ],
+    "12": [
+      "philxpx",
+      "santemjocko"
+    ],
+    "2": [
+      "Temeraiere",
+      "leekcookie"
+    ],
+    "3": [
+      "iurie"
+    ],
+    "4": [
+      "SuperXXLProfi"
+    ],
+    "7": [
+      "CuzimJxson",
+      "Mamuschkaz",
+      "SnuvomBodensatz"
+    ]
   }
 }

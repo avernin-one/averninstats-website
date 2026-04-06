@@ -1,40 +1,36 @@
 {
-  "name": "cooked_rabbit",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "Mandahaya"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Iglo"
-      ],
-      "3": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Iglo",
-        "XeonVirus"
-      ],
-      "2": [
-        "chaos1989"
-      ],
-      "3": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1": [
-        "Mandahaya",
-        "iurie"
-      ],
-      "2": [
-        "chaos1989"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Mandahaya"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Iglo"
+    ],
+    "3": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Iglo",
+      "XeonVirus"
+    ],
+    "2": [
+      "chaos1989"
+    ],
+    "3": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1": [
+      "Mandahaya",
+      "iurie"
+    ],
+    "2": [
+      "chaos1989"
+    ]
   }
 }

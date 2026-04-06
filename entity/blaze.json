@@ -1,49 +1,45 @@
 {
-  "name": "blaze",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "100": [
-        "__kreck"
-      ],
-      "102": [
-        "DornDasBrot"
-      ],
-      "121": [
-        "leekcookie"
-      ],
-      "144": [
-        "minenicknick"
-      ],
-      "161": [
-        "Iglo"
-      ],
-      "189": [
-        "chaos1989"
-      ],
-      "246": [
-        "Lord_HoruS"
-      ],
-      "355": [
-        "Telinnor"
-      ],
-      "528": [
-        "iurie"
-      ],
-      "96": [
-        "owac"
-      ]
-    },
-    "killed_by": {
-      "1": [
-        "leekcookie",
-        "Iglo",
-        "__kreck"
-      ],
-      "2": [
-        "santemjocko",
-        "lodoss2011"
-      ]
-    }
+  "killed": {
+    "100": [
+      "__kreck"
+    ],
+    "102": [
+      "DornDasBrot"
+    ],
+    "121": [
+      "leekcookie"
+    ],
+    "144": [
+      "minenicknick"
+    ],
+    "161": [
+      "Iglo"
+    ],
+    "189": [
+      "chaos1989"
+    ],
+    "246": [
+      "Lord_HoruS"
+    ],
+    "355": [
+      "Telinnor"
+    ],
+    "528": [
+      "iurie"
+    ],
+    "96": [
+      "owac"
+    ]
+  },
+  "killed_by": {
+    "1": [
+      "Iglo",
+      "__kreck",
+      "leekcookie"
+    ],
+    "2": [
+      "lodoss2011",
+      "santemjocko"
+    ]
   }
 }

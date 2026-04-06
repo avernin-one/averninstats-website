@@ -1,43 +1,39 @@
 {
-  "name": "soul_fire",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "12": [
-        "Makishi25"
-      ],
-      "13": [
-        "lodoss2011"
-      ],
-      "2": [
-        "Mandahaya",
-        "Mamuschkaz",
-        "Lord_HoruS",
-        "DornDasBrot",
-        "Sayder13xr"
-      ],
-      "22": [
-        "leekcookie"
-      ],
-      "3": [
-        "__Iglo"
-      ],
-      "4": [
-        "chaos1989"
-      ],
-      "5": [
-        "XeonVirus"
-      ],
-      "6": [
-        "imabaldman"
-      ],
-      "8": [
-        "iurie"
-      ],
-      "9": [
-        "owac",
-        "Telinnor"
-      ]
-    }
+  "mined": {
+    "12": [
+      "Makishi25"
+    ],
+    "13": [
+      "lodoss2011"
+    ],
+    "2": [
+      "DornDasBrot",
+      "Lord_HoruS",
+      "Mamuschkaz",
+      "Mandahaya",
+      "Sayder13xr"
+    ],
+    "22": [
+      "leekcookie"
+    ],
+    "3": [
+      "__Iglo"
+    ],
+    "4": [
+      "chaos1989"
+    ],
+    "5": [
+      "XeonVirus"
+    ],
+    "6": [
+      "imabaldman"
+    ],
+    "8": [
+      "iurie"
+    ],
+    "9": [
+      "Telinnor",
+      "owac"
+    ]
   }
 }

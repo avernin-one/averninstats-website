@@ -1,97 +1,93 @@
 {
-  "name": "birch_door",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "21": [
-        "Makishi25"
-      ],
-      "24": [
-        "lodoss2011"
-      ],
-      "3": [
-        "Iglo",
-        "__Iglo"
-      ],
-      "42": [
-        "leekcookie"
-      ],
-      "63": [
-        "Teayo"
-      ],
-      "9": [
-        "santemjocko"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "leekcookie"
-      ],
-      "2": [
-        "lodoss2011"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "9": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie",
-        "__kreck"
-      ],
-      "15": [
-        "santemjocko"
-      ],
-      "2": [
-        "Teayo"
-      ],
-      "6": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie"
-      ],
-      "16": [
-        "santemjocko"
-      ],
-      "2": [
-        "Teayo"
-      ],
-      "32": [
-        "lodoss2011"
-      ],
-      "4": [
-        "__kreck"
-      ],
-      "5": [
-        "Makishi25"
-      ]
-    },
-    "used": {
-      "1": [
-        "Iglo",
-        "__Iglo"
-      ],
-      "15": [
-        "santemjocko"
-      ],
-      "16": [
-        "Makishi25"
-      ],
-      "23": [
-        "Teayo"
-      ],
-      "24": [
-        "lodoss2011"
-      ],
-      "3": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "21": [
+      "Makishi25"
+    ],
+    "24": [
+      "lodoss2011"
+    ],
+    "3": [
+      "Iglo",
+      "__Iglo"
+    ],
+    "42": [
+      "leekcookie"
+    ],
+    "63": [
+      "Teayo"
+    ],
+    "9": [
+      "santemjocko"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "leekcookie"
+    ],
+    "2": [
+      "lodoss2011"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "9": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "1": [
+      "__kreck",
+      "leekcookie"
+    ],
+    "15": [
+      "santemjocko"
+    ],
+    "2": [
+      "Teayo"
+    ],
+    "6": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "leekcookie"
+    ],
+    "16": [
+      "santemjocko"
+    ],
+    "2": [
+      "Teayo"
+    ],
+    "32": [
+      "lodoss2011"
+    ],
+    "4": [
+      "__kreck"
+    ],
+    "5": [
+      "Makishi25"
+    ]
+  },
+  "used": {
+    "1": [
+      "Iglo",
+      "__Iglo"
+    ],
+    "15": [
+      "santemjocko"
+    ],
+    "16": [
+      "Makishi25"
+    ],
+    "23": [
+      "Teayo"
+    ],
+    "24": [
+      "lodoss2011"
+    ],
+    "3": [
+      "leekcookie"
+    ]
   }
 }

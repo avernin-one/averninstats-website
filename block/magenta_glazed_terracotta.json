@@ -1,16 +1,12 @@
 {
-  "name": "magenta_glazed_terracotta",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "14": [
-        "owac"
-      ]
-    },
-    "dropped": {
-      "14": [
-        "owac"
-      ]
-    }
+  "crafted": {
+    "14": [
+      "owac"
+    ]
+  },
+  "dropped": {
+    "14": [
+      "owac"
+    ]
   }
 }

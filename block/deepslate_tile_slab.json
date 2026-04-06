@@ -1,165 +1,161 @@
 {
-  "name": "deepslate_tile_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12": [
-        "philxpx"
-      ],
-      "1548": [
-        "__Iglo"
-      ],
-      "2346": [
-        "santemjocko"
-      ],
-      "3602": [
-        "leekcookie"
-      ],
-      "4": [
-        "imabaldman"
-      ],
-      "5918": [
-        "Iglo"
-      ],
-      "6": [
-        "Warhazarder"
-      ],
-      "62": [
-        "DornDasBrot"
-      ],
-      "64": [
-        "chaos1989",
-        "__kreck"
-      ],
-      "72": [
-        "Sayder13xr"
-      ]
-    },
-    "dropped": {
-      "114": [
-        "__kreck"
-      ],
-      "14": [
-        "lodoss2011"
-      ],
-      "1641": [
-        "leekcookie"
-      ],
-      "209": [
-        "santemjocko"
-      ],
-      "24": [
-        "philxpx"
-      ],
-      "3": [
-        "Sayder13xr"
-      ],
-      "32": [
-        "iurie"
-      ],
-      "576": [
-        "__Iglo"
-      ],
-      "98": [
-        "Iglo"
-      ]
-    },
-    "mined": {
-      "1063": [
-        "__Iglo"
-      ],
-      "1528": [
-        "iurie"
-      ],
-      "166": [
-        "Sayder13xr"
-      ],
-      "2367": [
-        "leekcookie"
-      ],
-      "40": [
-        "lodoss2011"
-      ],
-      "42": [
-        "chaos1989"
-      ],
-      "49": [
-        "imabaldman"
-      ],
-      "67": [
-        "Iglo"
-      ],
-      "904": [
-        "santemjocko"
-      ],
-      "927": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "116": [
-        "Warhazarder"
-      ],
-      "1234": [
-        "__Iglo"
-      ],
-      "1568": [
-        "__kreck"
-      ],
-      "187": [
-        "Iglo"
-      ],
-      "192": [
-        "Sayder13xr"
-      ],
-      "2420": [
-        "iurie"
-      ],
-      "4063": [
-        "santemjocko"
-      ],
-      "42": [
-        "lodoss2011",
-        "chaos1989"
-      ],
-      "51": [
-        "imabaldman"
-      ],
-      "8831": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1445": [
-        "__Iglo"
-      ],
-      "195": [
-        "chaos1989"
-      ],
-      "240": [
-        "Warhazarder"
-      ],
-      "277": [
-        "DornDasBrot"
-      ],
-      "3644": [
-        "iurie"
-      ],
-      "447": [
-        "Sayder13xr"
-      ],
-      "48288": [
-        "__kreck"
-      ],
-      "4997": [
-        "Iglo"
-      ],
-      "8276": [
-        "leekcookie"
-      ],
-      "8666": [
-        "santemjocko"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "philxpx"
+    ],
+    "1548": [
+      "__Iglo"
+    ],
+    "2346": [
+      "santemjocko"
+    ],
+    "3602": [
+      "leekcookie"
+    ],
+    "4": [
+      "imabaldman"
+    ],
+    "5918": [
+      "Iglo"
+    ],
+    "6": [
+      "Warhazarder"
+    ],
+    "62": [
+      "DornDasBrot"
+    ],
+    "64": [
+      "__kreck",
+      "chaos1989"
+    ],
+    "72": [
+      "Sayder13xr"
+    ]
+  },
+  "dropped": {
+    "114": [
+      "__kreck"
+    ],
+    "14": [
+      "lodoss2011"
+    ],
+    "1641": [
+      "leekcookie"
+    ],
+    "209": [
+      "santemjocko"
+    ],
+    "24": [
+      "philxpx"
+    ],
+    "3": [
+      "Sayder13xr"
+    ],
+    "32": [
+      "iurie"
+    ],
+    "576": [
+      "__Iglo"
+    ],
+    "98": [
+      "Iglo"
+    ]
+  },
+  "mined": {
+    "1063": [
+      "__Iglo"
+    ],
+    "1528": [
+      "iurie"
+    ],
+    "166": [
+      "Sayder13xr"
+    ],
+    "2367": [
+      "leekcookie"
+    ],
+    "40": [
+      "lodoss2011"
+    ],
+    "42": [
+      "chaos1989"
+    ],
+    "49": [
+      "imabaldman"
+    ],
+    "67": [
+      "Iglo"
+    ],
+    "904": [
+      "santemjocko"
+    ],
+    "927": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "116": [
+      "Warhazarder"
+    ],
+    "1234": [
+      "__Iglo"
+    ],
+    "1568": [
+      "__kreck"
+    ],
+    "187": [
+      "Iglo"
+    ],
+    "192": [
+      "Sayder13xr"
+    ],
+    "2420": [
+      "iurie"
+    ],
+    "4063": [
+      "santemjocko"
+    ],
+    "42": [
+      "chaos1989",
+      "lodoss2011"
+    ],
+    "51": [
+      "imabaldman"
+    ],
+    "8831": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1445": [
+      "__Iglo"
+    ],
+    "195": [
+      "chaos1989"
+    ],
+    "240": [
+      "Warhazarder"
+    ],
+    "277": [
+      "DornDasBrot"
+    ],
+    "3644": [
+      "iurie"
+    ],
+    "447": [
+      "Sayder13xr"
+    ],
+    "48288": [
+      "__kreck"
+    ],
+    "4997": [
+      "Iglo"
+    ],
+    "8276": [
+      "leekcookie"
+    ],
+    "8666": [
+      "santemjocko"
+    ]
   }
 }

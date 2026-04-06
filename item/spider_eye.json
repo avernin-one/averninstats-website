@@ -1,80 +1,76 @@
 {
-  "name": "spider_eye",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "161": [
-        "leekcookie"
-      ],
-      "194": [
-        "owac"
-      ],
-      "337": [
-        "JonasderGamer"
-      ],
-      "400": [
-        "imabaldman"
-      ],
-      "42": [
-        "__Iglo"
-      ],
-      "43": [
-        "lodoss2011"
-      ],
-      "44": [
-        "obvBasti"
-      ],
-      "449": [
-        "santemjocko"
-      ],
-      "59": [
-        "Lord_HoruS"
-      ],
-      "954": [
-        "philxpx"
-      ]
-    },
-    "picked_up": {
-      "1049": [
-        "leekcookie"
-      ],
-      "232": [
-        "__Iglo"
-      ],
-      "250": [
-        "iurie"
-      ],
-      "285": [
-        "santemjocko"
-      ],
-      "315": [
-        "owac"
-      ],
-      "341": [
-        "JonasderGamer"
-      ],
-      "357": [
-        "TrashSuperstar"
-      ],
-      "416": [
-        "imabaldman"
-      ],
-      "440": [
-        "philxpx"
-      ],
-      "592": [
-        "Sayder13xr"
-      ]
-    },
-    "used": {
-      "1": [
-        "iurie",
-        "Telinnor",
-        "Makishi25"
-      ],
-      "28": [
-        "leekcookie"
-      ]
-    }
+  "dropped": {
+    "161": [
+      "leekcookie"
+    ],
+    "194": [
+      "owac"
+    ],
+    "337": [
+      "JonasderGamer"
+    ],
+    "400": [
+      "imabaldman"
+    ],
+    "42": [
+      "__Iglo"
+    ],
+    "43": [
+      "lodoss2011"
+    ],
+    "44": [
+      "obvBasti"
+    ],
+    "449": [
+      "santemjocko"
+    ],
+    "59": [
+      "Lord_HoruS"
+    ],
+    "954": [
+      "philxpx"
+    ]
+  },
+  "picked_up": {
+    "1049": [
+      "leekcookie"
+    ],
+    "232": [
+      "__Iglo"
+    ],
+    "250": [
+      "iurie"
+    ],
+    "285": [
+      "santemjocko"
+    ],
+    "315": [
+      "owac"
+    ],
+    "341": [
+      "JonasderGamer"
+    ],
+    "357": [
+      "TrashSuperstar"
+    ],
+    "416": [
+      "imabaldman"
+    ],
+    "440": [
+      "philxpx"
+    ],
+    "592": [
+      "Sayder13xr"
+    ]
+  },
+  "used": {
+    "1": [
+      "Makishi25",
+      "Telinnor",
+      "iurie"
+    ],
+    "28": [
+      "leekcookie"
+    ]
   }
 }

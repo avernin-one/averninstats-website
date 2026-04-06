@@ -1,123 +1,119 @@
 {
-  "name": "jungle_sign",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "15": [
-        "obvBasti"
-      ],
-      "18": [
-        "imabaldman"
-      ],
-      "24": [
-        "chaos1989"
-      ],
-      "3": [
-        "minenicknick",
-        "Cpt_looper"
-      ],
-      "33": [
-        "Iglo"
-      ],
-      "36": [
-        "leekcookie"
-      ],
-      "6": [
-        "owac"
-      ],
-      "9": [
-        "__Iglo",
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "philxpx"
-      ],
-      "2": [
-        "minenicknick",
-        "imabaldman"
-      ],
-      "3": [
-        "__Iglo"
-      ],
-      "4": [
-        "__kreck"
-      ],
-      "5": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie",
-        "Iglo",
-        "owac",
-        "__Iglo",
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "chaos1989"
-      ],
-      "18": [
-        "Iglo"
-      ],
-      "3": [
-        "imabaldman"
-      ],
-      "31": [
-        "__kreck"
-      ],
-      "33": [
-        "leekcookie"
-      ],
-      "4": [
-        "owac"
-      ],
-      "5": [
-        "philxpx"
-      ],
-      "7": [
-        "Cpt_looper"
-      ],
-      "8": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "1": [
-        "minenicknick"
-      ],
-      "10": [
-        "obvBasti",
-        "__Iglo"
-      ],
-      "11": [
-        "imabaldman"
-      ],
-      "14": [
-        "leekcookie"
-      ],
-      "26": [
-        "chaos1989"
-      ],
-      "3": [
-        "philxpx"
-      ],
-      "38": [
-        "__kreck"
-      ],
-      "39": [
-        "Iglo"
-      ],
-      "4": [
-        "owac"
-      ],
-      "6": [
-        "Cpt_looper"
-      ]
-    }
+  "crafted": {
+    "15": [
+      "obvBasti"
+    ],
+    "18": [
+      "imabaldman"
+    ],
+    "24": [
+      "chaos1989"
+    ],
+    "3": [
+      "Cpt_looper",
+      "minenicknick"
+    ],
+    "33": [
+      "Iglo"
+    ],
+    "36": [
+      "leekcookie"
+    ],
+    "6": [
+      "owac"
+    ],
+    "9": [
+      "__Iglo",
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "philxpx"
+    ],
+    "2": [
+      "imabaldman",
+      "minenicknick"
+    ],
+    "3": [
+      "__Iglo"
+    ],
+    "4": [
+      "__kreck"
+    ],
+    "5": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Iglo",
+      "__Iglo",
+      "__kreck",
+      "leekcookie",
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "chaos1989"
+    ],
+    "18": [
+      "Iglo"
+    ],
+    "3": [
+      "imabaldman"
+    ],
+    "31": [
+      "__kreck"
+    ],
+    "33": [
+      "leekcookie"
+    ],
+    "4": [
+      "owac"
+    ],
+    "5": [
+      "philxpx"
+    ],
+    "7": [
+      "Cpt_looper"
+    ],
+    "8": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "1": [
+      "minenicknick"
+    ],
+    "10": [
+      "__Iglo",
+      "obvBasti"
+    ],
+    "11": [
+      "imabaldman"
+    ],
+    "14": [
+      "leekcookie"
+    ],
+    "26": [
+      "chaos1989"
+    ],
+    "3": [
+      "philxpx"
+    ],
+    "38": [
+      "__kreck"
+    ],
+    "39": [
+      "Iglo"
+    ],
+    "4": [
+      "owac"
+    ],
+    "6": [
+      "Cpt_looper"
+    ]
   }
 }

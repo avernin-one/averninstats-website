@@ -1,24 +1,20 @@
 {
-  "name": "bamboo_planks",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "14": [
-        "Der_Sani"
-      ],
-      "2166": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "410": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "5": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "14": [
+      "Der_Sani"
+    ],
+    "2166": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "410": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "5": [
+      "leekcookie"
+    ]
   }
 }

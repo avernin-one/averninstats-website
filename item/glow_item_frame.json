@@ -1,31 +1,27 @@
 {
-  "name": "glow_item_frame",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "Lord_HoruS"
-      ],
-      "2": [
-        "DornDasBrot"
-      ],
-      "4": [
-        "philxpx"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "DornDasBrot"
-      ],
-      "3": [
-        "Lord_HoruS"
-      ]
-    },
-    "used": {
-      "4": [
-        "Lord_HoruS",
-        "DornDasBrot"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Lord_HoruS"
+    ],
+    "2": [
+      "DornDasBrot"
+    ],
+    "4": [
+      "philxpx"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "DornDasBrot"
+    ],
+    "3": [
+      "Lord_HoruS"
+    ]
+  },
+  "used": {
+    "4": [
+      "DornDasBrot",
+      "Lord_HoruS"
+    ]
   }
 }

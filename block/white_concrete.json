@@ -1,89 +1,85 @@
 {
-  "name": "white_concrete",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "ScimMLG"
-      ],
-      "118": [
-        "__kreck"
-      ],
-      "272": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "153": [
-        "Makishi25"
-      ],
-      "2": [
-        "XeonVirus"
-      ],
-      "2213": [
-        "iurie"
-      ],
-      "2245": [
-        "leekcookie"
-      ],
-      "528": [
-        "Teayo"
-      ],
-      "553": [
-        "__kreck"
-      ],
-      "696": [
-        "ScimMLG"
-      ]
-    },
-    "picked_up": {
-      "152": [
-        "__Iglo"
-      ],
-      "2": [
-        "XeonVirus"
-      ],
-      "221": [
-        "Makishi25"
-      ],
-      "3248": [
-        "leekcookie"
-      ],
-      "528": [
-        "Teayo"
-      ],
-      "692": [
-        "ScimMLG"
-      ],
-      "738": [
-        "__kreck"
-      ],
-      "747": [
-        "iurie"
-      ],
-      "9": [
-        "owac"
-      ]
-    },
-    "used": {
-      "1318": [
-        "iurie"
-      ],
-      "1721": [
-        "leekcookie"
-      ],
-      "3523": [
-        "__kreck"
-      ],
-      "528": [
-        "Teayo"
-      ],
-      "659": [
-        "ScimMLG"
-      ],
-      "80": [
-        "Makishi25"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "ScimMLG"
+    ],
+    "118": [
+      "__kreck"
+    ],
+    "272": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "153": [
+      "Makishi25"
+    ],
+    "2": [
+      "XeonVirus"
+    ],
+    "2213": [
+      "iurie"
+    ],
+    "2245": [
+      "leekcookie"
+    ],
+    "528": [
+      "Teayo"
+    ],
+    "553": [
+      "__kreck"
+    ],
+    "696": [
+      "ScimMLG"
+    ]
+  },
+  "picked_up": {
+    "152": [
+      "__Iglo"
+    ],
+    "2": [
+      "XeonVirus"
+    ],
+    "221": [
+      "Makishi25"
+    ],
+    "3248": [
+      "leekcookie"
+    ],
+    "528": [
+      "Teayo"
+    ],
+    "692": [
+      "ScimMLG"
+    ],
+    "738": [
+      "__kreck"
+    ],
+    "747": [
+      "iurie"
+    ],
+    "9": [
+      "owac"
+    ]
+  },
+  "used": {
+    "1318": [
+      "iurie"
+    ],
+    "1721": [
+      "leekcookie"
+    ],
+    "3523": [
+      "__kreck"
+    ],
+    "528": [
+      "Teayo"
+    ],
+    "659": [
+      "ScimMLG"
+    ],
+    "80": [
+      "Makishi25"
+    ]
   }
 }

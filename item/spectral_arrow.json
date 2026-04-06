@@ -1,70 +1,66 @@
 {
-  "name": "spectral_arrow",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "2": [
-        "DornDasBrot"
-      ]
-    },
-    "dropped": {
-      "21": [
-        "lodoss2011"
-      ],
-      "212": [
-        "owac"
-      ],
-      "303": [
-        "obvBasti"
-      ],
-      "492": [
-        "imabaldman"
-      ],
-      "760": [
-        "minenicknick"
-      ],
-      "842": [
-        "philxpx"
-      ],
-      "9019": [
-        "__Iglo"
-      ],
-      "9939": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "212": [
-        "owac"
-      ],
-      "2222": [
-        "__kreck"
-      ],
-      "2518": [
-        "__Iglo"
-      ],
-      "303": [
-        "obvBasti"
-      ],
-      "40": [
-        "XeonVirus"
-      ],
-      "443": [
-        "imabaldman"
-      ],
-      "53": [
-        "santemjocko",
-        "iurie"
-      ],
-      "727": [
-        "philxpx"
-      ],
-      "737": [
-        "minenicknick"
-      ],
-      "74": [
-        "lodoss2011"
-      ]
-    }
+  "crafted": {
+    "2": [
+      "DornDasBrot"
+    ]
+  },
+  "dropped": {
+    "21": [
+      "lodoss2011"
+    ],
+    "212": [
+      "owac"
+    ],
+    "303": [
+      "obvBasti"
+    ],
+    "492": [
+      "imabaldman"
+    ],
+    "760": [
+      "minenicknick"
+    ],
+    "842": [
+      "philxpx"
+    ],
+    "9019": [
+      "__Iglo"
+    ],
+    "9939": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "212": [
+      "owac"
+    ],
+    "2222": [
+      "__kreck"
+    ],
+    "2518": [
+      "__Iglo"
+    ],
+    "303": [
+      "obvBasti"
+    ],
+    "40": [
+      "XeonVirus"
+    ],
+    "443": [
+      "imabaldman"
+    ],
+    "53": [
+      "iurie",
+      "santemjocko"
+    ],
+    "727": [
+      "philxpx"
+    ],
+    "737": [
+      "minenicknick"
+    ],
+    "74": [
+      "lodoss2011"
+    ]
   }
 }

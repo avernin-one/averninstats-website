@@ -1,72 +1,68 @@
 {
-  "name": "chiseled_sandstone",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "Temeraiere"
-      ],
-      "2": [
-        "iurie"
-      ],
-      "5": [
-        "XeonVirus"
-      ]
-    },
-    "mined": {
-      "2": [
-        "nitram1572"
-      ],
-      "3": [
-        "santemjocko",
-        "chaos1989",
-        "KleeneEle"
-      ],
-      "30": [
-        "Temeraiere"
-      ],
-      "4": [
-        "XeonVirus"
-      ],
-      "95": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "KleeneEle"
-      ],
-      "2": [
-        "nitram1572"
-      ],
-      "3": [
-        "santemjocko",
-        "chaos1989"
-      ],
-      "31": [
-        "Temeraiere"
-      ],
-      "5": [
-        "XeonVirus"
-      ],
-      "94": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "1": [
-        "KleeneEle",
-        "iurie"
-      ],
-      "2": [
-        "nitram1572"
-      ],
-      "3": [
-        "santemjocko"
-      ],
-      "351": [
-        "Temeraiere"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "Temeraiere"
+    ],
+    "2": [
+      "iurie"
+    ],
+    "5": [
+      "XeonVirus"
+    ]
+  },
+  "mined": {
+    "2": [
+      "nitram1572"
+    ],
+    "3": [
+      "KleeneEle",
+      "chaos1989",
+      "santemjocko"
+    ],
+    "30": [
+      "Temeraiere"
+    ],
+    "4": [
+      "XeonVirus"
+    ],
+    "95": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "KleeneEle"
+    ],
+    "2": [
+      "nitram1572"
+    ],
+    "3": [
+      "chaos1989",
+      "santemjocko"
+    ],
+    "31": [
+      "Temeraiere"
+    ],
+    "5": [
+      "XeonVirus"
+    ],
+    "94": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "1": [
+      "KleeneEle",
+      "iurie"
+    ],
+    "2": [
+      "nitram1572"
+    ],
+    "3": [
+      "santemjocko"
+    ],
+    "351": [
+      "Temeraiere"
+    ]
   }
 }

@@ -1,43 +1,39 @@
 {
-  "name": "crimson_door",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "3": [
-        "leekcookie"
-      ],
-      "9": [
-        "XeonVirus"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "10": [
-        "XeonVirus"
-      ],
-      "2": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "4": [
-        "leekcookie"
-      ],
-      "6": [
-        "XeonVirus"
-      ]
-    },
-    "used": {
-      "14": [
-        "XeonVirus"
-      ],
-      "2": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "3": [
+      "leekcookie"
+    ],
+    "9": [
+      "XeonVirus"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "10": [
+      "XeonVirus"
+    ],
+    "2": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "4": [
+      "leekcookie"
+    ],
+    "6": [
+      "XeonVirus"
+    ]
+  },
+  "used": {
+    "14": [
+      "XeonVirus"
+    ],
+    "2": [
+      "leekcookie"
+    ]
   }
 }

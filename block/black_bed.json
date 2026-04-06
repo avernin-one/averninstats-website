@@ -1,30 +1,26 @@
 {
-  "name": "black_bed",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "TrashSuperstar",
-        "imabaldman"
-      ]
-    },
-    "mined": {
-      "2": [
-        "imabaldman"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "imabaldman"
-      ]
-    },
-    "used": {
-      "1": [
-        "TrashSuperstar"
-      ],
-      "3": [
-        "imabaldman"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "TrashSuperstar",
+      "imabaldman"
+    ]
+  },
+  "mined": {
+    "2": [
+      "imabaldman"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "imabaldman"
+    ]
+  },
+  "used": {
+    "1": [
+      "TrashSuperstar"
+    ],
+    "3": [
+      "imabaldman"
+    ]
   }
 }

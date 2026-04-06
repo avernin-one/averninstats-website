@@ -1,17 +1,13 @@
 {
-  "name": "wither_skeleton_wall_skull",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "Iglo",
-        "owac",
-        "iurie",
-        "Sayder13xr"
-      ],
-      "3": [
-        "__kreck"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Iglo",
+      "Sayder13xr",
+      "iurie",
+      "owac"
+    ],
+    "3": [
+      "__kreck"
+    ]
   }
 }

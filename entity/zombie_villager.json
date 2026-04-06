@@ -1,59 +1,55 @@
 {
-  "name": "zombie_villager",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "11": [
-        "nitram1572"
-      ],
-      "13": [
-        "Mandahaya",
-        "santemjocko",
-        "Mamuschkaz",
-        "XeonVirus"
-      ],
-      "14": [
-        "TrashSuperstar"
-      ],
-      "21": [
-        "owac"
-      ],
-      "24": [
-        "leekcookie"
-      ],
-      "5": [
-        "Lukas_126",
-        "Ivenor",
-        "iurie",
-        "Cpt_looper"
-      ],
-      "6": [
-        "Telinnor"
-      ],
-      "7": [
-        "Warhazarder"
-      ],
-      "8": [
-        "lodoss2011",
-        "chaos1989",
-        "Sayder13xr",
-        "__kreck"
-      ],
-      "9": [
-        "minenicknick"
-      ]
-    },
-    "killed_by": {
-      "1": [
-        "lodoss2011",
-        "Mamuschkaz"
-      ],
-      "2": [
-        "Cpt_looper"
-      ],
-      "4": [
-        "JonasderGamer"
-      ]
-    }
+  "killed": {
+    "11": [
+      "nitram1572"
+    ],
+    "13": [
+      "Mamuschkaz",
+      "Mandahaya",
+      "XeonVirus",
+      "santemjocko"
+    ],
+    "14": [
+      "TrashSuperstar"
+    ],
+    "21": [
+      "owac"
+    ],
+    "24": [
+      "leekcookie"
+    ],
+    "5": [
+      "Cpt_looper",
+      "Ivenor",
+      "Lukas_126",
+      "iurie"
+    ],
+    "6": [
+      "Telinnor"
+    ],
+    "7": [
+      "Warhazarder"
+    ],
+    "8": [
+      "Sayder13xr",
+      "__kreck",
+      "chaos1989",
+      "lodoss2011"
+    ],
+    "9": [
+      "minenicknick"
+    ]
+  },
+  "killed_by": {
+    "1": [
+      "Mamuschkaz",
+      "lodoss2011"
+    ],
+    "2": [
+      "Cpt_looper"
+    ],
+    "4": [
+      "JonasderGamer"
+    ]
   }
 }

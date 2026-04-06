@@ -1,168 +1,164 @@
 {
-  "name": "spruce_planks",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12044": [
-        "Mamuschkaz"
-      ],
-      "14914": [
-        "lodoss2011"
-      ],
-      "21206": [
-        "leekcookie"
-      ],
-      "2208": [
-        "Ivenor"
-      ],
-      "22500": [
-        "__kreck"
-      ],
-      "27492": [
-        "TrashSuperstar"
-      ],
-      "28580": [
-        "owac"
-      ],
-      "33950": [
-        "Warhazarder"
-      ],
-      "3672": [
-        "imabaldman"
-      ],
-      "5016": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "10": [
-        "Makishi25",
-        "Warhazarder"
-      ],
-      "13": [
-        "__Iglo"
-      ],
-      "162": [
-        "lodoss2011"
-      ],
-      "256": [
-        "__kreck"
-      ],
-      "320": [
-        "Mamuschkaz"
-      ],
-      "39": [
-        "owac"
-      ],
-      "4": [
-        "obvBasti",
-        "XeonVirus"
-      ],
-      "59": [
-        "leekcookie"
-      ],
-      "60": [
-        "SuperXXLProfi"
-      ],
-      "67": [
-        "imabaldman"
-      ]
-    },
-    "mined": {
-      "1017": [
-        "Warhazarder"
-      ],
-      "152": [
-        "ScimMLG"
-      ],
-      "161": [
-        "iurie"
-      ],
-      "168": [
-        "chaos1989"
-      ],
-      "188": [
-        "lodoss2011"
-      ],
-      "360": [
-        "leekcookie"
-      ],
-      "676": [
-        "Mamuschkaz"
-      ],
-      "87": [
-        "__kreck"
-      ],
-      "91": [
-        "Mandahaya"
-      ],
-      "94": [
-        "Ivenor"
-      ]
-    },
-    "picked_up": {
-      "1075": [
-        "Warhazarder"
-      ],
-      "1235": [
-        "Mamuschkaz"
-      ],
-      "151": [
-        "ScimMLG"
-      ],
-      "156": [
-        "Makishi25"
-      ],
-      "162": [
-        "owac"
-      ],
-      "199": [
-        "chaos1989"
-      ],
-      "2065": [
-        "lodoss2011"
-      ],
-      "218": [
-        "Ivenor"
-      ],
-      "679": [
-        "__kreck"
-      ],
-      "804": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1109": [
-        "TrashSuperstar"
-      ],
-      "1257": [
-        "SnuvomBodensatz"
-      ],
-      "2862": [
-        "lodoss2011"
-      ],
-      "3989": [
-        "Mamuschkaz"
-      ],
-      "510": [
-        "leekcookie"
-      ],
-      "538": [
-        "Mandahaya"
-      ],
-      "603": [
-        "Makishi25"
-      ],
-      "702": [
-        "owac"
-      ],
-      "722": [
-        "chaos1989"
-      ],
-      "8157": [
-        "Warhazarder"
-      ]
-    }
+  "crafted": {
+    "12044": [
+      "Mamuschkaz"
+    ],
+    "14914": [
+      "lodoss2011"
+    ],
+    "21206": [
+      "leekcookie"
+    ],
+    "2208": [
+      "Ivenor"
+    ],
+    "22500": [
+      "__kreck"
+    ],
+    "27492": [
+      "TrashSuperstar"
+    ],
+    "28580": [
+      "owac"
+    ],
+    "33950": [
+      "Warhazarder"
+    ],
+    "3672": [
+      "imabaldman"
+    ],
+    "5016": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "10": [
+      "Makishi25",
+      "Warhazarder"
+    ],
+    "13": [
+      "__Iglo"
+    ],
+    "162": [
+      "lodoss2011"
+    ],
+    "256": [
+      "__kreck"
+    ],
+    "320": [
+      "Mamuschkaz"
+    ],
+    "39": [
+      "owac"
+    ],
+    "4": [
+      "XeonVirus",
+      "obvBasti"
+    ],
+    "59": [
+      "leekcookie"
+    ],
+    "60": [
+      "SuperXXLProfi"
+    ],
+    "67": [
+      "imabaldman"
+    ]
+  },
+  "mined": {
+    "1017": [
+      "Warhazarder"
+    ],
+    "152": [
+      "ScimMLG"
+    ],
+    "161": [
+      "iurie"
+    ],
+    "168": [
+      "chaos1989"
+    ],
+    "188": [
+      "lodoss2011"
+    ],
+    "360": [
+      "leekcookie"
+    ],
+    "676": [
+      "Mamuschkaz"
+    ],
+    "87": [
+      "__kreck"
+    ],
+    "91": [
+      "Mandahaya"
+    ],
+    "94": [
+      "Ivenor"
+    ]
+  },
+  "picked_up": {
+    "1075": [
+      "Warhazarder"
+    ],
+    "1235": [
+      "Mamuschkaz"
+    ],
+    "151": [
+      "ScimMLG"
+    ],
+    "156": [
+      "Makishi25"
+    ],
+    "162": [
+      "owac"
+    ],
+    "199": [
+      "chaos1989"
+    ],
+    "2065": [
+      "lodoss2011"
+    ],
+    "218": [
+      "Ivenor"
+    ],
+    "679": [
+      "__kreck"
+    ],
+    "804": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1109": [
+      "TrashSuperstar"
+    ],
+    "1257": [
+      "SnuvomBodensatz"
+    ],
+    "2862": [
+      "lodoss2011"
+    ],
+    "3989": [
+      "Mamuschkaz"
+    ],
+    "510": [
+      "leekcookie"
+    ],
+    "538": [
+      "Mandahaya"
+    ],
+    "603": [
+      "Makishi25"
+    ],
+    "702": [
+      "owac"
+    ],
+    "722": [
+      "chaos1989"
+    ],
+    "8157": [
+      "Warhazarder"
+    ]
   }
 }

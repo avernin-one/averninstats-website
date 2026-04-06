@@ -1,21 +1,17 @@
 {
-  "name": "orange_concrete",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "206": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "273": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "77": [
-        "leekcookie"
-      ]
-    }
+  "mined": {
+    "206": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "273": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "77": [
+      "leekcookie"
+    ]
   }
 }

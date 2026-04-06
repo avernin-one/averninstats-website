@@ -1,102 +1,98 @@
 {
-  "name": "coal",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "126": [
-        "iurie"
-      ],
-      "181": [
-        "Temeraiere"
-      ],
-      "207": [
-        "owac"
-      ],
-      "2268": [
-        "santemjocko"
-      ],
-      "252": [
-        "chaos1989"
-      ],
-      "274": [
-        "Iglo"
-      ],
-      "3689": [
-        "__Iglo"
-      ],
-      "403": [
-        "leekcookie"
-      ],
-      "621": [
-        "Warhazarder"
-      ],
-      "711": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "113": [
-        "Iglo"
-      ],
-      "126": [
-        "Lord_HoruS"
-      ],
-      "147": [
-        "philxpx"
-      ],
-      "227": [
-        "leekcookie"
-      ],
-      "2560": [
-        "__kreck"
-      ],
-      "264": [
-        "Mamuschkaz"
-      ],
-      "387": [
-        "SuperXXLProfi"
-      ],
-      "700": [
-        "__Iglo"
-      ],
-      "72": [
-        "santemjocko"
-      ],
-      "86": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "1690": [
-        "chaos1989"
-      ],
-      "17577": [
-        "Warhazarder"
-      ],
-      "1759": [
-        "Iglo"
-      ],
-      "2152": [
-        "Lord_HoruS"
-      ],
-      "2192": [
-        "TrashSuperstar"
-      ],
-      "2634": [
-        "leekcookie"
-      ],
-      "2681": [
-        "Mamuschkaz"
-      ],
-      "4878": [
-        "__kreck"
-      ],
-      "4930": [
-        "iurie"
-      ],
-      "4944": [
-        "santemjocko"
-      ]
-    }
+  "crafted": {
+    "126": [
+      "iurie"
+    ],
+    "181": [
+      "Temeraiere"
+    ],
+    "207": [
+      "owac"
+    ],
+    "2268": [
+      "santemjocko"
+    ],
+    "252": [
+      "chaos1989"
+    ],
+    "274": [
+      "Iglo"
+    ],
+    "3689": [
+      "__Iglo"
+    ],
+    "403": [
+      "leekcookie"
+    ],
+    "621": [
+      "Warhazarder"
+    ],
+    "711": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "113": [
+      "Iglo"
+    ],
+    "126": [
+      "Lord_HoruS"
+    ],
+    "147": [
+      "philxpx"
+    ],
+    "227": [
+      "leekcookie"
+    ],
+    "2560": [
+      "__kreck"
+    ],
+    "264": [
+      "Mamuschkaz"
+    ],
+    "387": [
+      "SuperXXLProfi"
+    ],
+    "700": [
+      "__Iglo"
+    ],
+    "72": [
+      "santemjocko"
+    ],
+    "86": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "1690": [
+      "chaos1989"
+    ],
+    "17577": [
+      "Warhazarder"
+    ],
+    "1759": [
+      "Iglo"
+    ],
+    "2152": [
+      "Lord_HoruS"
+    ],
+    "2192": [
+      "TrashSuperstar"
+    ],
+    "2634": [
+      "leekcookie"
+    ],
+    "2681": [
+      "Mamuschkaz"
+    ],
+    "4878": [
+      "__kreck"
+    ],
+    "4930": [
+      "iurie"
+    ],
+    "4944": [
+      "santemjocko"
+    ]
   }
 }

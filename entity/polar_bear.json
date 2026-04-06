@@ -1,26 +1,22 @@
 {
-  "name": "polar_bear",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "lodoss2011",
-        "chaos1989",
-        "owac",
-        "imabaldman",
-        "__Iglo"
-      ],
-      "12": [
-        "iurie"
-      ],
-      "4": [
-        "XeonVirus"
-      ]
-    },
-    "killed_by": {
-      "1": [
-        "Mandahaya"
-      ]
-    }
+  "killed": {
+    "1": [
+      "__Iglo",
+      "chaos1989",
+      "imabaldman",
+      "lodoss2011",
+      "owac"
+    ],
+    "12": [
+      "iurie"
+    ],
+    "4": [
+      "XeonVirus"
+    ]
+  },
+  "killed_by": {
+    "1": [
+      "Mandahaya"
+    ]
   }
 }

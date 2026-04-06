@@ -1,11 +1,7 @@
 {
-  "name": "stripped_crimson_stem",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "iurie"
-      ]
-    }
+  "mined": {
+    "1": [
+      "iurie"
+    ]
   }
 }

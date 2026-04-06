@@ -1,121 +1,117 @@
 {
-  "name": "spruce_button",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "Mandahaya",
-        "SuperXXLProfi",
-        "__Iglo"
-      ],
-      "12": [
-        "__kreck"
-      ],
-      "141": [
-        "owac"
-      ],
-      "2": [
-        "chaos1989"
-      ],
-      "216": [
-        "leekcookie"
-      ],
-      "25": [
-        "Makishi25"
-      ],
-      "4": [
-        "lodoss2011"
-      ],
-      "9": [
-        "Mamuschkaz",
-        "Warhazarder"
-      ]
-    },
-    "dropped": {
-      "14": [
-        "owac"
-      ],
-      "2": [
-        "ScimMLG",
-        "Mamuschkaz"
-      ],
-      "7": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Mandahaya"
-      ],
-      "2": [
-        "lodoss2011",
-        "chaos1989",
-        "Warhazarder"
-      ],
-      "4": [
-        "owac"
-      ],
-      "7": [
-        "leekcookie",
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Mandahaya",
-        "chaos1989",
-        "SuperXXLProfi",
-        "__Iglo"
-      ],
-      "11": [
-        "Makishi25"
-      ],
-      "14": [
-        "__kreck"
-      ],
-      "2": [
-        "Warhazarder"
-      ],
-      "349": [
-        "leekcookie"
-      ],
-      "59": [
-        "owac"
-      ],
-      "6": [
-        "Mamuschkaz"
-      ]
-    },
-    "used": {
-      "1": [
-        "Mandahaya",
-        "SuperXXLProfi",
-        "__Iglo"
-      ],
-      "11": [
-        "Warhazarder"
-      ],
-      "12": [
-        "__kreck"
-      ],
-      "13": [
-        "Mamuschkaz"
-      ],
-      "2": [
-        "chaos1989"
-      ],
-      "23": [
-        "Makishi25"
-      ],
-      "24": [
-        "leekcookie"
-      ],
-      "4": [
-        "lodoss2011"
-      ],
-      "84": [
-        "owac"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Mandahaya",
+      "SuperXXLProfi",
+      "__Iglo"
+    ],
+    "12": [
+      "__kreck"
+    ],
+    "141": [
+      "owac"
+    ],
+    "2": [
+      "chaos1989"
+    ],
+    "216": [
+      "leekcookie"
+    ],
+    "25": [
+      "Makishi25"
+    ],
+    "4": [
+      "lodoss2011"
+    ],
+    "9": [
+      "Mamuschkaz",
+      "Warhazarder"
+    ]
+  },
+  "dropped": {
+    "14": [
+      "owac"
+    ],
+    "2": [
+      "Mamuschkaz",
+      "ScimMLG"
+    ],
+    "7": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Mandahaya"
+    ],
+    "2": [
+      "Warhazarder",
+      "chaos1989",
+      "lodoss2011"
+    ],
+    "4": [
+      "owac"
+    ],
+    "7": [
+      "__kreck",
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Mandahaya",
+      "SuperXXLProfi",
+      "__Iglo",
+      "chaos1989"
+    ],
+    "11": [
+      "Makishi25"
+    ],
+    "14": [
+      "__kreck"
+    ],
+    "2": [
+      "Warhazarder"
+    ],
+    "349": [
+      "leekcookie"
+    ],
+    "59": [
+      "owac"
+    ],
+    "6": [
+      "Mamuschkaz"
+    ]
+  },
+  "used": {
+    "1": [
+      "Mandahaya",
+      "SuperXXLProfi",
+      "__Iglo"
+    ],
+    "11": [
+      "Warhazarder"
+    ],
+    "12": [
+      "__kreck"
+    ],
+    "13": [
+      "Mamuschkaz"
+    ],
+    "2": [
+      "chaos1989"
+    ],
+    "23": [
+      "Makishi25"
+    ],
+    "24": [
+      "leekcookie"
+    ],
+    "4": [
+      "lodoss2011"
+    ],
+    "84": [
+      "owac"
+    ]
   }
 }

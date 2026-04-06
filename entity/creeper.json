@@ -1,77 +1,73 @@
 {
-  "name": "creeper",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "103": [
-        "Sayder13xr"
-      ],
-      "104": [
-        "Makishi25"
-      ],
-      "108": [
-        "Mamuschkaz"
-      ],
-      "110": [
-        "leekcookie",
-        "iurie"
-      ],
-      "129": [
-        "Warhazarder"
-      ],
-      "62": [
-        "DornDasBrot"
-      ],
-      "66": [
-        "TrashSuperstar",
-        "__kreck",
-        "Teayo"
-      ],
-      "74": [
-        "owac"
-      ],
-      "83": [
-        "philxpx"
-      ],
-      "91": [
-        "XeonVirus"
-      ]
-    },
-    "killed_by": {
-      "1": [
-        "minenicknick",
-        "Austriana",
-        "Ivenor",
-        "Telinnor",
-        "StofftierAnabol",
-        "JonasderGamer",
-        "DornDasBrot",
-        "__kreck"
-      ],
-      "2": [
-        "Mandahaya",
-        "SnuvomBodensatz",
-        "Mamuschkaz",
-        "iurie",
-        "nitram1572",
-        "Warhazarder",
-        "Teayo"
-      ],
-      "23": [
-        "leekcookie"
-      ],
-      "3": [
-        "lodoss2011",
-        "XeonVirus"
-      ],
-      "4": [
-        "Temeraiere",
-        "egoplayer_Felix",
-        "Cpt_looper"
-      ],
-      "6": [
-        "Makishi25"
-      ]
-    }
+  "killed": {
+    "103": [
+      "Sayder13xr"
+    ],
+    "104": [
+      "Makishi25"
+    ],
+    "108": [
+      "Mamuschkaz"
+    ],
+    "110": [
+      "iurie",
+      "leekcookie"
+    ],
+    "129": [
+      "Warhazarder"
+    ],
+    "62": [
+      "DornDasBrot"
+    ],
+    "66": [
+      "Teayo",
+      "TrashSuperstar",
+      "__kreck"
+    ],
+    "74": [
+      "owac"
+    ],
+    "83": [
+      "philxpx"
+    ],
+    "91": [
+      "XeonVirus"
+    ]
+  },
+  "killed_by": {
+    "1": [
+      "Austriana",
+      "DornDasBrot",
+      "Ivenor",
+      "JonasderGamer",
+      "StofftierAnabol",
+      "Telinnor",
+      "__kreck",
+      "minenicknick"
+    ],
+    "2": [
+      "Mamuschkaz",
+      "Mandahaya",
+      "SnuvomBodensatz",
+      "Teayo",
+      "Warhazarder",
+      "iurie",
+      "nitram1572"
+    ],
+    "23": [
+      "leekcookie"
+    ],
+    "3": [
+      "XeonVirus",
+      "lodoss2011"
+    ],
+    "4": [
+      "Cpt_looper",
+      "Temeraiere",
+      "egoplayer_Felix"
+    ],
+    "6": [
+      "Makishi25"
+    ]
   }
 }

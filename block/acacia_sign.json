@@ -1,30 +1,26 @@
 {
-  "name": "acacia_sign",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "27": [
-        "Telinnor"
-      ],
-      "3": [
-        "ScimMLG"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "ScimMLG"
-      ],
-      "12": [
-        "Telinnor"
-      ]
-    },
-    "used": {
-      "1": [
-        "ScimMLG"
-      ],
-      "22": [
-        "Telinnor"
-      ]
-    }
+  "crafted": {
+    "27": [
+      "Telinnor"
+    ],
+    "3": [
+      "ScimMLG"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "ScimMLG"
+    ],
+    "12": [
+      "Telinnor"
+    ]
+  },
+  "used": {
+    "1": [
+      "ScimMLG"
+    ],
+    "22": [
+      "Telinnor"
+    ]
   }
 }

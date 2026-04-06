@@ -1,41 +1,37 @@
 {
-  "name": "birch_wall_sign",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "SnuvomBodensatz",
-        "Austriana",
-        "Lord_HoruS"
-      ],
-      "12": [
-        "__kreck"
-      ],
-      "14": [
-        "CuzimJxson"
-      ],
-      "15": [
-        "lodoss2011"
-      ],
-      "2": [
-        "chaos1989",
-        "owac",
-        "Telinnor",
-        "JonasderGamer"
-      ],
-      "4": [
-        "Mandahaya",
-        "__Iglo"
-      ],
-      "6": [
-        "imabaldman"
-      ],
-      "8": [
-        "leekcookie"
-      ],
-      "97": [
-        "Teayo"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Austriana",
+      "Lord_HoruS",
+      "SnuvomBodensatz"
+    ],
+    "12": [
+      "__kreck"
+    ],
+    "14": [
+      "CuzimJxson"
+    ],
+    "15": [
+      "lodoss2011"
+    ],
+    "2": [
+      "JonasderGamer",
+      "Telinnor",
+      "chaos1989",
+      "owac"
+    ],
+    "4": [
+      "Mandahaya",
+      "__Iglo"
+    ],
+    "6": [
+      "imabaldman"
+    ],
+    "8": [
+      "leekcookie"
+    ],
+    "97": [
+      "Teayo"
+    ]
   }
 }

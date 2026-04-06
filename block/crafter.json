@@ -1,46 +1,42 @@
 {
-  "name": "crafter",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "2": [
-        "__Iglo"
-      ],
-      "26": [
-        "__kreck"
-      ],
-      "4": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "23": [
-        "__kreck"
-      ],
-      "5": [
-        "leekcookie",
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "31": [
-        "__kreck"
-      ],
-      "5": [
-        "leekcookie",
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "41": [
-        "__kreck"
-      ],
-      "7": [
-        "__Iglo"
-      ],
-      "9": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "2": [
+      "__Iglo"
+    ],
+    "26": [
+      "__kreck"
+    ],
+    "4": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "23": [
+      "__kreck"
+    ],
+    "5": [
+      "__Iglo",
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "31": [
+      "__kreck"
+    ],
+    "5": [
+      "__Iglo",
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "41": [
+      "__kreck"
+    ],
+    "7": [
+      "__Iglo"
+    ],
+    "9": [
+      "leekcookie"
+    ]
   }
 }

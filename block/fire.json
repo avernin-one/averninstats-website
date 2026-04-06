@@ -1,38 +1,34 @@
 {
-  "name": "fire",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "103": [
-        "leekcookie"
-      ],
-      "121": [
-        "Lord_HoruS"
-      ],
-      "155": [
-        "lodoss2011"
-      ],
-      "191": [
-        "__kreck"
-      ],
-      "224": [
-        "Iglo"
-      ],
-      "268": [
-        "__Iglo"
-      ],
-      "270": [
-        "santemjocko"
-      ],
-      "427": [
-        "iurie"
-      ],
-      "65": [
-        "Telinnor"
-      ],
-      "86": [
-        "imabaldman"
-      ]
-    }
+  "mined": {
+    "103": [
+      "leekcookie"
+    ],
+    "121": [
+      "Lord_HoruS"
+    ],
+    "155": [
+      "lodoss2011"
+    ],
+    "191": [
+      "__kreck"
+    ],
+    "224": [
+      "Iglo"
+    ],
+    "268": [
+      "__Iglo"
+    ],
+    "270": [
+      "santemjocko"
+    ],
+    "427": [
+      "iurie"
+    ],
+    "65": [
+      "Telinnor"
+    ],
+    "86": [
+      "imabaldman"
+    ]
   }
 }

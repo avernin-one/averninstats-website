@@ -1,81 +1,77 @@
 {
-  "name": "andesite_wall",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "228": [
-        "nitram1572"
-      ],
-      "30": [
-        "Ivenor"
-      ],
-      "6": [
-        "chaos1989",
-        "Makishi25"
-      ],
-      "60": [
-        "SnuvomBodensatz"
-      ],
-      "9": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Makishi25"
-      ],
-      "14": [
-        "nitram1572"
-      ],
-      "26": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie",
-        "Makishi25"
-      ],
-      "262": [
-        "nitram1572"
-      ],
-      "3": [
-        "SnuvomBodensatz",
-        "Ivenor"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "Makishi25"
-      ],
-      "269": [
-        "nitram1572"
-      ],
-      "3": [
-        "SnuvomBodensatz",
-        "Ivenor"
-      ],
-      "54": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "33": [
-        "Ivenor"
-      ],
-      "371": [
-        "nitram1572"
-      ],
-      "4": [
-        "chaos1989",
-        "Makishi25"
-      ],
-      "8": [
-        "leekcookie"
-      ],
-      "81": [
-        "SnuvomBodensatz"
-      ]
-    }
+  "crafted": {
+    "228": [
+      "nitram1572"
+    ],
+    "30": [
+      "Ivenor"
+    ],
+    "6": [
+      "Makishi25",
+      "chaos1989"
+    ],
+    "60": [
+      "SnuvomBodensatz"
+    ],
+    "9": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Makishi25"
+    ],
+    "14": [
+      "nitram1572"
+    ],
+    "26": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Makishi25",
+      "leekcookie"
+    ],
+    "262": [
+      "nitram1572"
+    ],
+    "3": [
+      "Ivenor",
+      "SnuvomBodensatz"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "Makishi25"
+    ],
+    "269": [
+      "nitram1572"
+    ],
+    "3": [
+      "Ivenor",
+      "SnuvomBodensatz"
+    ],
+    "54": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "33": [
+      "Ivenor"
+    ],
+    "371": [
+      "nitram1572"
+    ],
+    "4": [
+      "Makishi25",
+      "chaos1989"
+    ],
+    "8": [
+      "leekcookie"
+    ],
+    "81": [
+      "SnuvomBodensatz"
+    ]
   }
 }

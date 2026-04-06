@@ -1,125 +1,121 @@
 {
-  "name": "purpur_pillar",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "DornDasBrot"
-      ],
-      "15": [
-        "leekcookie"
-      ],
-      "18": [
-        "owac"
-      ],
-      "2": [
-        "lodoss2011"
-      ],
-      "4": [
-        "santemjocko",
-        "iurie",
-        "imabaldman"
-      ],
-      "53": [
-        "SnuvomBodensatz"
-      ],
-      "8": [
-        "Iglo"
-      ]
-    },
-    "mined": {
-      "13": [
-        "Iglo"
-      ],
-      "25": [
-        "__kreck"
-      ],
-      "27": [
-        "lodoss2011"
-      ],
-      "34": [
-        "leekcookie"
-      ],
-      "587": [
-        "SnuvomBodensatz"
-      ],
-      "6": [
-        "XeonVirus"
-      ],
-      "7": [
-        "Lord_HoruS"
-      ],
-      "73": [
-        "owac"
-      ],
-      "76": [
-        "iurie"
-      ],
-      "86": [
-        "Warhazarder"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "XeonVirus"
-      ],
-      "11": [
-        "Iglo"
-      ],
-      "28": [
-        "__kreck"
-      ],
-      "30": [
-        "lodoss2011"
-      ],
-      "505": [
-        "SnuvomBodensatz"
-      ],
-      "52": [
-        "leekcookie"
-      ],
-      "64": [
-        "iurie"
-      ],
-      "82": [
-        "Warhazarder"
-      ],
-      "83": [
-        "owac"
-      ],
-      "9": [
-        "imabaldman"
-      ]
-    },
-    "used": {
-      "1": [
-        "SnuvomBodensatz",
-        "StofftierAnabol"
-      ],
-      "11": [
-        "Warhazarder"
-      ],
-      "4": [
-        "Lord_HoruS",
-        "imabaldman"
-      ],
-      "43": [
-        "iurie"
-      ],
-      "50": [
-        "owac"
-      ],
-      "6": [
-        "lodoss2011"
-      ],
-      "7": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "DornDasBrot"
+    ],
+    "15": [
+      "leekcookie"
+    ],
+    "18": [
+      "owac"
+    ],
+    "2": [
+      "lodoss2011"
+    ],
+    "4": [
+      "imabaldman",
+      "iurie",
+      "santemjocko"
+    ],
+    "53": [
+      "SnuvomBodensatz"
+    ],
+    "8": [
+      "Iglo"
+    ]
+  },
+  "mined": {
+    "13": [
+      "Iglo"
+    ],
+    "25": [
+      "__kreck"
+    ],
+    "27": [
+      "lodoss2011"
+    ],
+    "34": [
+      "leekcookie"
+    ],
+    "587": [
+      "SnuvomBodensatz"
+    ],
+    "6": [
+      "XeonVirus"
+    ],
+    "7": [
+      "Lord_HoruS"
+    ],
+    "73": [
+      "owac"
+    ],
+    "76": [
+      "iurie"
+    ],
+    "86": [
+      "Warhazarder"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "XeonVirus"
+    ],
+    "11": [
+      "Iglo"
+    ],
+    "28": [
+      "__kreck"
+    ],
+    "30": [
+      "lodoss2011"
+    ],
+    "505": [
+      "SnuvomBodensatz"
+    ],
+    "52": [
+      "leekcookie"
+    ],
+    "64": [
+      "iurie"
+    ],
+    "82": [
+      "Warhazarder"
+    ],
+    "83": [
+      "owac"
+    ],
+    "9": [
+      "imabaldman"
+    ]
+  },
+  "used": {
+    "1": [
+      "SnuvomBodensatz",
+      "StofftierAnabol"
+    ],
+    "11": [
+      "Warhazarder"
+    ],
+    "4": [
+      "Lord_HoruS",
+      "imabaldman"
+    ],
+    "43": [
+      "iurie"
+    ],
+    "50": [
+      "owac"
+    ],
+    "6": [
+      "lodoss2011"
+    ],
+    "7": [
+      "leekcookie"
+    ]
   }
 }

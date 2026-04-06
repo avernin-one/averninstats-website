@@ -1,124 +1,120 @@
 {
-  "name": "golden_helmet",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "1": [
-        "Mandahaya",
-        "SnuvomBodensatz",
-        "santemjocko",
-        "lodoss2011",
-        "egoplayer_Felix",
-        "iurie",
-        "Telinnor",
-        "TrashSuperstar"
-      ]
-    },
-    "crafted": {
-      "1": [
-        "Iglo",
-        "SuperXXLProfi"
-      ],
-      "2": [
-        "santemjocko"
-      ],
-      "3": [
-        "TrashSuperstar"
-      ],
-      "4": [
-        "SnuvomBodensatz"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Mandahaya",
-        "Lukas_126",
-        "chaos1989",
-        "minenicknick",
-        "philxpx",
-        "Ivenor",
-        "owac",
-        "SuperXXLProfi",
-        "Telinnor",
-        "TrashSuperstar",
-        "JonasderGamer"
-      ],
-      "15": [
-        "Sayder13xr"
-      ],
-      "2": [
-        "XeonVirus"
-      ],
-      "27": [
-        "leekcookie"
-      ],
-      "3": [
-        "santemjocko",
-        "Lord_HoruS",
-        "DornDasBrot",
-        "Makishi25"
-      ],
-      "4": [
-        "Mamuschkaz",
-        "Iglo"
-      ],
-      "6": [
-        "__kreck"
-      ],
-      "7": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "11": [
-        "SnuvomBodensatz"
-      ],
-      "13": [
-        "iurie"
-      ],
-      "2": [
-        "lodoss2011",
-        "philxpx"
-      ],
-      "3": [
-        "santemjocko",
-        "egoplayer_Felix",
-        "TrashSuperstar",
-        "Lord_HoruS",
-        "XeonVirus"
-      ],
-      "30": [
-        "leekcookie"
-      ],
-      "4": [
-        "Mamuschkaz",
-        "SuperXXLProfi",
-        "Telinnor",
-        "Makishi25",
-        "Warhazarder",
-        "Teayo"
-      ],
-      "5": [
-        "chaos1989",
-        "Cpt_looper",
-        "DornDasBrot"
-      ],
-      "6": [
-        "nitram1572",
-        "Sayder13xr"
-      ],
-      "7": [
-        "__kreck"
-      ],
-      "8": [
-        "Mandahaya",
-        "Iglo"
-      ]
-    },
-    "used": {
-      "1": [
-        "iurie"
-      ]
-    }
+  "broken": {
+    "1": [
+      "Mandahaya",
+      "SnuvomBodensatz",
+      "Telinnor",
+      "TrashSuperstar",
+      "egoplayer_Felix",
+      "iurie",
+      "lodoss2011",
+      "santemjocko"
+    ]
+  },
+  "crafted": {
+    "1": [
+      "Iglo",
+      "SuperXXLProfi"
+    ],
+    "2": [
+      "santemjocko"
+    ],
+    "3": [
+      "TrashSuperstar"
+    ],
+    "4": [
+      "SnuvomBodensatz"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Ivenor",
+      "JonasderGamer",
+      "Lukas_126",
+      "Mandahaya",
+      "SuperXXLProfi",
+      "Telinnor",
+      "TrashSuperstar",
+      "chaos1989",
+      "minenicknick",
+      "owac",
+      "philxpx"
+    ],
+    "15": [
+      "Sayder13xr"
+    ],
+    "2": [
+      "XeonVirus"
+    ],
+    "27": [
+      "leekcookie"
+    ],
+    "3": [
+      "DornDasBrot",
+      "Lord_HoruS",
+      "Makishi25",
+      "santemjocko"
+    ],
+    "4": [
+      "Iglo",
+      "Mamuschkaz"
+    ],
+    "6": [
+      "__kreck"
+    ],
+    "7": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "11": [
+      "SnuvomBodensatz"
+    ],
+    "13": [
+      "iurie"
+    ],
+    "2": [
+      "lodoss2011",
+      "philxpx"
+    ],
+    "3": [
+      "Lord_HoruS",
+      "TrashSuperstar",
+      "XeonVirus",
+      "egoplayer_Felix",
+      "santemjocko"
+    ],
+    "30": [
+      "leekcookie"
+    ],
+    "4": [
+      "Makishi25",
+      "Mamuschkaz",
+      "SuperXXLProfi",
+      "Teayo",
+      "Telinnor",
+      "Warhazarder"
+    ],
+    "5": [
+      "Cpt_looper",
+      "DornDasBrot",
+      "chaos1989"
+    ],
+    "6": [
+      "Sayder13xr",
+      "nitram1572"
+    ],
+    "7": [
+      "__kreck"
+    ],
+    "8": [
+      "Iglo",
+      "Mandahaya"
+    ]
+  },
+  "used": {
+    "1": [
+      "iurie"
+    ]
   }
 }

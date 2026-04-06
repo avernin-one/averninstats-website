@@ -2,9 +2,9 @@
   "name": "minenicknick",
   "uuid": "2a7fa0bb-313c-4e76-be3e-e209e89e64ef",
   "medals": {
-    "gold": 0,
-    "silver": 1,
-    "bronze": 0
+    "gold": 1,
+    "silver": 5,
+    "bronze": 10
   },
   "stats": {
     "aviate_one_cm": 18101782,
@@ -147,31 +147,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1223": [
-          "firework_rocket"
-        ],
-        "192": [
-          "arrow"
-        ]
-      },
-      "dropped": {
-        "210": [
-          "arrow"
-        ],
-        "50": [
-          "potion"
-        ],
-        "64": [
-          "firework_rocket"
-        ],
-        "760": [
-          "spectral_arrow"
-        ],
-        "999": [
-          "ender_pearl"
-        ]
-      },
       "killed": {
         "120": [
           "zombified_piglin"
@@ -195,40 +170,6 @@
           "player",
           "skeleton",
           "zombie"
-        ]
-      },
-      "picked_up": {
-        "106": [
-          "arrow"
-        ],
-        "1163": [
-          "ender_pearl"
-        ],
-        "394": [
-          "firework_rocket"
-        ],
-        "52": [
-          "potion"
-        ],
-        "737": [
-          "spectral_arrow"
-        ]
-      },
-      "used": {
-        "1": [
-          "armor_stand"
-        ],
-        "1101": [
-          "firework_rocket"
-        ],
-        "19": [
-          "potion"
-        ],
-        "252": [
-          "trident"
-        ],
-        "67": [
-          "ender_pearl"
         ]
       }
     },
@@ -265,17 +206,6 @@
         ],
         "999": [
           "ender_pearl"
-        ]
-      },
-      "mined": {
-        "24": [
-          "nether_wart"
-        ],
-        "4": [
-          "wheat"
-        ],
-        "6": [
-          "brewing_stand"
         ]
       },
       "picked_up": {

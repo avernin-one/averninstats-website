@@ -1,31 +1,27 @@
 {
-  "name": "frosted_ice",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "obvBasti",
-        "santemjocko",
-        "minenicknick",
-        "leekcookie",
-        "__Iglo",
-        "Teayo"
-      ],
-      "2": [
-        "owac",
-        "egoplayer_Felix",
-        "Cpt_looper"
-      ],
-      "21": [
-        "SuperXXLProfi"
-      ],
-      "3": [
-        "imabaldman"
-      ],
-      "5": [
-        "JonasderGamer",
-        "DornDasBrot"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Teayo",
+      "__Iglo",
+      "leekcookie",
+      "minenicknick",
+      "obvBasti",
+      "santemjocko"
+    ],
+    "2": [
+      "Cpt_looper",
+      "egoplayer_Felix",
+      "owac"
+    ],
+    "21": [
+      "SuperXXLProfi"
+    ],
+    "3": [
+      "imabaldman"
+    ],
+    "5": [
+      "DornDasBrot",
+      "JonasderGamer"
+    ]
   }
 }

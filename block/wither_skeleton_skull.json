@@ -1,100 +1,96 @@
 {
-  "name": "wither_skeleton_skull",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "12": [
-        "santemjocko"
-      ],
-      "3": [
-        "imabaldman",
-        "Sayder13xr"
-      ],
-      "50": [
-        "__Iglo"
-      ],
-      "6": [
-        "Mamuschkaz"
-      ],
-      "66": [
-        "Iglo"
-      ],
-      "7": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "1": [
-        "iurie"
-      ],
-      "5": [
-        "owac"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "XeonVirus"
-      ],
-      "13": [
-        "Sayder13xr",
-        "__Iglo"
-      ],
-      "175": [
-        "leekcookie"
-      ],
-      "25": [
-        "iurie"
-      ],
-      "30": [
-        "owac"
-      ],
-      "31": [
-        "santemjocko"
-      ],
-      "32": [
-        "Iglo"
-      ],
-      "49": [
-        "Mamuschkaz"
-      ],
-      "64": [
-        "JonasderGamer"
-      ],
-      "66": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "15": [
-        "imabaldman"
-      ],
-      "18": [
-        "Mamuschkaz"
-      ],
-      "198": [
-        "owac"
-      ],
-      "36": [
-        "leekcookie"
-      ],
-      "4": [
-        "Iglo"
-      ],
-      "48": [
-        "santemjocko"
-      ],
-      "59": [
-        "iurie"
-      ],
-      "6": [
-        "Sayder13xr"
-      ],
-      "7": [
-        "Lord_HoruS"
-      ],
-      "82": [
-        "__kreck"
-      ]
-    }
+  "dropped": {
+    "12": [
+      "santemjocko"
+    ],
+    "3": [
+      "Sayder13xr",
+      "imabaldman"
+    ],
+    "50": [
+      "__Iglo"
+    ],
+    "6": [
+      "Mamuschkaz"
+    ],
+    "66": [
+      "Iglo"
+    ],
+    "7": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "1": [
+      "iurie"
+    ],
+    "5": [
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "XeonVirus"
+    ],
+    "13": [
+      "Sayder13xr",
+      "__Iglo"
+    ],
+    "175": [
+      "leekcookie"
+    ],
+    "25": [
+      "iurie"
+    ],
+    "30": [
+      "owac"
+    ],
+    "31": [
+      "santemjocko"
+    ],
+    "32": [
+      "Iglo"
+    ],
+    "49": [
+      "Mamuschkaz"
+    ],
+    "64": [
+      "JonasderGamer"
+    ],
+    "66": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "15": [
+      "imabaldman"
+    ],
+    "18": [
+      "Mamuschkaz"
+    ],
+    "198": [
+      "owac"
+    ],
+    "36": [
+      "leekcookie"
+    ],
+    "4": [
+      "Iglo"
+    ],
+    "48": [
+      "santemjocko"
+    ],
+    "59": [
+      "iurie"
+    ],
+    "6": [
+      "Sayder13xr"
+    ],
+    "7": [
+      "Lord_HoruS"
+    ],
+    "82": [
+      "__kreck"
+    ]
   }
 }

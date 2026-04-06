@@ -1,119 +1,115 @@
 {
-  "name": "deepslate_diamond_ore",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "imabaldman",
-        "__kreck"
-      ],
-      "13": [
-        "santemjocko",
-        "__Iglo"
-      ],
-      "23": [
-        "obvBasti"
-      ],
-      "8": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "115": [
-        "Warhazarder"
-      ],
-      "129": [
-        "Sayder13xr"
-      ],
-      "146": [
-        "Lord_HoruS"
-      ],
-      "222": [
-        "__kreck"
-      ],
-      "237": [
-        "santemjocko"
-      ],
-      "325": [
-        "XeonVirus"
-      ],
-      "332": [
-        "TrashSuperstar"
-      ],
-      "471": [
-        "iurie"
-      ],
-      "619": [
-        "leekcookie"
-      ],
-      "90": [
-        "SuperXXLProfi"
-      ]
-    },
-    "picked_up": {
-      "107": [
-        "__kreck"
-      ],
-      "129": [
-        "XeonVirus"
-      ],
-      "159": [
-        "iurie"
-      ],
-      "177": [
-        "santemjocko"
-      ],
-      "207": [
-        "TrashSuperstar"
-      ],
-      "60": [
-        "__Iglo"
-      ],
-      "66": [
-        "Lord_HoruS"
-      ],
-      "67": [
-        "SuperXXLProfi"
-      ],
-      "699": [
-        "leekcookie"
-      ],
-      "82": [
-        "obvBasti"
-      ]
-    },
-    "used": {
-      "10": [
-        "leekcookie"
-      ],
-      "100": [
-        "TrashSuperstar"
-      ],
-      "129": [
-        "XeonVirus"
-      ],
-      "13": [
-        "philxpx"
-      ],
-      "15": [
-        "santemjocko"
-      ],
-      "158": [
-        "iurie"
-      ],
-      "21": [
-        "chaos1989",
-        "Sayder13xr"
-      ],
-      "22": [
-        "imabaldman"
-      ],
-      "43": [
-        "SuperXXLProfi"
-      ],
-      "66": [
-        "Lord_HoruS"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "__kreck",
+      "imabaldman"
+    ],
+    "13": [
+      "__Iglo",
+      "santemjocko"
+    ],
+    "23": [
+      "obvBasti"
+    ],
+    "8": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "115": [
+      "Warhazarder"
+    ],
+    "129": [
+      "Sayder13xr"
+    ],
+    "146": [
+      "Lord_HoruS"
+    ],
+    "222": [
+      "__kreck"
+    ],
+    "237": [
+      "santemjocko"
+    ],
+    "325": [
+      "XeonVirus"
+    ],
+    "332": [
+      "TrashSuperstar"
+    ],
+    "471": [
+      "iurie"
+    ],
+    "619": [
+      "leekcookie"
+    ],
+    "90": [
+      "SuperXXLProfi"
+    ]
+  },
+  "picked_up": {
+    "107": [
+      "__kreck"
+    ],
+    "129": [
+      "XeonVirus"
+    ],
+    "159": [
+      "iurie"
+    ],
+    "177": [
+      "santemjocko"
+    ],
+    "207": [
+      "TrashSuperstar"
+    ],
+    "60": [
+      "__Iglo"
+    ],
+    "66": [
+      "Lord_HoruS"
+    ],
+    "67": [
+      "SuperXXLProfi"
+    ],
+    "699": [
+      "leekcookie"
+    ],
+    "82": [
+      "obvBasti"
+    ]
+  },
+  "used": {
+    "10": [
+      "leekcookie"
+    ],
+    "100": [
+      "TrashSuperstar"
+    ],
+    "129": [
+      "XeonVirus"
+    ],
+    "13": [
+      "philxpx"
+    ],
+    "15": [
+      "santemjocko"
+    ],
+    "158": [
+      "iurie"
+    ],
+    "21": [
+      "Sayder13xr",
+      "chaos1989"
+    ],
+    "22": [
+      "imabaldman"
+    ],
+    "43": [
+      "SuperXXLProfi"
+    ],
+    "66": [
+      "Lord_HoruS"
+    ]
   }
 }

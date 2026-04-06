@@ -1,19 +1,15 @@
 {
-  "name": "dead_bubble_coral_block",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "3": [
-        "TrashSuperstar"
-      ]
-    },
-    "picked_up": {
-      "3": [
-        "Mandahaya"
-      ],
-      "8": [
-        "TrashSuperstar"
-      ]
-    }
+  "mined": {
+    "3": [
+      "TrashSuperstar"
+    ]
+  },
+  "picked_up": {
+    "3": [
+      "Mandahaya"
+    ],
+    "8": [
+      "TrashSuperstar"
+    ]
   }
 }

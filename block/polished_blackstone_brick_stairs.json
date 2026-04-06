@@ -1,71 +1,67 @@
 {
-  "name": "polished_blackstone_brick_stairs",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "100": [
-        "Makishi25"
-      ],
-      "4": [
-        "leekcookie",
-        "nitram1572"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Sayder13xr",
-        "__Iglo"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie",
-        "imabaldman",
-        "Sayder13xr",
-        "__Iglo"
-      ],
-      "11": [
-        "iurie"
-      ],
-      "3": [
-        "Makishi25"
-      ],
-      "4": [
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "imabaldman",
-        "Sayder13xr",
-        "__Iglo"
-      ],
-      "3": [
-        "Makishi25"
-      ],
-      "4": [
-        "nitram1572"
-      ],
-      "65": [
-        "leekcookie"
-      ],
-      "8": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "103": [
-        "Makishi25"
-      ],
-      "2": [
-        "iurie"
-      ],
-      "5": [
-        "leekcookie"
-      ],
-      "7": [
-        "nitram1572"
-      ]
-    }
+  "crafted": {
+    "100": [
+      "Makishi25"
+    ],
+    "4": [
+      "leekcookie",
+      "nitram1572"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Sayder13xr",
+      "__Iglo"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Sayder13xr",
+      "__Iglo",
+      "imabaldman",
+      "leekcookie"
+    ],
+    "11": [
+      "iurie"
+    ],
+    "3": [
+      "Makishi25"
+    ],
+    "4": [
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Sayder13xr",
+      "__Iglo",
+      "imabaldman"
+    ],
+    "3": [
+      "Makishi25"
+    ],
+    "4": [
+      "nitram1572"
+    ],
+    "65": [
+      "leekcookie"
+    ],
+    "8": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "103": [
+      "Makishi25"
+    ],
+    "2": [
+      "iurie"
+    ],
+    "5": [
+      "leekcookie"
+    ],
+    "7": [
+      "nitram1572"
+    ]
   }
 }

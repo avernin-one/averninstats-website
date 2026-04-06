@@ -1,32 +1,28 @@
 {
-  "name": "polished_granite_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "18": [
-        "nitram1572"
-      ]
-    },
-    "mined": {
-      "1": [
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "184": [
-        "leekcookie"
-      ],
-      "2": [
-        "nitram1572"
-      ]
-    },
-    "used": {
-      "1": [
-        "leekcookie"
-      ],
-      "12": [
-        "nitram1572"
-      ]
-    }
+  "crafted": {
+    "18": [
+      "nitram1572"
+    ]
+  },
+  "mined": {
+    "1": [
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "184": [
+      "leekcookie"
+    ],
+    "2": [
+      "nitram1572"
+    ]
+  },
+  "used": {
+    "1": [
+      "leekcookie"
+    ],
+    "12": [
+      "nitram1572"
+    ]
   }
 }

@@ -1,105 +1,101 @@
 {
-  "name": "totem_of_undying",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "100": [
-        "santemjocko"
-      ],
-      "12": [
-        "minenicknick"
-      ],
-      "13": [
-        "leekcookie"
-      ],
-      "1708": [
-        "philxpx"
-      ],
-      "35": [
-        "JonasderGamer"
-      ],
-      "46": [
-        "owac"
-      ],
-      "511": [
-        "SuperXXLProfi"
-      ],
-      "6": [
-        "Iglo",
-        "XeonVirus"
-      ],
-      "8": [
-        "lodoss2011",
-        "iurie"
-      ],
-      "93": [
-        "imabaldman"
-      ]
-    },
-    "picked_up": {
-      "106": [
-        "iurie"
-      ],
-      "163": [
-        "leekcookie"
-      ],
-      "288": [
-        "SuperXXLProfi"
-      ],
-      "34": [
-        "minenicknick"
-      ],
-      "398": [
-        "philxpx"
-      ],
-      "41": [
-        "JonasderGamer"
-      ],
-      "49": [
-        "Warhazarder"
-      ],
-      "54": [
-        "owac"
-      ],
-      "81": [
-        "santemjocko"
-      ],
-      "93": [
-        "imabaldman"
-      ]
-    },
-    "used": {
-      "10": [
-        "minenicknick",
-        "__kreck"
-      ],
-      "111": [
-        "iurie"
-      ],
-      "15": [
-        "__Iglo"
-      ],
-      "22": [
-        "philxpx"
-      ],
-      "24": [
-        "imabaldman"
-      ],
-      "25": [
-        "SuperXXLProfi"
-      ],
-      "41": [
-        "santemjocko"
-      ],
-      "5": [
-        "Iglo"
-      ],
-      "6": [
-        "Makishi25"
-      ],
-      "7": [
-        "obvBasti"
-      ]
-    }
+  "dropped": {
+    "100": [
+      "santemjocko"
+    ],
+    "12": [
+      "minenicknick"
+    ],
+    "13": [
+      "leekcookie"
+    ],
+    "1708": [
+      "philxpx"
+    ],
+    "35": [
+      "JonasderGamer"
+    ],
+    "46": [
+      "owac"
+    ],
+    "511": [
+      "SuperXXLProfi"
+    ],
+    "6": [
+      "Iglo",
+      "XeonVirus"
+    ],
+    "8": [
+      "iurie",
+      "lodoss2011"
+    ],
+    "93": [
+      "imabaldman"
+    ]
+  },
+  "picked_up": {
+    "106": [
+      "iurie"
+    ],
+    "163": [
+      "leekcookie"
+    ],
+    "288": [
+      "SuperXXLProfi"
+    ],
+    "34": [
+      "minenicknick"
+    ],
+    "398": [
+      "philxpx"
+    ],
+    "41": [
+      "JonasderGamer"
+    ],
+    "49": [
+      "Warhazarder"
+    ],
+    "54": [
+      "owac"
+    ],
+    "81": [
+      "santemjocko"
+    ],
+    "93": [
+      "imabaldman"
+    ]
+  },
+  "used": {
+    "10": [
+      "__kreck",
+      "minenicknick"
+    ],
+    "111": [
+      "iurie"
+    ],
+    "15": [
+      "__Iglo"
+    ],
+    "22": [
+      "philxpx"
+    ],
+    "24": [
+      "imabaldman"
+    ],
+    "25": [
+      "SuperXXLProfi"
+    ],
+    "41": [
+      "santemjocko"
+    ],
+    "5": [
+      "Iglo"
+    ],
+    "6": [
+      "Makishi25"
+    ],
+    "7": [
+      "obvBasti"
+    ]
   }
 }

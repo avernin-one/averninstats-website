@@ -1,98 +1,94 @@
 {
-  "name": "black_carpet",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "240": [
-        "owac"
-      ],
-      "3507": [
-        "leekcookie"
-      ],
-      "6": [
-        "nitram1572",
-        "Makishi25"
-      ],
-      "8": [
-        "iurie"
-      ],
-      "864": [
-        "__kreck"
-      ],
-      "9": [
-        "lodoss2011"
-      ]
-    },
-    "dropped": {
-      "139": [
-        "__kreck"
-      ],
-      "2": [
-        "lodoss2011",
-        "ScimMLG"
-      ],
-      "201": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "iurie"
-      ],
-      "13": [
-        "nitram1572"
-      ],
-      "283": [
-        "leekcookie"
-      ],
-      "418": [
-        "owac"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "lodoss2011",
-        "iurie",
-        "Makishi25"
-      ],
-      "1251": [
-        "leekcookie"
-      ],
-      "13": [
-        "nitram1572"
-      ],
-      "2": [
-        "ScimMLG"
-      ],
-      "267": [
-        "__kreck"
-      ],
-      "416": [
-        "owac"
-      ]
-    },
-    "used": {
-      "1": [
-        "iurie"
-      ],
-      "13": [
-        "nitram1572"
-      ],
-      "3203": [
-        "leekcookie"
-      ],
-      "5": [
-        "Makishi25"
-      ],
-      "628": [
-        "owac"
-      ],
-      "725": [
-        "__kreck"
-      ],
-      "8": [
-        "lodoss2011"
-      ]
-    }
+  "crafted": {
+    "240": [
+      "owac"
+    ],
+    "3507": [
+      "leekcookie"
+    ],
+    "6": [
+      "Makishi25",
+      "nitram1572"
+    ],
+    "8": [
+      "iurie"
+    ],
+    "864": [
+      "__kreck"
+    ],
+    "9": [
+      "lodoss2011"
+    ]
+  },
+  "dropped": {
+    "139": [
+      "__kreck"
+    ],
+    "2": [
+      "ScimMLG",
+      "lodoss2011"
+    ],
+    "201": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "iurie"
+    ],
+    "13": [
+      "nitram1572"
+    ],
+    "283": [
+      "leekcookie"
+    ],
+    "418": [
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Makishi25",
+      "iurie",
+      "lodoss2011"
+    ],
+    "1251": [
+      "leekcookie"
+    ],
+    "13": [
+      "nitram1572"
+    ],
+    "2": [
+      "ScimMLG"
+    ],
+    "267": [
+      "__kreck"
+    ],
+    "416": [
+      "owac"
+    ]
+  },
+  "used": {
+    "1": [
+      "iurie"
+    ],
+    "13": [
+      "nitram1572"
+    ],
+    "3203": [
+      "leekcookie"
+    ],
+    "5": [
+      "Makishi25"
+    ],
+    "628": [
+      "owac"
+    ],
+    "725": [
+      "__kreck"
+    ],
+    "8": [
+      "lodoss2011"
+    ]
   }
 }

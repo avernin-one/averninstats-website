@@ -103,24 +103,9 @@
       }
     },
     "entity": {
-      "crafted": {
-        "2": [
-          "oak_boat"
-        ]
-      },
       "killed_by": {
         "1": [
           "zombie"
-        ]
-      },
-      "picked_up": {
-        "10": [
-          "oak_boat"
-        ]
-      },
-      "used": {
-        "9": [
-          "oak_boat"
         ]
       }
     },
@@ -151,12 +136,11 @@
           "wheat_seeds"
         ]
       },
-      "mined": {
-        "321": [
-          "wheat"
-        ]
-      },
       "picked_up": {
+        "10": [
+          "emerald",
+          "oak_boat"
+        ],
         "1236": [
           "wheat_seeds"
         ],
@@ -165,9 +149,6 @@
         ],
         "15": [
           "iron_nugget"
-        ],
-        "333": [
-          "wheat"
         ],
         "66": [
           "bread"

@@ -1,52 +1,48 @@
 {
-  "name": "mossy_cobblestone_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12": [
-        "Makishi25"
-      ],
-      "124": [
-        "ScimMLG"
-      ],
-      "6": [
-        "lodoss2011"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "owac"
-      ],
-      "4": [
-        "lodoss2011"
-      ]
-    },
-    "mined": {
-      "1": [
-        "JonasderGamer"
-      ],
-      "93": [
-        "ScimMLG"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "owac"
-      ],
-      "91": [
-        "ScimMLG"
-      ]
-    },
-    "used": {
-      "2": [
-        "lodoss2011"
-      ],
-      "213": [
-        "ScimMLG"
-      ],
-      "7": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "Makishi25"
+    ],
+    "124": [
+      "ScimMLG"
+    ],
+    "6": [
+      "lodoss2011"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "owac"
+    ],
+    "4": [
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "1": [
+      "JonasderGamer"
+    ],
+    "93": [
+      "ScimMLG"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "owac"
+    ],
+    "91": [
+      "ScimMLG"
+    ]
+  },
+  "used": {
+    "2": [
+      "lodoss2011"
+    ],
+    "213": [
+      "ScimMLG"
+    ],
+    "7": [
+      "Makishi25"
+    ]
   }
 }

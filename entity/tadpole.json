@@ -1,11 +1,7 @@
 {
-  "name": "tadpole",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "2": [
-        "leekcookie"
-      ]
-    }
+  "killed": {
+    "2": [
+      "leekcookie"
+    ]
   }
 }

@@ -1,46 +1,42 @@
 {
-  "name": "pillager",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "10067": [
-        "philxpx"
-      ],
-      "1160": [
-        "obvBasti"
-      ],
-      "120": [
-        "SnuvomBodensatz"
-      ],
-      "1531": [
-        "iurie"
-      ],
-      "290": [
-        "Warhazarder"
-      ],
-      "48": [
-        "Sayder13xr"
-      ],
-      "635653": [
-        "leekcookie"
-      ],
-      "7051": [
-        "imabaldman"
-      ],
-      "76573": [
-        "owac"
-      ],
-      "86": [
-        "chaos1989"
-      ]
-    },
-    "killed_by": {
-      "1": [
-        "Teayo"
-      ],
-      "4": [
-        "leekcookie"
-      ]
-    }
+  "killed": {
+    "10067": [
+      "philxpx"
+    ],
+    "1160": [
+      "obvBasti"
+    ],
+    "120": [
+      "SnuvomBodensatz"
+    ],
+    "1531": [
+      "iurie"
+    ],
+    "290": [
+      "Warhazarder"
+    ],
+    "48": [
+      "Sayder13xr"
+    ],
+    "635653": [
+      "leekcookie"
+    ],
+    "7051": [
+      "imabaldman"
+    ],
+    "76573": [
+      "owac"
+    ],
+    "86": [
+      "chaos1989"
+    ]
+  },
+  "killed_by": {
+    "1": [
+      "Teayo"
+    ],
+    "4": [
+      "leekcookie"
+    ]
   }
 }

@@ -1,42 +1,38 @@
 {
-  "name": "cyan_dye",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1670": [
-        "__kreck"
-      ],
-      "2": [
-        "Mandahaya",
-        "nitram1572"
-      ],
-      "24": [
-        "Iglo",
-        "__Iglo"
-      ],
-      "4": [
-        "leekcookie"
-      ],
-      "6": [
-        "iurie",
-        "DornDasBrot"
-      ],
-      "64": [
-        "Teayo"
-      ],
-      "8": [
-        "Sayder13xr"
-      ]
-    },
-    "dropped": {
-      "6": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "12": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "1670": [
+      "__kreck"
+    ],
+    "2": [
+      "Mandahaya",
+      "nitram1572"
+    ],
+    "24": [
+      "Iglo",
+      "__Iglo"
+    ],
+    "4": [
+      "leekcookie"
+    ],
+    "6": [
+      "DornDasBrot",
+      "iurie"
+    ],
+    "64": [
+      "Teayo"
+    ],
+    "8": [
+      "Sayder13xr"
+    ]
+  },
+  "dropped": {
+    "6": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "12": [
+      "__kreck"
+    ]
   }
 }

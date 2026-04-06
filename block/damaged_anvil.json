@@ -1,67 +1,63 @@
 {
-  "name": "damaged_anvil",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "obvBasti",
-        "santemjocko",
-        "minenicknick",
-        "leekcookie",
-        "Mamuschkaz"
-      ],
-      "12": [
-        "owac"
-      ],
-      "2": [
-        "philxpx"
-      ],
-      "3": [
-        "Warhazarder"
-      ],
-      "7": [
-        "Lord_HoruS"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "obvBasti",
-        "santemjocko",
-        "minenicknick",
-        "leekcookie",
-        "Mamuschkaz"
-      ],
-      "12": [
-        "owac"
-      ],
-      "2": [
-        "philxpx"
-      ],
-      "3": [
-        "Warhazarder"
-      ],
-      "7": [
-        "Lord_HoruS"
-      ]
-    },
-    "used": {
-      "1": [
-        "obvBasti",
-        "minenicknick",
-        "Mamuschkaz"
-      ],
-      "11": [
-        "owac"
-      ],
-      "2": [
-        "philxpx"
-      ],
-      "3": [
-        "Warhazarder"
-      ],
-      "7": [
-        "Lord_HoruS"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Mamuschkaz",
+      "leekcookie",
+      "minenicknick",
+      "obvBasti",
+      "santemjocko"
+    ],
+    "12": [
+      "owac"
+    ],
+    "2": [
+      "philxpx"
+    ],
+    "3": [
+      "Warhazarder"
+    ],
+    "7": [
+      "Lord_HoruS"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Mamuschkaz",
+      "leekcookie",
+      "minenicknick",
+      "obvBasti",
+      "santemjocko"
+    ],
+    "12": [
+      "owac"
+    ],
+    "2": [
+      "philxpx"
+    ],
+    "3": [
+      "Warhazarder"
+    ],
+    "7": [
+      "Lord_HoruS"
+    ]
+  },
+  "used": {
+    "1": [
+      "Mamuschkaz",
+      "minenicknick",
+      "obvBasti"
+    ],
+    "11": [
+      "owac"
+    ],
+    "2": [
+      "philxpx"
+    ],
+    "3": [
+      "Warhazarder"
+    ],
+    "7": [
+      "Lord_HoruS"
+    ]
   }
 }

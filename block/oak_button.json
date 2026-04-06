@@ -1,154 +1,150 @@
 {
-  "name": "oak_button",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "10": [
-        "Cpt_looper"
-      ],
-      "16": [
-        "Telinnor"
-      ],
-      "19": [
-        "nitram1572"
-      ],
-      "2": [
-        "Teayo"
-      ],
-      "20": [
-        "santemjocko",
-        "iurie"
-      ],
-      "265": [
-        "leekcookie"
-      ],
-      "270": [
-        "Sayder13xr"
-      ],
-      "3": [
-        "Lord_HoruS"
-      ],
-      "4": [
-        "Makishi25"
-      ],
-      "6": [
-        "lodoss2011"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Cpt_looper",
-        "__kreck"
-      ],
-      "2": [
-        "owac",
-        "Lord_HoruS"
-      ],
-      "21": [
-        "santemjocko"
-      ],
-      "288": [
-        "leekcookie"
-      ],
-      "36": [
-        "Sayder13xr"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Telinnor",
-        "TrashSuperstar",
-        "Warhazarder"
-      ],
-      "15": [
-        "nitram1572"
-      ],
-      "2": [
-        "Lord_HoruS"
-      ],
-      "21": [
-        "santemjocko"
-      ],
-      "4": [
-        "Cpt_looper"
-      ],
-      "9": [
-        "iurie"
-      ],
-      "99": [
-        "Sayder13xr"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Telinnor",
-        "TrashSuperstar",
-        "Warhazarder"
-      ],
-      "10": [
-        "Cpt_looper"
-      ],
-      "2": [
-        "owac",
-        "Makishi25"
-      ],
-      "21": [
-        "iurie"
-      ],
-      "23": [
-        "nitram1572"
-      ],
-      "230": [
-        "leekcookie"
-      ],
-      "232": [
-        "Sayder13xr"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "36": [
-        "santemjocko"
-      ],
-      "5": [
-        "Lord_HoruS"
-      ]
-    },
-    "used": {
-      "13": [
-        "Telinnor",
-        "Cpt_looper"
-      ],
-      "15": [
-        "iurie"
-      ],
-      "2": [
-        "TrashSuperstar",
-        "Warhazarder",
-        "__kreck",
-        "Teayo"
-      ],
-      "24": [
-        "leekcookie"
-      ],
-      "26": [
-        "santemjocko"
-      ],
-      "311": [
-        "Sayder13xr"
-      ],
-      "38": [
-        "nitram1572"
-      ],
-      "4": [
-        "lodoss2011"
-      ],
-      "5": [
-        "Lord_HoruS"
-      ],
-      "6": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "10": [
+      "Cpt_looper"
+    ],
+    "16": [
+      "Telinnor"
+    ],
+    "19": [
+      "nitram1572"
+    ],
+    "2": [
+      "Teayo"
+    ],
+    "20": [
+      "iurie",
+      "santemjocko"
+    ],
+    "265": [
+      "leekcookie"
+    ],
+    "270": [
+      "Sayder13xr"
+    ],
+    "3": [
+      "Lord_HoruS"
+    ],
+    "4": [
+      "Makishi25"
+    ],
+    "6": [
+      "lodoss2011"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Cpt_looper",
+      "__kreck"
+    ],
+    "2": [
+      "Lord_HoruS",
+      "owac"
+    ],
+    "21": [
+      "santemjocko"
+    ],
+    "288": [
+      "leekcookie"
+    ],
+    "36": [
+      "Sayder13xr"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Telinnor",
+      "TrashSuperstar",
+      "Warhazarder"
+    ],
+    "15": [
+      "nitram1572"
+    ],
+    "2": [
+      "Lord_HoruS"
+    ],
+    "21": [
+      "santemjocko"
+    ],
+    "4": [
+      "Cpt_looper"
+    ],
+    "9": [
+      "iurie"
+    ],
+    "99": [
+      "Sayder13xr"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Telinnor",
+      "TrashSuperstar",
+      "Warhazarder"
+    ],
+    "10": [
+      "Cpt_looper"
+    ],
+    "2": [
+      "Makishi25",
+      "owac"
+    ],
+    "21": [
+      "iurie"
+    ],
+    "23": [
+      "nitram1572"
+    ],
+    "230": [
+      "leekcookie"
+    ],
+    "232": [
+      "Sayder13xr"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "36": [
+      "santemjocko"
+    ],
+    "5": [
+      "Lord_HoruS"
+    ]
+  },
+  "used": {
+    "13": [
+      "Cpt_looper",
+      "Telinnor"
+    ],
+    "15": [
+      "iurie"
+    ],
+    "2": [
+      "Teayo",
+      "TrashSuperstar",
+      "Warhazarder",
+      "__kreck"
+    ],
+    "24": [
+      "leekcookie"
+    ],
+    "26": [
+      "santemjocko"
+    ],
+    "311": [
+      "Sayder13xr"
+    ],
+    "38": [
+      "nitram1572"
+    ],
+    "4": [
+      "lodoss2011"
+    ],
+    "5": [
+      "Lord_HoruS"
+    ],
+    "6": [
+      "Makishi25"
+    ]
   }
 }

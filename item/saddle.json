@@ -1,79 +1,75 @@
 {
-  "name": "saddle",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "14": [
-        "Teayo"
-      ]
-    },
-    "dropped": {
-      "177": [
-        "imabaldman"
-      ],
-      "2": [
-        "SnuvomBodensatz",
-        "iurie"
-      ],
-      "20": [
-        "minenicknick"
-      ],
-      "212": [
-        "SuperXXLProfi"
-      ],
-      "3": [
-        "santemjocko",
-        "chaos1989"
-      ],
-      "31": [
-        "JonasderGamer"
-      ],
-      "4": [
-        "XeonVirus"
-      ],
-      "50": [
-        "owac"
-      ],
-      "529": [
-        "philxpx"
-      ],
-      "7": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "16": [
-        "leekcookie"
-      ],
-      "192": [
-        "philxpx"
-      ],
-      "31": [
-        "JonasderGamer"
-      ],
-      "36": [
-        "imabaldman"
-      ],
-      "41": [
-        "owac",
-        "Warhazarder"
-      ],
-      "42": [
-        "iurie"
-      ],
-      "6": [
-        "Lord_HoruS"
-      ],
-      "75": [
-        "SuperXXLProfi"
-      ],
-      "8": [
-        "SnuvomBodensatz",
-        "minenicknick"
-      ],
-      "9": [
-        "chaos1989"
-      ]
-    }
+  "crafted": {
+    "14": [
+      "Teayo"
+    ]
+  },
+  "dropped": {
+    "177": [
+      "imabaldman"
+    ],
+    "2": [
+      "SnuvomBodensatz",
+      "iurie"
+    ],
+    "20": [
+      "minenicknick"
+    ],
+    "212": [
+      "SuperXXLProfi"
+    ],
+    "3": [
+      "chaos1989",
+      "santemjocko"
+    ],
+    "31": [
+      "JonasderGamer"
+    ],
+    "4": [
+      "XeonVirus"
+    ],
+    "50": [
+      "owac"
+    ],
+    "529": [
+      "philxpx"
+    ],
+    "7": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "16": [
+      "leekcookie"
+    ],
+    "192": [
+      "philxpx"
+    ],
+    "31": [
+      "JonasderGamer"
+    ],
+    "36": [
+      "imabaldman"
+    ],
+    "41": [
+      "Warhazarder",
+      "owac"
+    ],
+    "42": [
+      "iurie"
+    ],
+    "6": [
+      "Lord_HoruS"
+    ],
+    "75": [
+      "SuperXXLProfi"
+    ],
+    "8": [
+      "SnuvomBodensatz",
+      "minenicknick"
+    ],
+    "9": [
+      "chaos1989"
+    ]
   }
 }

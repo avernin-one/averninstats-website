@@ -1,19 +1,15 @@
 {
-  "name": "warped_fungus_on_a_stick",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "iurie"
-      ],
-      "2": [
-        "santemjocko"
-      ]
-    },
-    "used": {
-      "2": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "iurie"
+    ],
+    "2": [
+      "santemjocko"
+    ]
+  },
+  "used": {
+    "2": [
+      "iurie"
+    ]
   }
 }

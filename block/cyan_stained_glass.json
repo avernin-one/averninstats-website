@@ -1,46 +1,42 @@
 {
-  "name": "cyan_stained_glass",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "13336": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "220": [
-        "__kreck"
-      ],
-      "32": [
-        "KleeneEle"
-      ],
-      "41": [
-        "__Iglo"
-      ]
-    },
-    "mined": {
-      "1": [
-        "__Iglo"
-      ],
-      "46": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "138": [
-        "__kreck"
-      ],
-      "53": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "13070": [
-        "__kreck"
-      ],
-      "18": [
-        "__Iglo"
-      ]
-    }
+  "crafted": {
+    "13336": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "220": [
+      "__kreck"
+    ],
+    "32": [
+      "KleeneEle"
+    ],
+    "41": [
+      "__Iglo"
+    ]
+  },
+  "mined": {
+    "1": [
+      "__Iglo"
+    ],
+    "46": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "138": [
+      "__kreck"
+    ],
+    "53": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "13070": [
+      "__kreck"
+    ],
+    "18": [
+      "__Iglo"
+    ]
   }
 }

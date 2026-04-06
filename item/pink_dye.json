@@ -1,31 +1,27 @@
 {
-  "name": "pink_dye",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1564": [
-        "leekcookie"
-      ],
-      "16": [
-        "santemjocko"
-      ],
-      "2": [
-        "Mandahaya",
-        "Iglo",
-        "nitram1572"
-      ],
-      "6": [
-        "iurie",
-        "__kreck"
-      ],
-      "64": [
-        "Teayo"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1564": [
+      "leekcookie"
+    ],
+    "16": [
+      "santemjocko"
+    ],
+    "2": [
+      "Iglo",
+      "Mandahaya",
+      "nitram1572"
+    ],
+    "6": [
+      "__kreck",
+      "iurie"
+    ],
+    "64": [
+      "Teayo"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "leekcookie"
+    ]
   }
 }

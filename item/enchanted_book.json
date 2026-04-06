@@ -1,108 +1,104 @@
 {
-  "name": "enchanted_book",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1018": [
-        "iurie"
-      ],
-      "105": [
-        "SnuvomBodensatz"
-      ],
-      "122": [
-        "SuperXXLProfi"
-      ],
-      "126": [
-        "philxpx"
-      ],
-      "1599": [
-        "leekcookie"
-      ],
-      "192": [
-        "Iglo"
-      ],
-      "200": [
-        "__kreck"
-      ],
-      "470": [
-        "owac"
-      ],
-      "94": [
-        "imabaldman"
-      ],
-      "96": [
-        "Lord_HoruS"
-      ]
-    },
-    "dropped": {
-      "10": [
-        "Iglo"
-      ],
-      "104": [
-        "leekcookie"
-      ],
-      "12": [
-        "philxpx"
-      ],
-      "14": [
-        "minenicknick"
-      ],
-      "165": [
-        "__kreck"
-      ],
-      "21": [
-        "iurie",
-        "SuperXXLProfi"
-      ],
-      "264": [
-        "__Iglo"
-      ],
-      "27": [
-        "santemjocko"
-      ],
-      "31": [
-        "imabaldman"
-      ],
-      "43": [
-        "XeonVirus"
-      ]
-    },
-    "picked_up": {
-      "13": [
-        "owac"
-      ],
-      "17": [
-        "SuperXXLProfi"
-      ],
-      "25": [
-        "XeonVirus"
-      ],
-      "27": [
-        "minenicknick"
-      ],
-      "31": [
-        "santemjocko"
-      ],
-      "32": [
-        "imabaldman"
-      ],
-      "323": [
-        "leekcookie"
-      ],
-      "56": [
-        "iurie"
-      ],
-      "58": [
-        "__kreck"
-      ],
-      "62": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "412": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1018": [
+      "iurie"
+    ],
+    "105": [
+      "SnuvomBodensatz"
+    ],
+    "122": [
+      "SuperXXLProfi"
+    ],
+    "126": [
+      "philxpx"
+    ],
+    "1599": [
+      "leekcookie"
+    ],
+    "192": [
+      "Iglo"
+    ],
+    "200": [
+      "__kreck"
+    ],
+    "470": [
+      "owac"
+    ],
+    "94": [
+      "imabaldman"
+    ],
+    "96": [
+      "Lord_HoruS"
+    ]
+  },
+  "dropped": {
+    "10": [
+      "Iglo"
+    ],
+    "104": [
+      "leekcookie"
+    ],
+    "12": [
+      "philxpx"
+    ],
+    "14": [
+      "minenicknick"
+    ],
+    "165": [
+      "__kreck"
+    ],
+    "21": [
+      "SuperXXLProfi",
+      "iurie"
+    ],
+    "264": [
+      "__Iglo"
+    ],
+    "27": [
+      "santemjocko"
+    ],
+    "31": [
+      "imabaldman"
+    ],
+    "43": [
+      "XeonVirus"
+    ]
+  },
+  "picked_up": {
+    "13": [
+      "owac"
+    ],
+    "17": [
+      "SuperXXLProfi"
+    ],
+    "25": [
+      "XeonVirus"
+    ],
+    "27": [
+      "minenicknick"
+    ],
+    "31": [
+      "santemjocko"
+    ],
+    "32": [
+      "imabaldman"
+    ],
+    "323": [
+      "leekcookie"
+    ],
+    "56": [
+      "iurie"
+    ],
+    "58": [
+      "__kreck"
+    ],
+    "62": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "412": [
+      "leekcookie"
+    ]
   }
 }

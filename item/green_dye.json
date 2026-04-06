@@ -1,68 +1,64 @@
 {
-  "name": "green_dye",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "iurie"
-      ],
-      "11": [
-        "leekcookie"
-      ],
-      "12": [
-        "Makishi25",
-        "__Iglo"
-      ],
-      "16": [
-        "lodoss2011",
-        "DornDasBrot"
-      ],
-      "17": [
-        "Sayder13xr"
-      ],
-      "2": [
-        "Telinnor"
-      ],
-      "22": [
-        "Iglo"
-      ],
-      "26": [
-        "santemjocko"
-      ],
-      "3": [
-        "nitram1572"
-      ],
-      "4": [
-        "Mandahaya"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "iurie"
-      ],
-      "176": [
-        "leekcookie"
-      ],
-      "2": [
-        "Iglo"
-      ],
-      "8": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "iurie"
-      ],
-      "144": [
-        "leekcookie"
-      ],
-      "16": [
-        "__kreck"
-      ],
-      "5": [
-        "santemjocko"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "iurie"
+    ],
+    "11": [
+      "leekcookie"
+    ],
+    "12": [
+      "Makishi25",
+      "__Iglo"
+    ],
+    "16": [
+      "DornDasBrot",
+      "lodoss2011"
+    ],
+    "17": [
+      "Sayder13xr"
+    ],
+    "2": [
+      "Telinnor"
+    ],
+    "22": [
+      "Iglo"
+    ],
+    "26": [
+      "santemjocko"
+    ],
+    "3": [
+      "nitram1572"
+    ],
+    "4": [
+      "Mandahaya"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "iurie"
+    ],
+    "176": [
+      "leekcookie"
+    ],
+    "2": [
+      "Iglo"
+    ],
+    "8": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "iurie"
+    ],
+    "144": [
+      "leekcookie"
+    ],
+    "16": [
+      "__kreck"
+    ],
+    "5": [
+      "santemjocko"
+    ]
   }
 }

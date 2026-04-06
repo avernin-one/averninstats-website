@@ -1,117 +1,113 @@
 {
-  "name": "birch_leaves",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "lodoss2011",
-        "Makishi25"
-      ],
-      "10": [
-        "Mamuschkaz"
-      ],
-      "14": [
-        "__kreck"
-      ],
-      "2": [
-        "leekcookie",
-        "DornDasBrot"
-      ],
-      "20": [
-        "santemjocko"
-      ],
-      "264": [
-        "Iglo"
-      ],
-      "7": [
-        "minenicknick"
-      ],
-      "8": [
-        "Warhazarder"
-      ]
-    },
-    "mined": {
-      "124": [
-        "Mamuschkaz"
-      ],
-      "197": [
-        "Mandahaya"
-      ],
-      "213": [
-        "santemjocko"
-      ],
-      "245": [
-        "Iglo"
-      ],
-      "291": [
-        "nitram1572"
-      ],
-      "444": [
-        "leekcookie"
-      ],
-      "537": [
-        "__kreck"
-      ],
-      "62": [
-        "egoplayer_Felix"
-      ],
-      "645": [
-        "Teayo"
-      ],
-      "73": [
-        "DornDasBrot"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "Mamuschkaz"
-      ],
-      "11": [
-        "Teayo"
-      ],
-      "12": [
-        "Warhazarder"
-      ],
-      "22": [
-        "santemjocko"
-      ],
-      "264": [
-        "Iglo"
-      ],
-      "41": [
-        "TrashSuperstar"
-      ],
-      "42": [
-        "lodoss2011"
-      ],
-      "63": [
-        "leekcookie"
-      ],
-      "69": [
-        "DornDasBrot"
-      ],
-      "703": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "1": [
-        "leekcookie",
-        "iurie"
-      ],
-      "12": [
-        "DornDasBrot"
-      ],
-      "2": [
-        "santemjocko",
-        "imabaldman"
-      ],
-      "32": [
-        "lodoss2011"
-      ],
-      "606": [
-        "__kreck"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "Makishi25",
+      "lodoss2011"
+    ],
+    "10": [
+      "Mamuschkaz"
+    ],
+    "14": [
+      "__kreck"
+    ],
+    "2": [
+      "DornDasBrot",
+      "leekcookie"
+    ],
+    "20": [
+      "santemjocko"
+    ],
+    "264": [
+      "Iglo"
+    ],
+    "7": [
+      "minenicknick"
+    ],
+    "8": [
+      "Warhazarder"
+    ]
+  },
+  "mined": {
+    "124": [
+      "Mamuschkaz"
+    ],
+    "197": [
+      "Mandahaya"
+    ],
+    "213": [
+      "santemjocko"
+    ],
+    "245": [
+      "Iglo"
+    ],
+    "291": [
+      "nitram1572"
+    ],
+    "444": [
+      "leekcookie"
+    ],
+    "537": [
+      "__kreck"
+    ],
+    "62": [
+      "egoplayer_Felix"
+    ],
+    "645": [
+      "Teayo"
+    ],
+    "73": [
+      "DornDasBrot"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "Mamuschkaz"
+    ],
+    "11": [
+      "Teayo"
+    ],
+    "12": [
+      "Warhazarder"
+    ],
+    "22": [
+      "santemjocko"
+    ],
+    "264": [
+      "Iglo"
+    ],
+    "41": [
+      "TrashSuperstar"
+    ],
+    "42": [
+      "lodoss2011"
+    ],
+    "63": [
+      "leekcookie"
+    ],
+    "69": [
+      "DornDasBrot"
+    ],
+    "703": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "1": [
+      "iurie",
+      "leekcookie"
+    ],
+    "12": [
+      "DornDasBrot"
+    ],
+    "2": [
+      "imabaldman",
+      "santemjocko"
+    ],
+    "32": [
+      "lodoss2011"
+    ],
+    "606": [
+      "__kreck"
+    ]
   }
 }

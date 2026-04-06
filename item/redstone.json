@@ -1,134 +1,130 @@
 {
-  "name": "redstone",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1062": [
-        "Cpt_looper"
-      ],
-      "1116": [
-        "TrashSuperstar"
-      ],
-      "13994": [
-        "__kreck"
-      ],
-      "1451": [
-        "DornDasBrot"
-      ],
-      "18513": [
-        "leekcookie"
-      ],
-      "2097": [
-        "owac"
-      ],
-      "2267": [
-        "Iglo"
-      ],
-      "25904": [
-        "__Iglo"
-      ],
-      "29821": [
-        "iurie"
-      ],
-      "3035": [
-        "santemjocko"
-      ]
-    },
-    "dropped": {
-      "1038": [
-        "Iglo"
-      ],
-      "11297": [
-        "leekcookie"
-      ],
-      "113": [
-        "iurie"
-      ],
-      "154": [
-        "imabaldman"
-      ],
-      "181": [
-        "philxpx"
-      ],
-      "284": [
-        "Cpt_looper"
-      ],
-      "622": [
-        "owac"
-      ],
-      "690": [
-        "__kreck"
-      ],
-      "703": [
-        "__Iglo"
-      ],
-      "74": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "1671": [
-        "Iglo"
-      ],
-      "1861": [
-        "Cpt_looper"
-      ],
-      "1895": [
-        "Lord_HoruS"
-      ],
-      "2234": [
-        "Sayder13xr"
-      ],
-      "2535": [
-        "owac"
-      ],
-      "25614": [
-        "leekcookie"
-      ],
-      "2619": [
-        "Warhazarder"
-      ],
-      "3749": [
-        "__kreck"
-      ],
-      "4900": [
-        "TrashSuperstar"
-      ],
-      "7361": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "1403": [
-        "nitram1572"
-      ],
-      "1437": [
-        "__kreck"
-      ],
-      "3453": [
-        "leekcookie"
-      ],
-      "3590": [
-        "iurie"
-      ],
-      "406": [
-        "Iglo"
-      ],
-      "456": [
-        "Cpt_looper"
-      ],
-      "468": [
-        "Lord_HoruS"
-      ],
-      "720": [
-        "santemjocko"
-      ],
-      "805": [
-        "owac"
-      ],
-      "978": [
-        "TrashSuperstar"
-      ]
-    }
+  "crafted": {
+    "1062": [
+      "Cpt_looper"
+    ],
+    "1116": [
+      "TrashSuperstar"
+    ],
+    "13994": [
+      "__kreck"
+    ],
+    "1451": [
+      "DornDasBrot"
+    ],
+    "18513": [
+      "leekcookie"
+    ],
+    "2097": [
+      "owac"
+    ],
+    "2267": [
+      "Iglo"
+    ],
+    "25904": [
+      "__Iglo"
+    ],
+    "29821": [
+      "iurie"
+    ],
+    "3035": [
+      "santemjocko"
+    ]
+  },
+  "dropped": {
+    "1038": [
+      "Iglo"
+    ],
+    "11297": [
+      "leekcookie"
+    ],
+    "113": [
+      "iurie"
+    ],
+    "154": [
+      "imabaldman"
+    ],
+    "181": [
+      "philxpx"
+    ],
+    "284": [
+      "Cpt_looper"
+    ],
+    "622": [
+      "owac"
+    ],
+    "690": [
+      "__kreck"
+    ],
+    "703": [
+      "__Iglo"
+    ],
+    "74": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "1671": [
+      "Iglo"
+    ],
+    "1861": [
+      "Cpt_looper"
+    ],
+    "1895": [
+      "Lord_HoruS"
+    ],
+    "2234": [
+      "Sayder13xr"
+    ],
+    "2535": [
+      "owac"
+    ],
+    "25614": [
+      "leekcookie"
+    ],
+    "2619": [
+      "Warhazarder"
+    ],
+    "3749": [
+      "__kreck"
+    ],
+    "4900": [
+      "TrashSuperstar"
+    ],
+    "7361": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "1403": [
+      "nitram1572"
+    ],
+    "1437": [
+      "__kreck"
+    ],
+    "3453": [
+      "leekcookie"
+    ],
+    "3590": [
+      "iurie"
+    ],
+    "406": [
+      "Iglo"
+    ],
+    "456": [
+      "Cpt_looper"
+    ],
+    "468": [
+      "Lord_HoruS"
+    ],
+    "720": [
+      "santemjocko"
+    ],
+    "805": [
+      "owac"
+    ],
+    "978": [
+      "TrashSuperstar"
+    ]
   }
 }

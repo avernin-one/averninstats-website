@@ -1,63 +1,59 @@
 {
-  "name": "honey_bottle",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "136": [
-        "nitram1572"
-      ],
-      "212": [
-        "__Iglo"
-      ]
-    },
-    "dropped": {
-      "2": [
-        "iurie"
-      ],
-      "3": [
-        "Iglo"
-      ]
-    },
-    "picked_up": {
-      "12": [
-        "santemjocko"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "25": [
-        "nitram1572"
-      ],
-      "4": [
-        "Cpt_looper"
-      ],
-      "5": [
-        "Iglo"
-      ],
-      "50": [
-        "iurie"
-      ],
-      "6": [
-        "Teayo"
-      ],
-      "9": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "10": [
-        "nitram1572"
-      ],
-      "2": [
-        "lodoss2011",
-        "iurie"
-      ],
-      "4": [
-        "Teayo"
-      ],
-      "6": [
-        "santemjocko"
-      ]
-    }
+  "crafted": {
+    "136": [
+      "nitram1572"
+    ],
+    "212": [
+      "__Iglo"
+    ]
+  },
+  "dropped": {
+    "2": [
+      "iurie"
+    ],
+    "3": [
+      "Iglo"
+    ]
+  },
+  "picked_up": {
+    "12": [
+      "santemjocko"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "25": [
+      "nitram1572"
+    ],
+    "4": [
+      "Cpt_looper"
+    ],
+    "5": [
+      "Iglo"
+    ],
+    "50": [
+      "iurie"
+    ],
+    "6": [
+      "Teayo"
+    ],
+    "9": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "10": [
+      "nitram1572"
+    ],
+    "2": [
+      "iurie",
+      "lodoss2011"
+    ],
+    "4": [
+      "Teayo"
+    ],
+    "6": [
+      "santemjocko"
+    ]
   }
 }

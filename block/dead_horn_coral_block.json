@@ -1,19 +1,15 @@
 {
-  "name": "dead_horn_coral_block",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "santemjocko"
-      ],
-      "3": [
-        "Mandahaya"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "santemjocko"
+    ],
+    "3": [
+      "Mandahaya"
+    ]
   }
 }

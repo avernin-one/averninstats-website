@@ -1,89 +1,85 @@
 {
-  "name": "birch_button",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "lodoss2011",
-        "owac",
-        "Lord_HoruS"
-      ],
-      "112": [
-        "leekcookie"
-      ],
-      "12": [
-        "__kreck"
-      ],
-      "120": [
-        "Teayo"
-      ],
-      "2": [
-        "chaos1989"
-      ],
-      "64": [
-        "imabaldman"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie"
-      ],
-      "2": [
-        "owac",
-        "__Iglo",
-        "__kreck"
-      ],
-      "5": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie",
-        "Teayo"
-      ],
-      "2": [
-        "chaos1989",
-        "owac"
-      ],
-      "4": [
-        "__Iglo"
-      ],
-      "5": [
-        "lodoss2011"
-      ],
-      "9": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "1": [
-        "Lord_HoruS"
-      ],
-      "110": [
-        "leekcookie"
-      ],
-      "16": [
-        "__kreck"
-      ],
-      "2": [
-        "chaos1989"
-      ],
-      "3": [
-        "owac",
-        "Teayo"
-      ],
-      "4": [
-        "__Iglo"
-      ],
-      "6": [
-        "lodoss2011"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Lord_HoruS",
+      "lodoss2011",
+      "owac"
+    ],
+    "112": [
+      "leekcookie"
+    ],
+    "12": [
+      "__kreck"
+    ],
+    "120": [
+      "Teayo"
+    ],
+    "2": [
+      "chaos1989"
+    ],
+    "64": [
+      "imabaldman"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "1": [
+      "leekcookie"
+    ],
+    "2": [
+      "__Iglo",
+      "__kreck",
+      "owac"
+    ],
+    "5": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Teayo",
+      "leekcookie"
+    ],
+    "2": [
+      "chaos1989",
+      "owac"
+    ],
+    "4": [
+      "__Iglo"
+    ],
+    "5": [
+      "lodoss2011"
+    ],
+    "9": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "1": [
+      "Lord_HoruS"
+    ],
+    "110": [
+      "leekcookie"
+    ],
+    "16": [
+      "__kreck"
+    ],
+    "2": [
+      "chaos1989"
+    ],
+    "3": [
+      "Teayo",
+      "owac"
+    ],
+    "4": [
+      "__Iglo"
+    ],
+    "6": [
+      "lodoss2011"
+    ]
   }
 }

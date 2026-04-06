@@ -1,67 +1,63 @@
 {
-  "name": "writable_book",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "Iglo",
-        "Lord_HoruS",
-        "imabaldman"
-      ],
-      "17": [
-        "leekcookie"
-      ],
-      "3": [
-        "SnuvomBodensatz"
-      ],
-      "5": [
-        "DornDasBrot"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Iglo",
-        "__kreck"
-      ],
-      "14": [
-        "leekcookie"
-      ],
-      "3": [
-        "DornDasBrot"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Iglo",
-        "__kreck"
-      ],
-      "15": [
-        "leekcookie"
-      ],
-      "3": [
-        "DornDasBrot"
-      ]
-    },
-    "used": {
-      "1": [
-        "__Iglo",
-        "__kreck"
-      ],
-      "11": [
-        "imabaldman"
-      ],
-      "2": [
-        "Lord_HoruS"
-      ],
-      "3": [
-        "SnuvomBodensatz"
-      ],
-      "5": [
-        "Iglo"
-      ],
-      "9": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Iglo",
+      "Lord_HoruS",
+      "imabaldman"
+    ],
+    "17": [
+      "leekcookie"
+    ],
+    "3": [
+      "SnuvomBodensatz"
+    ],
+    "5": [
+      "DornDasBrot"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Iglo",
+      "__kreck"
+    ],
+    "14": [
+      "leekcookie"
+    ],
+    "3": [
+      "DornDasBrot"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Iglo",
+      "__kreck"
+    ],
+    "15": [
+      "leekcookie"
+    ],
+    "3": [
+      "DornDasBrot"
+    ]
+  },
+  "used": {
+    "1": [
+      "__Iglo",
+      "__kreck"
+    ],
+    "11": [
+      "imabaldman"
+    ],
+    "2": [
+      "Lord_HoruS"
+    ],
+    "3": [
+      "SnuvomBodensatz"
+    ],
+    "5": [
+      "Iglo"
+    ],
+    "9": [
+      "leekcookie"
+    ]
   }
 }

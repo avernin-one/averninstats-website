@@ -1,57 +1,53 @@
 {
-  "name": "birch_pressure_plate",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "lodoss2011",
-        "__Iglo"
-      ],
-      "16": [
-        "__kreck"
-      ],
-      "3": [
-        "Iglo"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "lodoss2011",
-        "__Iglo"
-      ]
-    },
-    "mined": {
-      "1": [
-        "__Iglo"
-      ],
-      "2": [
-        "Iglo"
-      ],
-      "3": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "__Iglo"
-      ],
-      "14": [
-        "__kreck"
-      ],
-      "2": [
-        "Iglo"
-      ]
-    },
-    "used": {
-      "1": [
-        "__Iglo"
-      ],
-      "5": [
-        "Iglo"
-      ],
-      "8": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "__Iglo",
+      "lodoss2011"
+    ],
+    "16": [
+      "__kreck"
+    ],
+    "3": [
+      "Iglo"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "__Iglo",
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "1": [
+      "__Iglo"
+    ],
+    "2": [
+      "Iglo"
+    ],
+    "3": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "__Iglo"
+    ],
+    "14": [
+      "__kreck"
+    ],
+    "2": [
+      "Iglo"
+    ]
+  },
+  "used": {
+    "1": [
+      "__Iglo"
+    ],
+    "5": [
+      "Iglo"
+    ],
+    "8": [
+      "__kreck"
+    ]
   }
 }

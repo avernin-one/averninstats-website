@@ -1,63 +1,59 @@
 {
-  "name": "gilded_blackstone",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Sayder13xr",
-        "__kreck"
-      ],
-      "17": [
-        "__Iglo"
-      ],
-      "19": [
-        "leekcookie"
-      ],
-      "2": [
-        "owac"
-      ],
-      "20": [
-        "iurie"
-      ],
-      "26": [
-        "imabaldman"
-      ],
-      "8": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "__kreck"
-      ],
-      "16": [
-        "__Iglo"
-      ],
-      "24": [
-        "imabaldman"
-      ],
-      "27": [
-        "iurie"
-      ],
-      "34": [
-        "leekcookie"
-      ],
-      "8": [
-        "santemjocko"
-      ]
-    },
-    "used": {
-      "4": [
-        "santemjocko"
-      ],
-      "8": [
-        "imabaldman"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Sayder13xr",
+      "__kreck"
+    ],
+    "17": [
+      "__Iglo"
+    ],
+    "19": [
+      "leekcookie"
+    ],
+    "2": [
+      "owac"
+    ],
+    "20": [
+      "iurie"
+    ],
+    "26": [
+      "imabaldman"
+    ],
+    "8": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "__kreck"
+    ],
+    "16": [
+      "__Iglo"
+    ],
+    "24": [
+      "imabaldman"
+    ],
+    "27": [
+      "iurie"
+    ],
+    "34": [
+      "leekcookie"
+    ],
+    "8": [
+      "santemjocko"
+    ]
+  },
+  "used": {
+    "4": [
+      "santemjocko"
+    ],
+    "8": [
+      "imabaldman"
+    ]
   }
 }

@@ -1,97 +1,93 @@
 {
-  "name": "seagrass",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "4": [
-        "owac"
-      ],
-      "5": [
-        "XeonVirus"
-      ],
-      "9": [
-        "SnuvomBodensatz"
-      ]
-    },
-    "mined": {
-      "139": [
-        "chaos1989"
-      ],
-      "188": [
-        "Sayder13xr"
-      ],
-      "291": [
-        "iurie"
-      ],
-      "34": [
-        "imabaldman"
-      ],
-      "35": [
-        "XeonVirus"
-      ],
-      "51": [
-        "leekcookie"
-      ],
-      "57": [
-        "DornDasBrot"
-      ],
-      "61": [
-        "Teayo"
-      ],
-      "68": [
-        "__kreck"
-      ],
-      "81": [
-        "Iglo"
-      ]
-    },
-    "picked_up": {
-      "134": [
-        "iurie"
-      ],
-      "16": [
-        "owac"
-      ],
-      "17": [
-        "chaos1989",
-        "ScimMLG"
-      ],
-      "172": [
-        "DornDasBrot"
-      ],
-      "18": [
-        "Mamuschkaz"
-      ],
-      "222": [
-        "Iglo"
-      ],
-      "24": [
-        "imabaldman"
-      ],
-      "281": [
-        "nitram1572"
-      ],
-      "47": [
-        "Sayder13xr"
-      ],
-      "53": [
-        "Makishi25"
-      ]
-    },
-    "used": {
-      "2": [
-        "Sayder13xr"
-      ],
-      "5": [
-        "ScimMLG",
-        "DornDasBrot"
-      ],
-      "53": [
-        "Makishi25"
-      ],
-      "99": [
-        "nitram1572"
-      ]
-    }
+  "dropped": {
+    "4": [
+      "owac"
+    ],
+    "5": [
+      "XeonVirus"
+    ],
+    "9": [
+      "SnuvomBodensatz"
+    ]
+  },
+  "mined": {
+    "139": [
+      "chaos1989"
+    ],
+    "188": [
+      "Sayder13xr"
+    ],
+    "291": [
+      "iurie"
+    ],
+    "34": [
+      "imabaldman"
+    ],
+    "35": [
+      "XeonVirus"
+    ],
+    "51": [
+      "leekcookie"
+    ],
+    "57": [
+      "DornDasBrot"
+    ],
+    "61": [
+      "Teayo"
+    ],
+    "68": [
+      "__kreck"
+    ],
+    "81": [
+      "Iglo"
+    ]
+  },
+  "picked_up": {
+    "134": [
+      "iurie"
+    ],
+    "16": [
+      "owac"
+    ],
+    "17": [
+      "ScimMLG",
+      "chaos1989"
+    ],
+    "172": [
+      "DornDasBrot"
+    ],
+    "18": [
+      "Mamuschkaz"
+    ],
+    "222": [
+      "Iglo"
+    ],
+    "24": [
+      "imabaldman"
+    ],
+    "281": [
+      "nitram1572"
+    ],
+    "47": [
+      "Sayder13xr"
+    ],
+    "53": [
+      "Makishi25"
+    ]
+  },
+  "used": {
+    "2": [
+      "Sayder13xr"
+    ],
+    "5": [
+      "DornDasBrot",
+      "ScimMLG"
+    ],
+    "53": [
+      "Makishi25"
+    ],
+    "99": [
+      "nitram1572"
+    ]
   }
 }

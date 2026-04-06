@@ -1,93 +1,89 @@
 {
-  "name": "jungle_button",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "TrashSuperstar"
-      ],
-      "2": [
-        "__kreck"
-      ],
-      "363": [
-        "owac"
-      ],
-      "4": [
-        "Makishi25"
-      ],
-      "792": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "__kreck"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "29": [
-        "owac"
-      ],
-      "7": [
-        "iurie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie"
-      ],
-      "13": [
-        "__kreck"
-      ],
-      "161": [
-        "owac"
-      ],
-      "3": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "13": [
-        "JonasderGamer"
-      ],
-      "14": [
-        "__kreck"
-      ],
-      "2": [
-        "ScimMLG",
-        "Makishi25"
-      ],
-      "28": [
-        "iurie"
-      ],
-      "3": [
-        "leekcookie"
-      ],
-      "541": [
-        "owac"
-      ]
-    },
-    "used": {
-      "1": [
-        "TrashSuperstar"
-      ],
-      "15": [
-        "__kreck"
-      ],
-      "2": [
-        "ScimMLG",
-        "Makishi25"
-      ],
-      "3": [
-        "iurie"
-      ],
-      "666": [
-        "owac"
-      ],
-      "793": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "TrashSuperstar"
+    ],
+    "2": [
+      "__kreck"
+    ],
+    "363": [
+      "owac"
+    ],
+    "4": [
+      "Makishi25"
+    ],
+    "792": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "__kreck"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "29": [
+      "owac"
+    ],
+    "7": [
+      "iurie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "leekcookie"
+    ],
+    "13": [
+      "__kreck"
+    ],
+    "161": [
+      "owac"
+    ],
+    "3": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "13": [
+      "JonasderGamer"
+    ],
+    "14": [
+      "__kreck"
+    ],
+    "2": [
+      "Makishi25",
+      "ScimMLG"
+    ],
+    "28": [
+      "iurie"
+    ],
+    "3": [
+      "leekcookie"
+    ],
+    "541": [
+      "owac"
+    ]
+  },
+  "used": {
+    "1": [
+      "TrashSuperstar"
+    ],
+    "15": [
+      "__kreck"
+    ],
+    "2": [
+      "Makishi25",
+      "ScimMLG"
+    ],
+    "3": [
+      "iurie"
+    ],
+    "666": [
+      "owac"
+    ],
+    "793": [
+      "leekcookie"
+    ]
   }
 }

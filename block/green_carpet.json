@@ -1,53 +1,49 @@
 {
-  "name": "green_carpet",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "18": [
-        "santemjocko",
-        "lodoss2011"
-      ],
-      "54": [
-        "__kreck"
-      ],
-      "64": [
-        "philxpx"
-      ]
-    },
-    "dropped": {
-      "3": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "2": [
-        "santemjocko",
-        "__kreck",
-        "XeonVirus"
-      ],
-      "5": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "iurie"
-      ],
-      "2": [
-        "santemjocko",
-        "__kreck"
-      ]
-    },
-    "used": {
-      "14": [
-        "lodoss2011"
-      ],
-      "17": [
-        "santemjocko"
-      ],
-      "2": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "18": [
+      "lodoss2011",
+      "santemjocko"
+    ],
+    "54": [
+      "__kreck"
+    ],
+    "64": [
+      "philxpx"
+    ]
+  },
+  "dropped": {
+    "3": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "2": [
+      "XeonVirus",
+      "__kreck",
+      "santemjocko"
+    ],
+    "5": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "iurie"
+    ],
+    "2": [
+      "__kreck",
+      "santemjocko"
+    ]
+  },
+  "used": {
+    "14": [
+      "lodoss2011"
+    ],
+    "17": [
+      "santemjocko"
+    ],
+    "2": [
+      "iurie"
+    ]
   }
 }

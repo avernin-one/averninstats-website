@@ -1,14 +1,10 @@
 {
-  "name": "potted_cactus",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "28": [
-        "iurie"
-      ],
-      "8": [
-        "__kreck"
-      ]
-    }
+  "mined": {
+    "28": [
+      "iurie"
+    ],
+    "8": [
+      "__kreck"
+    ]
   }
 }

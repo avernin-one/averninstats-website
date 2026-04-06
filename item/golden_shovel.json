@@ -1,26 +1,22 @@
 {
-  "name": "golden_shovel",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "1": [
-        "lodoss2011"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "94": [
-        "lodoss2011"
-      ]
-    }
+  "broken": {
+    "1": [
+      "lodoss2011"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "94": [
+      "lodoss2011"
+    ]
   }
 }

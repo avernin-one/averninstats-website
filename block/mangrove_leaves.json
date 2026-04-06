@@ -1,34 +1,30 @@
 {
-  "name": "mangrove_leaves",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "3": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "XeonVirus"
-      ],
-      "7": [
-        "iurie",
-        "Warhazarder"
-      ],
-      "87": [
-        "lodoss2011"
-      ],
-      "961": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "72": [
-        "lodoss2011"
-      ],
-      "75": [
-        "leekcookie"
-      ]
-    }
+  "dropped": {
+    "3": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "XeonVirus"
+    ],
+    "7": [
+      "Warhazarder",
+      "iurie"
+    ],
+    "87": [
+      "lodoss2011"
+    ],
+    "961": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "72": [
+      "lodoss2011"
+    ],
+    "75": [
+      "leekcookie"
+    ]
   }
 }

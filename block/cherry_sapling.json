@@ -1,47 +1,43 @@
 {
-  "name": "cherry_sapling",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "134": [
-        "leekcookie"
-      ],
-      "39": [
-        "__Iglo"
-      ],
-      "64": [
-        "KleeneEle"
-      ]
-    },
-    "mined": {
-      "14": [
-        "KleeneEle"
-      ],
-      "25": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1389": [
-        "leekcookie"
-      ],
-      "2": [
-        "iurie"
-      ],
-      "241": [
-        "KleeneEle"
-      ],
-      "39": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "363": [
-        "leekcookie"
-      ],
-      "41": [
-        "KleeneEle"
-      ]
-    }
+  "dropped": {
+    "134": [
+      "leekcookie"
+    ],
+    "39": [
+      "__Iglo"
+    ],
+    "64": [
+      "KleeneEle"
+    ]
+  },
+  "mined": {
+    "14": [
+      "KleeneEle"
+    ],
+    "25": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1389": [
+      "leekcookie"
+    ],
+    "2": [
+      "iurie"
+    ],
+    "241": [
+      "KleeneEle"
+    ],
+    "39": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "363": [
+      "leekcookie"
+    ],
+    "41": [
+      "KleeneEle"
+    ]
   }
 }

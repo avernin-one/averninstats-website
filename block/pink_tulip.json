@@ -1,55 +1,51 @@
 {
-  "name": "pink_tulip",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "26": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "nitram1572"
-      ],
-      "27": [
-        "Teayo"
-      ],
-      "35": [
-        "TrashSuperstar"
-      ],
-      "39": [
-        "leekcookie"
-      ],
-      "6": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "nitram1572"
-      ],
-      "27": [
-        "Teayo"
-      ],
-      "35": [
-        "TrashSuperstar"
-      ],
-      "8": [
-        "santemjocko"
-      ],
-      "90": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "28": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "26": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "nitram1572"
+    ],
+    "27": [
+      "Teayo"
+    ],
+    "35": [
+      "TrashSuperstar"
+    ],
+    "39": [
+      "leekcookie"
+    ],
+    "6": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "nitram1572"
+    ],
+    "27": [
+      "Teayo"
+    ],
+    "35": [
+      "TrashSuperstar"
+    ],
+    "8": [
+      "santemjocko"
+    ],
+    "90": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "28": [
+      "leekcookie"
+    ]
   }
 }

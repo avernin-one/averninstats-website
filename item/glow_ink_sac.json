@@ -1,82 +1,78 @@
 {
-  "name": "glow_ink_sac",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "1": [
-        "lodoss2011",
-        "Sayder13xr"
-      ],
-      "12": [
-        "imabaldman",
-        "Teayo"
-      ],
-      "2": [
-        "santemjocko"
-      ],
-      "3": [
-        "minenicknick",
-        "owac"
-      ],
-      "4": [
-        "Temeraiere"
-      ],
-      "6": [
-        "Makishi25"
-      ],
-      "86": [
-        "leekcookie"
-      ],
-      "9": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "20": [
-        "Lord_HoruS"
-      ],
-      "219": [
-        "iurie"
-      ],
-      "243": [
-        "leekcookie"
-      ],
-      "27": [
-        "chaos1989"
-      ],
-      "28": [
-        "XeonVirus"
-      ],
-      "29": [
-        "TrashSuperstar"
-      ],
-      "31": [
-        "Iglo"
-      ],
-      "32": [
-        "imabaldman"
-      ],
-      "35": [
-        "santemjocko"
-      ],
-      "36": [
-        "Teayo"
-      ]
-    },
-    "used": {
-      "2": [
-        "santemjocko",
-        "__Iglo"
-      ],
-      "3": [
-        "Iglo"
-      ],
-      "39": [
-        "iurie"
-      ],
-      "52": [
-        "leekcookie"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "Sayder13xr",
+      "lodoss2011"
+    ],
+    "12": [
+      "Teayo",
+      "imabaldman"
+    ],
+    "2": [
+      "santemjocko"
+    ],
+    "3": [
+      "minenicknick",
+      "owac"
+    ],
+    "4": [
+      "Temeraiere"
+    ],
+    "6": [
+      "Makishi25"
+    ],
+    "86": [
+      "leekcookie"
+    ],
+    "9": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "20": [
+      "Lord_HoruS"
+    ],
+    "219": [
+      "iurie"
+    ],
+    "243": [
+      "leekcookie"
+    ],
+    "27": [
+      "chaos1989"
+    ],
+    "28": [
+      "XeonVirus"
+    ],
+    "29": [
+      "TrashSuperstar"
+    ],
+    "31": [
+      "Iglo"
+    ],
+    "32": [
+      "imabaldman"
+    ],
+    "35": [
+      "santemjocko"
+    ],
+    "36": [
+      "Teayo"
+    ]
+  },
+  "used": {
+    "2": [
+      "__Iglo",
+      "santemjocko"
+    ],
+    "3": [
+      "Iglo"
+    ],
+    "39": [
+      "iurie"
+    ],
+    "52": [
+      "leekcookie"
+    ]
   }
 }

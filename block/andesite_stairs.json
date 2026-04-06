@@ -1,32 +1,28 @@
 {
-  "name": "andesite_stairs",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "40": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "22": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "27": [
-        "__kreck"
-      ],
-      "66": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "13": [
-        "__kreck"
-      ],
-      "147": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "40": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "22": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "27": [
+      "__kreck"
+    ],
+    "66": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "13": [
+      "__kreck"
+    ],
+    "147": [
+      "leekcookie"
+    ]
   }
 }

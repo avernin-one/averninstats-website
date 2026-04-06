@@ -1,159 +1,155 @@
 {
-  "name": "stone_hoe",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "1": [
-        "Mandahaya",
-        "SnuvomBodensatz",
-        "lodoss2011",
-        "Cpt_looper",
-        "nitram1572",
-        "Sayder13xr"
-      ],
-      "2": [
-        "Makishi25",
-        "__kreck"
-      ],
-      "4": [
-        "Lord_HoruS",
-        "Warhazarder"
-      ],
-      "6": [
-        "iurie"
-      ],
-      "8": [
-        "Teayo"
-      ]
-    },
-    "crafted": {
-      "1": [
-        "Mandahaya",
-        "SnuvomBodensatz",
-        "santemjocko",
-        "Mamuschkaz",
-        "Cpt_looper",
-        "imabaldman",
-        "Sayder13xr"
-      ],
-      "14": [
-        "owac"
-      ],
-      "20": [
-        "leekcookie"
-      ],
-      "24": [
-        "nitram1572"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "30": [
-        "Teayo"
-      ],
-      "4": [
-        "Lord_HoruS"
-      ],
-      "6": [
-        "iurie"
-      ],
-      "7": [
-        "Makishi25",
-        "Warhazarder"
-      ],
-      "9": [
-        "lodoss2011"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "leekcookie",
-        "Mamuschkaz",
-        "JonasderGamer",
-        "__kreck"
-      ],
-      "2": [
-        "santemjocko",
-        "ScimMLG"
-      ],
-      "21": [
-        "owac"
-      ],
-      "29": [
-        "Teayo"
-      ],
-      "3": [
-        "Makishi25",
-        "Warhazarder"
-      ],
-      "38": [
-        "nitram1572"
-      ],
-      "4": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Mandahaya",
-        "SnuvomBodensatz",
-        "Mamuschkaz"
-      ],
-      "12": [
-        "leekcookie",
-        "Lord_HoruS"
-      ],
-      "2": [
-        "santemjocko"
-      ],
-      "21": [
-        "nitram1572"
-      ],
-      "3": [
-        "ScimMLG",
-        "Warhazarder"
-      ],
-      "5": [
-        "lodoss2011"
-      ],
-      "9": [
-        "owac",
-        "Makishi25",
-        "Teayo"
-      ]
-    },
-    "used": {
-      "1185": [
-        "Teayo"
-      ],
-      "142": [
-        "Mandahaya"
-      ],
-      "148": [
-        "santemjocko"
-      ],
-      "174": [
-        "owac"
-      ],
-      "353": [
-        "Makishi25"
-      ],
-      "378": [
-        "lodoss2011"
-      ],
-      "397": [
-        "nitram1572",
-        "__kreck"
-      ],
-      "615": [
-        "Lord_HoruS"
-      ],
-      "786": [
-        "iurie"
-      ],
-      "832": [
-        "Warhazarder"
-      ]
-    }
+  "broken": {
+    "1": [
+      "Cpt_looper",
+      "Mandahaya",
+      "Sayder13xr",
+      "SnuvomBodensatz",
+      "lodoss2011",
+      "nitram1572"
+    ],
+    "2": [
+      "Makishi25",
+      "__kreck"
+    ],
+    "4": [
+      "Lord_HoruS",
+      "Warhazarder"
+    ],
+    "6": [
+      "iurie"
+    ],
+    "8": [
+      "Teayo"
+    ]
+  },
+  "crafted": {
+    "1": [
+      "Cpt_looper",
+      "Mamuschkaz",
+      "Mandahaya",
+      "Sayder13xr",
+      "SnuvomBodensatz",
+      "imabaldman",
+      "santemjocko"
+    ],
+    "14": [
+      "owac"
+    ],
+    "20": [
+      "leekcookie"
+    ],
+    "24": [
+      "nitram1572"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "30": [
+      "Teayo"
+    ],
+    "4": [
+      "Lord_HoruS"
+    ],
+    "6": [
+      "iurie"
+    ],
+    "7": [
+      "Makishi25",
+      "Warhazarder"
+    ],
+    "9": [
+      "lodoss2011"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "JonasderGamer",
+      "Mamuschkaz",
+      "__kreck",
+      "leekcookie"
+    ],
+    "2": [
+      "ScimMLG",
+      "santemjocko"
+    ],
+    "21": [
+      "owac"
+    ],
+    "29": [
+      "Teayo"
+    ],
+    "3": [
+      "Makishi25",
+      "Warhazarder"
+    ],
+    "38": [
+      "nitram1572"
+    ],
+    "4": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Mamuschkaz",
+      "Mandahaya",
+      "SnuvomBodensatz"
+    ],
+    "12": [
+      "Lord_HoruS",
+      "leekcookie"
+    ],
+    "2": [
+      "santemjocko"
+    ],
+    "21": [
+      "nitram1572"
+    ],
+    "3": [
+      "ScimMLG",
+      "Warhazarder"
+    ],
+    "5": [
+      "lodoss2011"
+    ],
+    "9": [
+      "Makishi25",
+      "Teayo",
+      "owac"
+    ]
+  },
+  "used": {
+    "1185": [
+      "Teayo"
+    ],
+    "142": [
+      "Mandahaya"
+    ],
+    "148": [
+      "santemjocko"
+    ],
+    "174": [
+      "owac"
+    ],
+    "353": [
+      "Makishi25"
+    ],
+    "378": [
+      "lodoss2011"
+    ],
+    "397": [
+      "__kreck",
+      "nitram1572"
+    ],
+    "615": [
+      "Lord_HoruS"
+    ],
+    "786": [
+      "iurie"
+    ],
+    "832": [
+      "Warhazarder"
+    ]
   }
 }

@@ -1,53 +1,49 @@
 {
-  "name": "polished_blackstone_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "114": [
-        "Makishi25"
-      ],
-      "20": [
-        "imabaldman"
-      ],
-      "2400": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "23": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "247": [
-        "leekcookie"
-      ],
-      "3": [
-        "Makishi25",
-        "imabaldman"
-      ]
-    },
-    "picked_up": {
-      "31": [
-        "Makishi25"
-      ],
-      "4": [
-        "imabaldman"
-      ],
-      "450": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "2677": [
-        "leekcookie"
-      ],
-      "33": [
-        "imabaldman"
-      ],
-      "39": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "114": [
+      "Makishi25"
+    ],
+    "20": [
+      "imabaldman"
+    ],
+    "2400": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "23": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "247": [
+      "leekcookie"
+    ],
+    "3": [
+      "Makishi25",
+      "imabaldman"
+    ]
+  },
+  "picked_up": {
+    "31": [
+      "Makishi25"
+    ],
+    "4": [
+      "imabaldman"
+    ],
+    "450": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "2677": [
+      "leekcookie"
+    ],
+    "33": [
+      "imabaldman"
+    ],
+    "39": [
+      "Makishi25"
+    ]
   }
 }

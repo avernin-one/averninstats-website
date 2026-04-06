@@ -1,16 +1,12 @@
 {
-  "name": "purple_stained_glass_pane",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "80": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "16": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "80": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "16": [
+      "__kreck"
+    ]
   }
 }

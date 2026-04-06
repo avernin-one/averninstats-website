@@ -1,11 +1,7 @@
 {
-  "name": "music_disc_relic",
-  "type": "item",
-  "scores": {
-    "picked_up": {
-      "2": [
-        "iurie"
-      ]
-    }
+  "picked_up": {
+    "2": [
+      "iurie"
+    ]
   }
 }

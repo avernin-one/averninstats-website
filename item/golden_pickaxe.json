@@ -1,37 +1,33 @@
 {
-  "name": "golden_pickaxe",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "1": [
-        "Der_Sani",
-        "Iglo",
-        "DornDasBrot"
-      ]
-    },
-    "crafted": {
-      "1": [
-        "Ivenor"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "3": [
-        "egoplayer_Felix"
-      ]
-    },
-    "used": {
-      "32": [
-        "Iglo",
-        "DornDasBrot"
-      ],
-      "50": [
-        "Der_Sani"
-      ]
-    }
+  "broken": {
+    "1": [
+      "Der_Sani",
+      "DornDasBrot",
+      "Iglo"
+    ]
+  },
+  "crafted": {
+    "1": [
+      "Ivenor"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "3": [
+      "egoplayer_Felix"
+    ]
+  },
+  "used": {
+    "32": [
+      "DornDasBrot",
+      "Iglo"
+    ],
+    "50": [
+      "Der_Sani"
+    ]
   }
 }

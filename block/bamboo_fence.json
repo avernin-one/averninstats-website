@@ -1,11 +1,7 @@
 {
-  "name": "bamboo_fence",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "3": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "3": [
+      "leekcookie"
+    ]
   }
 }

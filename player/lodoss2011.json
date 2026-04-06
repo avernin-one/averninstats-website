@@ -2,9 +2,9 @@
   "name": "lodoss2011",
   "uuid": "157ecb07-2c62-466b-be44-9f562e43f74c",
   "medals": {
-    "gold": 1,
-    "silver": 5,
-    "bronze": 4
+    "gold": 24,
+    "silver": 18,
+    "bronze": 10
   },
   "stats": {
     "animals_bred": 75,
@@ -153,40 +153,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1308": [
-          "firework_rocket"
-        ],
-        "185": [
-          "tnt"
-        ],
-        "23": [
-          "item_frame"
-        ],
-        "512": [
-          "arrow"
-        ],
-        "67": [
-          "birch_boat"
-        ]
-      },
-      "dropped": {
-        "15": [
-          "birch_boat"
-        ],
-        "1836": [
-          "arrow"
-        ],
-        "21": [
-          "spectral_arrow"
-        ],
-        "2606": [
-          "ender_pearl"
-        ],
-        "64": [
-          "firework_rocket"
-        ]
-      },
       "killed": {
         "132": [
           "shulker"
@@ -228,45 +194,6 @@
         ],
         "4": [
           "skeleton"
-        ]
-      },
-      "mined": {
-        "10": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "135": [
-          "birch_boat"
-        ],
-        "3037": [
-          "ender_pearl"
-        ],
-        "3538": [
-          "firework_rocket"
-        ],
-        "7405": [
-          "arrow"
-        ],
-        "77": [
-          "oak_boat"
-        ]
-      },
-      "used": {
-        "125": [
-          "birch_boat"
-        ],
-        "192": [
-          "tnt"
-        ],
-        "34": [
-          "egg"
-        ],
-        "75": [
-          "oak_boat"
-        ],
-        "923": [
-          "firework_rocket"
         ]
       }
     },
@@ -320,23 +247,6 @@
         ],
         "961": [
           "carrot"
-        ]
-      },
-      "mined": {
-        "11": [
-          "cauldron"
-        ],
-        "21": [
-          "nether_wart"
-        ],
-        "5": [
-          "flower_pot"
-        ],
-        "75": [
-          "wheat"
-        ],
-        "9": [
-          "brewing_stand"
         ]
       },
       "picked_up": {

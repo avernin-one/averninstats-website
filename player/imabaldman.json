@@ -4,7 +4,7 @@
   "medals": {
     "gold": 1,
     "silver": 1,
-    "bronze": 4
+    "bronze": 5
   },
   "stats": {
     "animals_bred": 16,
@@ -150,40 +150,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "10": [
-          "item_frame"
-        ],
-        "107": [
-          "minecart"
-        ],
-        "17": [
-          "end_crystal"
-        ],
-        "3022": [
-          "firework_rocket"
-        ],
-        "65": [
-          "hopper_minecart"
-        ]
-      },
-      "dropped": {
-        "100": [
-          "potion"
-        ],
-        "159": [
-          "firework_rocket"
-        ],
-        "2496": [
-          "ender_pearl"
-        ],
-        "492": [
-          "spectral_arrow"
-        ],
-        "79": [
-          "arrow"
-        ]
-      },
       "killed": {
         "1298": [
           "evoker"
@@ -207,40 +173,6 @@
         ],
         "3": [
           "player"
-        ]
-      },
-      "picked_up": {
-        "198": [
-          "minecart"
-        ],
-        "2271": [
-          "ender_pearl"
-        ],
-        "276": [
-          "arrow"
-        ],
-        "370": [
-          "firework_rocket"
-        ],
-        "443": [
-          "spectral_arrow"
-        ]
-      },
-      "used": {
-        "104": [
-          "oak_boat"
-        ],
-        "2897": [
-          "firework_rocket"
-        ],
-        "752": [
-          "ender_pearl"
-        ],
-        "79": [
-          "minecart"
-        ],
-        "85": [
-          "birch_boat"
         ]
       }
     },
@@ -285,17 +217,6 @@
         ],
         "7189": [
           "iron_ingot"
-        ]
-      },
-      "mined": {
-        "1": [
-          "wheat"
-        ],
-        "12": [
-          "nether_wart"
-        ],
-        "3": [
-          "brewing_stand"
         ]
       },
       "picked_up": {

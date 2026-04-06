@@ -1,110 +1,106 @@
 {
-  "name": "vine",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "__Iglo"
-      ],
-      "102": [
-        "leekcookie"
-      ],
-      "3": [
-        "owac"
-      ],
-      "4": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "118": [
-        "Iglo"
-      ],
-      "222": [
-        "nitram1572"
-      ],
-      "256": [
-        "lodoss2011"
-      ],
-      "385": [
-        "Warhazarder"
-      ],
-      "529": [
-        "leekcookie"
-      ],
-      "569": [
-        "chaos1989"
-      ],
-      "864": [
-        "__kreck"
-      ],
-      "907": [
-        "owac"
-      ],
-      "953": [
-        "ScimMLG"
-      ],
-      "96": [
-        "XeonVirus"
-      ]
-    },
-    "picked_up": {
-      "166": [
-        "nitram1572"
-      ],
-      "190": [
-        "leekcookie"
-      ],
-      "229": [
-        "lodoss2011"
-      ],
-      "230": [
-        "owac"
-      ],
-      "24": [
-        "XeonVirus"
-      ],
-      "36": [
-        "Sayder13xr"
-      ],
-      "44": [
-        "__Iglo"
-      ],
-      "53": [
-        "iurie"
-      ],
-      "773": [
-        "ScimMLG"
-      ],
-      "843": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "1": [
-        "Makishi25"
-      ],
-      "132": [
-        "nitram1572"
-      ],
-      "14": [
-        "Sayder13xr"
-      ],
-      "16": [
-        "Mandahaya"
-      ],
-      "17": [
-        "lodoss2011"
-      ],
-      "4": [
-        "iurie"
-      ],
-      "40": [
-        "__kreck"
-      ],
-      "9": [
-        "Iglo"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "__Iglo"
+    ],
+    "102": [
+      "leekcookie"
+    ],
+    "3": [
+      "owac"
+    ],
+    "4": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "118": [
+      "Iglo"
+    ],
+    "222": [
+      "nitram1572"
+    ],
+    "256": [
+      "lodoss2011"
+    ],
+    "385": [
+      "Warhazarder"
+    ],
+    "529": [
+      "leekcookie"
+    ],
+    "569": [
+      "chaos1989"
+    ],
+    "864": [
+      "__kreck"
+    ],
+    "907": [
+      "owac"
+    ],
+    "953": [
+      "ScimMLG"
+    ],
+    "96": [
+      "XeonVirus"
+    ]
+  },
+  "picked_up": {
+    "166": [
+      "nitram1572"
+    ],
+    "190": [
+      "leekcookie"
+    ],
+    "229": [
+      "lodoss2011"
+    ],
+    "230": [
+      "owac"
+    ],
+    "24": [
+      "XeonVirus"
+    ],
+    "36": [
+      "Sayder13xr"
+    ],
+    "44": [
+      "__Iglo"
+    ],
+    "53": [
+      "iurie"
+    ],
+    "773": [
+      "ScimMLG"
+    ],
+    "843": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "1": [
+      "Makishi25"
+    ],
+    "132": [
+      "nitram1572"
+    ],
+    "14": [
+      "Sayder13xr"
+    ],
+    "16": [
+      "Mandahaya"
+    ],
+    "17": [
+      "lodoss2011"
+    ],
+    "4": [
+      "iurie"
+    ],
+    "40": [
+      "__kreck"
+    ],
+    "9": [
+      "Iglo"
+    ]
   }
 }

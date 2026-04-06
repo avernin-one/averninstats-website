@@ -1,38 +1,34 @@
 {
-  "name": "fire_coral_wall_fan",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "KleeneEle",
-        "owac",
-        "XeonVirus"
-      ],
-      "14": [
-        "Lord_HoruS",
-        "__kreck"
-      ],
-      "145": [
-        "leekcookie"
-      ],
-      "2": [
-        "Mamuschkaz",
-        "Makishi25",
-        "imabaldman",
-        "Sayder13xr"
-      ],
-      "22": [
-        "santemjocko"
-      ],
-      "27": [
-        "iurie"
-      ],
-      "4": [
-        "TrashSuperstar"
-      ],
-      "8": [
-        "lodoss2011"
-      ]
-    }
+  "mined": {
+    "1": [
+      "KleeneEle",
+      "XeonVirus",
+      "owac"
+    ],
+    "14": [
+      "Lord_HoruS",
+      "__kreck"
+    ],
+    "145": [
+      "leekcookie"
+    ],
+    "2": [
+      "Makishi25",
+      "Mamuschkaz",
+      "Sayder13xr",
+      "imabaldman"
+    ],
+    "22": [
+      "santemjocko"
+    ],
+    "27": [
+      "iurie"
+    ],
+    "4": [
+      "TrashSuperstar"
+    ],
+    "8": [
+      "lodoss2011"
+    ]
   }
 }

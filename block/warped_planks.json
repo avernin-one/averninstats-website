@@ -1,132 +1,128 @@
 {
-  "name": "warped_planks",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1384": [
-        "santemjocko"
-      ],
-      "1484": [
-        "__kreck"
-      ],
-      "1762": [
-        "Cpt_looper"
-      ],
-      "212": [
-        "Makishi25",
-        "XeonVirus"
-      ],
-      "228": [
-        "minenicknick"
-      ],
-      "256": [
-        "owac"
-      ],
-      "276": [
-        "__Iglo"
-      ],
-      "616": [
-        "leekcookie"
-      ],
-      "664": [
-        "Sayder13xr"
-      ],
-      "900": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "10": [
-        "santemjocko"
-      ],
-      "102": [
-        "__Iglo"
-      ],
-      "2": [
-        "minenicknick"
-      ],
-      "22": [
-        "Warhazarder"
-      ],
-      "252": [
-        "owac"
-      ],
-      "3": [
-        "Cpt_looper"
-      ],
-      "60": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "13": [
-        "XeonVirus"
-      ],
-      "3": [
-        "Warhazarder"
-      ],
-      "42": [
-        "leekcookie"
-      ],
-      "47": [
-        "Sayder13xr"
-      ],
-      "81": [
-        "Cpt_looper"
-      ]
-    },
-    "picked_up": {
-      "118": [
-        "leekcookie"
-      ],
-      "128": [
-        "Cpt_looper"
-      ],
-      "4": [
-        "santemjocko"
-      ],
-      "40": [
-        "__kreck"
-      ],
-      "41": [
-        "owac",
-        "Makishi25"
-      ],
-      "47": [
-        "Sayder13xr"
-      ],
-      "64": [
-        "__Iglo"
-      ],
-      "8": [
-        "Warhazarder"
-      ],
-      "85": [
-        "XeonVirus"
-      ]
-    },
-    "used": {
-      "114": [
-        "Sayder13xr"
-      ],
-      "13": [
-        "XeonVirus"
-      ],
-      "16": [
-        "Makishi25"
-      ],
-      "41": [
-        "Warhazarder"
-      ],
-      "46": [
-        "leekcookie"
-      ],
-      "763": [
-        "Cpt_looper"
-      ],
-      "8": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "1384": [
+      "santemjocko"
+    ],
+    "1484": [
+      "__kreck"
+    ],
+    "1762": [
+      "Cpt_looper"
+    ],
+    "212": [
+      "Makishi25",
+      "XeonVirus"
+    ],
+    "228": [
+      "minenicknick"
+    ],
+    "256": [
+      "owac"
+    ],
+    "276": [
+      "__Iglo"
+    ],
+    "616": [
+      "leekcookie"
+    ],
+    "664": [
+      "Sayder13xr"
+    ],
+    "900": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "10": [
+      "santemjocko"
+    ],
+    "102": [
+      "__Iglo"
+    ],
+    "2": [
+      "minenicknick"
+    ],
+    "22": [
+      "Warhazarder"
+    ],
+    "252": [
+      "owac"
+    ],
+    "3": [
+      "Cpt_looper"
+    ],
+    "60": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "13": [
+      "XeonVirus"
+    ],
+    "3": [
+      "Warhazarder"
+    ],
+    "42": [
+      "leekcookie"
+    ],
+    "47": [
+      "Sayder13xr"
+    ],
+    "81": [
+      "Cpt_looper"
+    ]
+  },
+  "picked_up": {
+    "118": [
+      "leekcookie"
+    ],
+    "128": [
+      "Cpt_looper"
+    ],
+    "4": [
+      "santemjocko"
+    ],
+    "40": [
+      "__kreck"
+    ],
+    "41": [
+      "Makishi25",
+      "owac"
+    ],
+    "47": [
+      "Sayder13xr"
+    ],
+    "64": [
+      "__Iglo"
+    ],
+    "8": [
+      "Warhazarder"
+    ],
+    "85": [
+      "XeonVirus"
+    ]
+  },
+  "used": {
+    "114": [
+      "Sayder13xr"
+    ],
+    "13": [
+      "XeonVirus"
+    ],
+    "16": [
+      "Makishi25"
+    ],
+    "41": [
+      "Warhazarder"
+    ],
+    "46": [
+      "leekcookie"
+    ],
+    "763": [
+      "Cpt_looper"
+    ],
+    "8": [
+      "__kreck"
+    ]
   }
 }

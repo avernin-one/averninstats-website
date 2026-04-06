@@ -1,51 +1,47 @@
 {
-  "name": "golden_hoe",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "1": [
-        "chaos1989",
-        "egoplayer_Felix",
-        "Cpt_looper",
-        "DornDasBrot",
-        "XeonVirus"
-      ]
-    },
-    "dropped": {
-      "3": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Mandahaya",
-        "lodoss2011"
-      ],
-      "2": [
-        "owac",
-        "iurie",
-        "Makishi25"
-      ]
-    },
-    "used": {
-      "32": [
-        "XeonVirus"
-      ],
-      "33": [
-        "chaos1989"
-      ],
-      "35": [
-        "egoplayer_Felix"
-      ],
-      "38": [
-        "Cpt_looper"
-      ],
-      "41": [
-        "lodoss2011"
-      ],
-      "52": [
-        "DornDasBrot"
-      ]
-    }
+  "broken": {
+    "1": [
+      "Cpt_looper",
+      "DornDasBrot",
+      "XeonVirus",
+      "chaos1989",
+      "egoplayer_Felix"
+    ]
+  },
+  "dropped": {
+    "3": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Mandahaya",
+      "lodoss2011"
+    ],
+    "2": [
+      "Makishi25",
+      "iurie",
+      "owac"
+    ]
+  },
+  "used": {
+    "32": [
+      "XeonVirus"
+    ],
+    "33": [
+      "chaos1989"
+    ],
+    "35": [
+      "egoplayer_Felix"
+    ],
+    "38": [
+      "Cpt_looper"
+    ],
+    "41": [
+      "lodoss2011"
+    ],
+    "52": [
+      "DornDasBrot"
+    ]
   }
 }

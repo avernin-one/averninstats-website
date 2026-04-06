@@ -117,7 +117,6 @@
           "zombie"
         ],
         "6": [
-          "chicken",
           "spider"
         ],
         "8": [
@@ -128,14 +127,6 @@
         "1": [
           "enderman",
           "skeleton"
-        ]
-      },
-      "picked_up": {
-        "3": [
-          "arrow"
-        ],
-        "6": [
-          "chicken"
         ]
       }
     },
@@ -172,20 +163,15 @@
           "stone_sword"
         ]
       },
-      "mined": {
-        "38": [
-          "wheat"
-        ]
-      },
       "picked_up": {
+        "15": [
+          "diamond"
+        ],
         "23": [
           "raw_iron"
         ],
         "36": [
           "porkchop"
-        ],
-        "38": [
-          "wheat"
         ],
         "60": [
           "lapis_lazuli"

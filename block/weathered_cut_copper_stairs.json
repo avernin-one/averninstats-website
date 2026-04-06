@@ -1,21 +1,17 @@
 {
-  "name": "weathered_cut_copper_stairs",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1": [
-        "leekcookie"
-      ]
-    }
+  "mined": {
+    "1": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1": [
+      "leekcookie"
+    ]
   }
 }

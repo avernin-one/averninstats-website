@@ -1,138 +1,134 @@
 {
-  "name": "dark_oak_trapdoor",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "104": [
-        "Cpt_looper"
-      ],
-      "14": [
-        "Makishi25"
-      ],
-      "18": [
-        "ScimMLG"
-      ],
-      "322": [
-        "owac"
-      ],
-      "398": [
-        "leekcookie"
-      ],
-      "4": [
-        "nitram1572",
-        "imabaldman"
-      ],
-      "44": [
-        "XeonVirus"
-      ],
-      "72": [
-        "lodoss2011"
-      ],
-      "906": [
-        "iurie"
-      ],
-      "92": [
-        "Mandahaya"
-      ]
-    },
-    "dropped": {
-      "17": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Makishi25"
-      ],
-      "13": [
-        "owac"
-      ],
-      "15": [
-        "Cpt_looper"
-      ],
-      "2": [
-        "nitram1572"
-      ],
-      "20": [
-        "Mandahaya"
-      ],
-      "24": [
-        "leekcookie"
-      ],
-      "3": [
-        "lodoss2011"
-      ],
-      "45": [
-        "XeonVirus"
-      ],
-      "48": [
-        "ScimMLG"
-      ],
-      "65": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "13": [
-        "owac"
-      ],
-      "15": [
-        "Cpt_looper"
-      ],
-      "2": [
-        "nitram1572",
-        "Makishi25"
-      ],
-      "20": [
-        "Mandahaya"
-      ],
-      "3": [
-        "lodoss2011"
-      ],
-      "45": [
-        "XeonVirus"
-      ],
-      "48": [
-        "ScimMLG"
-      ],
-      "68": [
-        "iurie"
-      ],
-      "93": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "110": [
-        "Cpt_looper"
-      ],
-      "14": [
-        "Makishi25"
-      ],
-      "323": [
-        "owac"
-      ],
-      "338": [
-        "leekcookie"
-      ],
-      "45": [
-        "XeonVirus"
-      ],
-      "5": [
-        "nitram1572"
-      ],
-      "62": [
-        "ScimMLG"
-      ],
-      "68": [
-        "lodoss2011"
-      ],
-      "854": [
-        "iurie"
-      ],
-      "97": [
-        "Mandahaya"
-      ]
-    }
+  "crafted": {
+    "104": [
+      "Cpt_looper"
+    ],
+    "14": [
+      "Makishi25"
+    ],
+    "18": [
+      "ScimMLG"
+    ],
+    "322": [
+      "owac"
+    ],
+    "398": [
+      "leekcookie"
+    ],
+    "4": [
+      "imabaldman",
+      "nitram1572"
+    ],
+    "44": [
+      "XeonVirus"
+    ],
+    "72": [
+      "lodoss2011"
+    ],
+    "906": [
+      "iurie"
+    ],
+    "92": [
+      "Mandahaya"
+    ]
+  },
+  "dropped": {
+    "17": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Makishi25"
+    ],
+    "13": [
+      "owac"
+    ],
+    "15": [
+      "Cpt_looper"
+    ],
+    "2": [
+      "nitram1572"
+    ],
+    "20": [
+      "Mandahaya"
+    ],
+    "24": [
+      "leekcookie"
+    ],
+    "3": [
+      "lodoss2011"
+    ],
+    "45": [
+      "XeonVirus"
+    ],
+    "48": [
+      "ScimMLG"
+    ],
+    "65": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "13": [
+      "owac"
+    ],
+    "15": [
+      "Cpt_looper"
+    ],
+    "2": [
+      "Makishi25",
+      "nitram1572"
+    ],
+    "20": [
+      "Mandahaya"
+    ],
+    "3": [
+      "lodoss2011"
+    ],
+    "45": [
+      "XeonVirus"
+    ],
+    "48": [
+      "ScimMLG"
+    ],
+    "68": [
+      "iurie"
+    ],
+    "93": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "110": [
+      "Cpt_looper"
+    ],
+    "14": [
+      "Makishi25"
+    ],
+    "323": [
+      "owac"
+    ],
+    "338": [
+      "leekcookie"
+    ],
+    "45": [
+      "XeonVirus"
+    ],
+    "5": [
+      "nitram1572"
+    ],
+    "62": [
+      "ScimMLG"
+    ],
+    "68": [
+      "lodoss2011"
+    ],
+    "854": [
+      "iurie"
+    ],
+    "97": [
+      "Mandahaya"
+    ]
   }
 }

@@ -1,161 +1,157 @@
 {
-  "name": "spruce_sign",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "120": [
-        "imabaldman"
-      ],
-      "18": [
-        "Mandahaya"
-      ],
-      "24": [
-        "__Iglo"
-      ],
-      "3620": [
-        "__kreck"
-      ],
-      "387": [
-        "leekcookie"
-      ],
-      "42": [
-        "owac"
-      ],
-      "63": [
-        "lodoss2011"
-      ],
-      "75": [
-        "Mamuschkaz"
-      ],
-      "76": [
-        "SuperXXLProfi"
-      ],
-      "78": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "santemjocko",
-        "lodoss2011"
-      ],
-      "11": [
-        "owac"
-      ],
-      "16": [
-        "__kreck"
-      ],
-      "17": [
-        "Mamuschkaz"
-      ],
-      "2": [
-        "SuperXXLProfi",
-        "imabaldman"
-      ],
-      "5": [
-        "Iglo",
-        "__Iglo"
-      ],
-      "88": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Mandahaya",
-        "lodoss2011",
-        "JonasderGamer",
-        "Teayo"
-      ],
-      "11": [
-        "imabaldman"
-      ],
-      "16": [
-        "leekcookie"
-      ],
-      "2": [
-        "__kreck"
-      ],
-      "3": [
-        "ScimMLG"
-      ],
-      "4": [
-        "SuperXXLProfi",
-        "Makishi25"
-      ],
-      "6": [
-        "owac"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "santemjocko",
-        "Teayo"
-      ],
-      "11": [
-        "ScimMLG"
-      ],
-      "13": [
-        "lodoss2011",
-        "SuperXXLProfi"
-      ],
-      "21": [
-        "Mamuschkaz"
-      ],
-      "36": [
-        "owac"
-      ],
-      "39": [
-        "imabaldman"
-      ],
-      "4": [
-        "Mandahaya",
-        "Iglo",
-        "__Iglo"
-      ],
-      "418": [
-        "leekcookie"
-      ],
-      "5": [
-        "KleeneEle",
-        "JonasderGamer"
-      ],
-      "59": [
-        "Makishi25",
-        "__kreck"
-      ]
-    },
-    "used": {
-      "139": [
-        "imabaldman"
-      ],
-      "17": [
-        "ScimMLG"
-      ],
-      "25": [
-        "__Iglo"
-      ],
-      "253": [
-        "leekcookie"
-      ],
-      "3427": [
-        "__kreck"
-      ],
-      "46": [
-        "lodoss2011"
-      ],
-      "65": [
-        "owac"
-      ],
-      "67": [
-        "Mamuschkaz"
-      ],
-      "78": [
-        "Makishi25"
-      ],
-      "83": [
-        "SuperXXLProfi"
-      ]
-    }
+  "crafted": {
+    "120": [
+      "imabaldman"
+    ],
+    "18": [
+      "Mandahaya"
+    ],
+    "24": [
+      "__Iglo"
+    ],
+    "3620": [
+      "__kreck"
+    ],
+    "387": [
+      "leekcookie"
+    ],
+    "42": [
+      "owac"
+    ],
+    "63": [
+      "lodoss2011"
+    ],
+    "75": [
+      "Mamuschkaz"
+    ],
+    "76": [
+      "SuperXXLProfi"
+    ],
+    "78": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "lodoss2011",
+      "santemjocko"
+    ],
+    "11": [
+      "owac"
+    ],
+    "16": [
+      "__kreck"
+    ],
+    "17": [
+      "Mamuschkaz"
+    ],
+    "2": [
+      "SuperXXLProfi",
+      "imabaldman"
+    ],
+    "5": [
+      "Iglo",
+      "__Iglo"
+    ],
+    "88": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "JonasderGamer",
+      "Mandahaya",
+      "Teayo",
+      "lodoss2011"
+    ],
+    "11": [
+      "imabaldman"
+    ],
+    "16": [
+      "leekcookie"
+    ],
+    "2": [
+      "__kreck"
+    ],
+    "3": [
+      "ScimMLG"
+    ],
+    "4": [
+      "Makishi25",
+      "SuperXXLProfi"
+    ],
+    "6": [
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Teayo",
+      "santemjocko"
+    ],
+    "11": [
+      "ScimMLG"
+    ],
+    "13": [
+      "SuperXXLProfi",
+      "lodoss2011"
+    ],
+    "21": [
+      "Mamuschkaz"
+    ],
+    "36": [
+      "owac"
+    ],
+    "39": [
+      "imabaldman"
+    ],
+    "4": [
+      "Iglo",
+      "Mandahaya",
+      "__Iglo"
+    ],
+    "418": [
+      "leekcookie"
+    ],
+    "5": [
+      "JonasderGamer",
+      "KleeneEle"
+    ],
+    "59": [
+      "Makishi25",
+      "__kreck"
+    ]
+  },
+  "used": {
+    "139": [
+      "imabaldman"
+    ],
+    "17": [
+      "ScimMLG"
+    ],
+    "25": [
+      "__Iglo"
+    ],
+    "253": [
+      "leekcookie"
+    ],
+    "3427": [
+      "__kreck"
+    ],
+    "46": [
+      "lodoss2011"
+    ],
+    "65": [
+      "owac"
+    ],
+    "67": [
+      "Mamuschkaz"
+    ],
+    "78": [
+      "Makishi25"
+    ],
+    "83": [
+      "SuperXXLProfi"
+    ]
   }
 }

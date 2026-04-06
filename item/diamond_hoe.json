@@ -1,113 +1,109 @@
 {
-  "name": "diamond_hoe",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "chaos1989",
-        "egoplayer_Felix",
-        "iurie",
-        "TrashSuperstar",
-        "DornDasBrot",
-        "Sayder13xr"
-      ],
-      "2": [
-        "santemjocko",
-        "Iglo",
-        "__kreck"
-      ],
-      "3": [
-        "Teayo"
-      ],
-      "4": [
-        "imabaldman"
-      ],
-      "43": [
-        "leekcookie"
-      ],
-      "5": [
-        "owac"
-      ],
-      "6": [
-        "Warhazarder"
-      ],
-      "8": [
-        "StofftierAnabol"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Iglo",
-        "JonasderGamer"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "4": [
-        "owac"
-      ],
-      "9": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "santemjocko",
-        "JonasderGamer"
-      ],
-      "12": [
-        "Makishi25"
-      ],
-      "2": [
-        "Iglo",
-        "owac",
-        "Sayder13xr",
-        "Teayo"
-      ],
-      "4": [
-        "Warhazarder"
-      ],
-      "8": [
-        "iurie"
-      ],
-      "82": [
-        "leekcookie"
-      ],
-      "9": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "1715": [
-        "Warhazarder"
-      ],
-      "21462": [
-        "Iglo"
-      ],
-      "220": [
-        "Sayder13xr"
-      ],
-      "236": [
-        "imabaldman"
-      ],
-      "35649": [
-        "__kreck"
-      ],
-      "367": [
-        "santemjocko"
-      ],
-      "414": [
-        "egoplayer_Felix"
-      ],
-      "759": [
-        "__Iglo"
-      ],
-      "7995": [
-        "leekcookie"
-      ],
-      "847": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "DornDasBrot",
+      "Sayder13xr",
+      "TrashSuperstar",
+      "chaos1989",
+      "egoplayer_Felix",
+      "iurie"
+    ],
+    "2": [
+      "Iglo",
+      "__kreck",
+      "santemjocko"
+    ],
+    "3": [
+      "Teayo"
+    ],
+    "4": [
+      "imabaldman"
+    ],
+    "43": [
+      "leekcookie"
+    ],
+    "5": [
+      "owac"
+    ],
+    "6": [
+      "Warhazarder"
+    ],
+    "8": [
+      "StofftierAnabol"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Iglo",
+      "JonasderGamer"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "4": [
+      "owac"
+    ],
+    "9": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "JonasderGamer",
+      "santemjocko"
+    ],
+    "12": [
+      "Makishi25"
+    ],
+    "2": [
+      "Iglo",
+      "Sayder13xr",
+      "Teayo",
+      "owac"
+    ],
+    "4": [
+      "Warhazarder"
+    ],
+    "8": [
+      "iurie"
+    ],
+    "82": [
+      "leekcookie"
+    ],
+    "9": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "1715": [
+      "Warhazarder"
+    ],
+    "21462": [
+      "Iglo"
+    ],
+    "220": [
+      "Sayder13xr"
+    ],
+    "236": [
+      "imabaldman"
+    ],
+    "35649": [
+      "__kreck"
+    ],
+    "367": [
+      "santemjocko"
+    ],
+    "414": [
+      "egoplayer_Felix"
+    ],
+    "759": [
+      "__Iglo"
+    ],
+    "7995": [
+      "leekcookie"
+    ],
+    "847": [
+      "iurie"
+    ]
   }
 }

@@ -1,104 +1,100 @@
 {
-  "name": "ancient_debris",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "TrashSuperstar"
-      ],
-      "2": [
-        "__kreck"
-      ],
-      "32": [
-        "obvBasti"
-      ],
-      "5": [
-        "leekcookie"
-      ],
-      "64": [
-        "minenicknick"
-      ]
-    },
-    "mined": {
-      "110": [
-        "philxpx"
-      ],
-      "132": [
-        "minenicknick"
-      ],
-      "134": [
-        "TrashSuperstar"
-      ],
-      "165": [
-        "leekcookie"
-      ],
-      "221": [
-        "obvBasti"
-      ],
-      "271": [
-        "iurie"
-      ],
-      "71": [
-        "Sayder13xr"
-      ],
-      "78": [
-        "santemjocko"
-      ],
-      "83": [
-        "Mamuschkaz"
-      ],
-      "95": [
-        "owac"
-      ]
-    },
-    "picked_up": {
-      "109": [
-        "santemjocko"
-      ],
-      "132": [
-        "minenicknick"
-      ],
-      "135": [
-        "TrashSuperstar"
-      ],
-      "174": [
-        "philxpx"
-      ],
-      "188": [
-        "leekcookie"
-      ],
-      "219": [
-        "obvBasti"
-      ],
-      "272": [
-        "iurie"
-      ],
-      "82": [
-        "Mamuschkaz"
-      ],
-      "84": [
-        "Lord_HoruS"
-      ],
-      "95": [
-        "owac"
-      ]
-    },
-    "used": {
-      "105": [
-        "leekcookie"
-      ],
-      "2": [
-        "SuperXXLProfi"
-      ],
-      "25": [
-        "Sayder13xr"
-      ],
-      "49": [
-        "TrashSuperstar"
-      ],
-      "5": [
-        "iurie"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "TrashSuperstar"
+    ],
+    "2": [
+      "__kreck"
+    ],
+    "32": [
+      "obvBasti"
+    ],
+    "5": [
+      "leekcookie"
+    ],
+    "64": [
+      "minenicknick"
+    ]
+  },
+  "mined": {
+    "110": [
+      "philxpx"
+    ],
+    "132": [
+      "minenicknick"
+    ],
+    "134": [
+      "TrashSuperstar"
+    ],
+    "165": [
+      "leekcookie"
+    ],
+    "221": [
+      "obvBasti"
+    ],
+    "271": [
+      "iurie"
+    ],
+    "71": [
+      "Sayder13xr"
+    ],
+    "78": [
+      "santemjocko"
+    ],
+    "83": [
+      "Mamuschkaz"
+    ],
+    "95": [
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "109": [
+      "santemjocko"
+    ],
+    "132": [
+      "minenicknick"
+    ],
+    "135": [
+      "TrashSuperstar"
+    ],
+    "174": [
+      "philxpx"
+    ],
+    "188": [
+      "leekcookie"
+    ],
+    "219": [
+      "obvBasti"
+    ],
+    "272": [
+      "iurie"
+    ],
+    "82": [
+      "Mamuschkaz"
+    ],
+    "84": [
+      "Lord_HoruS"
+    ],
+    "95": [
+      "owac"
+    ]
+  },
+  "used": {
+    "105": [
+      "leekcookie"
+    ],
+    "2": [
+      "SuperXXLProfi"
+    ],
+    "25": [
+      "Sayder13xr"
+    ],
+    "49": [
+      "TrashSuperstar"
+    ],
+    "5": [
+      "iurie"
+    ]
   }
 }

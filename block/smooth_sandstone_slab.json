@@ -1,37 +1,33 @@
 {
-  "name": "smooth_sandstone_slab",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "nitram1572",
-        "imabaldman"
-      ],
-      "468": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "nitram1572"
-      ],
-      "2": [
-        "SuperXXLProfi"
-      ],
-      "634": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "1": [
-        "nitram1572"
-      ],
-      "2": [
-        "SuperXXLProfi"
-      ],
-      "87": [
-        "iurie"
-      ]
-    }
+  "mined": {
+    "1": [
+      "imabaldman",
+      "nitram1572"
+    ],
+    "468": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "nitram1572"
+    ],
+    "2": [
+      "SuperXXLProfi"
+    ],
+    "634": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "1": [
+      "nitram1572"
+    ],
+    "2": [
+      "SuperXXLProfi"
+    ],
+    "87": [
+      "iurie"
+    ]
   }
 }

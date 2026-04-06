@@ -1,52 +1,48 @@
 {
-  "name": "vex",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "obvBasti",
-        "SnuvomBodensatz",
-        "iurie",
-        "__Iglo"
-      ],
-      "13": [
-        "Warhazarder"
-      ],
-      "16": [
-        "owac"
-      ],
-      "17": [
-        "philxpx"
-      ],
-      "22": [
-        "leekcookie"
-      ],
-      "23": [
-        "Sayder13xr"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "5": [
-        "chaos1989"
-      ],
-      "7": [
-        "Lord_HoruS"
-      ],
-      "8": [
-        "imabaldman"
-      ]
-    },
-    "killed_by": {
-      "2": [
-        "SnuvomBodensatz",
-        "philxpx",
-        "Lord_HoruS"
-      ],
-      "3": [
-        "leekcookie",
-        "Warhazarder"
-      ]
-    }
+  "killed": {
+    "1": [
+      "SnuvomBodensatz",
+      "__Iglo",
+      "iurie",
+      "obvBasti"
+    ],
+    "13": [
+      "Warhazarder"
+    ],
+    "16": [
+      "owac"
+    ],
+    "17": [
+      "philxpx"
+    ],
+    "22": [
+      "leekcookie"
+    ],
+    "23": [
+      "Sayder13xr"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "5": [
+      "chaos1989"
+    ],
+    "7": [
+      "Lord_HoruS"
+    ],
+    "8": [
+      "imabaldman"
+    ]
+  },
+  "killed_by": {
+    "2": [
+      "Lord_HoruS",
+      "SnuvomBodensatz",
+      "philxpx"
+    ],
+    "3": [
+      "Warhazarder",
+      "leekcookie"
+    ]
   }
 }

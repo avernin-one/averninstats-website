@@ -1,50 +1,46 @@
 {
-  "name": "bowl",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "24": [
-        "Lord_HoruS"
-      ],
-      "4": [
-        "nitram1572"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Iglo",
-        "Telinnor",
-        "nitram1572",
-        "Warhazarder"
-      ],
-      "11": [
-        "leekcookie"
-      ],
-      "2": [
-        "Lord_HoruS",
-        "Teayo"
-      ],
-      "5": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Iglo",
-        "Lord_HoruS",
-        "Warhazarder"
-      ],
-      "2": [
-        "Mandahaya",
-        "lodoss2011",
-        "nitram1572"
-      ],
-      "4": [
-        "DornDasBrot"
-      ],
-      "8": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "24": [
+      "Lord_HoruS"
+    ],
+    "4": [
+      "nitram1572"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Iglo",
+      "Telinnor",
+      "Warhazarder",
+      "nitram1572"
+    ],
+    "11": [
+      "leekcookie"
+    ],
+    "2": [
+      "Lord_HoruS",
+      "Teayo"
+    ],
+    "5": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Iglo",
+      "Lord_HoruS",
+      "Warhazarder"
+    ],
+    "2": [
+      "Mandahaya",
+      "lodoss2011",
+      "nitram1572"
+    ],
+    "4": [
+      "DornDasBrot"
+    ],
+    "8": [
+      "leekcookie"
+    ]
   }
 }

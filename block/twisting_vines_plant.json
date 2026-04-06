@@ -1,38 +1,34 @@
 {
-  "name": "twisting_vines_plant",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "11": [
-        "Lord_HoruS"
-      ],
-      "12": [
-        "__kreck"
-      ],
-      "13": [
-        "santemjocko"
-      ],
-      "15": [
-        "lodoss2011"
-      ],
-      "150": [
-        "Iglo"
-      ],
-      "20": [
-        "XeonVirus"
-      ],
-      "3": [
-        "chaos1989"
-      ],
-      "47": [
-        "leekcookie"
-      ],
-      "5": [
-        "minenicknick"
-      ],
-      "6": [
-        "Mamuschkaz"
-      ]
-    }
+  "mined": {
+    "11": [
+      "Lord_HoruS"
+    ],
+    "12": [
+      "__kreck"
+    ],
+    "13": [
+      "santemjocko"
+    ],
+    "15": [
+      "lodoss2011"
+    ],
+    "150": [
+      "Iglo"
+    ],
+    "20": [
+      "XeonVirus"
+    ],
+    "3": [
+      "chaos1989"
+    ],
+    "47": [
+      "leekcookie"
+    ],
+    "5": [
+      "minenicknick"
+    ],
+    "6": [
+      "Mamuschkaz"
+    ]
   }
 }

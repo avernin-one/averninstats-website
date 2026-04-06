@@ -1,52 +1,48 @@
 {
-  "name": "crimson_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12": [
-        "Warhazarder"
-      ],
-      "1362": [
-        "Makishi25"
-      ],
-      "384": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "126": [
-        "leekcookie"
-      ],
-      "2": [
-        "Makishi25"
-      ]
-    },
-    "mined": {
-      "136": [
-        "leekcookie"
-      ],
-      "175": [
-        "Makishi25"
-      ]
-    },
-    "picked_up": {
-      "176": [
-        "Makishi25"
-      ],
-      "437": [
-        "leekcookie"
-      ],
-      "6": [
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "1552": [
-        "Makishi25"
-      ],
-      "159": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "Warhazarder"
+    ],
+    "1362": [
+      "Makishi25"
+    ],
+    "384": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "126": [
+      "leekcookie"
+    ],
+    "2": [
+      "Makishi25"
+    ]
+  },
+  "mined": {
+    "136": [
+      "leekcookie"
+    ],
+    "175": [
+      "Makishi25"
+    ]
+  },
+  "picked_up": {
+    "176": [
+      "Makishi25"
+    ],
+    "437": [
+      "leekcookie"
+    ],
+    "6": [
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "1552": [
+      "Makishi25"
+    ],
+    "159": [
+      "leekcookie"
+    ]
   }
 }

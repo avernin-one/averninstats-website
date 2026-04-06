@@ -1,84 +1,80 @@
 {
-  "name": "poisonous_potato",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "1": [
-        "owac",
-        "egoplayer_Felix",
-        "Sayder13xr"
-      ],
-      "12": [
-        "DornDasBrot"
-      ],
-      "181": [
-        "Teayo"
-      ],
-      "2": [
-        "iurie",
-        "nitram1572",
-        "JonasderGamer"
-      ],
-      "21": [
-        "Makishi25"
-      ],
-      "29": [
-        "lodoss2011"
-      ],
-      "3": [
-        "santemjocko"
-      ],
-      "35": [
-        "leekcookie"
-      ],
-      "4": [
-        "Telinnor",
-        "Warhazarder"
-      ],
-      "6": [
-        "XeonVirus"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "Mandahaya",
-        "santemjocko"
-      ],
-      "108": [
-        "nitram1572"
-      ],
-      "11": [
-        "leekcookie"
-      ],
-      "15": [
-        "DornDasBrot"
-      ],
-      "187": [
-        "iurie"
-      ],
-      "202": [
-        "Teayo"
-      ],
-      "21": [
-        "Makishi25"
-      ],
-      "23": [
-        "owac"
-      ],
-      "26": [
-        "SnuvomBodensatz"
-      ],
-      "49": [
-        "lodoss2011"
-      ]
-    },
-    "used": {
-      "1": [
-        "Telinnor"
-      ],
-      "2": [
-        "iurie"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "Sayder13xr",
+      "egoplayer_Felix",
+      "owac"
+    ],
+    "12": [
+      "DornDasBrot"
+    ],
+    "181": [
+      "Teayo"
+    ],
+    "2": [
+      "JonasderGamer",
+      "iurie",
+      "nitram1572"
+    ],
+    "21": [
+      "Makishi25"
+    ],
+    "29": [
+      "lodoss2011"
+    ],
+    "3": [
+      "santemjocko"
+    ],
+    "35": [
+      "leekcookie"
+    ],
+    "4": [
+      "Telinnor",
+      "Warhazarder"
+    ],
+    "6": [
+      "XeonVirus"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "Mandahaya",
+      "santemjocko"
+    ],
+    "108": [
+      "nitram1572"
+    ],
+    "11": [
+      "leekcookie"
+    ],
+    "15": [
+      "DornDasBrot"
+    ],
+    "187": [
+      "iurie"
+    ],
+    "202": [
+      "Teayo"
+    ],
+    "21": [
+      "Makishi25"
+    ],
+    "23": [
+      "owac"
+    ],
+    "26": [
+      "SnuvomBodensatz"
+    ],
+    "49": [
+      "lodoss2011"
+    ]
+  },
+  "used": {
+    "1": [
+      "Telinnor"
+    ],
+    "2": [
+      "iurie"
+    ]
   }
 }

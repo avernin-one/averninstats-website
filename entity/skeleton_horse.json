@@ -1,31 +1,27 @@
 {
-  "name": "skeleton_horse",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "SnuvomBodensatz",
-        "lodoss2011",
-        "Mamuschkaz",
-        "CuzimJxson",
-        "SuperXXLProfi",
-        "nitram1572",
-        "Warhazarder"
-      ],
-      "2": [
-        "minenicknick",
-        "Iglo",
-        "DornDasBrot",
-        "Teayo"
-      ],
-      "3": [
-        "chaos1989",
-        "philxpx",
-        "Lord_HoruS"
-      ],
-      "8": [
-        "XeonVirus"
-      ]
-    }
+  "killed": {
+    "1": [
+      "CuzimJxson",
+      "Mamuschkaz",
+      "SnuvomBodensatz",
+      "SuperXXLProfi",
+      "Warhazarder",
+      "lodoss2011",
+      "nitram1572"
+    ],
+    "2": [
+      "DornDasBrot",
+      "Iglo",
+      "Teayo",
+      "minenicknick"
+    ],
+    "3": [
+      "Lord_HoruS",
+      "chaos1989",
+      "philxpx"
+    ],
+    "8": [
+      "XeonVirus"
+    ]
   }
 }

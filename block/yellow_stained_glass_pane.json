@@ -1,26 +1,22 @@
 {
-  "name": "yellow_stained_glass_pane",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "16": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "10": [
-        "Makishi25"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "16": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "16": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "10": [
+      "Makishi25"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "16": [
+      "__kreck"
+    ]
   }
 }

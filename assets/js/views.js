@@ -55,7 +55,7 @@ function scrollToSection(id) {
 }
 
 function setTitle(page) {
-  document.title = page ? `${title} - ${page}` : title;
+  document.title = page ? `${title} > ${page}` : title;
 }
 
 export function renderIndex() {
@@ -172,32 +172,29 @@ export async function renderHighscore(stat = null) {
   let site = document.querySelector(`.stat-detail[data-id="highscore"]`);
 
   if (site == null) {
-    const sections = [];
-    for (const name of manifest) {
-      let data;
-      try {
-        renderLoading(name.name);
-        data = await fetchJSON(`highscore/${name.id}.json`);
+    let data;
+    try {
+      renderLoading("highscore");
+      data = await fetchJSON(`highscore/highscore.json`);
 
-        data.scores = Object.entries(data.scores)
-          .sort(([a], [b]) => Number(b) - Number(a))
-          .map(([score, players], index) => ({
-            rank: index + 1,
-            score: formatValue(data.name, score),
-            players: players,
-          }));
-
-        data.id = data.name;
-        data.name = translate(name.id);
-      } catch (err) {
-        console.error(`Failed to fetch highscore data for ${name.id}:`, err);
-        continue;
-      }
-
-      sections.push(data);
+      data = Object.entries(data)
+        .sort(([a], [b]) => a.localeCompare(b)) // sort alphabetic ascending
+        .map(([id, scores]) => ({
+          id: id,
+          title: translate(id),
+          scores: Object.entries(scores)
+            .sort(([a], [b]) => Number(b) - Number(a)) // sort descending
+            .map(([score, players], index) => ({
+              rank: index + 1,
+              score: formatValue(id, score),
+              players: players,
+            })),
+        }));
+    } catch (err) {
+      console.error(`Failed to fetch highscore data`, err);
     }
 
-    render(Mustache.render(T.get("page-highscore"), { sections }));
+    render(Mustache.render(T.get("page-highscore"), data));
     scheduleAlign(".stat-detail");
   }
 
@@ -222,7 +219,7 @@ export async function renderStats(category, statName) {
     statName = manifest[0].id;
   }
 
-  setTitle(`${titleCase(category)} - ${translate(statName)}`);
+  setTitle(`${titleCase(category)} > ${translate(statName)}`);
   setActiveNav(category);
   setActiveToc(statName);
 
@@ -241,15 +238,15 @@ export async function renderStats(category, statName) {
   }
 
   let sections = [];
-  for (const elem in data.scores) {
+  for (const elem in data) {
     let entry = {
       id: elem,
       name: translate(elem),
-      scores: Object.entries(data.scores[elem])
+      scores: Object.entries(data[elem])
         .sort(([a], [b]) => Number(b) - Number(a))
         .map(([score, players], index) => ({
           rank: index + 1,
-          score: formatValue(data.name, score),
+          score: formatValue(elem, score),
           players: players,
         })),
     };
@@ -289,7 +286,7 @@ export async function renderPlayers(playerName = null) {
     return;
   }
 
-  setTitle(`Player - ${playerName}`);
+  setTitle(`Player > ${playerName}`);
   renderLoading(playerName);
 
   let data;

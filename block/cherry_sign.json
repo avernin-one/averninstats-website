@@ -1,21 +1,17 @@
 {
-  "name": "cherry_sign",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "3": [
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "3": [
-        "__Iglo"
-      ]
-    }
+  "crafted": {
+    "3": [
+      "__Iglo"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "3": [
+      "__Iglo"
+    ]
   }
 }

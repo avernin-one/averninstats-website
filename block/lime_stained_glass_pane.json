@@ -1,16 +1,12 @@
 {
-  "name": "lime_stained_glass_pane",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "16": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "13": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "16": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "13": [
+      "__kreck"
+    ]
   }
 }

@@ -1,85 +1,81 @@
 {
-  "name": "flowering_azalea_leaves",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "4": [
-        "iurie"
-      ],
-      "9": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Lukas_126"
-      ],
-      "18": [
-        "SuperXXLProfi"
-      ],
-      "2": [
-        "leekcookie",
-        "Mamuschkaz",
-        "philxpx"
-      ],
-      "23": [
-        "iurie"
-      ],
-      "27": [
-        "__kreck"
-      ],
-      "4": [
-        "Ivenor",
-        "Lord_HoruS"
-      ],
-      "50": [
-        "Iglo"
-      ],
-      "6": [
-        "Mandahaya"
-      ],
-      "68": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "18": [
-        "SuperXXLProfi"
-      ],
-      "2": [
-        "Mandahaya",
-        "Mamuschkaz"
-      ],
-      "29": [
-        "__kreck"
-      ],
-      "30": [
-        "Iglo"
-      ],
-      "5": [
-        "iurie"
-      ],
-      "63": [
-        "santemjocko"
-      ],
-      "7": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "1": [
-        "iurie"
-      ],
-      "13": [
-        "Iglo"
-      ],
-      "2": [
-        "Mandahaya",
-        "Mamuschkaz"
-      ],
-      "3": [
-        "SuperXXLProfi"
-      ]
-    }
+  "dropped": {
+    "4": [
+      "iurie"
+    ],
+    "9": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Lukas_126"
+    ],
+    "18": [
+      "SuperXXLProfi"
+    ],
+    "2": [
+      "Mamuschkaz",
+      "leekcookie",
+      "philxpx"
+    ],
+    "23": [
+      "iurie"
+    ],
+    "27": [
+      "__kreck"
+    ],
+    "4": [
+      "Ivenor",
+      "Lord_HoruS"
+    ],
+    "50": [
+      "Iglo"
+    ],
+    "6": [
+      "Mandahaya"
+    ],
+    "68": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "18": [
+      "SuperXXLProfi"
+    ],
+    "2": [
+      "Mamuschkaz",
+      "Mandahaya"
+    ],
+    "29": [
+      "__kreck"
+    ],
+    "30": [
+      "Iglo"
+    ],
+    "5": [
+      "iurie"
+    ],
+    "63": [
+      "santemjocko"
+    ],
+    "7": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "1": [
+      "iurie"
+    ],
+    "13": [
+      "Iglo"
+    ],
+    "2": [
+      "Mamuschkaz",
+      "Mandahaya"
+    ],
+    "3": [
+      "SuperXXLProfi"
+    ]
   }
 }

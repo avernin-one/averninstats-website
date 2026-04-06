@@ -1,11 +1,7 @@
 {
-  "name": "exposed_cut_copper_slab",
-  "type": "block",
-  "scores": {
-    "used": {
-      "2": [
-        "DornDasBrot"
-      ]
-    }
+  "used": {
+    "2": [
+      "DornDasBrot"
+    ]
   }
 }

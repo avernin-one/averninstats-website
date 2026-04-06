@@ -1,146 +1,142 @@
 {
-  "name": "sticky_piston",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "141": [
-        "owac"
-      ],
-      "1748": [
-        "__Iglo"
-      ],
-      "2317": [
-        "leekcookie"
-      ],
-      "374": [
-        "santemjocko"
-      ],
-      "49": [
-        "Makishi25"
-      ],
-      "62": [
-        "Sayder13xr"
-      ],
-      "75": [
-        "Mamuschkaz"
-      ],
-      "79": [
-        "imabaldman"
-      ],
-      "796": [
-        "__kreck"
-      ],
-      "999": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "3": [
-        "imabaldman"
-      ],
-      "434": [
-        "leekcookie"
-      ],
-      "5": [
-        "JonasderGamer"
-      ]
-    },
-    "mined": {
-      "11": [
-        "imabaldman"
-      ],
-      "14": [
-        "Iglo"
-      ],
-      "17": [
-        "Cpt_looper"
-      ],
-      "23": [
-        "Sayder13xr"
-      ],
-      "39": [
-        "Mamuschkaz",
-        "DornDasBrot"
-      ],
-      "50": [
-        "__kreck"
-      ],
-      "669": [
-        "leekcookie"
-      ],
-      "76": [
-        "santemjocko"
-      ],
-      "89": [
-        "owac"
-      ],
-      "923": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "136": [
-        "santemjocko"
-      ],
-      "20": [
-        "Iglo"
-      ],
-      "22": [
-        "imabaldman"
-      ],
-      "2802": [
-        "leekcookie"
-      ],
-      "39": [
-        "DornDasBrot"
-      ],
-      "43": [
-        "Sayder13xr"
-      ],
-      "53": [
-        "Mamuschkaz"
-      ],
-      "78": [
-        "__kreck"
-      ],
-      "877": [
-        "iurie"
-      ],
-      "98": [
-        "owac"
-      ]
-    },
-    "used": {
-      "122": [
-        "Mamuschkaz"
-      ],
-      "1522": [
-        "leekcookie"
-      ],
-      "156": [
-        "santemjocko"
-      ],
-      "1569": [
-        "iurie"
-      ],
-      "199": [
-        "owac"
-      ],
-      "228": [
-        "__kreck"
-      ],
-      "56": [
-        "Cpt_looper"
-      ],
-      "57": [
-        "TrashSuperstar"
-      ],
-      "63": [
-        "DornDasBrot"
-      ],
-      "85": [
-        "Sayder13xr"
-      ]
-    }
+  "crafted": {
+    "141": [
+      "owac"
+    ],
+    "1748": [
+      "__Iglo"
+    ],
+    "2317": [
+      "leekcookie"
+    ],
+    "374": [
+      "santemjocko"
+    ],
+    "49": [
+      "Makishi25"
+    ],
+    "62": [
+      "Sayder13xr"
+    ],
+    "75": [
+      "Mamuschkaz"
+    ],
+    "79": [
+      "imabaldman"
+    ],
+    "796": [
+      "__kreck"
+    ],
+    "999": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "3": [
+      "imabaldman"
+    ],
+    "434": [
+      "leekcookie"
+    ],
+    "5": [
+      "JonasderGamer"
+    ]
+  },
+  "mined": {
+    "11": [
+      "imabaldman"
+    ],
+    "14": [
+      "Iglo"
+    ],
+    "17": [
+      "Cpt_looper"
+    ],
+    "23": [
+      "Sayder13xr"
+    ],
+    "39": [
+      "DornDasBrot",
+      "Mamuschkaz"
+    ],
+    "50": [
+      "__kreck"
+    ],
+    "669": [
+      "leekcookie"
+    ],
+    "76": [
+      "santemjocko"
+    ],
+    "89": [
+      "owac"
+    ],
+    "923": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "136": [
+      "santemjocko"
+    ],
+    "20": [
+      "Iglo"
+    ],
+    "22": [
+      "imabaldman"
+    ],
+    "2802": [
+      "leekcookie"
+    ],
+    "39": [
+      "DornDasBrot"
+    ],
+    "43": [
+      "Sayder13xr"
+    ],
+    "53": [
+      "Mamuschkaz"
+    ],
+    "78": [
+      "__kreck"
+    ],
+    "877": [
+      "iurie"
+    ],
+    "98": [
+      "owac"
+    ]
+  },
+  "used": {
+    "122": [
+      "Mamuschkaz"
+    ],
+    "1522": [
+      "leekcookie"
+    ],
+    "156": [
+      "santemjocko"
+    ],
+    "1569": [
+      "iurie"
+    ],
+    "199": [
+      "owac"
+    ],
+    "228": [
+      "__kreck"
+    ],
+    "56": [
+      "Cpt_looper"
+    ],
+    "57": [
+      "TrashSuperstar"
+    ],
+    "63": [
+      "DornDasBrot"
+    ],
+    "85": [
+      "Sayder13xr"
+    ]
   }
 }

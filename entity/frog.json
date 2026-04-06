@@ -1,11 +1,7 @@
 {
-  "name": "frog",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "leekcookie"
-      ]
-    }
+  "killed": {
+    "1": [
+      "leekcookie"
+    ]
   }
 }

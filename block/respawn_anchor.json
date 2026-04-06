@@ -1,26 +1,22 @@
 {
-  "name": "respawn_anchor",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "3": [
-        "iurie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "2": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "3": [
+      "iurie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "2": [
+      "iurie"
+    ]
   }
 }

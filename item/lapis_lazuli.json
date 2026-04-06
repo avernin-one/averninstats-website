@@ -1,102 +1,98 @@
 {
-  "name": "lapis_lazuli",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "135": [
-        "Lord_HoruS"
-      ],
-      "1557": [
-        "santemjocko"
-      ],
-      "207": [
-        "Temeraiere"
-      ],
-      "263": [
-        "leekcookie"
-      ],
-      "315": [
-        "Cpt_looper"
-      ],
-      "450": [
-        "__Iglo"
-      ],
-      "576": [
-        "__kreck"
-      ],
-      "62": [
-        "Teayo"
-      ],
-      "720": [
-        "DornDasBrot"
-      ],
-      "7947": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "12": [
-        "Warhazarder"
-      ],
-      "1435": [
-        "__kreck"
-      ],
-      "152": [
-        "lodoss2011"
-      ],
-      "272": [
-        "leekcookie"
-      ],
-      "28": [
-        "Mamuschkaz"
-      ],
-      "33": [
-        "egoplayer_Felix"
-      ],
-      "343": [
-        "__Iglo"
-      ],
-      "38": [
-        "Cpt_looper"
-      ],
-      "71": [
-        "philxpx"
-      ],
-      "89": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "1089": [
-        "Cpt_looper"
-      ],
-      "1483": [
-        "chaos1989"
-      ],
-      "1562": [
-        "Lord_HoruS"
-      ],
-      "1570": [
-        "santemjocko"
-      ],
-      "2068": [
-        "Warhazarder"
-      ],
-      "2348": [
-        "Sayder13xr"
-      ],
-      "2396": [
-        "leekcookie"
-      ],
-      "3964": [
-        "iurie"
-      ],
-      "4075": [
-        "__kreck"
-      ],
-      "805": [
-        "Temeraiere"
-      ]
-    }
+  "crafted": {
+    "135": [
+      "Lord_HoruS"
+    ],
+    "1557": [
+      "santemjocko"
+    ],
+    "207": [
+      "Temeraiere"
+    ],
+    "263": [
+      "leekcookie"
+    ],
+    "315": [
+      "Cpt_looper"
+    ],
+    "450": [
+      "__Iglo"
+    ],
+    "576": [
+      "__kreck"
+    ],
+    "62": [
+      "Teayo"
+    ],
+    "720": [
+      "DornDasBrot"
+    ],
+    "7947": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "12": [
+      "Warhazarder"
+    ],
+    "1435": [
+      "__kreck"
+    ],
+    "152": [
+      "lodoss2011"
+    ],
+    "272": [
+      "leekcookie"
+    ],
+    "28": [
+      "Mamuschkaz"
+    ],
+    "33": [
+      "egoplayer_Felix"
+    ],
+    "343": [
+      "__Iglo"
+    ],
+    "38": [
+      "Cpt_looper"
+    ],
+    "71": [
+      "philxpx"
+    ],
+    "89": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "1089": [
+      "Cpt_looper"
+    ],
+    "1483": [
+      "chaos1989"
+    ],
+    "1562": [
+      "Lord_HoruS"
+    ],
+    "1570": [
+      "santemjocko"
+    ],
+    "2068": [
+      "Warhazarder"
+    ],
+    "2348": [
+      "Sayder13xr"
+    ],
+    "2396": [
+      "leekcookie"
+    ],
+    "3964": [
+      "iurie"
+    ],
+    "4075": [
+      "__kreck"
+    ],
+    "805": [
+      "Temeraiere"
+    ]
   }
 }

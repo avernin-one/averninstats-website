@@ -1,21 +1,17 @@
 {
-  "name": "mossy_stone_brick_wall",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "37": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "6": [
-        "leekcookie"
-      ]
-    }
+  "mined": {
+    "1": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "37": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "6": [
+      "leekcookie"
+    ]
   }
 }

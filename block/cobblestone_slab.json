@@ -1,160 +1,156 @@
 {
-  "name": "cobblestone_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "150": [
-        "santemjocko"
-      ],
-      "196": [
-        "DornDasBrot"
-      ],
-      "2256": [
-        "Sayder13xr"
-      ],
-      "2362": [
-        "iurie"
-      ],
-      "354": [
-        "Mamuschkaz"
-      ],
-      "410": [
-        "leekcookie"
-      ],
-      "450": [
-        "Ivenor"
-      ],
-      "5382": [
-        "lodoss2011"
-      ],
-      "834": [
-        "Makishi25"
-      ],
-      "8574": [
-        "owac"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "nitram1572"
-      ],
-      "10": [
-        "lodoss2011"
-      ],
-      "175": [
-        "__kreck"
-      ],
-      "51": [
-        "Mamuschkaz"
-      ],
-      "6": [
-        "Sayder13xr"
-      ],
-      "71": [
-        "owac"
-      ],
-      "76": [
-        "__Iglo"
-      ],
-      "77": [
-        "DornDasBrot"
-      ]
-    },
-    "mined": {
-      "141": [
-        "DornDasBrot"
-      ],
-      "150": [
-        "nitram1572"
-      ],
-      "1694": [
-        "owac"
-      ],
-      "187": [
-        "JonasderGamer"
-      ],
-      "192": [
-        "iurie"
-      ],
-      "2024": [
-        "Sayder13xr"
-      ],
-      "226": [
-        "__kreck"
-      ],
-      "364": [
-        "lodoss2011"
-      ],
-      "89": [
-        "__Iglo"
-      ],
-      "95": [
-        "chaos1989"
-      ]
-    },
-    "picked_up": {
-      "1184": [
-        "lodoss2011"
-      ],
-      "156": [
-        "nitram1572"
-      ],
-      "1646": [
-        "Sayder13xr"
-      ],
-      "171": [
-        "__Iglo"
-      ],
-      "1844": [
-        "owac"
-      ],
-      "216": [
-        "DornDasBrot"
-      ],
-      "269": [
-        "iurie"
-      ],
-      "449": [
-        "__kreck"
-      ],
-      "75": [
-        "Mamuschkaz"
-      ],
-      "90": [
-        "chaos1989"
-      ]
-    },
-    "used": {
-      "10336": [
-        "owac"
-      ],
-      "2108": [
-        "Sayder13xr"
-      ],
-      "2226": [
-        "iurie"
-      ],
-      "227": [
-        "nitram1572"
-      ],
-      "276": [
-        "Mamuschkaz"
-      ],
-      "311": [
-        "Makishi25"
-      ],
-      "320": [
-        "Ivenor"
-      ],
-      "336": [
-        "chaos1989"
-      ],
-      "5387": [
-        "lodoss2011"
-      ],
-      "599": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "150": [
+      "santemjocko"
+    ],
+    "196": [
+      "DornDasBrot"
+    ],
+    "2256": [
+      "Sayder13xr"
+    ],
+    "2362": [
+      "iurie"
+    ],
+    "354": [
+      "Mamuschkaz"
+    ],
+    "410": [
+      "leekcookie"
+    ],
+    "450": [
+      "Ivenor"
+    ],
+    "5382": [
+      "lodoss2011"
+    ],
+    "834": [
+      "Makishi25"
+    ],
+    "8574": [
+      "owac"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "nitram1572"
+    ],
+    "10": [
+      "lodoss2011"
+    ],
+    "175": [
+      "__kreck"
+    ],
+    "51": [
+      "Mamuschkaz"
+    ],
+    "6": [
+      "Sayder13xr"
+    ],
+    "71": [
+      "owac"
+    ],
+    "76": [
+      "__Iglo"
+    ],
+    "77": [
+      "DornDasBrot"
+    ]
+  },
+  "mined": {
+    "141": [
+      "DornDasBrot"
+    ],
+    "150": [
+      "nitram1572"
+    ],
+    "1694": [
+      "owac"
+    ],
+    "187": [
+      "JonasderGamer"
+    ],
+    "192": [
+      "iurie"
+    ],
+    "2024": [
+      "Sayder13xr"
+    ],
+    "226": [
+      "__kreck"
+    ],
+    "364": [
+      "lodoss2011"
+    ],
+    "89": [
+      "__Iglo"
+    ],
+    "95": [
+      "chaos1989"
+    ]
+  },
+  "picked_up": {
+    "1184": [
+      "lodoss2011"
+    ],
+    "156": [
+      "nitram1572"
+    ],
+    "1646": [
+      "Sayder13xr"
+    ],
+    "171": [
+      "__Iglo"
+    ],
+    "1844": [
+      "owac"
+    ],
+    "216": [
+      "DornDasBrot"
+    ],
+    "269": [
+      "iurie"
+    ],
+    "449": [
+      "__kreck"
+    ],
+    "75": [
+      "Mamuschkaz"
+    ],
+    "90": [
+      "chaos1989"
+    ]
+  },
+  "used": {
+    "10336": [
+      "owac"
+    ],
+    "2108": [
+      "Sayder13xr"
+    ],
+    "2226": [
+      "iurie"
+    ],
+    "227": [
+      "nitram1572"
+    ],
+    "276": [
+      "Mamuschkaz"
+    ],
+    "311": [
+      "Makishi25"
+    ],
+    "320": [
+      "Ivenor"
+    ],
+    "336": [
+      "chaos1989"
+    ],
+    "5387": [
+      "lodoss2011"
+    ],
+    "599": [
+      "__kreck"
+    ]
   }
 }

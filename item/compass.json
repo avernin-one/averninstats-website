@@ -1,56 +1,52 @@
 {
-  "name": "compass",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "Mamuschkaz",
-        "owac"
-      ],
-      "17": [
-        "santemjocko"
-      ],
-      "27": [
-        "nitram1572"
-      ],
-      "272": [
-        "iurie"
-      ],
-      "3": [
-        "Teayo"
-      ],
-      "33": [
-        "__kreck"
-      ],
-      "4": [
-        "leekcookie",
-        "XeonVirus"
-      ],
-      "64": [
-        "Cpt_looper"
-      ]
-    },
-    "dropped": {
-      "17": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "owac",
-        "Warhazarder"
-      ],
-      "12": [
-        "iurie"
-      ],
-      "5": [
-        "Lord_HoruS"
-      ]
-    },
-    "used": {
-      "8": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Mamuschkaz",
+      "owac"
+    ],
+    "17": [
+      "santemjocko"
+    ],
+    "27": [
+      "nitram1572"
+    ],
+    "272": [
+      "iurie"
+    ],
+    "3": [
+      "Teayo"
+    ],
+    "33": [
+      "__kreck"
+    ],
+    "4": [
+      "XeonVirus",
+      "leekcookie"
+    ],
+    "64": [
+      "Cpt_looper"
+    ]
+  },
+  "dropped": {
+    "17": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Warhazarder",
+      "owac"
+    ],
+    "12": [
+      "iurie"
+    ],
+    "5": [
+      "Lord_HoruS"
+    ]
+  },
+  "used": {
+    "8": [
+      "iurie"
+    ]
   }
 }

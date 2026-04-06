@@ -1,24 +1,20 @@
 {
-  "name": "endermite",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "obvBasti",
-        "SuperXXLProfi"
-      ],
-      "11": [
-        "imabaldman"
-      ],
-      "20": [
-        "__Iglo"
-      ],
-      "4": [
-        "iurie"
-      ],
-      "6": [
-        "Iglo"
-      ]
-    }
+  "killed": {
+    "1": [
+      "SuperXXLProfi",
+      "obvBasti"
+    ],
+    "11": [
+      "imabaldman"
+    ],
+    "20": [
+      "__Iglo"
+    ],
+    "4": [
+      "iurie"
+    ],
+    "6": [
+      "Iglo"
+    ]
   }
 }

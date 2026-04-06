@@ -1,11 +1,7 @@
 {
-  "name": "sentry_armor_trim_smithing_template",
-  "type": "item",
-  "scores": {
-    "picked_up": {
-      "1": [
-        "Warhazarder"
-      ]
-    }
+  "picked_up": {
+    "1": [
+      "Warhazarder"
+    ]
   }
 }

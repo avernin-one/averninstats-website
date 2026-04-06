@@ -1,26 +1,22 @@
 {
-  "name": "light_blue_stained_glass",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "120": [
-        "XeonVirus"
-      ]
-    },
-    "mined": {
-      "70": [
-        "XeonVirus"
-      ]
-    },
-    "picked_up": {
-      "65": [
-        "XeonVirus"
-      ]
-    },
-    "used": {
-      "115": [
-        "XeonVirus"
-      ]
-    }
+  "crafted": {
+    "120": [
+      "XeonVirus"
+    ]
+  },
+  "mined": {
+    "70": [
+      "XeonVirus"
+    ]
+  },
+  "picked_up": {
+    "65": [
+      "XeonVirus"
+    ]
+  },
+  "used": {
+    "115": [
+      "XeonVirus"
+    ]
   }
 }

@@ -1,51 +1,47 @@
 {
-  "name": "guardian",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "11": [
-        "santemjocko"
-      ],
-      "14": [
-        "XeonVirus"
-      ],
-      "25": [
-        "DornDasBrot"
-      ],
-      "34": [
-        "Teayo"
-      ],
-      "4": [
-        "owac"
-      ],
-      "45": [
-        "__kreck"
-      ],
-      "51": [
-        "__Iglo"
-      ],
-      "58": [
-        "iurie"
-      ],
-      "9": [
-        "leekcookie"
-      ],
-      "97": [
-        "chaos1989"
-      ]
-    },
-    "killed_by": {
-      "1": [
-        "iurie",
-        "Cpt_looper",
-        "Teayo"
-      ],
-      "2": [
-        "Lord_HoruS"
-      ],
-      "3": [
-        "lodoss2011"
-      ]
-    }
+  "killed": {
+    "11": [
+      "santemjocko"
+    ],
+    "14": [
+      "XeonVirus"
+    ],
+    "25": [
+      "DornDasBrot"
+    ],
+    "34": [
+      "Teayo"
+    ],
+    "4": [
+      "owac"
+    ],
+    "45": [
+      "__kreck"
+    ],
+    "51": [
+      "__Iglo"
+    ],
+    "58": [
+      "iurie"
+    ],
+    "9": [
+      "leekcookie"
+    ],
+    "97": [
+      "chaos1989"
+    ]
+  },
+  "killed_by": {
+    "1": [
+      "Cpt_looper",
+      "Teayo",
+      "iurie"
+    ],
+    "2": [
+      "Lord_HoruS"
+    ],
+    "3": [
+      "lodoss2011"
+    ]
   }
 }

@@ -1,63 +1,59 @@
 {
-  "name": "netherite_scrap",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "175": [
-        "philxpx"
-      ],
-      "186": [
-        "obvBasti"
-      ],
-      "32": [
-        "SuperXXLProfi"
-      ],
-      "38": [
-        "lodoss2011"
-      ],
-      "40": [
-        "minenicknick",
-        "Iglo"
-      ],
-      "44": [
-        "owac"
-      ],
-      "77": [
-        "TrashSuperstar"
-      ],
-      "82": [
-        "Mamuschkaz"
-      ],
-      "83": [
-        "santemjocko"
-      ],
-      "84": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "philxpx"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "26": [
-        "obvBasti"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "obvBasti",
-        "minenicknick",
-        "Warhazarder"
-      ],
-      "26": [
-        "SuperXXLProfi"
-      ],
-      "5": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "175": [
+      "philxpx"
+    ],
+    "186": [
+      "obvBasti"
+    ],
+    "32": [
+      "SuperXXLProfi"
+    ],
+    "38": [
+      "lodoss2011"
+    ],
+    "40": [
+      "Iglo",
+      "minenicknick"
+    ],
+    "44": [
+      "owac"
+    ],
+    "77": [
+      "TrashSuperstar"
+    ],
+    "82": [
+      "Mamuschkaz"
+    ],
+    "83": [
+      "santemjocko"
+    ],
+    "84": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "philxpx"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "26": [
+      "obvBasti"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Warhazarder",
+      "minenicknick",
+      "obvBasti"
+    ],
+    "26": [
+      "SuperXXLProfi"
+    ],
+    "5": [
+      "leekcookie"
+    ]
   }
 }

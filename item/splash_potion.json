@@ -1,103 +1,99 @@
 {
-  "name": "splash_potion",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "1": [
-        "iurie",
-        "imabaldman",
-        "Sayder13xr"
-      ],
-      "13": [
-        "philxpx"
-      ],
-      "19": [
-        "minenicknick"
-      ],
-      "197": [
-        "__kreck"
-      ],
-      "2": [
-        "santemjocko"
-      ],
-      "253": [
-        "__Iglo"
-      ],
-      "3": [
-        "leekcookie",
-        "Iglo"
-      ],
-      "4": [
-        "owac"
-      ],
-      "6": [
-        "obvBasti"
-      ]
-    },
-    "picked_up": {
-      "11": [
-        "owac"
-      ],
-      "15": [
-        "philxpx"
-      ],
-      "23": [
-        "minenicknick"
-      ],
-      "3": [
-        "lodoss2011"
-      ],
-      "31": [
-        "leekcookie"
-      ],
-      "4": [
-        "santemjocko",
-        "Telinnor"
-      ],
-      "5": [
-        "imabaldman"
-      ],
-      "6": [
-        "obvBasti"
-      ],
-      "65": [
-        "__Iglo"
-      ],
-      "77": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "10": [
-        "__Iglo"
-      ],
-      "112": [
-        "iurie"
-      ],
-      "113": [
-        "leekcookie"
-      ],
-      "13": [
-        "Iglo"
-      ],
-      "18": [
-        "Sayder13xr"
-      ],
-      "21": [
-        "TrashSuperstar"
-      ],
-      "29": [
-        "Mamuschkaz"
-      ],
-      "44": [
-        "santemjocko"
-      ],
-      "48": [
-        "owac"
-      ],
-      "68": [
-        "__kreck"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "Sayder13xr",
+      "imabaldman",
+      "iurie"
+    ],
+    "13": [
+      "philxpx"
+    ],
+    "19": [
+      "minenicknick"
+    ],
+    "197": [
+      "__kreck"
+    ],
+    "2": [
+      "santemjocko"
+    ],
+    "253": [
+      "__Iglo"
+    ],
+    "3": [
+      "Iglo",
+      "leekcookie"
+    ],
+    "4": [
+      "owac"
+    ],
+    "6": [
+      "obvBasti"
+    ]
+  },
+  "picked_up": {
+    "11": [
+      "owac"
+    ],
+    "15": [
+      "philxpx"
+    ],
+    "23": [
+      "minenicknick"
+    ],
+    "3": [
+      "lodoss2011"
+    ],
+    "31": [
+      "leekcookie"
+    ],
+    "4": [
+      "Telinnor",
+      "santemjocko"
+    ],
+    "5": [
+      "imabaldman"
+    ],
+    "6": [
+      "obvBasti"
+    ],
+    "65": [
+      "__Iglo"
+    ],
+    "77": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "10": [
+      "__Iglo"
+    ],
+    "112": [
+      "iurie"
+    ],
+    "113": [
+      "leekcookie"
+    ],
+    "13": [
+      "Iglo"
+    ],
+    "18": [
+      "Sayder13xr"
+    ],
+    "21": [
+      "TrashSuperstar"
+    ],
+    "29": [
+      "Mamuschkaz"
+    ],
+    "44": [
+      "santemjocko"
+    ],
+    "48": [
+      "owac"
+    ],
+    "68": [
+      "__kreck"
+    ]
   }
 }

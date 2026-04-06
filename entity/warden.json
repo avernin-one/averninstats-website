@@ -1,16 +1,12 @@
 {
-  "name": "warden",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "2": [
-        "iurie"
-      ]
-    },
-    "killed_by": {
-      "1": [
-        "iurie"
-      ]
-    }
+  "killed": {
+    "2": [
+      "iurie"
+    ]
+  },
+  "killed_by": {
+    "1": [
+      "iurie"
+    ]
   }
 }

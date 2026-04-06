@@ -126,12 +126,10 @@
       }
     },
     "entity": {
-      "dropped": {
-        "1": [
-          "ender_pearl"
-        ]
-      },
       "killed": {
+        "11": [
+          "magma_cube"
+        ],
         "115": [
           "enderman"
         ],
@@ -143,9 +141,6 @@
         ],
         "21": [
           "zombie"
-        ],
-        "24": [
-          "salmon"
         ]
       },
       "killed_by": {
@@ -156,29 +151,6 @@
         "2": [
           "shulker",
           "zombie"
-        ]
-      },
-      "picked_up": {
-        "1": [
-          "egg",
-          "ender_pearl"
-        ],
-        "13": [
-          "birch_boat"
-        ],
-        "19": [
-          "arrow"
-        ],
-        "34": [
-          "salmon"
-        ]
-      },
-      "used": {
-        "12": [
-          "birch_boat"
-        ],
-        "22": [
-          "ender_pearl"
         ]
       }
     },
@@ -203,11 +175,11 @@
         "114": [
           "bread"
         ],
+        "37": [
+          "cooked_beef"
+        ],
         "3716": [
           "stick"
-        ],
-        "423": [
-          "wheat"
         ],
         "74": [
           "iron_ingot"
@@ -220,17 +192,6 @@
           "ender_pearl",
           "golden_chestplate",
           "porkchop"
-        ]
-      },
-      "mined": {
-        "2": [
-          "brewing_stand"
-        ],
-        "23": [
-          "cauldron"
-        ],
-        "3": [
-          "nether_wart"
         ]
       },
       "picked_up": {

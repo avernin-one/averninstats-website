@@ -1,71 +1,67 @@
 {
-  "name": "phantom_membrane",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "1": [
-        "Makishi25",
-        "XeonVirus"
-      ],
-      "15": [
-        "obvBasti"
-      ],
-      "16": [
-        "JonasderGamer"
-      ],
-      "17": [
-        "Lord_HoruS"
-      ],
-      "2": [
-        "chaos1989",
-        "owac",
-        "iurie"
-      ],
-      "23": [
-        "imabaldman"
-      ],
-      "3": [
-        "philxpx"
-      ],
-      "4": [
-        "santemjocko",
-        "lodoss2011"
-      ],
-      "5": [
-        "minenicknick"
-      ]
-    },
-    "picked_up": {
-      "108": [
-        "iurie"
-      ],
-      "16": [
-        "JonasderGamer"
-      ],
-      "18": [
-        "DornDasBrot"
-      ],
-      "23": [
-        "obvBasti"
-      ],
-      "24": [
-        "Sayder13xr"
-      ],
-      "32": [
-        "Iglo"
-      ],
-      "38": [
-        "Lord_HoruS"
-      ],
-      "50": [
-        "lodoss2011"
-      ],
-      "70": [
-        "XeonVirus"
-      ],
-      "84": [
-        "imabaldman"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "Makishi25",
+      "XeonVirus"
+    ],
+    "15": [
+      "obvBasti"
+    ],
+    "16": [
+      "JonasderGamer"
+    ],
+    "17": [
+      "Lord_HoruS"
+    ],
+    "2": [
+      "chaos1989",
+      "iurie",
+      "owac"
+    ],
+    "23": [
+      "imabaldman"
+    ],
+    "3": [
+      "philxpx"
+    ],
+    "4": [
+      "lodoss2011",
+      "santemjocko"
+    ],
+    "5": [
+      "minenicknick"
+    ]
+  },
+  "picked_up": {
+    "108": [
+      "iurie"
+    ],
+    "16": [
+      "JonasderGamer"
+    ],
+    "18": [
+      "DornDasBrot"
+    ],
+    "23": [
+      "obvBasti"
+    ],
+    "24": [
+      "Sayder13xr"
+    ],
+    "32": [
+      "Iglo"
+    ],
+    "38": [
+      "Lord_HoruS"
+    ],
+    "50": [
+      "lodoss2011"
+    ],
+    "70": [
+      "XeonVirus"
+    ],
+    "84": [
+      "imabaldman"
+    ]
   }
 }

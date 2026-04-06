@@ -1,26 +1,22 @@
 {
-  "name": "bamboo_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1398": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "69": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "261": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1006": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1398": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "69": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "261": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1006": [
+      "leekcookie"
+    ]
   }
 }

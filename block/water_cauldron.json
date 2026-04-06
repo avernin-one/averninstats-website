@@ -1,32 +1,28 @@
 {
-  "name": "water_cauldron",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "KleeneEle",
-        "iurie",
-        "StofftierAnabol",
-        "DornDasBrot",
-        "Makishi25"
-      ],
-      "2": [
-        "Mamuschkaz",
-        "Telinnor",
-        "TrashSuperstar"
-      ],
-      "3": [
-        "Lukas_126",
-        "nitram1572",
-        "Teayo"
-      ],
-      "4": [
-        "santemjocko",
-        "owac"
-      ],
-      "8": [
-        "lodoss2011"
-      ]
-    }
+  "mined": {
+    "1": [
+      "DornDasBrot",
+      "KleeneEle",
+      "Makishi25",
+      "StofftierAnabol",
+      "iurie"
+    ],
+    "2": [
+      "Mamuschkaz",
+      "Telinnor",
+      "TrashSuperstar"
+    ],
+    "3": [
+      "Lukas_126",
+      "Teayo",
+      "nitram1572"
+    ],
+    "4": [
+      "owac",
+      "santemjocko"
+    ],
+    "8": [
+      "lodoss2011"
+    ]
   }
 }

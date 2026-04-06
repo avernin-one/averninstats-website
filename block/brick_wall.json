@@ -1,26 +1,22 @@
 {
-  "name": "brick_wall",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "24": [
-        "lodoss2011"
-      ]
-    },
-    "mined": {
-      "2": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "lodoss2011"
-      ]
-    },
-    "used": {
-      "22": [
-        "lodoss2011"
-      ]
-    }
+  "crafted": {
+    "24": [
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "2": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "lodoss2011"
+    ]
+  },
+  "used": {
+    "22": [
+      "lodoss2011"
+    ]
   }
 }

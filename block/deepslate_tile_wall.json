@@ -1,103 +1,99 @@
 {
-  "name": "deepslate_tile_wall",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "SuperXXLProfi"
-      ],
-      "102": [
-        "Sayder13xr"
-      ],
-      "108": [
-        "Warhazarder"
-      ],
-      "151": [
-        "leekcookie"
-      ],
-      "85": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "128": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "SuperXXLProfi"
-      ],
-      "108": [
-        "leekcookie"
-      ],
-      "18": [
-        "Sayder13xr"
-      ],
-      "22": [
-        "lodoss2011"
-      ],
-      "23": [
-        "__Iglo"
-      ],
-      "44": [
-        "__kreck"
-      ],
-      "5": [
-        "iurie"
-      ],
-      "78": [
-        "Warhazarder"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "SuperXXLProfi"
-      ],
-      "1024": [
-        "leekcookie"
-      ],
-      "22": [
-        "lodoss2011"
-      ],
-      "23": [
-        "__Iglo"
-      ],
-      "4": [
-        "iurie"
-      ],
-      "44": [
-        "__kreck"
-      ],
-      "69": [
-        "Sayder13xr"
-      ],
-      "77": [
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "129": [
-        "__kreck"
-      ],
-      "2": [
-        "SuperXXLProfi"
-      ],
-      "258": [
-        "Sayder13xr"
-      ],
-      "492": [
-        "Warhazarder"
-      ],
-      "502": [
-        "lodoss2011"
-      ],
-      "54": [
-        "__Iglo"
-      ],
-      "660": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "SuperXXLProfi"
+    ],
+    "102": [
+      "Sayder13xr"
+    ],
+    "108": [
+      "Warhazarder"
+    ],
+    "151": [
+      "leekcookie"
+    ],
+    "85": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "128": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "SuperXXLProfi"
+    ],
+    "108": [
+      "leekcookie"
+    ],
+    "18": [
+      "Sayder13xr"
+    ],
+    "22": [
+      "lodoss2011"
+    ],
+    "23": [
+      "__Iglo"
+    ],
+    "44": [
+      "__kreck"
+    ],
+    "5": [
+      "iurie"
+    ],
+    "78": [
+      "Warhazarder"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "SuperXXLProfi"
+    ],
+    "1024": [
+      "leekcookie"
+    ],
+    "22": [
+      "lodoss2011"
+    ],
+    "23": [
+      "__Iglo"
+    ],
+    "4": [
+      "iurie"
+    ],
+    "44": [
+      "__kreck"
+    ],
+    "69": [
+      "Sayder13xr"
+    ],
+    "77": [
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "129": [
+      "__kreck"
+    ],
+    "2": [
+      "SuperXXLProfi"
+    ],
+    "258": [
+      "Sayder13xr"
+    ],
+    "492": [
+      "Warhazarder"
+    ],
+    "502": [
+      "lodoss2011"
+    ],
+    "54": [
+      "__Iglo"
+    ],
+    "660": [
+      "leekcookie"
+    ]
   }
 }

@@ -1,86 +1,82 @@
 {
-  "name": "cyan_carpet",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "240": [
-        "owac"
-      ],
-      "3": [
-        "Mandahaya"
-      ],
-      "6459": [
-        "__kreck"
-      ],
-      "81": [
-        "DornDasBrot"
-      ],
-      "9": [
-        "Telinnor",
-        "__Iglo"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Cpt_looper"
-      ],
-      "17": [
-        "__kreck"
-      ],
-      "30": [
-        "DornDasBrot"
-      ]
-    },
-    "mined": {
-      "2": [
-        "__Iglo"
-      ],
-      "32": [
-        "DornDasBrot"
-      ],
-      "34": [
-        "owac"
-      ],
-      "8": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "__Iglo"
-      ],
-      "31": [
-        "Cpt_looper"
-      ],
-      "32": [
-        "DornDasBrot"
-      ],
-      "33": [
-        "owac"
-      ],
-      "42": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "11": [
-        "__Iglo"
-      ],
-      "12": [
-        "Cpt_looper"
-      ],
-      "242": [
-        "owac"
-      ],
-      "60": [
-        "DornDasBrot"
-      ],
-      "6432": [
-        "__kreck"
-      ],
-      "8": [
-        "Telinnor"
-      ]
-    }
+  "crafted": {
+    "240": [
+      "owac"
+    ],
+    "3": [
+      "Mandahaya"
+    ],
+    "6459": [
+      "__kreck"
+    ],
+    "81": [
+      "DornDasBrot"
+    ],
+    "9": [
+      "Telinnor",
+      "__Iglo"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Cpt_looper"
+    ],
+    "17": [
+      "__kreck"
+    ],
+    "30": [
+      "DornDasBrot"
+    ]
+  },
+  "mined": {
+    "2": [
+      "__Iglo"
+    ],
+    "32": [
+      "DornDasBrot"
+    ],
+    "34": [
+      "owac"
+    ],
+    "8": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "__Iglo"
+    ],
+    "31": [
+      "Cpt_looper"
+    ],
+    "32": [
+      "DornDasBrot"
+    ],
+    "33": [
+      "owac"
+    ],
+    "42": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "11": [
+      "__Iglo"
+    ],
+    "12": [
+      "Cpt_looper"
+    ],
+    "242": [
+      "owac"
+    ],
+    "60": [
+      "DornDasBrot"
+    ],
+    "6432": [
+      "__kreck"
+    ],
+    "8": [
+      "Telinnor"
+    ]
   }
 }

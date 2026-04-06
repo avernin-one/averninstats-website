@@ -1,46 +1,42 @@
 {
-  "name": "cave_spider",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1037": [
-        "santemjocko"
-      ],
-      "140": [
-        "Iglo"
-      ],
-      "143": [
-        "__Iglo"
-      ],
-      "212": [
-        "leekcookie"
-      ],
-      "22": [
-        "Lord_HoruS"
-      ],
-      "2591": [
-        "Sayder13xr"
-      ],
-      "30": [
-        "iurie"
-      ],
-      "58": [
-        "__kreck"
-      ],
-      "7": [
-        "Lukas_126",
-        "Cpt_looper"
-      ],
-      "90": [
-        "owac"
-      ]
-    },
-    "killed_by": {
-      "1": [
-        "leekcookie",
-        "Cpt_looper",
-        "__kreck"
-      ]
-    }
+  "killed": {
+    "1037": [
+      "santemjocko"
+    ],
+    "140": [
+      "Iglo"
+    ],
+    "143": [
+      "__Iglo"
+    ],
+    "212": [
+      "leekcookie"
+    ],
+    "22": [
+      "Lord_HoruS"
+    ],
+    "2591": [
+      "Sayder13xr"
+    ],
+    "30": [
+      "iurie"
+    ],
+    "58": [
+      "__kreck"
+    ],
+    "7": [
+      "Cpt_looper",
+      "Lukas_126"
+    ],
+    "90": [
+      "owac"
+    ]
+  },
+  "killed_by": {
+    "1": [
+      "Cpt_looper",
+      "__kreck",
+      "leekcookie"
+    ]
   }
 }

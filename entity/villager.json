@@ -1,38 +1,34 @@
 {
-  "name": "villager",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "13": [
-        "iurie"
-      ],
-      "15": [
-        "TrashSuperstar"
-      ],
-      "19": [
-        "__kreck"
-      ],
-      "21": [
-        "leekcookie"
-      ],
-      "24": [
-        "minenicknick"
-      ],
-      "27": [
-        "philxpx"
-      ],
-      "47": [
-        "__Iglo"
-      ],
-      "58": [
-        "imabaldman"
-      ],
-      "70": [
-        "DornDasBrot"
-      ],
-      "9": [
-        "Iglo"
-      ]
-    }
+  "killed": {
+    "13": [
+      "iurie"
+    ],
+    "15": [
+      "TrashSuperstar"
+    ],
+    "19": [
+      "__kreck"
+    ],
+    "21": [
+      "leekcookie"
+    ],
+    "24": [
+      "minenicknick"
+    ],
+    "27": [
+      "philxpx"
+    ],
+    "47": [
+      "__Iglo"
+    ],
+    "58": [
+      "imabaldman"
+    ],
+    "70": [
+      "DornDasBrot"
+    ],
+    "9": [
+      "Iglo"
+    ]
   }
 }

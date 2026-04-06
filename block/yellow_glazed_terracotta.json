@@ -1,38 +1,34 @@
 {
-  "name": "yellow_glazed_terracotta",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "nitram1572"
-      ],
-      "16": [
-        "santemjocko"
-      ],
-      "20": [
-        "DornDasBrot"
-      ]
-    },
-    "mined": {
-      "10": [
-        "iurie"
-      ],
-      "46": [
-        "DornDasBrot"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "iurie"
-      ],
-      "46": [
-        "DornDasBrot"
-      ]
-    },
-    "used": {
-      "60": [
-        "DornDasBrot"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "nitram1572"
+    ],
+    "16": [
+      "santemjocko"
+    ],
+    "20": [
+      "DornDasBrot"
+    ]
+  },
+  "mined": {
+    "10": [
+      "iurie"
+    ],
+    "46": [
+      "DornDasBrot"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "iurie"
+    ],
+    "46": [
+      "DornDasBrot"
+    ]
+  },
+  "used": {
+    "60": [
+      "DornDasBrot"
+    ]
   }
 }

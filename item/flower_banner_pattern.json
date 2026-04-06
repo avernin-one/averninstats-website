@@ -1,20 +1,16 @@
 {
-  "name": "flower_banner_pattern",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "SnuvomBodensatz",
-        "chaos1989"
-      ],
-      "4": [
-        "Makishi25"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "chaos1989"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "SnuvomBodensatz",
+      "chaos1989"
+    ],
+    "4": [
+      "Makishi25"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "chaos1989"
+    ]
   }
 }

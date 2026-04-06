@@ -1,87 +1,83 @@
 {
-  "name": "diamond_ore",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "8": [
-        "imabaldman",
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Ivenor",
-        "CuzimJxson",
-        "Temeraiere",
-        "Telinnor"
-      ],
-      "14": [
-        "obvBasti"
-      ],
-      "15": [
-        "SuperXXLProfi",
-        "__kreck"
-      ],
-      "19": [
-        "santemjocko"
-      ],
-      "2": [
-        "lodoss2011",
-        "chaos1989",
-        "XeonVirus"
-      ],
-      "4": [
-        "Mandahaya",
-        "leekcookie",
-        "owac",
-        "imabaldman"
-      ],
-      "7": [
-        "__Iglo"
-      ],
-      "89": [
-        "philxpx"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "__kreck"
-      ],
-      "2": [
-        "imabaldman"
-      ],
-      "22": [
-        "SuperXXLProfi"
-      ],
-      "3": [
-        "obvBasti"
-      ],
-      "4": [
-        "leekcookie"
-      ],
-      "6": [
-        "santemjocko"
-      ],
-      "7": [
-        "__Iglo"
-      ],
-      "8": [
-        "philxpx"
-      ]
-    },
-    "used": {
-      "2": [
-        "imabaldman"
-      ],
-      "3": [
-        "santemjocko"
-      ],
-      "6": [
-        "SuperXXLProfi"
-      ],
-      "7": [
-        "obvBasti"
-      ]
-    }
+  "dropped": {
+    "8": [
+      "__kreck",
+      "imabaldman"
+    ]
+  },
+  "mined": {
+    "1": [
+      "CuzimJxson",
+      "Ivenor",
+      "Telinnor",
+      "Temeraiere"
+    ],
+    "14": [
+      "obvBasti"
+    ],
+    "15": [
+      "SuperXXLProfi",
+      "__kreck"
+    ],
+    "19": [
+      "santemjocko"
+    ],
+    "2": [
+      "XeonVirus",
+      "chaos1989",
+      "lodoss2011"
+    ],
+    "4": [
+      "Mandahaya",
+      "imabaldman",
+      "leekcookie",
+      "owac"
+    ],
+    "7": [
+      "__Iglo"
+    ],
+    "89": [
+      "philxpx"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "__kreck"
+    ],
+    "2": [
+      "imabaldman"
+    ],
+    "22": [
+      "SuperXXLProfi"
+    ],
+    "3": [
+      "obvBasti"
+    ],
+    "4": [
+      "leekcookie"
+    ],
+    "6": [
+      "santemjocko"
+    ],
+    "7": [
+      "__Iglo"
+    ],
+    "8": [
+      "philxpx"
+    ]
+  },
+  "used": {
+    "2": [
+      "imabaldman"
+    ],
+    "3": [
+      "santemjocko"
+    ],
+    "6": [
+      "SuperXXLProfi"
+    ],
+    "7": [
+      "obvBasti"
+    ]
   }
 }

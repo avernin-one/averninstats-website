@@ -1,77 +1,73 @@
 {
-  "name": "blaze_powder",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "108": [
-        "imabaldman"
-      ],
-      "128": [
-        "minenicknick"
-      ],
-      "156": [
-        "leekcookie"
-      ],
-      "190": [
-        "santemjocko"
-      ],
-      "284": [
-        "iurie"
-      ],
-      "34": [
-        "Teayo"
-      ],
-      "36": [
-        "lodoss2011"
-      ],
-      "50": [
-        "chaos1989"
-      ],
-      "52": [
-        "Lord_HoruS"
-      ],
-      "64": [
-        "Iglo"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "owac"
-      ],
-      "2": [
-        "Sayder13xr"
-      ],
-      "45": [
-        "leekcookie"
-      ],
-      "64": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "11": [
-        "iurie"
-      ],
-      "2": [
-        "Mamuschkaz",
-        "Sayder13xr",
-        "Warhazarder"
-      ],
-      "205": [
-        "leekcookie"
-      ],
-      "3": [
-        "owac"
-      ],
-      "58": [
-        "santemjocko"
-      ],
-      "60": [
-        "imabaldman"
-      ],
-      "64": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "108": [
+      "imabaldman"
+    ],
+    "128": [
+      "minenicknick"
+    ],
+    "156": [
+      "leekcookie"
+    ],
+    "190": [
+      "santemjocko"
+    ],
+    "284": [
+      "iurie"
+    ],
+    "34": [
+      "Teayo"
+    ],
+    "36": [
+      "lodoss2011"
+    ],
+    "50": [
+      "chaos1989"
+    ],
+    "52": [
+      "Lord_HoruS"
+    ],
+    "64": [
+      "Iglo"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "owac"
+    ],
+    "2": [
+      "Sayder13xr"
+    ],
+    "45": [
+      "leekcookie"
+    ],
+    "64": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "11": [
+      "iurie"
+    ],
+    "2": [
+      "Mamuschkaz",
+      "Sayder13xr",
+      "Warhazarder"
+    ],
+    "205": [
+      "leekcookie"
+    ],
+    "3": [
+      "owac"
+    ],
+    "58": [
+      "santemjocko"
+    ],
+    "60": [
+      "imabaldman"
+    ],
+    "64": [
+      "__kreck"
+    ]
   }
 }

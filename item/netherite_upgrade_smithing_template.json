@@ -1,17 +1,13 @@
 {
-  "name": "netherite_upgrade_smithing_template",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "14": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie",
-        "Warhazarder"
-      ]
-    }
+  "crafted": {
+    "14": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Warhazarder",
+      "leekcookie"
+    ]
   }
 }

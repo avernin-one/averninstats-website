@@ -1,32 +1,28 @@
 {
-  "name": "jungle_fence_gate",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "18": [
-        "imabaldman"
-      ],
-      "4": [
-        "__Iglo"
-      ]
-    },
-    "mined": {
-      "2": [
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "18": [
-        "imabaldman"
-      ],
-      "6": [
-        "__Iglo"
-      ]
-    }
+  "crafted": {
+    "18": [
+      "imabaldman"
+    ],
+    "4": [
+      "__Iglo"
+    ]
+  },
+  "mined": {
+    "2": [
+      "__Iglo"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "18": [
+      "imabaldman"
+    ],
+    "6": [
+      "__Iglo"
+    ]
   }
 }

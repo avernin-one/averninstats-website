@@ -1,61 +1,57 @@
 {
-  "name": "clay_ball",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "12": [
-        "chaos1989"
-      ],
-      "16": [
-        "ScimMLG"
-      ],
-      "22": [
-        "iurie"
-      ],
-      "32": [
-        "XeonVirus"
-      ],
-      "4": [
-        "santemjocko",
-        "owac",
-        "__Iglo"
-      ],
-      "8": [
-        "Lukas_126",
-        "philxpx"
-      ]
-    },
-    "picked_up": {
-      "1772": [
-        "chaos1989"
-      ],
-      "1908": [
-        "Teayo"
-      ],
-      "340": [
-        "nitram1572"
-      ],
-      "429": [
-        "Makishi25"
-      ],
-      "580": [
-        "Warhazarder"
-      ],
-      "584": [
-        "__kreck"
-      ],
-      "616": [
-        "imabaldman"
-      ],
-      "726": [
-        "iurie"
-      ],
-      "844": [
-        "XeonVirus"
-      ],
-      "888": [
-        "Der_Sani"
-      ]
-    }
+  "dropped": {
+    "12": [
+      "chaos1989"
+    ],
+    "16": [
+      "ScimMLG"
+    ],
+    "22": [
+      "iurie"
+    ],
+    "32": [
+      "XeonVirus"
+    ],
+    "4": [
+      "__Iglo",
+      "owac",
+      "santemjocko"
+    ],
+    "8": [
+      "Lukas_126",
+      "philxpx"
+    ]
+  },
+  "picked_up": {
+    "1772": [
+      "chaos1989"
+    ],
+    "1908": [
+      "Teayo"
+    ],
+    "340": [
+      "nitram1572"
+    ],
+    "429": [
+      "Makishi25"
+    ],
+    "580": [
+      "Warhazarder"
+    ],
+    "584": [
+      "__kreck"
+    ],
+    "616": [
+      "imabaldman"
+    ],
+    "726": [
+      "iurie"
+    ],
+    "844": [
+      "XeonVirus"
+    ],
+    "888": [
+      "Der_Sani"
+    ]
   }
 }

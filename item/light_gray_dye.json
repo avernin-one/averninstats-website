@@ -1,58 +1,54 @@
 {
-  "name": "light_gray_dye",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "10": [
-        "iurie"
-      ],
-      "112": [
-        "Teayo"
-      ],
-      "144": [
-        "__Iglo"
-      ],
-      "2": [
-        "Mandahaya",
-        "Iglo"
-      ],
-      "28": [
-        "Makishi25"
-      ],
-      "3": [
-        "nitram1572"
-      ],
-      "4": [
-        "Ivenor"
-      ],
-      "45": [
-        "santemjocko"
-      ],
-      "754": [
-        "__kreck"
-      ],
-      "8": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "21": [
-        "ScimMLG"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "__kreck"
-      ],
-      "21": [
-        "ScimMLG",
-        "Makishi25"
-      ]
-    },
-    "used": {
-      "4": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "10": [
+      "iurie"
+    ],
+    "112": [
+      "Teayo"
+    ],
+    "144": [
+      "__Iglo"
+    ],
+    "2": [
+      "Iglo",
+      "Mandahaya"
+    ],
+    "28": [
+      "Makishi25"
+    ],
+    "3": [
+      "nitram1572"
+    ],
+    "4": [
+      "Ivenor"
+    ],
+    "45": [
+      "santemjocko"
+    ],
+    "754": [
+      "__kreck"
+    ],
+    "8": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "21": [
+      "ScimMLG"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "__kreck"
+    ],
+    "21": [
+      "Makishi25",
+      "ScimMLG"
+    ]
+  },
+  "used": {
+    "4": [
+      "Makishi25"
+    ]
   }
 }

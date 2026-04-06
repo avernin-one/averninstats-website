@@ -151,40 +151,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "209": [
-          "tnt"
-        ],
-        "35": [
-          "item_frame"
-        ],
-        "49": [
-          "hopper_minecart"
-        ],
-        "57": [
-          "minecart"
-        ],
-        "7243": [
-          "firework_rocket"
-        ]
-      },
-      "dropped": {
-        "18062": [
-          "ender_pearl"
-        ],
-        "373": [
-          "snowball"
-        ],
-        "407": [
-          "cod"
-        ],
-        "516": [
-          "potion"
-        ],
-        "9939": [
-          "spectral_arrow"
-        ]
-      },
       "killed": {
         "119787": [
           "zombified_piglin"
@@ -215,45 +181,6 @@
         ],
         "6": [
           "enderman"
-        ]
-      },
-      "mined": {
-        "13": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "15463": [
-          "ender_pearl"
-        ],
-        "2222": [
-          "spectral_arrow"
-        ],
-        "514": [
-          "snowball"
-        ],
-        "682": [
-          "arrow"
-        ],
-        "996": [
-          "firework_rocket"
-        ]
-      },
-      "used": {
-        "128": [
-          "snowball"
-        ],
-        "131": [
-          "ender_pearl"
-        ],
-        "149": [
-          "tnt"
-        ],
-        "7114": [
-          "firework_rocket"
-        ],
-        "81": [
-          "minecart"
         ]
       }
     },
@@ -307,17 +234,6 @@
         ],
         "9939": [
           "spectral_arrow"
-        ]
-      },
-      "mined": {
-        "3": [
-          "cauldron"
-        ],
-        "4": [
-          "brewing_stand"
-        ],
-        "847": [
-          "wheat"
         ]
       },
       "picked_up": {

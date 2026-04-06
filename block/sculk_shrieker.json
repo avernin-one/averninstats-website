@@ -1,25 +1,21 @@
 {
-  "name": "sculk_shrieker",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "2": [
-        "Sayder13xr"
-      ],
-      "5": [
-        "XeonVirus"
-      ],
-      "71": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "29": [
-        "iurie"
-      ],
-      "5": [
-        "XeonVirus"
-      ]
-    }
+  "mined": {
+    "2": [
+      "Sayder13xr"
+    ],
+    "5": [
+      "XeonVirus"
+    ],
+    "71": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "29": [
+      "iurie"
+    ],
+    "5": [
+      "XeonVirus"
+    ]
   }
 }

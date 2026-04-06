@@ -1,74 +1,70 @@
 {
-  "name": "pink_carpet",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1797": [
-        "__kreck"
-      ],
-      "27": [
-        "leekcookie"
-      ],
-      "3": [
-        "Mandahaya"
-      ],
-      "3314": [
-        "Iglo"
-      ],
-      "6": [
-        "lodoss2011"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "lodoss2011"
-      ],
-      "1280": [
-        "Iglo"
-      ],
-      "18": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "lodoss2011",
-        "Iglo"
-      ],
-      "13": [
-        "__kreck"
-      ],
-      "5": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "lodoss2011"
-      ],
-      "2235": [
-        "Iglo"
-      ],
-      "50": [
-        "leekcookie"
-      ],
-      "736": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "1": [
-        "Iglo"
-      ],
-      "5": [
-        "leekcookie"
-      ],
-      "6": [
-        "lodoss2011"
-      ],
-      "983": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "1797": [
+      "__kreck"
+    ],
+    "27": [
+      "leekcookie"
+    ],
+    "3": [
+      "Mandahaya"
+    ],
+    "3314": [
+      "Iglo"
+    ],
+    "6": [
+      "lodoss2011"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "lodoss2011"
+    ],
+    "1280": [
+      "Iglo"
+    ],
+    "18": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Iglo",
+      "lodoss2011"
+    ],
+    "13": [
+      "__kreck"
+    ],
+    "5": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "lodoss2011"
+    ],
+    "2235": [
+      "Iglo"
+    ],
+    "50": [
+      "leekcookie"
+    ],
+    "736": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "1": [
+      "Iglo"
+    ],
+    "5": [
+      "leekcookie"
+    ],
+    "6": [
+      "lodoss2011"
+    ],
+    "983": [
+      "__kreck"
+    ]
   }
 }

@@ -1,44 +1,40 @@
 {
-  "name": "chorus_flower",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "owac"
-      ]
-    },
-    "mined": {
-      "1": [
-        "owac"
-      ],
-      "210": [
-        "Teayo"
-      ],
-      "5": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "owac"
-      ],
-      "211": [
-        "Teayo"
-      ],
-      "5": [
-        "iurie"
-      ],
-      "6": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "143": [
-        "Teayo"
-      ],
-      "2": [
-        "iurie"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "owac"
+    ]
+  },
+  "mined": {
+    "1": [
+      "owac"
+    ],
+    "210": [
+      "Teayo"
+    ],
+    "5": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "owac"
+    ],
+    "211": [
+      "Teayo"
+    ],
+    "5": [
+      "iurie"
+    ],
+    "6": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "143": [
+      "Teayo"
+    ],
+    "2": [
+      "iurie"
+    ]
   }
 }

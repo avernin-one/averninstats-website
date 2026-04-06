@@ -118,7 +118,6 @@
     "entity": {
       "killed": {
         "1": [
-          "chicken",
           "enderman",
           "spider"
         ],
@@ -134,19 +133,6 @@
         "1": [
           "player",
           "skeleton"
-        ]
-      },
-      "picked_up": {
-        "1": [
-          "chicken"
-        ],
-        "3": [
-          "arrow"
-        ]
-      },
-      "used": {
-        "1": [
-          "chicken"
         ]
       }
     },

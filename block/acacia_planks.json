@@ -1,130 +1,126 @@
 {
-  "name": "acacia_planks",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "104": [
-        "chaos1989"
-      ],
-      "1172": [
-        "Makishi25"
-      ],
-      "24": [
-        "LumpenBrot",
-        "leekcookie"
-      ],
-      "3148": [
-        "Warhazarder"
-      ],
-      "3401": [
-        "lodoss2011"
-      ],
-      "3992": [
-        "Telinnor"
-      ],
-      "44": [
-        "Cpt_looper"
-      ],
-      "56": [
-        "nitram1572"
-      ],
-      "600": [
-        "ScimMLG"
-      ],
-      "64": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "LumpenBrot"
-      ],
-      "11": [
-        "ScimMLG"
-      ],
-      "21": [
-        "Telinnor"
-      ],
-      "3": [
-        "lodoss2011"
-      ],
-      "7": [
-        "Warhazarder"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Cpt_looper"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "21": [
-        "nitram1572"
-      ],
-      "450": [
-        "Telinnor"
-      ],
-      "5": [
-        "lodoss2011"
-      ],
-      "522": [
-        "Warhazarder"
-      ],
-      "55": [
-        "ScimMLG"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "leekcookie",
-        "Cpt_looper"
-      ],
-      "21": [
-        "nitram1572"
-      ],
-      "49": [
-        "lodoss2011"
-      ],
-      "51": [
-        "Makishi25"
-      ],
-      "512": [
-        "Telinnor"
-      ],
-      "55": [
-        "ScimMLG"
-      ],
-      "657": [
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "1665": [
-        "Telinnor"
-      ],
-      "20": [
-        "chaos1989"
-      ],
-      "24": [
-        "iurie"
-      ],
-      "25": [
-        "nitram1572"
-      ],
-      "58": [
-        "ScimMLG"
-      ],
-      "6": [
-        "leekcookie",
-        "Makishi25"
-      ],
-      "604": [
-        "Warhazarder"
-      ],
-      "97": [
-        "lodoss2011"
-      ]
-    }
+  "crafted": {
+    "104": [
+      "chaos1989"
+    ],
+    "1172": [
+      "Makishi25"
+    ],
+    "24": [
+      "LumpenBrot",
+      "leekcookie"
+    ],
+    "3148": [
+      "Warhazarder"
+    ],
+    "3401": [
+      "lodoss2011"
+    ],
+    "3992": [
+      "Telinnor"
+    ],
+    "44": [
+      "Cpt_looper"
+    ],
+    "56": [
+      "nitram1572"
+    ],
+    "600": [
+      "ScimMLG"
+    ],
+    "64": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "LumpenBrot"
+    ],
+    "11": [
+      "ScimMLG"
+    ],
+    "21": [
+      "Telinnor"
+    ],
+    "3": [
+      "lodoss2011"
+    ],
+    "7": [
+      "Warhazarder"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Cpt_looper"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "21": [
+      "nitram1572"
+    ],
+    "450": [
+      "Telinnor"
+    ],
+    "5": [
+      "lodoss2011"
+    ],
+    "522": [
+      "Warhazarder"
+    ],
+    "55": [
+      "ScimMLG"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "Cpt_looper",
+      "leekcookie"
+    ],
+    "21": [
+      "nitram1572"
+    ],
+    "49": [
+      "lodoss2011"
+    ],
+    "51": [
+      "Makishi25"
+    ],
+    "512": [
+      "Telinnor"
+    ],
+    "55": [
+      "ScimMLG"
+    ],
+    "657": [
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "1665": [
+      "Telinnor"
+    ],
+    "20": [
+      "chaos1989"
+    ],
+    "24": [
+      "iurie"
+    ],
+    "25": [
+      "nitram1572"
+    ],
+    "58": [
+      "ScimMLG"
+    ],
+    "6": [
+      "Makishi25",
+      "leekcookie"
+    ],
+    "604": [
+      "Warhazarder"
+    ],
+    "97": [
+      "lodoss2011"
+    ]
   }
 }

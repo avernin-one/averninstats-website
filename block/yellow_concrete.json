@@ -1,30 +1,26 @@
 {
-  "name": "yellow_concrete",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "128": [
-        "__kreck"
-      ],
-      "610": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "128": [
-        "__kreck"
-      ],
-      "98": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "65": [
-        "__kreck"
-      ],
-      "95": [
-        "leekcookie"
-      ]
-    }
+  "mined": {
+    "128": [
+      "__kreck"
+    ],
+    "610": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "128": [
+      "__kreck"
+    ],
+    "98": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "65": [
+      "__kreck"
+    ],
+    "95": [
+      "leekcookie"
+    ]
   }
 }

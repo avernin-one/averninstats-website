@@ -1,57 +1,53 @@
 {
-  "name": "stripped_birch_log",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "2": [
-        "minenicknick"
-      ],
-      "65": [
-        "lodoss2011"
-      ]
-    },
-    "mined": {
-      "1361": [
-        "lodoss2011"
-      ],
-      "1424": [
-        "leekcookie"
-      ],
-      "2": [
-        "minenicknick",
-        "XeonVirus"
-      ],
-      "3": [
-        "Mandahaya"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "__Iglo"
-      ],
-      "110": [
-        "santemjocko"
-      ],
-      "1356": [
-        "leekcookie"
-      ],
-      "1430": [
-        "lodoss2011"
-      ],
-      "2": [
-        "minenicknick"
-      ],
-      "3": [
-        "Mandahaya"
-      ]
-    },
-    "used": {
-      "1205": [
-        "lodoss2011"
-      ],
-      "924": [
-        "leekcookie"
-      ]
-    }
+  "dropped": {
+    "2": [
+      "minenicknick"
+    ],
+    "65": [
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "1361": [
+      "lodoss2011"
+    ],
+    "1424": [
+      "leekcookie"
+    ],
+    "2": [
+      "XeonVirus",
+      "minenicknick"
+    ],
+    "3": [
+      "Mandahaya"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "__Iglo"
+    ],
+    "110": [
+      "santemjocko"
+    ],
+    "1356": [
+      "leekcookie"
+    ],
+    "1430": [
+      "lodoss2011"
+    ],
+    "2": [
+      "minenicknick"
+    ],
+    "3": [
+      "Mandahaya"
+    ]
+  },
+  "used": {
+    "1205": [
+      "lodoss2011"
+    ],
+    "924": [
+      "leekcookie"
+    ]
   }
 }

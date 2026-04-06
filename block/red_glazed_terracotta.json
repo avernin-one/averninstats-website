@@ -1,16 +1,12 @@
 {
-  "name": "red_glazed_terracotta",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "7": [
-        "owac"
-      ]
-    },
-    "dropped": {
-      "7": [
-        "owac"
-      ]
-    }
+  "crafted": {
+    "7": [
+      "owac"
+    ]
+  },
+  "dropped": {
+    "7": [
+      "owac"
+    ]
   }
 }

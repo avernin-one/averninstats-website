@@ -1,46 +1,42 @@
 {
-  "name": "warped_button",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "20": [
-        "__kreck"
-      ],
-      "52": [
-        "Lord_HoruS"
-      ]
-    },
-    "dropped": {
-      "4": [
-        "lodoss2011"
-      ]
-    },
-    "mined": {
-      "1": [
-        "lodoss2011"
-      ],
-      "5": [
-        "Lord_HoruS"
-      ]
-    },
-    "picked_up": {
-      "5": [
-        "Lord_HoruS"
-      ],
-      "6": [
-        "lodoss2011"
-      ]
-    },
-    "used": {
-      "2": [
-        "lodoss2011"
-      ],
-      "20": [
-        "__kreck"
-      ],
-      "53": [
-        "Lord_HoruS"
-      ]
-    }
+  "crafted": {
+    "20": [
+      "__kreck"
+    ],
+    "52": [
+      "Lord_HoruS"
+    ]
+  },
+  "dropped": {
+    "4": [
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "1": [
+      "lodoss2011"
+    ],
+    "5": [
+      "Lord_HoruS"
+    ]
+  },
+  "picked_up": {
+    "5": [
+      "Lord_HoruS"
+    ],
+    "6": [
+      "lodoss2011"
+    ]
+  },
+  "used": {
+    "2": [
+      "lodoss2011"
+    ],
+    "20": [
+      "__kreck"
+    ],
+    "53": [
+      "Lord_HoruS"
+    ]
   }
 }

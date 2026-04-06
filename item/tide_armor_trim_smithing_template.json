@@ -1,18 +1,14 @@
 {
-  "name": "tide_armor_trim_smithing_template",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "2": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie",
-        "iurie",
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "2": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "__kreck",
+      "iurie",
+      "leekcookie"
+    ]
   }
 }

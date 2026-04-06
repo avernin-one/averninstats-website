@@ -1,90 +1,86 @@
 {
-  "name": "lime_carpet",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12": [
-        "philxpx"
-      ],
-      "18": [
-        "santemjocko",
-        "lodoss2011"
-      ],
-      "240": [
-        "owac"
-      ],
-      "2853": [
-        "leekcookie"
-      ],
-      "32": [
-        "iurie"
-      ],
-      "9": [
-        "Telinnor"
-      ]
-    },
-    "dropped": {
-      "2": [
-        "lodoss2011"
-      ],
-      "4": [
-        "santemjocko"
-      ],
-      "8": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "lodoss2011"
-      ],
-      "2": [
-        "santemjocko",
-        "philxpx",
-        "iurie"
-      ],
-      "256": [
-        "leekcookie"
-      ],
-      "31": [
-        "owac"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "iurie"
-      ],
-      "2": [
-        "santemjocko",
-        "philxpx"
-      ],
-      "3": [
-        "lodoss2011"
-      ],
-      "31": [
-        "owac"
-      ],
-      "385": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "12": [
-        "philxpx"
-      ],
-      "16": [
-        "santemjocko",
-        "lodoss2011"
-      ],
-      "239": [
-        "owac"
-      ],
-      "2437": [
-        "leekcookie"
-      ],
-      "26": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "philxpx"
+    ],
+    "18": [
+      "lodoss2011",
+      "santemjocko"
+    ],
+    "240": [
+      "owac"
+    ],
+    "2853": [
+      "leekcookie"
+    ],
+    "32": [
+      "iurie"
+    ],
+    "9": [
+      "Telinnor"
+    ]
+  },
+  "dropped": {
+    "2": [
+      "lodoss2011"
+    ],
+    "4": [
+      "santemjocko"
+    ],
+    "8": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "lodoss2011"
+    ],
+    "2": [
+      "iurie",
+      "philxpx",
+      "santemjocko"
+    ],
+    "256": [
+      "leekcookie"
+    ],
+    "31": [
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "iurie"
+    ],
+    "2": [
+      "philxpx",
+      "santemjocko"
+    ],
+    "3": [
+      "lodoss2011"
+    ],
+    "31": [
+      "owac"
+    ],
+    "385": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "12": [
+      "philxpx"
+    ],
+    "16": [
+      "lodoss2011",
+      "santemjocko"
+    ],
+    "239": [
+      "owac"
+    ],
+    "2437": [
+      "leekcookie"
+    ],
+    "26": [
+      "iurie"
+    ]
   }
 }

@@ -1,116 +1,112 @@
 {
-  "name": "red_stained_glass",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "16": [
-        "SnuvomBodensatz"
-      ],
-      "3448": [
-        "__kreck"
-      ],
-      "48": [
-        "chaos1989"
-      ],
-      "680": [
-        "__Iglo"
-      ],
-      "768": [
-        "Iglo"
-      ],
-      "8": [
-        "iurie"
-      ],
-      "992": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "116": [
-        "leekcookie"
-      ],
-      "61": [
-        "__kreck"
-      ],
-      "74": [
-        "__Iglo"
-      ],
-      "9": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "1": [
-        "chaos1989"
-      ],
-      "15": [
-        "santemjocko"
-      ],
-      "16": [
-        "SnuvomBodensatz"
-      ],
-      "2": [
-        "Warhazarder"
-      ],
-      "39": [
-        "Iglo"
-      ],
-      "55": [
-        "leekcookie"
-      ],
-      "69": [
-        "__kreck"
-      ],
-      "79": [
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "chaos1989"
-      ],
-      "15": [
-        "santemjocko"
-      ],
-      "2": [
-        "Warhazarder"
-      ],
-      "203": [
-        "__kreck"
-      ],
-      "38": [
-        "Iglo"
-      ],
-      "77": [
-        "__Iglo"
-      ],
-      "856": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "16": [
-        "SnuvomBodensatz"
-      ],
-      "2": [
-        "iurie",
-        "Warhazarder"
-      ],
-      "3499": [
-        "__kreck"
-      ],
-      "45": [
-        "chaos1989"
-      ],
-      "609": [
-        "leekcookie"
-      ],
-      "745": [
-        "Iglo"
-      ],
-      "817": [
-        "__Iglo"
-      ]
-    }
+  "crafted": {
+    "16": [
+      "SnuvomBodensatz"
+    ],
+    "3448": [
+      "__kreck"
+    ],
+    "48": [
+      "chaos1989"
+    ],
+    "680": [
+      "__Iglo"
+    ],
+    "768": [
+      "Iglo"
+    ],
+    "8": [
+      "iurie"
+    ],
+    "992": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "116": [
+      "leekcookie"
+    ],
+    "61": [
+      "__kreck"
+    ],
+    "74": [
+      "__Iglo"
+    ],
+    "9": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "1": [
+      "chaos1989"
+    ],
+    "15": [
+      "santemjocko"
+    ],
+    "16": [
+      "SnuvomBodensatz"
+    ],
+    "2": [
+      "Warhazarder"
+    ],
+    "39": [
+      "Iglo"
+    ],
+    "55": [
+      "leekcookie"
+    ],
+    "69": [
+      "__kreck"
+    ],
+    "79": [
+      "__Iglo"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "chaos1989"
+    ],
+    "15": [
+      "santemjocko"
+    ],
+    "2": [
+      "Warhazarder"
+    ],
+    "203": [
+      "__kreck"
+    ],
+    "38": [
+      "Iglo"
+    ],
+    "77": [
+      "__Iglo"
+    ],
+    "856": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "16": [
+      "SnuvomBodensatz"
+    ],
+    "2": [
+      "Warhazarder",
+      "iurie"
+    ],
+    "3499": [
+      "__kreck"
+    ],
+    "45": [
+      "chaos1989"
+    ],
+    "609": [
+      "leekcookie"
+    ],
+    "745": [
+      "Iglo"
+    ],
+    "817": [
+      "__Iglo"
+    ]
   }
 }

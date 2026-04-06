@@ -1,53 +1,49 @@
 {
-  "name": "light_gray_stained_glass",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1152": [
-        "__Iglo"
-      ],
-      "16": [
-        "leekcookie"
-      ],
-      "960": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "3": [
-        "__kreck"
-      ],
-      "4": [
-        "leekcookie",
-        "__Iglo"
-      ]
-    },
-    "mined": {
-      "32": [
-        "__Iglo"
-      ],
-      "81": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "12": [
-        "leekcookie"
-      ],
-      "30": [
-        "__Iglo"
-      ],
-      "74": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "1029": [
-        "__kreck"
-      ],
-      "1181": [
-        "__Iglo"
-      ]
-    }
+  "crafted": {
+    "1152": [
+      "__Iglo"
+    ],
+    "16": [
+      "leekcookie"
+    ],
+    "960": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "3": [
+      "__kreck"
+    ],
+    "4": [
+      "__Iglo",
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "32": [
+      "__Iglo"
+    ],
+    "81": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "12": [
+      "leekcookie"
+    ],
+    "30": [
+      "__Iglo"
+    ],
+    "74": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "1029": [
+      "__kreck"
+    ],
+    "1181": [
+      "__Iglo"
+    ]
   }
 }

@@ -1,51 +1,47 @@
 {
-  "name": "dead_tube_coral_fan",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "5": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Cpt_looper"
-      ],
-      "23": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Cpt_looper"
-      ],
-      "13": [
-        "iurie"
-      ],
-      "2": [
-        "Makishi25"
-      ],
-      "27": [
-        "leekcookie"
-      ],
-      "6": [
-        "santemjocko"
-      ]
-    },
-    "used": {
-      "1": [
-        "santemjocko",
-        "Cpt_looper"
-      ],
-      "11": [
-        "iurie"
-      ],
-      "19": [
-        "leekcookie"
-      ],
-      "2": [
-        "Makishi25"
-      ]
-    }
+  "dropped": {
+    "5": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Cpt_looper"
+    ],
+    "23": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Cpt_looper"
+    ],
+    "13": [
+      "iurie"
+    ],
+    "2": [
+      "Makishi25"
+    ],
+    "27": [
+      "leekcookie"
+    ],
+    "6": [
+      "santemjocko"
+    ]
+  },
+  "used": {
+    "1": [
+      "Cpt_looper",
+      "santemjocko"
+    ],
+    "11": [
+      "iurie"
+    ],
+    "19": [
+      "leekcookie"
+    ],
+    "2": [
+      "Makishi25"
+    ]
   }
 }

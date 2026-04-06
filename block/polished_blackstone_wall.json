@@ -1,26 +1,22 @@
 {
-  "name": "polished_blackstone_wall",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "144": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "67": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "41": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "146": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "144": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "67": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "41": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "146": [
+      "leekcookie"
+    ]
   }
 }

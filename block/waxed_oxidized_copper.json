@@ -1,16 +1,12 @@
 {
-  "name": "waxed_oxidized_copper",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "60": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "60": [
-        "santemjocko"
-      ]
-    }
+  "mined": {
+    "60": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "60": [
+      "santemjocko"
+    ]
   }
 }

@@ -1,67 +1,63 @@
 {
-  "name": "polished_andesite_stairs",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "leekcookie"
-      ],
-      "20": [
-        "lodoss2011"
-      ],
-      "28": [
-        "Mamuschkaz"
-      ],
-      "8": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "56": [
-        "santemjocko"
-      ],
-      "76": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "2": [
-        "Mamuschkaz"
-      ],
-      "22": [
-        "leekcookie"
-      ],
-      "5": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "Mamuschkaz"
-      ],
-      "240": [
-        "leekcookie"
-      ],
-      "5": [
-        "lodoss2011"
-      ],
-      "56": [
-        "santemjocko"
-      ]
-    },
-    "used": {
-      "15": [
-        "lodoss2011"
-      ],
-      "153": [
-        "leekcookie"
-      ],
-      "30": [
-        "Mamuschkaz"
-      ],
-      "8": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "leekcookie"
+    ],
+    "20": [
+      "lodoss2011"
+    ],
+    "28": [
+      "Mamuschkaz"
+    ],
+    "8": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "56": [
+      "santemjocko"
+    ],
+    "76": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "2": [
+      "Mamuschkaz"
+    ],
+    "22": [
+      "leekcookie"
+    ],
+    "5": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "Mamuschkaz"
+    ],
+    "240": [
+      "leekcookie"
+    ],
+    "5": [
+      "lodoss2011"
+    ],
+    "56": [
+      "santemjocko"
+    ]
+  },
+  "used": {
+    "15": [
+      "lodoss2011"
+    ],
+    "153": [
+      "leekcookie"
+    ],
+    "30": [
+      "Mamuschkaz"
+    ],
+    "8": [
+      "Makishi25"
+    ]
   }
 }

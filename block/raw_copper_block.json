@@ -1,80 +1,76 @@
 {
-  "name": "raw_copper_block",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "iurie",
-        "lu0de"
-      ],
-      "1279": [
-        "obvBasti"
-      ],
-      "17": [
-        "SuperXXLProfi"
-      ],
-      "20": [
-        "Der_Sani"
-      ],
-      "296": [
-        "Mandahaya"
-      ],
-      "47": [
-        "DornDasBrot"
-      ],
-      "540": [
-        "philxpx"
-      ],
-      "705": [
-        "santemjocko"
-      ],
-      "8": [
-        "Temeraiere"
-      ],
-      "98": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "19": [
-        "obvBasti"
-      ]
-    },
-    "mined": {
-      "1": [
-        "philxpx",
-        "Cpt_looper",
-        "imabaldman"
-      ],
-      "12": [
-        "obvBasti"
-      ],
-      "2": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "philxpx",
-        "Cpt_looper",
-        "imabaldman"
-      ],
-      "19": [
-        "Mandahaya",
-        "obvBasti"
-      ],
-      "21": [
-        "santemjocko"
-      ],
-      "3": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1": [
-        "leekcookie",
-        "lu0de"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "iurie",
+      "lu0de"
+    ],
+    "1279": [
+      "obvBasti"
+    ],
+    "17": [
+      "SuperXXLProfi"
+    ],
+    "20": [
+      "Der_Sani"
+    ],
+    "296": [
+      "Mandahaya"
+    ],
+    "47": [
+      "DornDasBrot"
+    ],
+    "540": [
+      "philxpx"
+    ],
+    "705": [
+      "santemjocko"
+    ],
+    "8": [
+      "Temeraiere"
+    ],
+    "98": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "19": [
+      "obvBasti"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Cpt_looper",
+      "imabaldman",
+      "philxpx"
+    ],
+    "12": [
+      "obvBasti"
+    ],
+    "2": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Cpt_looper",
+      "imabaldman",
+      "philxpx"
+    ],
+    "19": [
+      "Mandahaya",
+      "obvBasti"
+    ],
+    "21": [
+      "santemjocko"
+    ],
+    "3": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1": [
+      "leekcookie",
+      "lu0de"
+    ]
   }
 }

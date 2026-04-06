@@ -1,26 +1,22 @@
 {
-  "name": "mangrove_door",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "18": [
-        "lodoss2011"
-      ]
-    },
-    "mined": {
-      "4": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "5": [
-        "lodoss2011"
-      ]
-    },
-    "used": {
-      "5": [
-        "lodoss2011"
-      ]
-    }
+  "crafted": {
+    "18": [
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "4": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "5": [
+      "lodoss2011"
+    ]
+  },
+  "used": {
+    "5": [
+      "lodoss2011"
+    ]
   }
 }

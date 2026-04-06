@@ -1,67 +1,63 @@
 {
-  "name": "red_banner",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "15": [
-        "Makishi25"
-      ],
-      "16": [
-        "lodoss2011",
-        "chaos1989"
-      ],
-      "67": [
-        "SnuvomBodensatz"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "lodoss2011"
-      ]
-    },
-    "mined": {
-      "1": [
-        "TrashSuperstar",
-        "Sayder13xr"
-      ],
-      "2": [
-        "SnuvomBodensatz"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "TrashSuperstar",
-        "Sayder13xr"
-      ],
-      "13": [
-        "SnuvomBodensatz"
-      ],
-      "2": [
-        "chaos1989"
-      ],
-      "3": [
-        "Makishi25"
-      ],
-      "4": [
-        "lodoss2011"
-      ]
-    },
-    "used": {
-      "1": [
-        "Sayder13xr"
-      ],
-      "13": [
-        "lodoss2011"
-      ],
-      "15": [
-        "Makishi25"
-      ],
-      "56": [
-        "SnuvomBodensatz"
-      ],
-      "9": [
-        "chaos1989"
-      ]
-    }
+  "crafted": {
+    "15": [
+      "Makishi25"
+    ],
+    "16": [
+      "chaos1989",
+      "lodoss2011"
+    ],
+    "67": [
+      "SnuvomBodensatz"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Sayder13xr",
+      "TrashSuperstar"
+    ],
+    "2": [
+      "SnuvomBodensatz"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Sayder13xr",
+      "TrashSuperstar"
+    ],
+    "13": [
+      "SnuvomBodensatz"
+    ],
+    "2": [
+      "chaos1989"
+    ],
+    "3": [
+      "Makishi25"
+    ],
+    "4": [
+      "lodoss2011"
+    ]
+  },
+  "used": {
+    "1": [
+      "Sayder13xr"
+    ],
+    "13": [
+      "lodoss2011"
+    ],
+    "15": [
+      "Makishi25"
+    ],
+    "56": [
+      "SnuvomBodensatz"
+    ],
+    "9": [
+      "chaos1989"
+    ]
   }
 }

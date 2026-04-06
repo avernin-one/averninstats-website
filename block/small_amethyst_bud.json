@@ -1,36 +1,32 @@
 {
-  "name": "small_amethyst_bud",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "santemjocko",
-        "minenicknick",
-        "owac",
-        "iurie",
-        "Cpt_looper"
-      ],
-      "3": [
-        "TrashSuperstar"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "santemjocko",
-        "iurie",
-        "Cpt_looper"
-      ],
-      "2": [
-        "TrashSuperstar"
-      ]
-    },
-    "used": {
-      "1": [
-        "santemjocko"
-      ],
-      "2": [
-        "TrashSuperstar"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Cpt_looper",
+      "iurie",
+      "minenicknick",
+      "owac",
+      "santemjocko"
+    ],
+    "3": [
+      "TrashSuperstar"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Cpt_looper",
+      "iurie",
+      "santemjocko"
+    ],
+    "2": [
+      "TrashSuperstar"
+    ]
+  },
+  "used": {
+    "1": [
+      "santemjocko"
+    ],
+    "2": [
+      "TrashSuperstar"
+    ]
   }
 }

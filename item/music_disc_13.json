@@ -1,21 +1,17 @@
 {
-  "name": "music_disc_13",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "2": [
-        "leekcookie",
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "16": [
-        "iurie"
-      ],
-      "3": [
-        "leekcookie",
-        "Temeraiere"
-      ]
-    }
+  "dropped": {
+    "2": [
+      "__Iglo",
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "16": [
+      "iurie"
+    ],
+    "3": [
+      "Temeraiere",
+      "leekcookie"
+    ]
   }
 }

@@ -1,21 +1,17 @@
 {
-  "name": "red_sandstone_slab",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "2": [
-        "chaos1989"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "chaos1989"
-      ]
-    },
-    "used": {
-      "18": [
-        "chaos1989"
-      ]
-    }
+  "mined": {
+    "2": [
+      "chaos1989"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "chaos1989"
+    ]
+  },
+  "used": {
+    "18": [
+      "chaos1989"
+    ]
   }
 }

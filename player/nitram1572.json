@@ -2,9 +2,9 @@
   "name": "nitram1572",
   "uuid": "a9d2e670-5d85-45c4-9f43-3ad33f6e39ec",
   "medals": {
-    "gold": 1,
-    "silver": 5,
-    "bronze": 3
+    "gold": 4,
+    "silver": 3,
+    "bronze": 8
   },
   "stats": {
     "animals_bred": 568,
@@ -151,38 +151,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "176": [
-          "minecart"
-        ],
-        "24": [
-          "item_frame"
-        ],
-        "31": [
-          "hopper_minecart"
-        ],
-        "5": [
-          "experience_bottle"
-        ],
-        "7": [
-          "painting"
-        ]
-      },
-      "dropped": {
-        "1": [
-          "chicken",
-          "cod",
-          "egg",
-          "salmon",
-          "spruce_boat"
-        ],
-        "2": [
-          "arrow"
-        ],
-        "47": [
-          "snowball"
-        ]
-      },
       "killed": {
         "279": [
           "magma_cube"
@@ -212,45 +180,6 @@
           "iron_golem",
           "piglin",
           "skeleton"
-        ]
-      },
-      "mined": {
-        "9": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "107": [
-          "arrow"
-        ],
-        "127": [
-          "painting"
-        ],
-        "392": [
-          "minecart"
-        ],
-        "496": [
-          "egg"
-        ],
-        "873": [
-          "snowball"
-        ]
-      },
-      "used": {
-        "146": [
-          "painting"
-        ],
-        "318": [
-          "minecart"
-        ],
-        "45": [
-          "hopper_minecart"
-        ],
-        "60": [
-          "item_frame"
-        ],
-        "99": [
-          "egg"
         ]
       }
     },
@@ -304,17 +233,6 @@
         ],
         "838": [
           "wheat_seeds"
-        ]
-      },
-      "mined": {
-        "28": [
-          "cauldron"
-        ],
-        "5": [
-          "brewing_stand"
-        ],
-        "811": [
-          "wheat"
         ]
       },
       "picked_up": {

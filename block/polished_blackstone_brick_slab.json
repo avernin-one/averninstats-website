@@ -1,94 +1,90 @@
 {
-  "name": "polished_blackstone_brick_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "22": [
-        "__kreck"
-      ],
-      "54": [
-        "nitram1572"
-      ],
-      "72": [
-        "Makishi25"
-      ],
-      "80": [
-        "imabaldman"
-      ],
-      "850": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "146": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "philxpx"
-      ],
-      "100": [
-        "Makishi25"
-      ],
-      "102": [
-        "leekcookie"
-      ],
-      "15": [
-        "SuperXXLProfi"
-      ],
-      "22": [
-        "imabaldman"
-      ],
-      "4": [
-        "iurie"
-      ],
-      "44": [
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "philxpx"
-      ],
-      "113": [
-        "Makishi25"
-      ],
-      "23": [
-        "imabaldman"
-      ],
-      "234": [
-        "leekcookie"
-      ],
-      "43": [
-        "nitram1572"
-      ],
-      "6": [
-        "SuperXXLProfi"
-      ]
-    },
-    "used": {
-      "156": [
-        "imabaldman"
-      ],
-      "22": [
-        "__kreck"
-      ],
-      "3": [
-        "philxpx"
-      ],
-      "657": [
-        "Makishi25"
-      ],
-      "819": [
-        "leekcookie"
-      ],
-      "82": [
-        "nitram1572"
-      ],
-      "9": [
-        "SuperXXLProfi"
-      ]
-    }
+  "crafted": {
+    "22": [
+      "__kreck"
+    ],
+    "54": [
+      "nitram1572"
+    ],
+    "72": [
+      "Makishi25"
+    ],
+    "80": [
+      "imabaldman"
+    ],
+    "850": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "146": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "philxpx"
+    ],
+    "100": [
+      "Makishi25"
+    ],
+    "102": [
+      "leekcookie"
+    ],
+    "15": [
+      "SuperXXLProfi"
+    ],
+    "22": [
+      "imabaldman"
+    ],
+    "4": [
+      "iurie"
+    ],
+    "44": [
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "philxpx"
+    ],
+    "113": [
+      "Makishi25"
+    ],
+    "23": [
+      "imabaldman"
+    ],
+    "234": [
+      "leekcookie"
+    ],
+    "43": [
+      "nitram1572"
+    ],
+    "6": [
+      "SuperXXLProfi"
+    ]
+  },
+  "used": {
+    "156": [
+      "imabaldman"
+    ],
+    "22": [
+      "__kreck"
+    ],
+    "3": [
+      "philxpx"
+    ],
+    "657": [
+      "Makishi25"
+    ],
+    "819": [
+      "leekcookie"
+    ],
+    "82": [
+      "nitram1572"
+    ],
+    "9": [
+      "SuperXXLProfi"
+    ]
   }
 }

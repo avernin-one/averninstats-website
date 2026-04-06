@@ -1,36 +1,32 @@
 {
-  "name": "purple_dye",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "2": [
-        "Mandahaya",
-        "Iglo",
-        "nitram1572"
-      ],
-      "38": [
-        "santemjocko"
-      ],
-      "4": [
-        "leekcookie"
-      ],
-      "6": [
-        "iurie"
-      ],
-      "72": [
-        "__kreck"
-      ],
-      "94": [
-        "Teayo"
-      ]
-    },
-    "picked_up": {
-      "16": [
-        "__kreck"
-      ],
-      "3": [
-        "Iglo"
-      ]
-    }
+  "crafted": {
+    "2": [
+      "Iglo",
+      "Mandahaya",
+      "nitram1572"
+    ],
+    "38": [
+      "santemjocko"
+    ],
+    "4": [
+      "leekcookie"
+    ],
+    "6": [
+      "iurie"
+    ],
+    "72": [
+      "__kreck"
+    ],
+    "94": [
+      "Teayo"
+    ]
+  },
+  "picked_up": {
+    "16": [
+      "__kreck"
+    ],
+    "3": [
+      "Iglo"
+    ]
   }
 }

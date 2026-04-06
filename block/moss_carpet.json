@@ -1,149 +1,147 @@
 {
-  "name": "moss_carpet",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "225": [
-        "iurie"
-      ],
-      "3": [
-        "chaos1989"
-      ],
-      "392": [
-        "__kreck"
-      ],
-      "9": [
-        "DornDasBrot"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Lord_HoruS"
-      ],
-      "18": [
-        "leekcookie"
-      ],
-      "2": [
-        "Temeraiere"
-      ],
-      "223": [
-        "Sayder13xr"
-      ],
-      "444": [
-        "__kreck"
-      ],
-      "5": [
-        "owac"
-      ],
-      "55": [
-        "philxpx"
-      ],
-      "643": [
-        "__Iglo"
-      ],
-      "67": [
-        "Iglo"
-      ],
-      "9": [
-        "iurie"
-      ]
-    },
-    "mined": {
-      "12": [
-        "TrashSuperstar"
-      ],
-      "134": [
-        "iurie"
-      ],
-      "30": [
-        "SuperXXLProfi"
-      ],
-      "32": [
-        "Iglo"
-      ],
-      "477": [
-        "__Iglo"
-      ],
-      "588": [
-        "__kreck"
-      ],
-      "65": [
-        "chaos1989"
-      ],
-      "7": [
-        "Sayder13xr"
-      ],
-      "81": [
-        "philxpx"
-      ],
-      "9": [
-        "DornDasBrot"
-      ]
-    },
-    "picked_up": {
-      "1377": [
-        "__kreck"
-      ],
-      "138": [
-        "chaos1989"
-      ],
-      "1514": [
-        "__Iglo"
-      ],
-      "161": [
-        "leekcookie"
-      ],
-      "32": [
-        "santemjocko"
-      ],
-      "47": [
-        "SuperXXLProfi"
-      ],
-      "658": [
-        "Sayder13xr"
-      ],
-      "70": [
-        "Iglo"
-      ],
-      "928": [
-        "iurie"
-      ],
-      "99": [
-        "philxpx"
-      ]
-    },
-    "used": {
-      "12": [
-        "DornDasBrot"
-      ],
-      "1426": [
-        "iurie"
-      ],
-      "2": [
-        "Tarnuk"
-      ],
-      "20": [
-        "philxpx"
-      ],
-      "2253": [
-        "__kreck"
-      ],
-      "25": [
-        "SuperXXLProfi"
-      ],
-      "3": [
-        "Iglo",
-        "Sayder13xr"
-      ],
-      "36": [
-        "chaos1989"
-      ],
-      "452": [
-        "__Iglo"
-      ],
-      "9": [
-        "TrashSuperstar"
-      ]
-    }
+  "crafted": {
+    "225": [
+      "iurie"
+    ],
+    "3": [
+      "chaos1989"
+    ],
+    "392": [
+      "__kreck"
+    ],
+    "9": [
+      "DornDasBrot"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Lord_HoruS"
+    ],
+    "18": [
+      "leekcookie"
+    ],
+    "2": [
+      "Temeraiere"
+    ],
+    "223": [
+      "Sayder13xr"
+    ],
+    "444": [
+      "__kreck"
+    ],
+    "5": [
+      "owac"
+    ],
+    "55": [
+      "philxpx"
+    ],
+    "643": [
+      "__Iglo"
+    ],
+    "67": [
+      "Iglo"
+    ],
+    "9": [
+      "iurie"
+    ]
+  },
+  "mined": {
+    "12": [
+      "TrashSuperstar"
+    ],
+    "134": [
+      "iurie"
+    ],
+    "30": [
+      "SuperXXLProfi"
+    ],
+    "32": [
+      "Iglo"
+    ],
+    "477": [
+      "__Iglo"
+    ],
+    "588": [
+      "__kreck"
+    ],
+    "65": [
+      "chaos1989"
+    ],
+    "7": [
+      "Sayder13xr"
+    ],
+    "81": [
+      "philxpx"
+    ],
+    "9": [
+      "DornDasBrot"
+    ]
+  },
+  "picked_up": {
+    "1377": [
+      "__kreck"
+    ],
+    "138": [
+      "chaos1989"
+    ],
+    "1514": [
+      "__Iglo"
+    ],
+    "161": [
+      "leekcookie"
+    ],
+    "32": [
+      "santemjocko"
+    ],
+    "47": [
+      "SuperXXLProfi"
+    ],
+    "658": [
+      "Sayder13xr"
+    ],
+    "70": [
+      "Iglo"
+    ],
+    "928": [
+      "iurie"
+    ],
+    "99": [
+      "philxpx"
+    ]
+  },
+  "used": {
+    "1": [
+      "Lukas_126",
+      "Teayo",
+      "leekcookie"
+    ],
+    "12": [
+      "DornDasBrot"
+    ],
+    "1426": [
+      "iurie"
+    ],
+    "20": [
+      "philxpx"
+    ],
+    "2253": [
+      "__kreck"
+    ],
+    "25": [
+      "SuperXXLProfi"
+    ],
+    "3": [
+      "Iglo",
+      "Sayder13xr"
+    ],
+    "36": [
+      "chaos1989"
+    ],
+    "452": [
+      "__Iglo"
+    ],
+    "9": [
+      "TrashSuperstar"
+    ]
   }
 }

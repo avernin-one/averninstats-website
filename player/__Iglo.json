@@ -2,9 +2,9 @@
   "name": "__Iglo",
   "uuid": "e9721dc1-99b1-4952-be94-cd59fe7fc37c",
   "medals": {
-    "gold": 3,
+    "gold": 4,
     "silver": 4,
-    "bronze": 3
+    "bronze": 4
   },
   "stats": {
     "aviate_one_cm": 98161303,
@@ -149,41 +149,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1": [
-          "oak_boat",
-          "painting"
-        ],
-        "10": [
-          "spruce_boat"
-        ],
-        "26": [
-          "hopper_minecart"
-        ],
-        "34": [
-          "minecart"
-        ],
-        "4481": [
-          "firework_rocket"
-        ]
-      },
-      "dropped": {
-        "1055": [
-          "potion"
-        ],
-        "2925": [
-          "ender_pearl"
-        ],
-        "371": [
-          "firework_rocket"
-        ],
-        "8635": [
-          "cod"
-        ],
-        "9019": [
-          "spectral_arrow"
-        ]
-      },
       "killed": {
         "143": [
           "cave_spider"
@@ -208,40 +173,6 @@
         ],
         "4": [
           "iron_golem"
-        ]
-      },
-      "picked_up": {
-        "1490": [
-          "ender_pearl"
-        ],
-        "2518": [
-          "spectral_arrow"
-        ],
-        "314": [
-          "cod"
-        ],
-        "375": [
-          "firework_rocket"
-        ],
-        "445": [
-          "arrow"
-        ]
-      },
-      "used": {
-        "16": [
-          "cod"
-        ],
-        "37": [
-          "hopper_minecart"
-        ],
-        "4886": [
-          "firework_rocket"
-        ],
-        "689": [
-          "ender_pearl"
-        ],
-        "91": [
-          "minecart"
         ]
       }
     },
@@ -286,14 +217,6 @@
         ],
         "9372": [
           "rotten_flesh"
-        ]
-      },
-      "mined": {
-        "17": [
-          "wheat"
-        ],
-        "2": [
-          "brewing_stand"
         ]
       },
       "picked_up": {

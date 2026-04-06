@@ -1,20 +1,16 @@
 {
-  "name": "dead_fire_coral_wall_fan",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "13": [
-        "iurie"
-      ],
-      "138": [
-        "leekcookie"
-      ],
-      "2": [
-        "owac"
-      ],
-      "9": [
-        "lodoss2011"
-      ]
-    }
+  "mined": {
+    "13": [
+      "iurie"
+    ],
+    "138": [
+      "leekcookie"
+    ],
+    "2": [
+      "owac"
+    ],
+    "9": [
+      "lodoss2011"
+    ]
   }
 }

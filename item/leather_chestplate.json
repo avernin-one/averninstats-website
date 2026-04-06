@@ -1,104 +1,100 @@
 {
-  "name": "leather_chestplate",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "1": [
-        "StofftierAnabol"
-      ]
-    },
-    "crafted": {
-      "2": [
-        "santemjocko"
-      ],
-      "5": [
-        "Teayo"
-      ],
-      "6": [
-        "ScimMLG"
-      ],
-      "61": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "minenicknick",
-        "Austriana",
-        "Temeraiere",
-        "iurie",
-        "SuperXXLProfi",
-        "DornDasBrot",
-        "Makishi25",
-        "imabaldman"
-      ],
-      "10": [
-        "Sayder13xr"
-      ],
-      "17": [
-        "TrashSuperstar"
-      ],
-      "2": [
-        "Mandahaya",
-        "santemjocko",
-        "Mamuschkaz"
-      ],
-      "22": [
-        "leekcookie"
-      ],
-      "3": [
-        "Teayo"
-      ],
-      "4": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "SnuvomBodensatz",
-        "minenicknick",
-        "Ivenor",
-        "Iglo",
-        "Temeraiere",
-        "SuperXXLProfi",
-        "Telinnor",
-        "Cpt_looper",
-        "Lord_HoruS",
-        "Makishi25",
-        "imabaldman",
-        "Warhazarder"
-      ],
-      "2": [
-        "Mandahaya",
-        "Austriana",
-        "StofftierAnabol",
-        "nitram1572"
-      ],
-      "22": [
-        "leekcookie"
-      ],
-      "3": [
-        "DornDasBrot"
-      ],
-      "4": [
-        "santemjocko",
-        "Mamuschkaz",
-        "Teayo"
-      ],
-      "6": [
-        "lodoss2011",
-        "iurie",
-        "Sayder13xr"
-      ],
-      "7": [
-        "TrashSuperstar"
-      ]
-    },
-    "used": {
-      "1": [
-        "santemjocko",
-        "StofftierAnabol"
-      ]
-    }
+  "broken": {
+    "1": [
+      "StofftierAnabol"
+    ]
+  },
+  "crafted": {
+    "2": [
+      "santemjocko"
+    ],
+    "5": [
+      "Teayo"
+    ],
+    "6": [
+      "ScimMLG"
+    ],
+    "61": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Austriana",
+      "DornDasBrot",
+      "Makishi25",
+      "SuperXXLProfi",
+      "Temeraiere",
+      "imabaldman",
+      "iurie",
+      "minenicknick"
+    ],
+    "10": [
+      "Sayder13xr"
+    ],
+    "17": [
+      "TrashSuperstar"
+    ],
+    "2": [
+      "Mamuschkaz",
+      "Mandahaya",
+      "santemjocko"
+    ],
+    "22": [
+      "leekcookie"
+    ],
+    "3": [
+      "Teayo"
+    ],
+    "4": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Cpt_looper",
+      "Iglo",
+      "Ivenor",
+      "Lord_HoruS",
+      "Makishi25",
+      "SnuvomBodensatz",
+      "SuperXXLProfi",
+      "Telinnor",
+      "Temeraiere",
+      "Warhazarder",
+      "imabaldman",
+      "minenicknick"
+    ],
+    "2": [
+      "Austriana",
+      "Mandahaya",
+      "StofftierAnabol",
+      "nitram1572"
+    ],
+    "22": [
+      "leekcookie"
+    ],
+    "3": [
+      "DornDasBrot"
+    ],
+    "4": [
+      "Mamuschkaz",
+      "Teayo",
+      "santemjocko"
+    ],
+    "6": [
+      "Sayder13xr",
+      "iurie",
+      "lodoss2011"
+    ],
+    "7": [
+      "TrashSuperstar"
+    ]
+  },
+  "used": {
+    "1": [
+      "StofftierAnabol",
+      "santemjocko"
+    ]
   }
 }

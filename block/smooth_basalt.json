@@ -1,145 +1,141 @@
 {
-  "name": "smooth_basalt",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "128": [
-        "leekcookie"
-      ],
-      "5": [
-        "nitram1572"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "TrashSuperstar",
-        "Warhazarder"
-      ],
-      "101": [
-        "owac"
-      ],
-      "137": [
-        "leekcookie"
-      ],
-      "2": [
-        "Cpt_looper"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "4": [
-        "philxpx",
-        "Lord_HoruS"
-      ],
-      "5": [
-        "Austriana"
-      ],
-      "54": [
-        "santemjocko"
-      ],
-      "6": [
-        "obvBasti",
-        "Temeraiere"
-      ],
-      "8": [
-        "imabaldman",
-        "XeonVirus"
-      ]
-    },
-    "mined": {
-      "1163": [
-        "owac"
-      ],
-      "118": [
-        "TrashSuperstar"
-      ],
-      "122": [
-        "lodoss2011"
-      ],
-      "16": [
-        "Temeraiere"
-      ],
-      "162": [
-        "Mandahaya"
-      ],
-      "251": [
-        "leekcookie"
-      ],
-      "280": [
-        "iurie"
-      ],
-      "31": [
-        "XeonVirus"
-      ],
-      "33": [
-        "__Iglo"
-      ],
-      "852": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "113": [
-        "TrashSuperstar"
-      ],
-      "121": [
-        "lodoss2011"
-      ],
-      "13": [
-        "philxpx"
-      ],
-      "161": [
-        "Mandahaya"
-      ],
-      "17": [
-        "__Iglo"
-      ],
-      "26": [
-        "__kreck"
-      ],
-      "277": [
-        "iurie"
-      ],
-      "362": [
-        "owac"
-      ],
-      "515": [
-        "leekcookie"
-      ],
-      "777": [
-        "santemjocko"
-      ]
-    },
-    "used": {
-      "1": [
-        "obvBasti"
-      ],
-      "17": [
-        "TrashSuperstar"
-      ],
-      "2": [
-        "chaos1989",
-        "Warhazarder"
-      ],
-      "201": [
-        "leekcookie"
-      ],
-      "224": [
-        "owac"
-      ],
-      "3": [
-        "nitram1572"
-      ],
-      "4": [
-        "philxpx",
-        "iurie"
-      ],
-      "5": [
-        "santemjocko"
-      ],
-      "7": [
-        "Iglo"
-      ]
-    }
+  "crafted": {
+    "128": [
+      "leekcookie"
+    ],
+    "5": [
+      "nitram1572"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "TrashSuperstar",
+      "Warhazarder"
+    ],
+    "101": [
+      "owac"
+    ],
+    "137": [
+      "leekcookie"
+    ],
+    "2": [
+      "Cpt_looper"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "4": [
+      "Lord_HoruS",
+      "philxpx"
+    ],
+    "5": [
+      "Austriana"
+    ],
+    "54": [
+      "santemjocko"
+    ],
+    "6": [
+      "Temeraiere",
+      "obvBasti"
+    ],
+    "8": [
+      "XeonVirus",
+      "imabaldman"
+    ]
+  },
+  "mined": {
+    "1163": [
+      "owac"
+    ],
+    "118": [
+      "TrashSuperstar"
+    ],
+    "122": [
+      "lodoss2011"
+    ],
+    "16": [
+      "Temeraiere"
+    ],
+    "162": [
+      "Mandahaya"
+    ],
+    "251": [
+      "leekcookie"
+    ],
+    "280": [
+      "iurie"
+    ],
+    "31": [
+      "XeonVirus"
+    ],
+    "33": [
+      "__Iglo"
+    ],
+    "852": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "113": [
+      "TrashSuperstar"
+    ],
+    "121": [
+      "lodoss2011"
+    ],
+    "13": [
+      "philxpx"
+    ],
+    "161": [
+      "Mandahaya"
+    ],
+    "17": [
+      "__Iglo"
+    ],
+    "26": [
+      "__kreck"
+    ],
+    "277": [
+      "iurie"
+    ],
+    "362": [
+      "owac"
+    ],
+    "515": [
+      "leekcookie"
+    ],
+    "777": [
+      "santemjocko"
+    ]
+  },
+  "used": {
+    "1": [
+      "obvBasti"
+    ],
+    "17": [
+      "TrashSuperstar"
+    ],
+    "2": [
+      "Warhazarder",
+      "chaos1989"
+    ],
+    "201": [
+      "leekcookie"
+    ],
+    "224": [
+      "owac"
+    ],
+    "3": [
+      "nitram1572"
+    ],
+    "4": [
+      "iurie",
+      "philxpx"
+    ],
+    "5": [
+      "santemjocko"
+    ],
+    "7": [
+      "Iglo"
+    ]
   }
 }

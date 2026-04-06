@@ -1,81 +1,77 @@
 {
-  "name": "grass",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "Warhazarder"
-      ],
-      "30": [
-        "santemjocko"
-      ],
-      "4": [
-        "DornDasBrot"
-      ],
-      "6": [
-        "ScimMLG"
-      ]
-    },
-    "mined": {
-      "1101": [
-        "chaos1989"
-      ],
-      "1299": [
-        "santemjocko"
-      ],
-      "1556": [
-        "Mandahaya"
-      ],
-      "1634": [
-        "owac"
-      ],
-      "1662": [
-        "Telinnor"
-      ],
-      "2746": [
-        "SnuvomBodensatz"
-      ],
-      "4582": [
-        "Warhazarder"
-      ],
-      "748": [
-        "XeonVirus"
-      ],
-      "846": [
-        "nitram1572"
-      ],
-      "9853": [
-        "Teayo"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Cpt_looper"
-      ],
-      "1453": [
-        "owac"
-      ],
-      "2": [
-        "Warhazarder"
-      ],
-      "22": [
-        "XeonVirus"
-      ],
-      "31": [
-        "santemjocko"
-      ],
-      "6": [
-        "ScimMLG",
-        "DornDasBrot"
-      ],
-      "9": [
-        "Makishi25"
-      ]
-    },
-    "used": {
-      "8": [
-        "Makishi25"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "Warhazarder"
+    ],
+    "30": [
+      "santemjocko"
+    ],
+    "4": [
+      "DornDasBrot"
+    ],
+    "6": [
+      "ScimMLG"
+    ]
+  },
+  "mined": {
+    "1101": [
+      "chaos1989"
+    ],
+    "1299": [
+      "santemjocko"
+    ],
+    "1556": [
+      "Mandahaya"
+    ],
+    "1634": [
+      "owac"
+    ],
+    "1662": [
+      "Telinnor"
+    ],
+    "2746": [
+      "SnuvomBodensatz"
+    ],
+    "4582": [
+      "Warhazarder"
+    ],
+    "748": [
+      "XeonVirus"
+    ],
+    "846": [
+      "nitram1572"
+    ],
+    "9853": [
+      "Teayo"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Cpt_looper"
+    ],
+    "1453": [
+      "owac"
+    ],
+    "2": [
+      "Warhazarder"
+    ],
+    "22": [
+      "XeonVirus"
+    ],
+    "31": [
+      "santemjocko"
+    ],
+    "6": [
+      "DornDasBrot",
+      "ScimMLG"
+    ],
+    "9": [
+      "Makishi25"
+    ]
+  },
+  "used": {
+    "8": [
+      "Makishi25"
+    ]
   }
 }

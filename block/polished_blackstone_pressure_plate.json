@@ -1,31 +1,27 @@
 {
-  "name": "polished_blackstone_pressure_plate",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "369": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "31": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "16": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "199": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "345": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "369": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "31": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "16": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "199": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "345": [
+      "leekcookie"
+    ]
   }
 }

@@ -1,68 +1,64 @@
 {
-  "name": "brain_coral_fan",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "2": [
-        "santemjocko",
-        "Mamuschkaz"
-      ]
-    },
-    "mined": {
-      "1": [
-        "TrashSuperstar",
-        "Makishi25",
-        "__kreck"
-      ],
-      "2": [
-        "santemjocko"
-      ],
-      "22": [
-        "iurie"
-      ],
-      "4": [
-        "leekcookie",
-        "Lord_HoruS"
-      ]
-    },
-    "picked_up": {
-      "12": [
-        "santemjocko",
-        "__kreck"
-      ],
-      "137": [
-        "iurie"
-      ],
-      "16": [
-        "Lord_HoruS"
-      ],
-      "2": [
-        "Mamuschkaz",
-        "Makishi25"
-      ],
-      "3": [
-        "Sayder13xr"
-      ],
-      "5": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1": [
-        "leekcookie"
-      ],
-      "11": [
-        "Lord_HoruS"
-      ],
-      "137": [
-        "iurie"
-      ],
-      "2": [
-        "Makishi25"
-      ],
-      "3": [
-        "Sayder13xr"
-      ]
-    }
+  "dropped": {
+    "2": [
+      "Mamuschkaz",
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Makishi25",
+      "TrashSuperstar",
+      "__kreck"
+    ],
+    "2": [
+      "santemjocko"
+    ],
+    "22": [
+      "iurie"
+    ],
+    "4": [
+      "Lord_HoruS",
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "12": [
+      "__kreck",
+      "santemjocko"
+    ],
+    "137": [
+      "iurie"
+    ],
+    "16": [
+      "Lord_HoruS"
+    ],
+    "2": [
+      "Makishi25",
+      "Mamuschkaz"
+    ],
+    "3": [
+      "Sayder13xr"
+    ],
+    "5": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1": [
+      "leekcookie"
+    ],
+    "11": [
+      "Lord_HoruS"
+    ],
+    "137": [
+      "iurie"
+    ],
+    "2": [
+      "Makishi25"
+    ],
+    "3": [
+      "Sayder13xr"
+    ]
   }
 }

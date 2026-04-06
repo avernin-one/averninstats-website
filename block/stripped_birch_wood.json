@@ -1,27 +1,23 @@
 {
-  "name": "stripped_birch_wood",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "13": [
-        "KleeneEle"
-      ],
-      "384": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "13": [
-        "KleeneEle"
-      ],
-      "384": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "13": [
-        "KleeneEle"
-      ]
-    }
+  "mined": {
+    "13": [
+      "KleeneEle"
+    ],
+    "384": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "13": [
+      "KleeneEle"
+    ],
+    "384": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "13": [
+      "KleeneEle"
+    ]
   }
 }

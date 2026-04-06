@@ -1,49 +1,45 @@
 {
-  "name": "purple_wool",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "342": [
-        "Iglo"
-      ],
-      "8": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "95": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "TrashSuperstar",
-        "nitram1572"
-      ],
-      "1660": [
-        "__kreck"
-      ],
-      "233": [
-        "leekcookie"
-      ],
-      "34": [
-        "Mandahaya"
-      ],
-      "510": [
-        "Iglo"
-      ]
-    },
-    "used": {
-      "1": [
-        "Iglo",
-        "nitram1572"
-      ],
-      "195": [
-        "leekcookie"
-      ],
-      "7": [
-        "lodoss2011"
-      ]
-    }
+  "dropped": {
+    "342": [
+      "Iglo"
+    ],
+    "8": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "95": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "TrashSuperstar",
+      "nitram1572"
+    ],
+    "1660": [
+      "__kreck"
+    ],
+    "233": [
+      "leekcookie"
+    ],
+    "34": [
+      "Mandahaya"
+    ],
+    "510": [
+      "Iglo"
+    ]
+  },
+  "used": {
+    "1": [
+      "Iglo",
+      "nitram1572"
+    ],
+    "195": [
+      "leekcookie"
+    ],
+    "7": [
+      "lodoss2011"
+    ]
   }
 }

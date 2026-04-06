@@ -1,50 +1,46 @@
 {
-  "name": "fire_coral_block",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "leekcookie",
-        "owac"
-      ],
-      "11": [
-        "XeonVirus"
-      ],
-      "13": [
-        "TrashSuperstar",
-        "__kreck"
-      ],
-      "2": [
-        "iurie"
-      ],
-      "3": [
-        "santemjocko"
-      ],
-      "32": [
-        "Lord_HoruS"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "XeonVirus"
-      ],
-      "13": [
-        "__kreck"
-      ],
-      "2": [
-        "iurie"
-      ],
-      "29": [
-        "Lord_HoruS"
-      ]
-    },
-    "used": {
-      "17": [
-        "Lord_HoruS"
-      ],
-      "7": [
-        "XeonVirus"
-      ]
-    }
+  "mined": {
+    "1": [
+      "leekcookie",
+      "owac"
+    ],
+    "11": [
+      "XeonVirus"
+    ],
+    "13": [
+      "TrashSuperstar",
+      "__kreck"
+    ],
+    "2": [
+      "iurie"
+    ],
+    "3": [
+      "santemjocko"
+    ],
+    "32": [
+      "Lord_HoruS"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "XeonVirus"
+    ],
+    "13": [
+      "__kreck"
+    ],
+    "2": [
+      "iurie"
+    ],
+    "29": [
+      "Lord_HoruS"
+    ]
+  },
+  "used": {
+    "17": [
+      "Lord_HoruS"
+    ],
+    "7": [
+      "XeonVirus"
+    ]
   }
 }

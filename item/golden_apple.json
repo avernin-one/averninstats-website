@@ -1,113 +1,109 @@
 {
-  "name": "golden_apple",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "133": [
-        "leekcookie"
-      ],
-      "15": [
-        "Iglo",
-        "imabaldman"
-      ],
-      "262": [
-        "iurie"
-      ],
-      "3": [
-        "Telinnor",
-        "Cpt_looper"
-      ],
-      "30": [
-        "santemjocko"
-      ],
-      "32": [
-        "Mamuschkaz"
-      ],
-      "33": [
-        "__Iglo"
-      ],
-      "43": [
-        "TrashSuperstar"
-      ],
-      "7": [
-        "Sayder13xr"
-      ],
-      "86": [
-        "owac"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "santemjocko",
-        "lodoss2011",
-        "chaos1989",
-        "imabaldman"
-      ],
-      "10": [
-        "leekcookie"
-      ],
-      "2": [
-        "owac"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Mandahaya",
-        "Telinnor",
-        "Warhazarder",
-        "__kreck",
-        "XeonVirus"
-      ],
-      "12": [
-        "santemjocko",
-        "Iglo",
-        "SuperXXLProfi"
-      ],
-      "2": [
-        "lodoss2011",
-        "chaos1989",
-        "owac",
-        "Temeraiere",
-        "JonasderGamer"
-      ],
-      "23": [
-        "leekcookie"
-      ],
-      "3": [
-        "Lord_HoruS",
-        "Sayder13xr"
-      ],
-      "57": [
-        "imabaldman"
-      ],
-      "8": [
-        "nitram1572"
-      ],
-      "96": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "1": [
-        "SuperXXLProfi",
-        "nitram1572"
-      ],
-      "10": [
-        "iurie"
-      ],
-      "14": [
-        "imabaldman"
-      ],
-      "2": [
-        "Cpt_looper",
-        "Sayder13xr"
-      ],
-      "4": [
-        "leekcookie"
-      ],
-      "5": [
-        "Lord_HoruS"
-      ]
-    }
+  "crafted": {
+    "133": [
+      "leekcookie"
+    ],
+    "15": [
+      "Iglo",
+      "imabaldman"
+    ],
+    "262": [
+      "iurie"
+    ],
+    "3": [
+      "Cpt_looper",
+      "Telinnor"
+    ],
+    "30": [
+      "santemjocko"
+    ],
+    "32": [
+      "Mamuschkaz"
+    ],
+    "33": [
+      "__Iglo"
+    ],
+    "43": [
+      "TrashSuperstar"
+    ],
+    "7": [
+      "Sayder13xr"
+    ],
+    "86": [
+      "owac"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "chaos1989",
+      "imabaldman",
+      "lodoss2011",
+      "santemjocko"
+    ],
+    "10": [
+      "leekcookie"
+    ],
+    "2": [
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Mandahaya",
+      "Telinnor",
+      "Warhazarder",
+      "XeonVirus",
+      "__kreck"
+    ],
+    "12": [
+      "Iglo",
+      "SuperXXLProfi",
+      "santemjocko"
+    ],
+    "2": [
+      "JonasderGamer",
+      "Temeraiere",
+      "chaos1989",
+      "lodoss2011",
+      "owac"
+    ],
+    "23": [
+      "leekcookie"
+    ],
+    "3": [
+      "Lord_HoruS",
+      "Sayder13xr"
+    ],
+    "57": [
+      "imabaldman"
+    ],
+    "8": [
+      "nitram1572"
+    ],
+    "96": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "1": [
+      "SuperXXLProfi",
+      "nitram1572"
+    ],
+    "10": [
+      "iurie"
+    ],
+    "14": [
+      "imabaldman"
+    ],
+    "2": [
+      "Cpt_looper",
+      "Sayder13xr"
+    ],
+    "4": [
+      "leekcookie"
+    ],
+    "5": [
+      "Lord_HoruS"
+    ]
   }
 }

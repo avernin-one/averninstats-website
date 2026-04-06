@@ -1,28 +1,24 @@
 {
-  "name": "stripped_cherry_log",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "2": [
-        "KleeneEle"
-      ],
-      "393": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "KleeneEle"
-      ],
-      "393": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1": [
-        "leekcookie",
-        "KleeneEle"
-      ]
-    }
+  "mined": {
+    "2": [
+      "KleeneEle"
+    ],
+    "393": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "KleeneEle"
+    ],
+    "393": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1": [
+      "KleeneEle",
+      "leekcookie"
+    ]
   }
 }

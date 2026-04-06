@@ -1,30 +1,26 @@
 {
-  "name": "cherry_door",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "3": [
-        "KleeneEle",
-        "__Iglo"
-      ]
-    },
-    "mined": {
-      "2": [
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "1": [
-        "KleeneEle"
-      ],
-      "4": [
-        "__Iglo"
-      ]
-    }
+  "crafted": {
+    "3": [
+      "KleeneEle",
+      "__Iglo"
+    ]
+  },
+  "mined": {
+    "2": [
+      "__Iglo"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "1": [
+      "KleeneEle"
+    ],
+    "4": [
+      "__Iglo"
+    ]
   }
 }

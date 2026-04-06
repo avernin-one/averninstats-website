@@ -1,117 +1,113 @@
 {
-  "name": "cooked_cod",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "128": [
-        "santemjocko"
-      ],
-      "16": [
-        "leekcookie"
-      ],
-      "24": [
-        "Mandahaya"
-      ],
-      "5": [
-        "Austriana"
-      ],
-      "6": [
-        "Teayo"
-      ],
-      "8": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "__Iglo",
-        "__kreck"
-      ],
-      "1688": [
-        "imabaldman"
-      ],
-      "42": [
-        "SuperXXLProfi"
-      ],
-      "52": [
-        "santemjocko"
-      ],
-      "64": [
-        "Sayder13xr"
-      ],
-      "67": [
-        "leekcookie"
-      ],
-      "71": [
-        "minenicknick"
-      ],
-      "91": [
-        "philxpx"
-      ]
-    },
-    "picked_up": {
-      "144": [
-        "minenicknick"
-      ],
-      "145": [
-        "SuperXXLProfi"
-      ],
-      "155": [
-        "santemjocko"
-      ],
-      "16": [
-        "iurie"
-      ],
-      "164": [
-        "XeonVirus"
-      ],
-      "1750": [
-        "imabaldman"
-      ],
-      "190": [
-        "philxpx"
-      ],
-      "25": [
-        "Teayo"
-      ],
-      "433": [
-        "leekcookie"
-      ],
-      "64": [
-        "Sayder13xr"
-      ]
-    },
-    "used": {
-      "120": [
-        "philxpx"
-      ],
-      "122": [
-        "santemjocko"
-      ],
-      "123": [
-        "obvBasti"
-      ],
-      "152": [
-        "Teayo"
-      ],
-      "187": [
-        "leekcookie"
-      ],
-      "373": [
-        "minenicknick"
-      ],
-      "432": [
-        "chaos1989"
-      ],
-      "469": [
-        "SuperXXLProfi"
-      ],
-      "499": [
-        "imabaldman"
-      ],
-      "87": [
-        "XeonVirus"
-      ]
-    }
+  "crafted": {
+    "128": [
+      "santemjocko"
+    ],
+    "16": [
+      "leekcookie"
+    ],
+    "24": [
+      "Mandahaya"
+    ],
+    "5": [
+      "Austriana"
+    ],
+    "6": [
+      "Teayo"
+    ],
+    "8": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "__Iglo",
+      "__kreck"
+    ],
+    "1688": [
+      "imabaldman"
+    ],
+    "42": [
+      "SuperXXLProfi"
+    ],
+    "52": [
+      "santemjocko"
+    ],
+    "64": [
+      "Sayder13xr"
+    ],
+    "67": [
+      "leekcookie"
+    ],
+    "71": [
+      "minenicknick"
+    ],
+    "91": [
+      "philxpx"
+    ]
+  },
+  "picked_up": {
+    "144": [
+      "minenicknick"
+    ],
+    "145": [
+      "SuperXXLProfi"
+    ],
+    "155": [
+      "santemjocko"
+    ],
+    "16": [
+      "iurie"
+    ],
+    "164": [
+      "XeonVirus"
+    ],
+    "1750": [
+      "imabaldman"
+    ],
+    "190": [
+      "philxpx"
+    ],
+    "25": [
+      "Teayo"
+    ],
+    "433": [
+      "leekcookie"
+    ],
+    "64": [
+      "Sayder13xr"
+    ]
+  },
+  "used": {
+    "120": [
+      "philxpx"
+    ],
+    "122": [
+      "santemjocko"
+    ],
+    "123": [
+      "obvBasti"
+    ],
+    "152": [
+      "Teayo"
+    ],
+    "187": [
+      "leekcookie"
+    ],
+    "373": [
+      "minenicknick"
+    ],
+    "432": [
+      "chaos1989"
+    ],
+    "469": [
+      "SuperXXLProfi"
+    ],
+    "499": [
+      "imabaldman"
+    ],
+    "87": [
+      "XeonVirus"
+    ]
   }
 }

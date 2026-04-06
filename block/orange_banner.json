@@ -1,11 +1,7 @@
 {
-  "name": "orange_banner",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "7": [
-        "Teayo"
-      ]
-    }
+  "crafted": {
+    "7": [
+      "Teayo"
+    ]
   }
 }

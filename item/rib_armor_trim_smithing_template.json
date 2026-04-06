@@ -1,19 +1,15 @@
 {
-  "name": "rib_armor_trim_smithing_template",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "38": [
-        "leekcookie"
-      ],
-      "4": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Warhazarder"
-      ]
-    }
+  "crafted": {
+    "38": [
+      "leekcookie"
+    ],
+    "4": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Warhazarder"
+    ]
   }
 }

@@ -1,154 +1,150 @@
 {
-  "name": "redstone_lamp",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "10": [
-        "Telinnor"
-      ],
-      "107": [
-        "leekcookie"
-      ],
-      "121": [
-        "santemjocko"
-      ],
-      "13": [
-        "Mamuschkaz",
-        "Warhazarder"
-      ],
-      "15": [
-        "lodoss2011"
-      ],
-      "21": [
-        "Lord_HoruS"
-      ],
-      "262": [
-        "__kreck"
-      ],
-      "336": [
-        "iurie"
-      ],
-      "42": [
-        "Cpt_looper"
-      ],
-      "7": [
-        "ScimMLG"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "ScimMLG"
-      ],
-      "2": [
-        "iurie"
-      ],
-      "36": [
-        "__kreck"
-      ],
-      "6": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "ScimMLG",
-        "Makishi25"
-      ],
-      "10": [
-        "nitram1572"
-      ],
-      "18": [
-        "leekcookie"
-      ],
-      "2": [
-        "owac"
-      ],
-      "21": [
-        "XeonVirus"
-      ],
-      "297": [
-        "iurie"
-      ],
-      "3": [
-        "lodoss2011",
-        "Lord_HoruS",
-        "__kreck"
-      ],
-      "4": [
-        "santemjocko",
-        "Mamuschkaz"
-      ],
-      "9": [
-        "Cpt_looper",
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "nitram1572"
-      ],
-      "186": [
-        "leekcookie"
-      ],
-      "2": [
-        "ScimMLG",
-        "owac"
-      ],
-      "21": [
-        "XeonVirus"
-      ],
-      "3": [
-        "lodoss2011",
-        "Lord_HoruS",
-        "Makishi25"
-      ],
-      "319": [
-        "iurie"
-      ],
-      "39": [
-        "__kreck"
-      ],
-      "4": [
-        "santemjocko",
-        "Mamuschkaz"
-      ],
-      "9": [
-        "Cpt_looper",
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "10": [
-        "Telinnor",
-        "Lord_HoruS"
-      ],
-      "11": [
-        "lodoss2011"
-      ],
-      "13": [
-        "nitram1572"
-      ],
-      "17": [
-        "Mamuschkaz"
-      ],
-      "21": [
-        "__Iglo"
-      ],
-      "223": [
-        "__kreck"
-      ],
-      "26": [
-        "leekcookie"
-      ],
-      "28": [
-        "santemjocko"
-      ],
-      "34": [
-        "Cpt_looper"
-      ],
-      "397": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "10": [
+      "Telinnor"
+    ],
+    "107": [
+      "leekcookie"
+    ],
+    "121": [
+      "santemjocko"
+    ],
+    "13": [
+      "Mamuschkaz",
+      "Warhazarder"
+    ],
+    "15": [
+      "lodoss2011"
+    ],
+    "21": [
+      "Lord_HoruS"
+    ],
+    "262": [
+      "__kreck"
+    ],
+    "336": [
+      "iurie"
+    ],
+    "42": [
+      "Cpt_looper"
+    ],
+    "7": [
+      "ScimMLG"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "ScimMLG"
+    ],
+    "2": [
+      "iurie"
+    ],
+    "36": [
+      "__kreck"
+    ],
+    "6": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Makishi25",
+      "ScimMLG"
+    ],
+    "10": [
+      "nitram1572"
+    ],
+    "18": [
+      "leekcookie"
+    ],
+    "2": [
+      "owac"
+    ],
+    "21": [
+      "XeonVirus"
+    ],
+    "297": [
+      "iurie"
+    ],
+    "3": [
+      "Lord_HoruS",
+      "__kreck",
+      "lodoss2011"
+    ],
+    "4": [
+      "Mamuschkaz",
+      "santemjocko"
+    ],
+    "9": [
+      "Cpt_looper",
+      "__Iglo"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "nitram1572"
+    ],
+    "186": [
+      "leekcookie"
+    ],
+    "2": [
+      "ScimMLG",
+      "owac"
+    ],
+    "21": [
+      "XeonVirus"
+    ],
+    "3": [
+      "Lord_HoruS",
+      "Makishi25",
+      "lodoss2011"
+    ],
+    "319": [
+      "iurie"
+    ],
+    "39": [
+      "__kreck"
+    ],
+    "4": [
+      "Mamuschkaz",
+      "santemjocko"
+    ],
+    "9": [
+      "Cpt_looper",
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "10": [
+      "Lord_HoruS",
+      "Telinnor"
+    ],
+    "11": [
+      "lodoss2011"
+    ],
+    "13": [
+      "nitram1572"
+    ],
+    "17": [
+      "Mamuschkaz"
+    ],
+    "21": [
+      "__Iglo"
+    ],
+    "223": [
+      "__kreck"
+    ],
+    "26": [
+      "leekcookie"
+    ],
+    "28": [
+      "santemjocko"
+    ],
+    "34": [
+      "Cpt_looper"
+    ],
+    "397": [
+      "iurie"
+    ]
   }
 }

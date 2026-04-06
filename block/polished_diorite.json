@@ -1,140 +1,136 @@
 {
-  "name": "polished_diorite",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "128": [
-        "XeonVirus"
-      ],
-      "1392": [
-        "leekcookie"
-      ],
-      "1684": [
-        "SnuvomBodensatz"
-      ],
-      "1747": [
-        "Warhazarder"
-      ],
-      "364": [
-        "imabaldman"
-      ],
-      "480": [
-        "lodoss2011"
-      ],
-      "64": [
-        "owac",
-        "Sayder13xr"
-      ],
-      "8668": [
-        "Teayo"
-      ],
-      "916": [
-        "Mamuschkaz"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "minenicknick"
-      ],
-      "57": [
-        "XeonVirus"
-      ],
-      "64": [
-        "owac",
-        "Teayo"
-      ],
-      "8": [
-        "Mamuschkaz"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie",
-        "XeonVirus"
-      ],
-      "2": [
-        "Sayder13xr"
-      ],
-      "260": [
-        "SnuvomBodensatz"
-      ],
-      "3": [
-        "minenicknick"
-      ],
-      "4": [
-        "lodoss2011",
-        "Teayo"
-      ],
-      "49": [
-        "imabaldman"
-      ],
-      "82": [
-        "Warhazarder"
-      ],
-      "98": [
-        "Mamuschkaz"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie",
-        "Sayder13xr"
-      ],
-      "128": [
-        "Mamuschkaz"
-      ],
-      "269": [
-        "SnuvomBodensatz"
-      ],
-      "4": [
-        "lodoss2011",
-        "minenicknick"
-      ],
-      "47": [
-        "imabaldman"
-      ],
-      "58": [
-        "XeonVirus"
-      ],
-      "64": [
-        "Teayo"
-      ],
-      "82": [
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "1219": [
-        "SnuvomBodensatz"
-      ],
-      "1707": [
-        "Warhazarder"
-      ],
-      "250": [
-        "imabaldman"
-      ],
-      "3": [
-        "minenicknick",
-        "leekcookie"
-      ],
-      "4": [
-        "Sayder13xr"
-      ],
-      "462": [
-        "Teayo"
-      ],
-      "591": [
-        "lodoss2011"
-      ],
-      "72": [
-        "XeonVirus"
-      ],
-      "9": [
-        "nitram1572"
-      ],
-      "907": [
-        "Mamuschkaz"
-      ]
-    }
+  "crafted": {
+    "128": [
+      "XeonVirus"
+    ],
+    "1392": [
+      "leekcookie"
+    ],
+    "1684": [
+      "SnuvomBodensatz"
+    ],
+    "1747": [
+      "Warhazarder"
+    ],
+    "364": [
+      "imabaldman"
+    ],
+    "480": [
+      "lodoss2011"
+    ],
+    "64": [
+      "Sayder13xr",
+      "owac"
+    ],
+    "8668": [
+      "Teayo"
+    ],
+    "916": [
+      "Mamuschkaz"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "minenicknick"
+    ],
+    "57": [
+      "XeonVirus"
+    ],
+    "64": [
+      "Teayo",
+      "owac"
+    ],
+    "8": [
+      "Mamuschkaz"
+    ]
+  },
+  "mined": {
+    "1": [
+      "XeonVirus",
+      "leekcookie"
+    ],
+    "2": [
+      "Sayder13xr"
+    ],
+    "260": [
+      "SnuvomBodensatz"
+    ],
+    "3": [
+      "minenicknick"
+    ],
+    "4": [
+      "Teayo",
+      "lodoss2011"
+    ],
+    "49": [
+      "imabaldman"
+    ],
+    "82": [
+      "Warhazarder"
+    ],
+    "98": [
+      "Mamuschkaz"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Sayder13xr",
+      "leekcookie"
+    ],
+    "128": [
+      "Mamuschkaz"
+    ],
+    "269": [
+      "SnuvomBodensatz"
+    ],
+    "4": [
+      "lodoss2011",
+      "minenicknick"
+    ],
+    "47": [
+      "imabaldman"
+    ],
+    "58": [
+      "XeonVirus"
+    ],
+    "64": [
+      "Teayo"
+    ],
+    "82": [
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "1219": [
+      "SnuvomBodensatz"
+    ],
+    "1707": [
+      "Warhazarder"
+    ],
+    "250": [
+      "imabaldman"
+    ],
+    "3": [
+      "leekcookie",
+      "minenicknick"
+    ],
+    "4": [
+      "Sayder13xr"
+    ],
+    "462": [
+      "Teayo"
+    ],
+    "591": [
+      "lodoss2011"
+    ],
+    "72": [
+      "XeonVirus"
+    ],
+    "9": [
+      "nitram1572"
+    ],
+    "907": [
+      "Mamuschkaz"
+    ]
   }
 }

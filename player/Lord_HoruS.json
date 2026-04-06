@@ -4,7 +4,7 @@
   "medals": {
     "gold": 1,
     "silver": 0,
-    "bronze": 0
+    "bronze": 2
   },
   "stats": {
     "animals_bred": 159,
@@ -150,40 +150,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "13": [
-          "oak_boat"
-        ],
-        "246": [
-          "tnt"
-        ],
-        "30": [
-          "hopper_minecart"
-        ],
-        "35": [
-          "minecart"
-        ],
-        "957": [
-          "firework_rocket"
-        ]
-      },
-      "dropped": {
-        "12941": [
-          "cod"
-        ],
-        "13": [
-          "oak_boat"
-        ],
-        "15554": [
-          "ender_pearl"
-        ],
-        "168": [
-          "snowball"
-        ],
-        "1857": [
-          "arrow"
-        ]
-      },
       "killed": {
         "15006": [
           "enderman"
@@ -218,45 +184,6 @@
         ],
         "4": [
           "zombie"
-        ]
-      },
-      "mined": {
-        "3": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "1136": [
-          "arrow"
-        ],
-        "15147": [
-          "ender_pearl"
-        ],
-        "214": [
-          "minecart"
-        ],
-        "3374": [
-          "cod"
-        ],
-        "693": [
-          "firework_rocket"
-        ]
-      },
-      "used": {
-        "193": [
-          "minecart"
-        ],
-        "249": [
-          "tnt"
-        ],
-        "30": [
-          "hopper_minecart"
-        ],
-        "645": [
-          "firework_rocket"
-        ],
-        "80": [
-          "oak_boat"
         ]
       }
     },
@@ -313,20 +240,6 @@
         ],
         "7668": [
           "rotten_flesh"
-        ]
-      },
-      "mined": {
-        "1": [
-          "brewing_stand"
-        ],
-        "1414": [
-          "wheat"
-        ],
-        "5": [
-          "cauldron"
-        ],
-        "50": [
-          "nether_wart"
         ]
       },
       "picked_up": {

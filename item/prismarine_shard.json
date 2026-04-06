@@ -1,62 +1,58 @@
 {
-  "name": "prismarine_shard",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "12": [
-        "owac"
-      ],
-      "13": [
-        "santemjocko"
-      ],
-      "32": [
-        "leekcookie"
-      ],
-      "371": [
-        "__Iglo"
-      ],
-      "4": [
-        "lodoss2011",
-        "XeonVirus"
-      ],
-      "6863": [
-        "__kreck"
-      ],
-      "734": [
-        "Lord_HoruS"
-      ]
-    },
-    "picked_up": {
-      "13": [
-        "santemjocko"
-      ],
-      "163": [
-        "iurie"
-      ],
-      "1813": [
-        "Teayo"
-      ],
-      "195": [
-        "__Iglo"
-      ],
-      "21": [
-        "DornDasBrot"
-      ],
-      "276": [
-        "Makishi25"
-      ],
-      "59": [
-        "chaos1989"
-      ],
-      "641": [
-        "Lord_HoruS"
-      ],
-      "7709": [
-        "__kreck"
-      ],
-      "79": [
-        "leekcookie"
-      ]
-    }
+  "dropped": {
+    "12": [
+      "owac"
+    ],
+    "13": [
+      "santemjocko"
+    ],
+    "32": [
+      "leekcookie"
+    ],
+    "371": [
+      "__Iglo"
+    ],
+    "4": [
+      "XeonVirus",
+      "lodoss2011"
+    ],
+    "6863": [
+      "__kreck"
+    ],
+    "734": [
+      "Lord_HoruS"
+    ]
+  },
+  "picked_up": {
+    "13": [
+      "santemjocko"
+    ],
+    "163": [
+      "iurie"
+    ],
+    "1813": [
+      "Teayo"
+    ],
+    "195": [
+      "__Iglo"
+    ],
+    "21": [
+      "DornDasBrot"
+    ],
+    "276": [
+      "Makishi25"
+    ],
+    "59": [
+      "chaos1989"
+    ],
+    "641": [
+      "Lord_HoruS"
+    ],
+    "7709": [
+      "__kreck"
+    ],
+    "79": [
+      "leekcookie"
+    ]
   }
 }

@@ -1,39 +1,35 @@
 {
-  "name": "horse",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "LumpenBrot",
-        "ScimMLG",
-        "StofftierAnabol",
-        "Teayo"
-      ],
-      "2": [
-        "SnuvomBodensatz",
-        "iurie",
-        "DornDasBrot",
-        "Sayder13xr"
-      ],
-      "21": [
-        "Warhazarder"
-      ],
-      "3": [
-        "santemjocko",
-        "owac"
-      ],
-      "4": [
-        "__kreck"
-      ],
-      "5": [
-        "leekcookie"
-      ],
-      "6": [
-        "XeonVirus"
-      ],
-      "9": [
-        "Mamuschkaz"
-      ]
-    }
+  "killed": {
+    "1": [
+      "LumpenBrot",
+      "ScimMLG",
+      "StofftierAnabol",
+      "Teayo"
+    ],
+    "2": [
+      "DornDasBrot",
+      "Sayder13xr",
+      "SnuvomBodensatz",
+      "iurie"
+    ],
+    "21": [
+      "Warhazarder"
+    ],
+    "3": [
+      "owac",
+      "santemjocko"
+    ],
+    "4": [
+      "__kreck"
+    ],
+    "5": [
+      "leekcookie"
+    ],
+    "6": [
+      "XeonVirus"
+    ],
+    "9": [
+      "Mamuschkaz"
+    ]
   }
 }

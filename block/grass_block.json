@@ -1,134 +1,130 @@
 {
-  "name": "grass_block",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "128": [
-        "Teayo"
-      ],
-      "17": [
-        "minenicknick"
-      ],
-      "191": [
-        "owac"
-      ],
-      "305": [
-        "__kreck"
-      ],
-      "31": [
-        "imabaldman"
-      ],
-      "33": [
-        "XeonVirus"
-      ],
-      "531": [
-        "Warhazarder"
-      ],
-      "560": [
-        "TrashSuperstar"
-      ],
-      "648": [
-        "santemjocko"
-      ],
-      "74": [
-        "Mamuschkaz"
-      ]
-    },
-    "mined": {
-      "10187": [
-        "leekcookie"
-      ],
-      "12020": [
-        "Mamuschkaz"
-      ],
-      "13058": [
-        "lodoss2011"
-      ],
-      "16386": [
-        "santemjocko"
-      ],
-      "21848": [
-        "SnuvomBodensatz"
-      ],
-      "26888": [
-        "Teayo"
-      ],
-      "44740": [
-        "Warhazarder"
-      ],
-      "6458": [
-        "XeonVirus"
-      ],
-      "7110": [
-        "iurie"
-      ],
-      "9066": [
-        "chaos1989"
-      ]
-    },
-    "picked_up": {
-      "11763": [
-        "santemjocko"
-      ],
-      "1235": [
-        "chaos1989"
-      ],
-      "1515": [
-        "philxpx"
-      ],
-      "1600": [
-        "owac"
-      ],
-      "1854": [
-        "TrashSuperstar"
-      ],
-      "24736": [
-        "Warhazarder"
-      ],
-      "3450": [
-        "Teayo"
-      ],
-      "3860": [
-        "__kreck"
-      ],
-      "5854": [
-        "SnuvomBodensatz"
-      ],
-      "6595": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1188": [
-        "Teayo"
-      ],
-      "13343": [
-        "Warhazarder"
-      ],
-      "2394": [
-        "leekcookie"
-      ],
-      "374": [
-        "XeonVirus"
-      ],
-      "547": [
-        "__kreck"
-      ],
-      "5532": [
-        "SnuvomBodensatz"
-      ],
-      "682": [
-        "chaos1989"
-      ],
-      "694": [
-        "santemjocko"
-      ],
-      "760": [
-        "TrashSuperstar"
-      ],
-      "913": [
-        "owac"
-      ]
-    }
+  "dropped": {
+    "128": [
+      "Teayo"
+    ],
+    "17": [
+      "minenicknick"
+    ],
+    "191": [
+      "owac"
+    ],
+    "305": [
+      "__kreck"
+    ],
+    "31": [
+      "imabaldman"
+    ],
+    "33": [
+      "XeonVirus"
+    ],
+    "531": [
+      "Warhazarder"
+    ],
+    "560": [
+      "TrashSuperstar"
+    ],
+    "648": [
+      "santemjocko"
+    ],
+    "74": [
+      "Mamuschkaz"
+    ]
+  },
+  "mined": {
+    "10187": [
+      "leekcookie"
+    ],
+    "12020": [
+      "Mamuschkaz"
+    ],
+    "13058": [
+      "lodoss2011"
+    ],
+    "16386": [
+      "santemjocko"
+    ],
+    "21848": [
+      "SnuvomBodensatz"
+    ],
+    "26888": [
+      "Teayo"
+    ],
+    "44740": [
+      "Warhazarder"
+    ],
+    "6458": [
+      "XeonVirus"
+    ],
+    "7110": [
+      "iurie"
+    ],
+    "9066": [
+      "chaos1989"
+    ]
+  },
+  "picked_up": {
+    "11763": [
+      "santemjocko"
+    ],
+    "1235": [
+      "chaos1989"
+    ],
+    "1515": [
+      "philxpx"
+    ],
+    "1600": [
+      "owac"
+    ],
+    "1854": [
+      "TrashSuperstar"
+    ],
+    "24736": [
+      "Warhazarder"
+    ],
+    "3450": [
+      "Teayo"
+    ],
+    "3860": [
+      "__kreck"
+    ],
+    "5854": [
+      "SnuvomBodensatz"
+    ],
+    "6595": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1188": [
+      "Teayo"
+    ],
+    "13343": [
+      "Warhazarder"
+    ],
+    "2394": [
+      "leekcookie"
+    ],
+    "374": [
+      "XeonVirus"
+    ],
+    "547": [
+      "__kreck"
+    ],
+    "5532": [
+      "SnuvomBodensatz"
+    ],
+    "682": [
+      "chaos1989"
+    ],
+    "694": [
+      "santemjocko"
+    ],
+    "760": [
+      "TrashSuperstar"
+    ],
+    "913": [
+      "owac"
+    ]
   }
 }

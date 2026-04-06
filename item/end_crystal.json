@@ -1,22 +1,18 @@
 {
-  "name": "end_crystal",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "17": [
-        "imabaldman"
-      ],
-      "48": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "16": [
-        "iurie"
-      ],
-      "2": [
-        "imabaldman"
-      ]
-    }
+  "crafted": {
+    "17": [
+      "imabaldman"
+    ],
+    "48": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "16": [
+      "iurie"
+    ],
+    "2": [
+      "imabaldman"
+    ]
   }
 }

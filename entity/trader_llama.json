@@ -1,45 +1,41 @@
 {
-  "name": "trader_llama",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "10": [
-        "SnuvomBodensatz"
-      ],
-      "12": [
-        "Warhazarder"
-      ],
-      "13": [
-        "XeonVirus"
-      ],
-      "15": [
-        "lodoss2011"
-      ],
-      "19": [
-        "chaos1989"
-      ],
-      "24": [
-        "iurie"
-      ],
-      "28": [
-        "Teayo"
-      ],
-      "4": [
-        "ScimMLG"
-      ],
-      "5": [
-        "Iglo",
-        "owac",
-        "nitram1572"
-      ],
-      "8": [
-        "Makishi25"
-      ]
-    },
-    "killed_by": {
-      "1": [
-        "Telinnor"
-      ]
-    }
+  "killed": {
+    "10": [
+      "SnuvomBodensatz"
+    ],
+    "12": [
+      "Warhazarder"
+    ],
+    "13": [
+      "XeonVirus"
+    ],
+    "15": [
+      "lodoss2011"
+    ],
+    "19": [
+      "chaos1989"
+    ],
+    "24": [
+      "iurie"
+    ],
+    "28": [
+      "Teayo"
+    ],
+    "4": [
+      "ScimMLG"
+    ],
+    "5": [
+      "Iglo",
+      "nitram1572",
+      "owac"
+    ],
+    "8": [
+      "Makishi25"
+    ]
+  },
+  "killed_by": {
+    "1": [
+      "Telinnor"
+    ]
   }
 }

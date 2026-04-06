@@ -1,43 +1,39 @@
 {
-  "name": "tripwire",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "egoplayer_Felix"
-      ],
-      "19": [
-        "owac"
-      ],
-      "2": [
-        "philxpx",
-        "SuperXXLProfi",
-        "imabaldman",
-        "Sayder13xr"
-      ],
-      "27": [
-        "nitram1572"
-      ],
-      "3": [
-        "santemjocko",
-        "JonasderGamer"
-      ],
-      "33": [
-        "__kreck"
-      ],
-      "5": [
-        "Mandahaya",
-        "iurie"
-      ],
-      "685": [
-        "leekcookie"
-      ],
-      "7": [
-        "__Iglo"
-      ],
-      "9": [
-        "XeonVirus"
-      ]
-    }
+  "mined": {
+    "1": [
+      "egoplayer_Felix"
+    ],
+    "19": [
+      "owac"
+    ],
+    "2": [
+      "Sayder13xr",
+      "SuperXXLProfi",
+      "imabaldman",
+      "philxpx"
+    ],
+    "27": [
+      "nitram1572"
+    ],
+    "3": [
+      "JonasderGamer",
+      "santemjocko"
+    ],
+    "33": [
+      "__kreck"
+    ],
+    "5": [
+      "Mandahaya",
+      "iurie"
+    ],
+    "685": [
+      "leekcookie"
+    ],
+    "7": [
+      "__Iglo"
+    ],
+    "9": [
+      "XeonVirus"
+    ]
   }
 }

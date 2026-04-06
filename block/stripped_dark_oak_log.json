@@ -1,90 +1,86 @@
 {
-  "name": "stripped_dark_oak_log",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "owac"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Mandahaya",
-        "KleeneEle",
-        "owac"
-      ],
-      "128": [
-        "leekcookie"
-      ],
-      "13": [
-        "philxpx"
-      ],
-      "19": [
-        "Warhazarder"
-      ],
-      "282": [
-        "ScimMLG"
-      ],
-      "3": [
-        "iurie"
-      ],
-      "522": [
-        "Makishi25"
-      ],
-      "95": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Mandahaya",
-        "KleeneEle",
-        "owac"
-      ],
-      "13": [
-        "philxpx"
-      ],
-      "19": [
-        "Warhazarder"
-      ],
-      "2": [
-        "iurie"
-      ],
-      "220": [
-        "leekcookie"
-      ],
-      "266": [
-        "ScimMLG"
-      ],
-      "522": [
-        "Makishi25"
-      ],
-      "95": [
-        "lodoss2011"
-      ]
-    },
-    "used": {
-      "1": [
-        "iurie"
-      ],
-      "18": [
-        "Warhazarder"
-      ],
-      "187": [
-        "ScimMLG"
-      ],
-      "3": [
-        "philxpx"
-      ],
-      "452": [
-        "Makishi25"
-      ],
-      "8": [
-        "leekcookie"
-      ],
-      "95": [
-        "lodoss2011"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "owac"
+    ]
+  },
+  "mined": {
+    "1": [
+      "KleeneEle",
+      "Mandahaya",
+      "owac"
+    ],
+    "128": [
+      "leekcookie"
+    ],
+    "13": [
+      "philxpx"
+    ],
+    "19": [
+      "Warhazarder"
+    ],
+    "282": [
+      "ScimMLG"
+    ],
+    "3": [
+      "iurie"
+    ],
+    "522": [
+      "Makishi25"
+    ],
+    "95": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "KleeneEle",
+      "Mandahaya",
+      "owac"
+    ],
+    "13": [
+      "philxpx"
+    ],
+    "19": [
+      "Warhazarder"
+    ],
+    "2": [
+      "iurie"
+    ],
+    "220": [
+      "leekcookie"
+    ],
+    "266": [
+      "ScimMLG"
+    ],
+    "522": [
+      "Makishi25"
+    ],
+    "95": [
+      "lodoss2011"
+    ]
+  },
+  "used": {
+    "1": [
+      "iurie"
+    ],
+    "18": [
+      "Warhazarder"
+    ],
+    "187": [
+      "ScimMLG"
+    ],
+    "3": [
+      "philxpx"
+    ],
+    "452": [
+      "Makishi25"
+    ],
+    "8": [
+      "leekcookie"
+    ],
+    "95": [
+      "lodoss2011"
+    ]
   }
 }

@@ -1,45 +1,41 @@
 {
-  "name": "light_blue_dye",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "128": [
-        "XeonVirus"
-      ],
-      "14": [
-        "iurie"
-      ],
-      "16": [
-        "__Iglo"
-      ],
-      "2": [
-        "Mandahaya",
-        "santemjocko",
-        "Iglo",
-        "nitram1572"
-      ],
-      "20": [
-        "Teayo"
-      ],
-      "248": [
-        "leekcookie"
-      ],
-      "28": [
-        "imabaldman"
-      ]
-    },
-    "picked_up": {
-      "7": [
-        "iurie"
-      ],
-      "72": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "10": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "128": [
+      "XeonVirus"
+    ],
+    "14": [
+      "iurie"
+    ],
+    "16": [
+      "__Iglo"
+    ],
+    "2": [
+      "Iglo",
+      "Mandahaya",
+      "nitram1572",
+      "santemjocko"
+    ],
+    "20": [
+      "Teayo"
+    ],
+    "248": [
+      "leekcookie"
+    ],
+    "28": [
+      "imabaldman"
+    ]
+  },
+  "picked_up": {
+    "7": [
+      "iurie"
+    ],
+    "72": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "10": [
+      "leekcookie"
+    ]
   }
 }

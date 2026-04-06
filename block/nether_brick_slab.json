@@ -1,50 +1,46 @@
 {
-  "name": "nether_brick_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "384": [
-        "Iglo"
-      ],
-      "48": [
-        "Makishi25"
-      ],
-      "78": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "3": [
-        "Makishi25"
-      ],
-      "54": [
-        "Iglo"
-      ],
-      "71": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "150": [
-        "Iglo"
-      ],
-      "43": [
-        "Makishi25"
-      ],
-      "71": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "15": [
-        "Makishi25"
-      ],
-      "317": [
-        "Iglo"
-      ],
-      "54": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "384": [
+      "Iglo"
+    ],
+    "48": [
+      "Makishi25"
+    ],
+    "78": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "3": [
+      "Makishi25"
+    ],
+    "54": [
+      "Iglo"
+    ],
+    "71": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "150": [
+      "Iglo"
+    ],
+    "43": [
+      "Makishi25"
+    ],
+    "71": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "15": [
+      "Makishi25"
+    ],
+    "317": [
+      "Iglo"
+    ],
+    "54": [
+      "__kreck"
+    ]
   }
 }

@@ -1,11 +1,7 @@
 {
-  "name": "smooth_red_sandstone",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "7": [
-        "nitram1572"
-      ]
-    }
+  "crafted": {
+    "7": [
+      "nitram1572"
+    ]
   }
 }

@@ -1,122 +1,118 @@
 {
-  "name": "netherite_axe",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "lodoss2011",
-        "chaos1989",
-        "minenicknick",
-        "Mamuschkaz",
-        "Iglo",
-        "owac",
-        "iurie",
-        "SuperXXLProfi",
-        "Cpt_looper",
-        "Lord_HoruS",
-        "Sayder13xr",
-        "__kreck"
-      ],
-      "2": [
-        "TrashSuperstar"
-      ],
-      "4": [
-        "philxpx"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "obvBasti",
-        "santemjocko",
-        "lodoss2011",
-        "chaos1989",
-        "minenicknick",
-        "KleeneEle",
-        "Iglo",
-        "Lord_HoruS",
-        "imabaldman",
-        "__Iglo"
-      ],
-      "11": [
-        "__kreck"
-      ],
-      "2": [
-        "Mamuschkaz",
-        "Cpt_looper",
-        "DornDasBrot"
-      ],
-      "3": [
-        "philxpx"
-      ]
-    },
-    "picked_up": {
-      "13": [
-        "__kreck"
-      ],
-      "14": [
-        "Mamuschkaz"
-      ],
-      "2": [
-        "leekcookie",
-        "DornDasBrot"
-      ],
-      "22": [
-        "lodoss2011"
-      ],
-      "3": [
-        "Cpt_looper"
-      ],
-      "4": [
-        "minenicknick",
-        "iurie",
-        "Sayder13xr"
-      ],
-      "5": [
-        "chaos1989"
-      ],
-      "6": [
-        "Iglo",
-        "__Iglo"
-      ],
-      "7": [
-        "santemjocko"
-      ],
-      "8": [
-        "philxpx",
-        "Lord_HoruS"
-      ]
-    },
-    "used": {
-      "11279": [
-        "iurie"
-      ],
-      "12154": [
-        "Lord_HoruS"
-      ],
-      "12334": [
-        "TrashSuperstar"
-      ],
-      "20573": [
-        "chaos1989"
-      ],
-      "23146": [
-        "lodoss2011"
-      ],
-      "24906": [
-        "__kreck"
-      ],
-      "4135": [
-        "santemjocko"
-      ],
-      "4577": [
-        "__Iglo"
-      ],
-      "7894": [
-        "Iglo"
-      ],
-      "9123": [
-        "Mamuschkaz"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Cpt_looper",
+      "Iglo",
+      "Lord_HoruS",
+      "Mamuschkaz",
+      "Sayder13xr",
+      "SuperXXLProfi",
+      "__kreck",
+      "chaos1989",
+      "iurie",
+      "lodoss2011",
+      "minenicknick",
+      "owac"
+    ],
+    "2": [
+      "TrashSuperstar"
+    ],
+    "4": [
+      "philxpx"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Iglo",
+      "KleeneEle",
+      "Lord_HoruS",
+      "__Iglo",
+      "chaos1989",
+      "imabaldman",
+      "lodoss2011",
+      "minenicknick",
+      "obvBasti",
+      "santemjocko"
+    ],
+    "11": [
+      "__kreck"
+    ],
+    "2": [
+      "Cpt_looper",
+      "DornDasBrot",
+      "Mamuschkaz"
+    ],
+    "3": [
+      "philxpx"
+    ]
+  },
+  "picked_up": {
+    "13": [
+      "__kreck"
+    ],
+    "14": [
+      "Mamuschkaz"
+    ],
+    "2": [
+      "DornDasBrot",
+      "leekcookie"
+    ],
+    "22": [
+      "lodoss2011"
+    ],
+    "3": [
+      "Cpt_looper"
+    ],
+    "4": [
+      "Sayder13xr",
+      "iurie",
+      "minenicknick"
+    ],
+    "5": [
+      "chaos1989"
+    ],
+    "6": [
+      "Iglo",
+      "__Iglo"
+    ],
+    "7": [
+      "santemjocko"
+    ],
+    "8": [
+      "Lord_HoruS",
+      "philxpx"
+    ]
+  },
+  "used": {
+    "11279": [
+      "iurie"
+    ],
+    "12154": [
+      "Lord_HoruS"
+    ],
+    "12334": [
+      "TrashSuperstar"
+    ],
+    "20573": [
+      "chaos1989"
+    ],
+    "23146": [
+      "lodoss2011"
+    ],
+    "24906": [
+      "__kreck"
+    ],
+    "4135": [
+      "santemjocko"
+    ],
+    "4577": [
+      "__Iglo"
+    ],
+    "7894": [
+      "Iglo"
+    ],
+    "9123": [
+      "Mamuschkaz"
+    ]
   }
 }

@@ -1,11 +1,7 @@
 {
-  "name": "heartbreak_pottery_sherd",
-  "type": "item",
-  "scores": {
-    "picked_up": {
-      "2": [
-        "iurie"
-      ]
-    }
+  "picked_up": {
+    "2": [
+      "iurie"
+    ]
   }
 }

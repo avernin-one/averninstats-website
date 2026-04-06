@@ -1,120 +1,116 @@
 {
-  "name": "podzol",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "159": [
-        "Warhazarder"
-      ],
-      "28": [
-        "Mamuschkaz"
-      ],
-      "64": [
-        "iurie"
-      ],
-      "67": [
-        "leekcookie"
-      ],
-      "8": [
-        "minenicknick"
-      ]
-    },
-    "mined": {
-      "11": [
-        "TrashSuperstar"
-      ],
-      "15": [
-        "__kreck"
-      ],
-      "2135": [
-        "iurie"
-      ],
-      "26": [
-        "Ivenor"
-      ],
-      "271": [
-        "Mamuschkaz"
-      ],
-      "362": [
-        "lodoss2011"
-      ],
-      "46": [
-        "Sayder13xr"
-      ],
-      "48": [
-        "Makishi25"
-      ],
-      "635": [
-        "leekcookie"
-      ],
-      "950": [
-        "Warhazarder"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "XeonVirus"
-      ],
-      "12": [
-        "minenicknick"
-      ],
-      "16": [
-        "__kreck"
-      ],
-      "2080": [
-        "iurie"
-      ],
-      "220": [
-        "lodoss2011"
-      ],
-      "4": [
-        "philxpx"
-      ],
-      "48": [
-        "Makishi25"
-      ],
-      "757": [
-        "leekcookie"
-      ],
-      "807": [
-        "Warhazarder"
-      ],
-      "88": [
-        "Mamuschkaz"
-      ]
-    },
-    "used": {
-      "1": [
-        "DornDasBrot",
-        "Sayder13xr"
-      ],
-      "125": [
-        "lodoss2011"
-      ],
-      "14": [
-        "__kreck"
-      ],
-      "2": [
-        "TrashSuperstar"
-      ],
-      "253": [
-        "leekcookie"
-      ],
-      "32": [
-        "Mamuschkaz"
-      ],
-      "4": [
-        "minenicknick"
-      ],
-      "534": [
-        "Warhazarder"
-      ],
-      "655": [
-        "iurie"
-      ],
-      "8": [
-        "Makishi25"
-      ]
-    }
+  "dropped": {
+    "159": [
+      "Warhazarder"
+    ],
+    "28": [
+      "Mamuschkaz"
+    ],
+    "64": [
+      "iurie"
+    ],
+    "67": [
+      "leekcookie"
+    ],
+    "8": [
+      "minenicknick"
+    ]
+  },
+  "mined": {
+    "11": [
+      "TrashSuperstar"
+    ],
+    "15": [
+      "__kreck"
+    ],
+    "2135": [
+      "iurie"
+    ],
+    "26": [
+      "Ivenor"
+    ],
+    "271": [
+      "Mamuschkaz"
+    ],
+    "362": [
+      "lodoss2011"
+    ],
+    "46": [
+      "Sayder13xr"
+    ],
+    "48": [
+      "Makishi25"
+    ],
+    "635": [
+      "leekcookie"
+    ],
+    "950": [
+      "Warhazarder"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "XeonVirus"
+    ],
+    "12": [
+      "minenicknick"
+    ],
+    "16": [
+      "__kreck"
+    ],
+    "2080": [
+      "iurie"
+    ],
+    "220": [
+      "lodoss2011"
+    ],
+    "4": [
+      "philxpx"
+    ],
+    "48": [
+      "Makishi25"
+    ],
+    "757": [
+      "leekcookie"
+    ],
+    "807": [
+      "Warhazarder"
+    ],
+    "88": [
+      "Mamuschkaz"
+    ]
+  },
+  "used": {
+    "1": [
+      "DornDasBrot",
+      "Sayder13xr"
+    ],
+    "125": [
+      "lodoss2011"
+    ],
+    "14": [
+      "__kreck"
+    ],
+    "2": [
+      "TrashSuperstar"
+    ],
+    "253": [
+      "leekcookie"
+    ],
+    "32": [
+      "Mamuschkaz"
+    ],
+    "4": [
+      "minenicknick"
+    ],
+    "534": [
+      "Warhazarder"
+    ],
+    "655": [
+      "iurie"
+    ],
+    "8": [
+      "Makishi25"
+    ]
   }
 }

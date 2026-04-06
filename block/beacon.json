@@ -1,163 +1,159 @@
 {
-  "name": "beacon",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "lodoss2011",
-        "chaos1989",
-        "Sayder13xr"
-      ],
-      "11": [
-        "__kreck"
-      ],
-      "12": [
-        "leekcookie"
-      ],
-      "13": [
-        "santemjocko"
-      ],
-      "14": [
-        "Iglo"
-      ],
-      "16": [
-        "iurie"
-      ],
-      "2": [
-        "Lord_HoruS"
-      ],
-      "3": [
-        "SuperXXLProfi",
-        "imabaldman"
-      ],
-      "6": [
-        "Mamuschkaz"
-      ],
-      "64": [
-        "owac"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "iurie",
-        "SuperXXLProfi",
-        "__kreck"
-      ],
-      "3": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "lodoss2011",
-        "chaos1989",
-        "philxpx",
-        "Sayder13xr"
-      ],
-      "11": [
-        "santemjocko",
-        "leekcookie"
-      ],
-      "17": [
-        "Warhazarder"
-      ],
-      "19": [
-        "owac"
-      ],
-      "2": [
-        "Lord_HoruS"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "4": [
-        "imabaldman"
-      ],
-      "5": [
-        "Iglo"
-      ],
-      "6": [
-        "iurie",
-        "SuperXXLProfi",
-        "__Iglo"
-      ],
-      "8": [
-        "Mamuschkaz"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "lodoss2011",
-        "chaos1989",
-        "philxpx",
-        "Sayder13xr"
-      ],
-      "10": [
-        "Mamuschkaz"
-      ],
-      "14": [
-        "santemjocko"
-      ],
-      "18": [
-        "Warhazarder"
-      ],
-      "2": [
-        "Lord_HoruS"
-      ],
-      "20": [
-        "owac"
-      ],
-      "29": [
-        "leekcookie"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "5": [
-        "Iglo",
-        "imabaldman"
-      ],
-      "6": [
-        "iurie",
-        "SuperXXLProfi",
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "10": [
-        "Iglo"
-      ],
-      "11": [
-        "iurie"
-      ],
-      "13": [
-        "Mamuschkaz"
-      ],
-      "14": [
-        "__Iglo"
-      ],
-      "18": [
-        "santemjocko",
-        "leekcookie",
-        "Warhazarder"
-      ],
-      "2": [
-        "chaos1989",
-        "Lord_HoruS",
-        "Sayder13xr"
-      ],
-      "27": [
-        "owac"
-      ],
-      "5": [
-        "__kreck"
-      ],
-      "7": [
-        "SuperXXLProfi"
-      ],
-      "8": [
-        "imabaldman"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Sayder13xr",
+      "chaos1989",
+      "lodoss2011"
+    ],
+    "11": [
+      "__kreck"
+    ],
+    "12": [
+      "leekcookie"
+    ],
+    "13": [
+      "santemjocko"
+    ],
+    "14": [
+      "Iglo"
+    ],
+    "16": [
+      "iurie"
+    ],
+    "2": [
+      "Lord_HoruS"
+    ],
+    "3": [
+      "SuperXXLProfi",
+      "imabaldman"
+    ],
+    "6": [
+      "Mamuschkaz"
+    ],
+    "64": [
+      "owac"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "SuperXXLProfi",
+      "__kreck",
+      "iurie"
+    ],
+    "3": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Sayder13xr",
+      "chaos1989",
+      "lodoss2011",
+      "philxpx"
+    ],
+    "11": [
+      "leekcookie",
+      "santemjocko"
+    ],
+    "17": [
+      "Warhazarder"
+    ],
+    "19": [
+      "owac"
+    ],
+    "2": [
+      "Lord_HoruS"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "4": [
+      "imabaldman"
+    ],
+    "5": [
+      "Iglo"
+    ],
+    "6": [
+      "SuperXXLProfi",
+      "__Iglo",
+      "iurie"
+    ],
+    "8": [
+      "Mamuschkaz"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Sayder13xr",
+      "chaos1989",
+      "lodoss2011",
+      "philxpx"
+    ],
+    "10": [
+      "Mamuschkaz"
+    ],
+    "14": [
+      "santemjocko"
+    ],
+    "18": [
+      "Warhazarder"
+    ],
+    "2": [
+      "Lord_HoruS"
+    ],
+    "20": [
+      "owac"
+    ],
+    "29": [
+      "leekcookie"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "5": [
+      "Iglo",
+      "imabaldman"
+    ],
+    "6": [
+      "SuperXXLProfi",
+      "__Iglo",
+      "iurie"
+    ]
+  },
+  "used": {
+    "10": [
+      "Iglo"
+    ],
+    "11": [
+      "iurie"
+    ],
+    "13": [
+      "Mamuschkaz"
+    ],
+    "14": [
+      "__Iglo"
+    ],
+    "18": [
+      "Warhazarder",
+      "leekcookie",
+      "santemjocko"
+    ],
+    "2": [
+      "Lord_HoruS",
+      "Sayder13xr",
+      "chaos1989"
+    ],
+    "27": [
+      "owac"
+    ],
+    "5": [
+      "__kreck"
+    ],
+    "7": [
+      "SuperXXLProfi"
+    ],
+    "8": [
+      "imabaldman"
+    ]
   }
 }

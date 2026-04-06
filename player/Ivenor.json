@@ -4,7 +4,7 @@
   "medals": {
     "gold": 0,
     "silver": 0,
-    "bronze": 0
+    "bronze": 1
   },
   "stats": {
     "boat_one_cm": 422550,
@@ -131,26 +131,7 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1": [
-          "oak_boat"
-        ],
-        "2": [
-          "armor_stand"
-        ]
-      },
-      "dropped": {
-        "1": [
-          "egg"
-        ],
-        "6": [
-          "arrow"
-        ]
-      },
       "killed": {
-        "17": [
-          "salmon"
-        ],
         "206": [
           "zombie"
         ],
@@ -162,6 +143,9 @@
           "pig",
           "spider"
         ],
+        "7": [
+          "creeper"
+        ],
         "90": [
           "skeleton"
         ]
@@ -172,34 +156,6 @@
         ],
         "2": [
           "zombie"
-        ]
-      },
-      "picked_up": {
-        "16": [
-          "ender_pearl"
-        ],
-        "36": [
-          "chicken"
-        ],
-        "368": [
-          "snowball"
-        ],
-        "45": [
-          "salmon"
-        ],
-        "82": [
-          "arrow"
-        ]
-      },
-      "used": {
-        "10": [
-          "oak_boat"
-        ],
-        "2": [
-          "armor_stand"
-        ],
-        "250": [
-          "snowball"
         ]
       }
     },
@@ -238,22 +194,18 @@
         "10": [
           "bone_meal"
         ],
-        "13": [
-          "wheat"
-        ],
         "14": [
           "wheat_seeds"
         ],
         "15": [
           "rotten_flesh"
         ],
+        "6": [
+          "arrow",
+          "stick"
+        ],
         "7": [
           "string"
-        ]
-      },
-      "mined": {
-        "31": [
-          "wheat"
         ]
       },
       "picked_up": {

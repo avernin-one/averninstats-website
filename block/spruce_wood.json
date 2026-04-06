@@ -1,84 +1,80 @@
 {
-  "name": "spruce_wood",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "10068": [
-        "__kreck"
-      ],
-      "1275": [
-        "leekcookie"
-      ],
-      "216": [
-        "SuperXXLProfi"
-      ],
-      "3": [
-        "KleeneEle"
-      ]
-    },
-    "dropped": {
-      "2": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "10": [
-        "Iglo",
-        "SuperXXLProfi"
-      ],
-      "122": [
-        "__kreck"
-      ],
-      "3": [
-        "owac"
-      ],
-      "46": [
-        "leekcookie"
-      ],
-      "5": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "Iglo",
-        "SuperXXLProfi"
-      ],
-      "3": [
-        "owac"
-      ],
-      "5": [
-        "iurie"
-      ],
-      "54": [
-        "leekcookie"
-      ],
-      "620": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "1": [
-        "KleeneEle"
-      ],
-      "10": [
-        "Iglo"
-      ],
-      "137": [
-        "SuperXXLProfi"
-      ],
-      "3": [
-        "owac"
-      ],
-      "499": [
-        "leekcookie"
-      ],
-      "5": [
-        "iurie"
-      ],
-      "9495": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "10068": [
+      "__kreck"
+    ],
+    "1275": [
+      "leekcookie"
+    ],
+    "216": [
+      "SuperXXLProfi"
+    ],
+    "3": [
+      "KleeneEle"
+    ]
+  },
+  "dropped": {
+    "2": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "10": [
+      "Iglo",
+      "SuperXXLProfi"
+    ],
+    "122": [
+      "__kreck"
+    ],
+    "3": [
+      "owac"
+    ],
+    "46": [
+      "leekcookie"
+    ],
+    "5": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "Iglo",
+      "SuperXXLProfi"
+    ],
+    "3": [
+      "owac"
+    ],
+    "5": [
+      "iurie"
+    ],
+    "54": [
+      "leekcookie"
+    ],
+    "620": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "1": [
+      "KleeneEle"
+    ],
+    "10": [
+      "Iglo"
+    ],
+    "137": [
+      "SuperXXLProfi"
+    ],
+    "3": [
+      "owac"
+    ],
+    "499": [
+      "leekcookie"
+    ],
+    "5": [
+      "iurie"
+    ],
+    "9495": [
+      "__kreck"
+    ]
   }
 }

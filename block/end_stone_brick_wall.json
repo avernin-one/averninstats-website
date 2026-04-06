@@ -1,26 +1,22 @@
 {
-  "name": "end_stone_brick_wall",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "2": [
-        "DornDasBrot"
-      ]
-    },
-    "mined": {
-      "3": [
-        "DornDasBrot"
-      ]
-    },
-    "picked_up": {
-      "3": [
-        "DornDasBrot"
-      ]
-    },
-    "used": {
-      "3": [
-        "DornDasBrot"
-      ]
-    }
+  "crafted": {
+    "2": [
+      "DornDasBrot"
+    ]
+  },
+  "mined": {
+    "3": [
+      "DornDasBrot"
+    ]
+  },
+  "picked_up": {
+    "3": [
+      "DornDasBrot"
+    ]
+  },
+  "used": {
+    "3": [
+      "DornDasBrot"
+    ]
   }
 }

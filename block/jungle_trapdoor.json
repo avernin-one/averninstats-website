@@ -1,151 +1,147 @@
 {
-  "name": "jungle_trapdoor",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12": [
-        "__Iglo"
-      ],
-      "2": [
-        "obvBasti"
-      ],
-      "20": [
-        "Cpt_looper",
-        "nitram1572"
-      ],
-      "22": [
-        "TrashSuperstar"
-      ],
-      "4": [
-        "leekcookie"
-      ],
-      "46": [
-        "owac",
-        "imabaldman"
-      ],
-      "58": [
-        "Iglo"
-      ],
-      "6": [
-        "XeonVirus"
-      ],
-      "84": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Iglo"
-      ],
-      "2": [
-        "imabaldman"
-      ],
-      "3": [
-        "owac"
-      ]
-    },
-    "mined": {
-      "1": [
-        "obvBasti",
-        "SuperXXLProfi"
-      ],
-      "10": [
-        "Cpt_looper"
-      ],
-      "101": [
-        "owac"
-      ],
-      "12": [
-        "Makishi25"
-      ],
-      "13": [
-        "Iglo"
-      ],
-      "14": [
-        "XeonVirus"
-      ],
-      "3": [
-        "leekcookie",
-        "__kreck"
-      ],
-      "40": [
-        "nitram1572"
-      ],
-      "7": [
-        "TrashSuperstar",
-        "imabaldman"
-      ],
-      "9": [
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "obvBasti",
-        "SuperXXLProfi"
-      ],
-      "101": [
-        "owac"
-      ],
-      "13": [
-        "Iglo"
-      ],
-      "14": [
-        "XeonVirus"
-      ],
-      "3": [
-        "leekcookie",
-        "__kreck"
-      ],
-      "36": [
-        "Makishi25"
-      ],
-      "40": [
-        "nitram1572"
-      ],
-      "56": [
-        "Cpt_looper"
-      ],
-      "7": [
-        "TrashSuperstar"
-      ],
-      "8": [
-        "imabaldman",
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "119": [
-        "owac"
-      ],
-      "15": [
-        "XeonVirus"
-      ],
-      "22": [
-        "__Iglo"
-      ],
-      "25": [
-        "TrashSuperstar"
-      ],
-      "30": [
-        "Cpt_looper"
-      ],
-      "4": [
-        "leekcookie"
-      ],
-      "44": [
-        "Iglo"
-      ],
-      "51": [
-        "nitram1572",
-        "imabaldman"
-      ],
-      "7": [
-        "__kreck"
-      ],
-      "96": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "__Iglo"
+    ],
+    "2": [
+      "obvBasti"
+    ],
+    "20": [
+      "Cpt_looper",
+      "nitram1572"
+    ],
+    "22": [
+      "TrashSuperstar"
+    ],
+    "4": [
+      "leekcookie"
+    ],
+    "46": [
+      "imabaldman",
+      "owac"
+    ],
+    "58": [
+      "Iglo"
+    ],
+    "6": [
+      "XeonVirus"
+    ],
+    "84": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Iglo"
+    ],
+    "2": [
+      "imabaldman"
+    ],
+    "3": [
+      "owac"
+    ]
+  },
+  "mined": {
+    "1": [
+      "SuperXXLProfi",
+      "obvBasti"
+    ],
+    "10": [
+      "Cpt_looper"
+    ],
+    "101": [
+      "owac"
+    ],
+    "12": [
+      "Makishi25"
+    ],
+    "13": [
+      "Iglo"
+    ],
+    "14": [
+      "XeonVirus"
+    ],
+    "3": [
+      "__kreck",
+      "leekcookie"
+    ],
+    "40": [
+      "nitram1572"
+    ],
+    "7": [
+      "TrashSuperstar",
+      "imabaldman"
+    ],
+    "9": [
+      "__Iglo"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "SuperXXLProfi",
+      "obvBasti"
+    ],
+    "101": [
+      "owac"
+    ],
+    "13": [
+      "Iglo"
+    ],
+    "14": [
+      "XeonVirus"
+    ],
+    "3": [
+      "__kreck",
+      "leekcookie"
+    ],
+    "36": [
+      "Makishi25"
+    ],
+    "40": [
+      "nitram1572"
+    ],
+    "56": [
+      "Cpt_looper"
+    ],
+    "7": [
+      "TrashSuperstar"
+    ],
+    "8": [
+      "__Iglo",
+      "imabaldman"
+    ]
+  },
+  "used": {
+    "119": [
+      "owac"
+    ],
+    "15": [
+      "XeonVirus"
+    ],
+    "22": [
+      "__Iglo"
+    ],
+    "25": [
+      "TrashSuperstar"
+    ],
+    "30": [
+      "Cpt_looper"
+    ],
+    "4": [
+      "leekcookie"
+    ],
+    "44": [
+      "Iglo"
+    ],
+    "51": [
+      "imabaldman",
+      "nitram1572"
+    ],
+    "7": [
+      "__kreck"
+    ],
+    "96": [
+      "Makishi25"
+    ]
   }
 }

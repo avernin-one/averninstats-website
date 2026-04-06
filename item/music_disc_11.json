@@ -1,12 +1,8 @@
 {
-  "name": "music_disc_11",
-  "type": "item",
-  "scores": {
-    "picked_up": {
-      "1": [
-        "imabaldman",
-        "Warhazarder"
-      ]
-    }
+  "picked_up": {
+    "1": [
+      "Warhazarder",
+      "imabaldman"
+    ]
   }
 }

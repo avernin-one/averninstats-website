@@ -1,26 +1,22 @@
 {
-  "name": "mangrove_trapdoor",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "66": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "12": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "42": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "42": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "66": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "12": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "42": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "42": [
+      "leekcookie"
+    ]
   }
 }

@@ -2,9 +2,9 @@
   "name": "SnuvomBodensatz",
   "uuid": "0f32fed7-dee2-4376-aa8d-905215e9d302",
   "medals": {
-    "gold": 1,
-    "silver": 0,
-    "bronze": 1
+    "gold": 27,
+    "silver": 17,
+    "bronze": 3
   },
   "stats": {
     "animals_bred": 242,
@@ -146,24 +146,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "2": [
-          "minecart",
-          "oak_boat"
-        ],
-        "2853": [
-          "firework_rocket"
-        ]
-      },
-      "dropped": {
-        "2259": [
-          "ender_pearl"
-        ],
-        "3": [
-          "egg",
-          "potion"
-        ]
-      },
       "killed": {
         "120": [
           "pillager"
@@ -192,40 +174,6 @@
           "skeleton",
           "vex",
           "zombie"
-        ]
-      },
-      "picked_up": {
-        "1672": [
-          "arrow"
-        ],
-        "33": [
-          "chicken"
-        ],
-        "3890": [
-          "ender_pearl"
-        ],
-        "54": [
-          "oak_boat"
-        ],
-        "747": [
-          "firework_rocket"
-        ]
-      },
-      "used": {
-        "2180": [
-          "firework_rocket"
-        ],
-        "4": [
-          "minecart"
-        ],
-        "48": [
-          "oak_boat"
-        ],
-        "6": [
-          "ender_pearl"
-        ],
-        "93": [
-          "trident"
         ]
       }
     },
@@ -281,14 +229,9 @@
           "leather"
         ]
       },
-      "mined": {
-        "13041": [
-          "wheat"
-        ]
-      },
       "picked_up": {
-        "11824": [
-          "wheat"
+        "3060": [
+          "beetroot"
         ],
         "34428": [
           "wheat_seeds"

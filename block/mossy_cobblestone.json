@@ -1,149 +1,145 @@
 {
-  "name": "mossy_cobblestone",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "10": [
-        "lodoss2011"
-      ],
-      "12": [
-        "Makishi25"
-      ],
-      "3": [
-        "nitram1572"
-      ],
-      "377": [
-        "__kreck"
-      ],
-      "778": [
-        "ScimMLG"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "ScimMLG",
-        "iurie",
-        "Cpt_looper"
-      ],
-      "10": [
-        "Mamuschkaz"
-      ],
-      "2": [
-        "lodoss2011",
-        "imabaldman",
-        "Sayder13xr"
-      ],
-      "4": [
-        "DornDasBrot"
-      ],
-      "8": [
-        "owac"
-      ],
-      "87": [
-        "__kreck"
-      ],
-      "9": [
-        "Austriana"
-      ]
-    },
-    "mined": {
-      "13": [
-        "SuperXXLProfi"
-      ],
-      "241": [
-        "TrashSuperstar"
-      ],
-      "29": [
-        "Mandahaya"
-      ],
-      "347": [
-        "iurie"
-      ],
-      "46": [
-        "lodoss2011"
-      ],
-      "477": [
-        "ScimMLG"
-      ],
-      "77": [
-        "Teayo"
-      ],
-      "87": [
-        "Mamuschkaz"
-      ],
-      "9": [
-        "Austriana",
-        "XeonVirus"
-      ],
-      "95": [
-        "Makishi25",
-        "Sayder13xr"
-      ]
-    },
-    "picked_up": {
-      "158": [
-        "Mamuschkaz"
-      ],
-      "241": [
-        "TrashSuperstar"
-      ],
-      "335": [
-        "iurie"
-      ],
-      "408": [
-        "ScimMLG"
-      ],
-      "44": [
-        "owac"
-      ],
-      "46": [
-        "lodoss2011"
-      ],
-      "77": [
-        "Teayo"
-      ],
-      "95": [
-        "Makishi25"
-      ],
-      "96": [
-        "Sayder13xr"
-      ],
-      "99": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "1": [
-        "nitram1572",
-        "XeonVirus"
-      ],
-      "19": [
-        "Sayder13xr"
-      ],
-      "2": [
-        "owac",
-        "Teayo"
-      ],
-      "3": [
-        "imabaldman"
-      ],
-      "372": [
-        "__kreck"
-      ],
-      "4": [
-        "KleeneEle"
-      ],
-      "5": [
-        "lodoss2011",
-        "Makishi25"
-      ],
-      "7": [
-        "Mamuschkaz",
-        "TrashSuperstar"
-      ],
-      "761": [
-        "ScimMLG"
-      ]
-    }
+  "crafted": {
+    "10": [
+      "lodoss2011"
+    ],
+    "12": [
+      "Makishi25"
+    ],
+    "3": [
+      "nitram1572"
+    ],
+    "377": [
+      "__kreck"
+    ],
+    "778": [
+      "ScimMLG"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Cpt_looper",
+      "ScimMLG",
+      "iurie"
+    ],
+    "10": [
+      "Mamuschkaz"
+    ],
+    "2": [
+      "Sayder13xr",
+      "imabaldman",
+      "lodoss2011"
+    ],
+    "4": [
+      "DornDasBrot"
+    ],
+    "8": [
+      "owac"
+    ],
+    "87": [
+      "__kreck"
+    ],
+    "9": [
+      "Austriana"
+    ]
+  },
+  "mined": {
+    "13": [
+      "SuperXXLProfi"
+    ],
+    "241": [
+      "TrashSuperstar"
+    ],
+    "29": [
+      "Mandahaya"
+    ],
+    "347": [
+      "iurie"
+    ],
+    "46": [
+      "lodoss2011"
+    ],
+    "477": [
+      "ScimMLG"
+    ],
+    "77": [
+      "Teayo"
+    ],
+    "87": [
+      "Mamuschkaz"
+    ],
+    "9": [
+      "Austriana",
+      "XeonVirus"
+    ],
+    "95": [
+      "Makishi25",
+      "Sayder13xr"
+    ]
+  },
+  "picked_up": {
+    "158": [
+      "Mamuschkaz"
+    ],
+    "241": [
+      "TrashSuperstar"
+    ],
+    "335": [
+      "iurie"
+    ],
+    "408": [
+      "ScimMLG"
+    ],
+    "44": [
+      "owac"
+    ],
+    "46": [
+      "lodoss2011"
+    ],
+    "77": [
+      "Teayo"
+    ],
+    "95": [
+      "Makishi25"
+    ],
+    "96": [
+      "Sayder13xr"
+    ],
+    "99": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "1": [
+      "XeonVirus",
+      "nitram1572"
+    ],
+    "19": [
+      "Sayder13xr"
+    ],
+    "2": [
+      "Teayo",
+      "owac"
+    ],
+    "3": [
+      "imabaldman"
+    ],
+    "372": [
+      "__kreck"
+    ],
+    "4": [
+      "KleeneEle"
+    ],
+    "5": [
+      "Makishi25",
+      "lodoss2011"
+    ],
+    "7": [
+      "Mamuschkaz",
+      "TrashSuperstar"
+    ],
+    "761": [
+      "ScimMLG"
+    ]
   }
 }

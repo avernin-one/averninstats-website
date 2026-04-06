@@ -1,22 +1,18 @@
 {
-  "name": "sculk",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "113": [
-        "XeonVirus"
-      ],
-      "578": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "111": [
-        "XeonVirus"
-      ],
-      "290": [
-        "iurie"
-      ]
-    }
+  "mined": {
+    "113": [
+      "XeonVirus"
+    ],
+    "578": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "111": [
+      "XeonVirus"
+    ],
+    "290": [
+      "iurie"
+    ]
   }
 }

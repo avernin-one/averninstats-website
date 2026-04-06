@@ -1,80 +1,76 @@
 {
-  "name": "suspicious_stew",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "11": [
-        "obvBasti"
-      ],
-      "14": [
-        "TrashSuperstar"
-      ],
-      "27": [
-        "Teayo"
-      ],
-      "3": [
-        "leekcookie",
-        "DornDasBrot"
-      ],
-      "4": [
-        "iurie",
-        "Telinnor",
-        "Cpt_looper"
-      ],
-      "5": [
-        "owac"
-      ],
-      "6": [
-        "nitram1572"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "DornDasBrot"
-      ],
-      "11": [
-        "obvBasti"
-      ],
-      "5": [
-        "Teayo"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Austriana",
-        "DornDasBrot"
-      ],
-      "4": [
-        "iurie"
-      ],
-      "5": [
-        "Mandahaya"
-      ]
-    },
-    "used": {
-      "1": [
-        "Iglo",
-        "imabaldman"
-      ],
-      "2": [
-        "owac",
-        "TrashSuperstar"
-      ],
-      "22": [
-        "Teayo"
-      ],
-      "3": [
-        "leekcookie",
-        "DornDasBrot"
-      ],
-      "4": [
-        "Telinnor",
-        "Cpt_looper"
-      ],
-      "6": [
-        "iurie",
-        "nitram1572"
-      ]
-    }
+  "crafted": {
+    "11": [
+      "obvBasti"
+    ],
+    "14": [
+      "TrashSuperstar"
+    ],
+    "27": [
+      "Teayo"
+    ],
+    "3": [
+      "DornDasBrot",
+      "leekcookie"
+    ],
+    "4": [
+      "Cpt_looper",
+      "Telinnor",
+      "iurie"
+    ],
+    "5": [
+      "owac"
+    ],
+    "6": [
+      "nitram1572"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "DornDasBrot"
+    ],
+    "11": [
+      "obvBasti"
+    ],
+    "5": [
+      "Teayo"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Austriana",
+      "DornDasBrot"
+    ],
+    "4": [
+      "iurie"
+    ],
+    "5": [
+      "Mandahaya"
+    ]
+  },
+  "used": {
+    "1": [
+      "Iglo",
+      "imabaldman"
+    ],
+    "2": [
+      "TrashSuperstar",
+      "owac"
+    ],
+    "22": [
+      "Teayo"
+    ],
+    "3": [
+      "DornDasBrot",
+      "leekcookie"
+    ],
+    "4": [
+      "Cpt_looper",
+      "Telinnor"
+    ],
+    "6": [
+      "iurie",
+      "nitram1572"
+    ]
   }
 }

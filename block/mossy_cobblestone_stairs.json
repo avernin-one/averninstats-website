@@ -1,34 +1,30 @@
 {
-  "name": "mossy_cobblestone_stairs",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "144": [
-        "ScimMLG"
-      ]
-    },
-    "dropped": {
-      "7": [
-        "ScimMLG"
-      ]
-    },
-    "mined": {
-      "2": [
-        "leekcookie"
-      ],
-      "71": [
-        "ScimMLG"
-      ]
-    },
-    "picked_up": {
-      "51": [
-        "ScimMLG"
-      ]
-    },
-    "used": {
-      "162": [
-        "ScimMLG"
-      ]
-    }
+  "crafted": {
+    "144": [
+      "ScimMLG"
+    ]
+  },
+  "dropped": {
+    "7": [
+      "ScimMLG"
+    ]
+  },
+  "mined": {
+    "2": [
+      "leekcookie"
+    ],
+    "71": [
+      "ScimMLG"
+    ]
+  },
+  "picked_up": {
+    "51": [
+      "ScimMLG"
+    ]
+  },
+  "used": {
+    "162": [
+      "ScimMLG"
+    ]
   }
 }

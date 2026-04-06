@@ -1,47 +1,43 @@
 {
-  "name": "red_sandstone",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "675": [
-        "chaos1989"
-      ],
-      "7": [
-        "nitram1572"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "nitram1572"
-      ]
-    },
-    "mined": {
-      "1": [
-        "SnuvomBodensatz"
-      ],
-      "7": [
-        "chaos1989",
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "SnuvomBodensatz"
-      ],
-      "7": [
-        "chaos1989"
-      ],
-      "8": [
-        "nitram1572"
-      ]
-    },
-    "used": {
-      "7": [
-        "nitram1572"
-      ],
-      "93": [
-        "chaos1989"
-      ]
-    }
+  "crafted": {
+    "675": [
+      "chaos1989"
+    ],
+    "7": [
+      "nitram1572"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "nitram1572"
+    ]
+  },
+  "mined": {
+    "1": [
+      "SnuvomBodensatz"
+    ],
+    "7": [
+      "chaos1989",
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "SnuvomBodensatz"
+    ],
+    "7": [
+      "chaos1989"
+    ],
+    "8": [
+      "nitram1572"
+    ]
+  },
+  "used": {
+    "7": [
+      "nitram1572"
+    ],
+    "93": [
+      "chaos1989"
+    ]
   }
 }

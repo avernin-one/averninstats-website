@@ -2,8 +2,8 @@
   "name": "santemjocko",
   "uuid": "0f6fef38-ed84-42ae-b987-518b21766ed1",
   "medals": {
-    "gold": 1,
-    "silver": 6,
+    "gold": 46,
+    "silver": 5,
     "bronze": 2
   },
   "stats": {
@@ -152,40 +152,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "17": [
-          "hopper_minecart"
-        ],
-        "2057": [
-          "tnt"
-        ],
-        "33": [
-          "minecart"
-        ],
-        "57": [
-          "item_frame"
-        ],
-        "6242": [
-          "firework_rocket"
-        ]
-      },
-      "dropped": {
-        "13686": [
-          "ender_pearl"
-        ],
-        "329": [
-          "arrow"
-        ],
-        "53": [
-          "tnt"
-        ],
-        "540": [
-          "snowball"
-        ],
-        "896": [
-          "firework_rocket"
-        ]
-      },
       "killed": {
         "1037": [
           "cave_spider"
@@ -220,45 +186,6 @@
         ],
         "8": [
           "player"
-        ]
-      },
-      "mined": {
-        "32": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "11393": [
-          "ender_pearl"
-        ],
-        "1713": [
-          "firework_rocket"
-        ],
-        "257": [
-          "cod"
-        ],
-        "5532": [
-          "snowball"
-        ],
-        "885": [
-          "arrow"
-        ]
-      },
-      "used": {
-        "1972": [
-          "tnt"
-        ],
-        "302": [
-          "trident"
-        ],
-        "4591": [
-          "firework_rocket"
-        ],
-        "55": [
-          "ender_pearl"
-        ],
-        "57": [
-          "item_frame"
         ]
       }
     },
@@ -314,23 +241,12 @@
           "wheat_seeds"
         ]
       },
-      "mined": {
-        "11": [
-          "brewing_stand"
-        ],
-        "2785": [
-          "nether_wart"
-        ],
-        "661": [
-          "wheat"
-        ]
-      },
       "picked_up": {
-        "10047": [
-          "nether_wart"
-        ],
         "11393": [
           "ender_pearl"
+        ],
+        "2766": [
+          "amethyst_shard"
         ],
         "4944": [
           "coal"

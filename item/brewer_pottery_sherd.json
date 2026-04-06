@@ -1,14 +1,10 @@
 {
-  "name": "brewer_pottery_sherd",
-  "type": "item",
-  "scores": {
-    "picked_up": {
-      "1": [
-        "KleeneEle"
-      ],
-      "3": [
-        "iurie"
-      ]
-    }
+  "picked_up": {
+    "1": [
+      "KleeneEle"
+    ],
+    "3": [
+      "iurie"
+    ]
   }
 }

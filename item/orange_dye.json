@@ -1,51 +1,47 @@
 {
-  "name": "orange_dye",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "nitram1572"
-      ],
-      "10": [
-        "iurie"
-      ],
-      "145": [
-        "leekcookie"
-      ],
-      "2": [
-        "Mandahaya",
-        "Der_Sani",
-        "lodoss2011",
-        "Iglo",
-        "imabaldman",
-        "__Iglo",
-        "Warhazarder"
-      ],
-      "32": [
-        "santemjocko"
-      ],
-      "34": [
-        "__kreck"
-      ],
-      "46": [
-        "chaos1989"
-      ],
-      "6": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "27": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "iurie"
-      ],
-      "61": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "nitram1572"
+    ],
+    "10": [
+      "iurie"
+    ],
+    "145": [
+      "leekcookie"
+    ],
+    "2": [
+      "Der_Sani",
+      "Iglo",
+      "Mandahaya",
+      "Warhazarder",
+      "__Iglo",
+      "imabaldman",
+      "lodoss2011"
+    ],
+    "32": [
+      "santemjocko"
+    ],
+    "34": [
+      "__kreck"
+    ],
+    "46": [
+      "chaos1989"
+    ],
+    "6": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "27": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "iurie"
+    ],
+    "61": [
+      "leekcookie"
+    ]
   }
 }

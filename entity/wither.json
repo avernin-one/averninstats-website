@@ -1,47 +1,43 @@
 {
-  "name": "wither",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "chaos1989",
-        "philxpx",
-        "SuperXXLProfi",
-        "Lord_HoruS",
-        "Sayder13xr"
-      ],
-      "11": [
-        "leekcookie"
-      ],
-      "16": [
-        "santemjocko"
-      ],
-      "17": [
-        "iurie"
-      ],
-      "19": [
-        "__kreck"
-      ],
-      "27": [
-        "JonasderGamer"
-      ],
-      "32": [
-        "owac"
-      ],
-      "4": [
-        "imabaldman"
-      ],
-      "6": [
-        "Iglo"
-      ],
-      "7": [
-        "Mamuschkaz"
-      ]
-    },
-    "killed_by": {
-      "1": [
-        "Sayder13xr"
-      ]
-    }
+  "killed": {
+    "1": [
+      "Lord_HoruS",
+      "Sayder13xr",
+      "SuperXXLProfi",
+      "chaos1989",
+      "philxpx"
+    ],
+    "11": [
+      "leekcookie"
+    ],
+    "16": [
+      "santemjocko"
+    ],
+    "17": [
+      "iurie"
+    ],
+    "19": [
+      "__kreck"
+    ],
+    "27": [
+      "JonasderGamer"
+    ],
+    "32": [
+      "owac"
+    ],
+    "4": [
+      "imabaldman"
+    ],
+    "6": [
+      "Iglo"
+    ],
+    "7": [
+      "Mamuschkaz"
+    ]
+  },
+  "killed_by": {
+    "1": [
+      "Sayder13xr"
+    ]
   }
 }

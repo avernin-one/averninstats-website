@@ -1,75 +1,71 @@
 {
-  "name": "jungle_boat",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "LumpenBrot",
-        "leekcookie",
-        "Temeraiere",
-        "__kreck"
-      ],
-      "5": [
-        "Iglo"
-      ],
-      "7": [
-        "owac"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "__Iglo",
-        "XeonVirus"
-      ],
-      "2": [
-        "Iglo",
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie",
-        "Temeraiere",
-        "XeonVirus"
-      ],
-      "2": [
-        "LumpenBrot",
-        "Cpt_looper"
-      ],
-      "26": [
-        "owac"
-      ],
-      "35": [
-        "Iglo"
-      ],
-      "5": [
-        "__Iglo"
-      ],
-      "9": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "1": [
-        "leekcookie",
-        "Cpt_looper",
-        "__kreck",
-        "Teayo",
-        "XeonVirus"
-      ],
-      "2": [
-        "LumpenBrot",
-        "Temeraiere"
-      ],
-      "30": [
-        "owac"
-      ],
-      "34": [
-        "Iglo"
-      ],
-      "4": [
-        "__Iglo"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "LumpenBrot",
+      "Temeraiere",
+      "__kreck",
+      "leekcookie"
+    ],
+    "5": [
+      "Iglo"
+    ],
+    "7": [
+      "owac"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "XeonVirus",
+      "__Iglo"
+    ],
+    "2": [
+      "Iglo",
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Temeraiere",
+      "XeonVirus",
+      "leekcookie"
+    ],
+    "2": [
+      "Cpt_looper",
+      "LumpenBrot"
+    ],
+    "26": [
+      "owac"
+    ],
+    "35": [
+      "Iglo"
+    ],
+    "5": [
+      "__Iglo"
+    ],
+    "9": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "1": [
+      "Cpt_looper",
+      "Teayo",
+      "XeonVirus",
+      "__kreck",
+      "leekcookie"
+    ],
+    "2": [
+      "LumpenBrot",
+      "Temeraiere"
+    ],
+    "30": [
+      "owac"
+    ],
+    "34": [
+      "Iglo"
+    ],
+    "4": [
+      "__Iglo"
+    ]
   }
 }

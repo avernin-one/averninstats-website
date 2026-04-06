@@ -1,41 +1,37 @@
 {
-  "name": "ochre_froglight",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1281": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "2": [
-        "iurie"
-      ],
-      "98": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1513": [
-        "leekcookie"
-      ],
-      "188": [
-        "iurie"
-      ],
-      "64": [
-        "Mamuschkaz"
-      ]
-    },
-    "used": {
-      "286": [
-        "leekcookie"
-      ],
-      "36": [
-        "Mamuschkaz"
-      ],
-      "4": [
-        "iurie"
-      ]
-    }
+  "dropped": {
+    "1281": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "2": [
+      "iurie"
+    ],
+    "98": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1513": [
+      "leekcookie"
+    ],
+    "188": [
+      "iurie"
+    ],
+    "64": [
+      "Mamuschkaz"
+    ]
+  },
+  "used": {
+    "286": [
+      "leekcookie"
+    ],
+    "36": [
+      "Mamuschkaz"
+    ],
+    "4": [
+      "iurie"
+    ]
   }
 }

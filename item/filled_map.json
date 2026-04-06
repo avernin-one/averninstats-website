@@ -1,67 +1,63 @@
 {
-  "name": "filled_map",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "60": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Austriana",
-        "nitram1572",
-        "Lord_HoruS",
-        "JonasderGamer",
-        "Marvin1099",
-        "Sayder13xr",
-        "Teayo"
-      ],
-      "2": [
-        "leekcookie",
-        "__kreck",
-        "XeonVirus"
-      ],
-      "21": [
-        "iurie"
-      ],
-      "4": [
-        "santemjocko",
-        "owac"
-      ],
-      "5": [
-        "imabaldman"
-      ],
-      "7": [
-        "DornDasBrot"
-      ],
-      "8": [
-        "Mandahaya",
-        "chaos1989"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Austriana",
-        "owac"
-      ],
-      "2": [
-        "DornDasBrot"
-      ],
-      "3": [
-        "santemjocko",
-        "iurie",
-        "imabaldman",
-        "__kreck"
-      ],
-      "5": [
-        "Mandahaya",
-        "chaos1989",
-        "Cpt_looper"
-      ],
-      "69": [
-        "nitram1572"
-      ]
-    }
+  "crafted": {
+    "60": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Austriana",
+      "JonasderGamer",
+      "Lord_HoruS",
+      "Marvin1099",
+      "Sayder13xr",
+      "Teayo",
+      "nitram1572"
+    ],
+    "2": [
+      "XeonVirus",
+      "__kreck",
+      "leekcookie"
+    ],
+    "21": [
+      "iurie"
+    ],
+    "4": [
+      "owac",
+      "santemjocko"
+    ],
+    "5": [
+      "imabaldman"
+    ],
+    "7": [
+      "DornDasBrot"
+    ],
+    "8": [
+      "Mandahaya",
+      "chaos1989"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Austriana",
+      "owac"
+    ],
+    "2": [
+      "DornDasBrot"
+    ],
+    "3": [
+      "__kreck",
+      "imabaldman",
+      "iurie",
+      "santemjocko"
+    ],
+    "5": [
+      "Cpt_looper",
+      "Mandahaya",
+      "chaos1989"
+    ],
+    "69": [
+      "nitram1572"
+    ]
   }
 }

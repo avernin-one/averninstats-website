@@ -1,60 +1,56 @@
 {
-  "name": "dried_kelp",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "120": [
-        "__Iglo"
-      ],
-      "1399": [
-        "Mamuschkaz"
-      ],
-      "307": [
-        "nitram1572"
-      ],
-      "54": [
-        "Makishi25"
-      ],
-      "64": [
-        "KleeneEle"
-      ],
-      "8": [
-        "Mandahaya"
-      ],
-      "893": [
-        "DornDasBrot"
-      ]
-    },
-    "dropped": {
-      "174": [
-        "Mamuschkaz"
-      ],
-      "2": [
-        "KleeneEle",
-        "Iglo",
-        "DornDasBrot",
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "KleeneEle"
-      ],
-      "2": [
-        "Iglo",
-        "DornDasBrot"
-      ],
-      "251": [
-        "Mamuschkaz"
-      ]
-    },
-    "used": {
-      "1": [
-        "iurie"
-      ],
-      "2": [
-        "nitram1572"
-      ]
-    }
+  "crafted": {
+    "120": [
+      "__Iglo"
+    ],
+    "1399": [
+      "Mamuschkaz"
+    ],
+    "307": [
+      "nitram1572"
+    ],
+    "54": [
+      "Makishi25"
+    ],
+    "64": [
+      "KleeneEle"
+    ],
+    "8": [
+      "Mandahaya"
+    ],
+    "893": [
+      "DornDasBrot"
+    ]
+  },
+  "dropped": {
+    "174": [
+      "Mamuschkaz"
+    ],
+    "2": [
+      "DornDasBrot",
+      "Iglo",
+      "KleeneEle",
+      "__Iglo"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "KleeneEle"
+    ],
+    "2": [
+      "DornDasBrot",
+      "Iglo"
+    ],
+    "251": [
+      "Mamuschkaz"
+    ]
+  },
+  "used": {
+    "1": [
+      "iurie"
+    ],
+    "2": [
+      "nitram1572"
+    ]
   }
 }

@@ -1,136 +1,132 @@
 {
-  "name": "player_head",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "116": [
-        "imabaldman"
-      ],
-      "222": [
-        "__kreck"
-      ],
-      "2239": [
-        "philxpx"
-      ],
-      "3981": [
-        "leekcookie"
-      ],
-      "62": [
-        "__Iglo"
-      ],
-      "65": [
-        "SuperXXLProfi"
-      ],
-      "88": [
-        "JonasderGamer"
-      ],
-      "895": [
-        "owac"
-      ],
-      "96": [
-        "santemjocko"
-      ],
-      "98": [
-        "obvBasti"
-      ]
-    },
-    "mined": {
-      "16": [
-        "owac"
-      ],
-      "17": [
-        "__kreck"
-      ],
-      "21": [
-        "lodoss2011"
-      ],
-      "22": [
-        "imabaldman"
-      ],
-      "30": [
-        "JonasderGamer"
-      ],
-      "5": [
-        "Teayo"
-      ],
-      "51": [
-        "SuperXXLProfi"
-      ],
-      "6": [
-        "XeonVirus"
-      ],
-      "8": [
-        "philxpx"
-      ],
-      "9": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "1099": [
-        "JonasderGamer"
-      ],
-      "155": [
-        "lodoss2011",
-        "__Iglo"
-      ],
-      "241": [
-        "santemjocko"
-      ],
-      "256": [
-        "__kreck"
-      ],
-      "334": [
-        "imabaldman"
-      ],
-      "413": [
-        "SuperXXLProfi"
-      ],
-      "4339": [
-        "leekcookie"
-      ],
-      "525": [
-        "iurie"
-      ],
-      "889": [
-        "philxpx"
-      ],
-      "995": [
-        "owac"
-      ]
-    },
-    "used": {
-      "115": [
-        "Iglo"
-      ],
-      "241": [
-        "__kreck"
-      ],
-      "45": [
-        "lodoss2011"
-      ],
-      "48": [
-        "DornDasBrot"
-      ],
-      "485": [
-        "santemjocko"
-      ],
-      "49": [
-        "XeonVirus"
-      ],
-      "65": [
-        "TrashSuperstar",
-        "Lord_HoruS"
-      ],
-      "67": [
-        "__Iglo"
-      ],
-      "869": [
-        "JonasderGamer"
-      ],
-      "94": [
-        "imabaldman"
-      ]
-    }
+  "dropped": {
+    "116": [
+      "imabaldman"
+    ],
+    "222": [
+      "__kreck"
+    ],
+    "2239": [
+      "philxpx"
+    ],
+    "3981": [
+      "leekcookie"
+    ],
+    "62": [
+      "__Iglo"
+    ],
+    "65": [
+      "SuperXXLProfi"
+    ],
+    "88": [
+      "JonasderGamer"
+    ],
+    "895": [
+      "owac"
+    ],
+    "96": [
+      "santemjocko"
+    ],
+    "98": [
+      "obvBasti"
+    ]
+  },
+  "mined": {
+    "16": [
+      "owac"
+    ],
+    "17": [
+      "__kreck"
+    ],
+    "21": [
+      "lodoss2011"
+    ],
+    "22": [
+      "imabaldman"
+    ],
+    "30": [
+      "JonasderGamer"
+    ],
+    "5": [
+      "Teayo"
+    ],
+    "51": [
+      "SuperXXLProfi"
+    ],
+    "6": [
+      "XeonVirus"
+    ],
+    "8": [
+      "philxpx"
+    ],
+    "9": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "1099": [
+      "JonasderGamer"
+    ],
+    "155": [
+      "__Iglo",
+      "lodoss2011"
+    ],
+    "241": [
+      "santemjocko"
+    ],
+    "256": [
+      "__kreck"
+    ],
+    "334": [
+      "imabaldman"
+    ],
+    "413": [
+      "SuperXXLProfi"
+    ],
+    "4339": [
+      "leekcookie"
+    ],
+    "525": [
+      "iurie"
+    ],
+    "889": [
+      "philxpx"
+    ],
+    "995": [
+      "owac"
+    ]
+  },
+  "used": {
+    "115": [
+      "Iglo"
+    ],
+    "241": [
+      "__kreck"
+    ],
+    "45": [
+      "lodoss2011"
+    ],
+    "48": [
+      "DornDasBrot"
+    ],
+    "485": [
+      "santemjocko"
+    ],
+    "49": [
+      "XeonVirus"
+    ],
+    "65": [
+      "Lord_HoruS",
+      "TrashSuperstar"
+    ],
+    "67": [
+      "__Iglo"
+    ],
+    "869": [
+      "JonasderGamer"
+    ],
+    "94": [
+      "imabaldman"
+    ]
   }
 }

@@ -1,26 +1,22 @@
 {
-  "name": "bamboo_stairs",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "476": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "3": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "3": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "83": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "476": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "3": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "3": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "83": [
+      "leekcookie"
+    ]
   }
 }

@@ -1,29 +1,25 @@
 {
-  "name": "purple_concrete_powder",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "8": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "5": [
-        "Iglo"
-      ]
-    },
-    "picked_up": {
-      "20": [
-        "__kreck"
-      ],
-      "5": [
-        "Iglo"
-      ]
-    },
-    "used": {
-      "3": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "8": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "5": [
+      "Iglo"
+    ]
+  },
+  "picked_up": {
+    "20": [
+      "__kreck"
+    ],
+    "5": [
+      "Iglo"
+    ]
+  },
+  "used": {
+    "3": [
+      "__kreck"
+    ]
   }
 }

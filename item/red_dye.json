@@ -1,61 +1,57 @@
 {
-  "name": "red_dye",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "133": [
-        "Iglo"
-      ],
-      "146": [
-        "__Iglo"
-      ],
-      "150": [
-        "santemjocko"
-      ],
-      "204": [
-        "Makishi25"
-      ],
-      "327": [
-        "Teayo"
-      ],
-      "552": [
-        "TrashSuperstar"
-      ],
-      "624": [
-        "leekcookie"
-      ],
-      "84": [
-        "chaos1989"
-      ],
-      "845": [
-        "__kreck"
-      ],
-      "938": [
-        "owac"
-      ]
-    },
-    "dropped": {
-      "4": [
-        "lodoss2011",
-        "XeonVirus"
-      ],
-      "42": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "14": [
-        "leekcookie"
-      ],
-      "23": [
-        "chaos1989"
-      ],
-      "4": [
-        "lodoss2011"
-      ],
-      "44": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "133": [
+      "Iglo"
+    ],
+    "146": [
+      "__Iglo"
+    ],
+    "150": [
+      "santemjocko"
+    ],
+    "204": [
+      "Makishi25"
+    ],
+    "327": [
+      "Teayo"
+    ],
+    "552": [
+      "TrashSuperstar"
+    ],
+    "624": [
+      "leekcookie"
+    ],
+    "84": [
+      "chaos1989"
+    ],
+    "845": [
+      "__kreck"
+    ],
+    "938": [
+      "owac"
+    ]
+  },
+  "dropped": {
+    "4": [
+      "XeonVirus",
+      "lodoss2011"
+    ],
+    "42": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "14": [
+      "leekcookie"
+    ],
+    "23": [
+      "chaos1989"
+    ],
+    "4": [
+      "lodoss2011"
+    ],
+    "44": [
+      "__kreck"
+    ]
   }
 }

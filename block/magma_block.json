@@ -1,151 +1,147 @@
 {
-  "name": "magma_block",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "28": [
-        "santemjocko"
-      ],
-      "4": [
-        "iurie"
-      ],
-      "41": [
-        "leekcookie"
-      ],
-      "6": [
-        "owac"
-      ]
-    },
-    "dropped": {
-      "12": [
-        "Sayder13xr"
-      ],
-      "18": [
-        "__kreck"
-      ],
-      "20": [
-        "minenicknick"
-      ],
-      "258": [
-        "philxpx"
-      ],
-      "56": [
-        "owac"
-      ],
-      "597": [
-        "leekcookie"
-      ],
-      "65": [
-        "TrashSuperstar"
-      ],
-      "781": [
-        "santemjocko"
-      ],
-      "86": [
-        "obvBasti"
-      ],
-      "87": [
-        "imabaldman"
-      ]
-    },
-    "mined": {
-      "11039": [
-        "iurie"
-      ],
-      "1344": [
-        "TrashSuperstar"
-      ],
-      "1455": [
-        "santemjocko"
-      ],
-      "197": [
-        "owac"
-      ],
-      "223": [
-        "Lord_HoruS"
-      ],
-      "364": [
-        "Cpt_looper"
-      ],
-      "4824": [
-        "imabaldman"
-      ],
-      "590": [
-        "Sayder13xr"
-      ],
-      "6986": [
-        "__kreck"
-      ],
-      "7498": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1230": [
-        "TrashSuperstar"
-      ],
-      "263": [
-        "nitram1572"
-      ],
-      "287": [
-        "Cpt_looper"
-      ],
-      "313": [
-        "Lord_HoruS"
-      ],
-      "3579": [
-        "santemjocko"
-      ],
-      "4276": [
-        "imabaldman"
-      ],
-      "541": [
-        "Sayder13xr"
-      ],
-      "6719": [
-        "__kreck"
-      ],
-      "7828": [
-        "leekcookie"
-      ],
-      "9875": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "108": [
-        "Sayder13xr"
-      ],
-      "12": [
-        "chaos1989",
-        "owac"
-      ],
-      "20": [
-        "__Iglo",
-        "Teayo"
-      ],
-      "2254": [
-        "santemjocko"
-      ],
-      "269": [
-        "SuperXXLProfi"
-      ],
-      "2898": [
-        "leekcookie"
-      ],
-      "4726": [
-        "__kreck"
-      ],
-      "5383": [
-        "iurie"
-      ],
-      "7": [
-        "Iglo"
-      ],
-      "9": [
-        "nitram1572",
-        "imabaldman"
-      ]
-    }
+  "crafted": {
+    "28": [
+      "santemjocko"
+    ],
+    "4": [
+      "iurie"
+    ],
+    "41": [
+      "leekcookie"
+    ],
+    "6": [
+      "owac"
+    ]
+  },
+  "dropped": {
+    "12": [
+      "Sayder13xr"
+    ],
+    "18": [
+      "__kreck"
+    ],
+    "20": [
+      "minenicknick"
+    ],
+    "258": [
+      "philxpx"
+    ],
+    "56": [
+      "owac"
+    ],
+    "597": [
+      "leekcookie"
+    ],
+    "65": [
+      "TrashSuperstar"
+    ],
+    "781": [
+      "santemjocko"
+    ],
+    "86": [
+      "obvBasti"
+    ],
+    "87": [
+      "imabaldman"
+    ]
+  },
+  "mined": {
+    "11039": [
+      "iurie"
+    ],
+    "1344": [
+      "TrashSuperstar"
+    ],
+    "1455": [
+      "santemjocko"
+    ],
+    "197": [
+      "owac"
+    ],
+    "223": [
+      "Lord_HoruS"
+    ],
+    "364": [
+      "Cpt_looper"
+    ],
+    "4824": [
+      "imabaldman"
+    ],
+    "590": [
+      "Sayder13xr"
+    ],
+    "6986": [
+      "__kreck"
+    ],
+    "7498": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1230": [
+      "TrashSuperstar"
+    ],
+    "263": [
+      "nitram1572"
+    ],
+    "287": [
+      "Cpt_looper"
+    ],
+    "313": [
+      "Lord_HoruS"
+    ],
+    "3579": [
+      "santemjocko"
+    ],
+    "4276": [
+      "imabaldman"
+    ],
+    "541": [
+      "Sayder13xr"
+    ],
+    "6719": [
+      "__kreck"
+    ],
+    "7828": [
+      "leekcookie"
+    ],
+    "9875": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "108": [
+      "Sayder13xr"
+    ],
+    "12": [
+      "chaos1989",
+      "owac"
+    ],
+    "20": [
+      "Teayo",
+      "__Iglo"
+    ],
+    "2254": [
+      "santemjocko"
+    ],
+    "269": [
+      "SuperXXLProfi"
+    ],
+    "2898": [
+      "leekcookie"
+    ],
+    "4726": [
+      "__kreck"
+    ],
+    "5383": [
+      "iurie"
+    ],
+    "7": [
+      "Iglo"
+    ],
+    "9": [
+      "imabaldman",
+      "nitram1572"
+    ]
   }
 }

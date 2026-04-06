@@ -1,166 +1,162 @@
 {
-  "name": "glass",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "16099": [
-        "leekcookie"
-      ],
-      "1715": [
-        "Mamuschkaz"
-      ],
-      "1941": [
-        "Cpt_looper"
-      ],
-      "1996": [
-        "SuperXXLProfi"
-      ],
-      "2011": [
-        "Teayo"
-      ],
-      "23650": [
-        "iurie"
-      ],
-      "2601": [
-        "owac"
-      ],
-      "2844": [
-        "imabaldman"
-      ],
-      "5594": [
-        "santemjocko"
-      ],
-      "9003": [
-        "nitram1572"
-      ]
-    },
-    "dropped": {
-      "124": [
-        "__Iglo"
-      ],
-      "14": [
-        "ScimMLG"
-      ],
-      "183": [
-        "santemjocko"
-      ],
-      "20": [
-        "SuperXXLProfi"
-      ],
-      "27": [
-        "Iglo"
-      ],
-      "333": [
-        "__kreck"
-      ],
-      "482": [
-        "leekcookie"
-      ],
-      "545": [
-        "owac"
-      ],
-      "65": [
-        "Cpt_looper"
-      ],
-      "96": [
-        "imabaldman"
-      ]
-    },
-    "mined": {
-      "1740": [
-        "Sayder13xr"
-      ],
-      "190": [
-        "DornDasBrot"
-      ],
-      "2793": [
-        "iurie"
-      ],
-      "296": [
-        "__kreck"
-      ],
-      "303": [
-        "leekcookie"
-      ],
-      "415": [
-        "nitram1572"
-      ],
-      "436": [
-        "Warhazarder"
-      ],
-      "481": [
-        "chaos1989"
-      ],
-      "648": [
-        "Lord_HoruS"
-      ],
-      "925": [
-        "owac"
-      ]
-    },
-    "picked_up": {
-      "1067": [
-        "Lord_HoruS"
-      ],
-      "14292": [
-        "__kreck"
-      ],
-      "1920": [
-        "Sayder13xr"
-      ],
-      "2629": [
-        "leekcookie"
-      ],
-      "2874": [
-        "owac"
-      ],
-      "3236": [
-        "iurie"
-      ],
-      "335": [
-        "santemjocko"
-      ],
-      "381": [
-        "nitram1572"
-      ],
-      "613": [
-        "Warhazarder"
-      ],
-      "637": [
-        "chaos1989"
-      ]
-    },
-    "used": {
-      "1199": [
-        "leekcookie"
-      ],
-      "1249": [
-        "__kreck"
-      ],
-      "1395": [
-        "Mamuschkaz"
-      ],
-      "1478": [
-        "DornDasBrot"
-      ],
-      "1536": [
-        "chaos1989"
-      ],
-      "1681": [
-        "Teayo"
-      ],
-      "2539": [
-        "Lord_HoruS"
-      ],
-      "3869": [
-        "Sayder13xr"
-      ],
-      "4554": [
-        "owac"
-      ],
-      "5735": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "16099": [
+      "leekcookie"
+    ],
+    "1715": [
+      "Mamuschkaz"
+    ],
+    "1941": [
+      "Cpt_looper"
+    ],
+    "1996": [
+      "SuperXXLProfi"
+    ],
+    "2011": [
+      "Teayo"
+    ],
+    "23650": [
+      "iurie"
+    ],
+    "2601": [
+      "owac"
+    ],
+    "2844": [
+      "imabaldman"
+    ],
+    "5594": [
+      "santemjocko"
+    ],
+    "9003": [
+      "nitram1572"
+    ]
+  },
+  "dropped": {
+    "124": [
+      "__Iglo"
+    ],
+    "14": [
+      "ScimMLG"
+    ],
+    "183": [
+      "santemjocko"
+    ],
+    "20": [
+      "SuperXXLProfi"
+    ],
+    "27": [
+      "Iglo"
+    ],
+    "333": [
+      "__kreck"
+    ],
+    "482": [
+      "leekcookie"
+    ],
+    "545": [
+      "owac"
+    ],
+    "65": [
+      "Cpt_looper"
+    ],
+    "96": [
+      "imabaldman"
+    ]
+  },
+  "mined": {
+    "1740": [
+      "Sayder13xr"
+    ],
+    "190": [
+      "DornDasBrot"
+    ],
+    "2793": [
+      "iurie"
+    ],
+    "296": [
+      "__kreck"
+    ],
+    "303": [
+      "leekcookie"
+    ],
+    "415": [
+      "nitram1572"
+    ],
+    "436": [
+      "Warhazarder"
+    ],
+    "481": [
+      "chaos1989"
+    ],
+    "648": [
+      "Lord_HoruS"
+    ],
+    "925": [
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "1067": [
+      "Lord_HoruS"
+    ],
+    "14292": [
+      "__kreck"
+    ],
+    "1920": [
+      "Sayder13xr"
+    ],
+    "2629": [
+      "leekcookie"
+    ],
+    "2874": [
+      "owac"
+    ],
+    "3236": [
+      "iurie"
+    ],
+    "335": [
+      "santemjocko"
+    ],
+    "381": [
+      "nitram1572"
+    ],
+    "613": [
+      "Warhazarder"
+    ],
+    "637": [
+      "chaos1989"
+    ]
+  },
+  "used": {
+    "1199": [
+      "leekcookie"
+    ],
+    "1249": [
+      "__kreck"
+    ],
+    "1395": [
+      "Mamuschkaz"
+    ],
+    "1478": [
+      "DornDasBrot"
+    ],
+    "1536": [
+      "chaos1989"
+    ],
+    "1681": [
+      "Teayo"
+    ],
+    "2539": [
+      "Lord_HoruS"
+    ],
+    "3869": [
+      "Sayder13xr"
+    ],
+    "4554": [
+      "owac"
+    ],
+    "5735": [
+      "iurie"
+    ]
   }
 }

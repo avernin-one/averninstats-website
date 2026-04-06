@@ -1,41 +1,37 @@
 {
-  "name": "honeycomb_block",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1292": [
-        "leekcookie"
-      ],
-      "4": [
-        "nitram1572"
-      ],
-      "48": [
-        "DornDasBrot"
-      ],
-      "64": [
-        "Teayo"
-      ],
-      "6546": [
-        "iurie"
-      ]
-    },
-    "mined": {
-      "2": [
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "nitram1572"
-      ],
-      "64": [
-        "Teayo"
-      ]
-    },
-    "used": {
-      "2": [
-        "nitram1572"
-      ]
-    }
+  "crafted": {
+    "1292": [
+      "leekcookie"
+    ],
+    "4": [
+      "nitram1572"
+    ],
+    "48": [
+      "DornDasBrot"
+    ],
+    "64": [
+      "Teayo"
+    ],
+    "6546": [
+      "iurie"
+    ]
+  },
+  "mined": {
+    "2": [
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "nitram1572"
+    ],
+    "64": [
+      "Teayo"
+    ]
+  },
+  "used": {
+    "2": [
+      "nitram1572"
+    ]
   }
 }

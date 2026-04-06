@@ -1,71 +1,67 @@
 {
-  "name": "diamond_block",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "imabaldman"
-      ],
-      "128": [
-        "iurie"
-      ],
-      "13": [
-        "Sayder13xr"
-      ],
-      "19": [
-        "santemjocko"
-      ],
-      "2": [
-        "Temeraiere"
-      ],
-      "51": [
-        "owac"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "owac"
-      ],
-      "33": [
-        "iurie"
-      ],
-      "6": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "1": [
-        "santemjocko",
-        "leekcookie"
-      ],
-      "32": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie",
-        "Iglo",
-        "Temeraiere"
-      ],
-      "3": [
-        "owac"
-      ],
-      "4": [
-        "santemjocko"
-      ],
-      "65": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "1": [
-        "santemjocko",
-        "imabaldman"
-      ],
-      "33": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "imabaldman"
+    ],
+    "128": [
+      "iurie"
+    ],
+    "13": [
+      "Sayder13xr"
+    ],
+    "19": [
+      "santemjocko"
+    ],
+    "2": [
+      "Temeraiere"
+    ],
+    "51": [
+      "owac"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "owac"
+    ],
+    "33": [
+      "iurie"
+    ],
+    "6": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "1": [
+      "leekcookie",
+      "santemjocko"
+    ],
+    "32": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Iglo",
+      "Temeraiere",
+      "leekcookie"
+    ],
+    "3": [
+      "owac"
+    ],
+    "4": [
+      "santemjocko"
+    ],
+    "65": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "1": [
+      "imabaldman",
+      "santemjocko"
+    ],
+    "33": [
+      "iurie"
+    ]
   }
 }

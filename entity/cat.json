@@ -1,24 +1,20 @@
 {
-  "name": "cat",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "leekcookie",
-        "Makishi25",
-        "imabaldman",
-        "Warhazarder"
-      ],
-      "16": [
-        "nitram1572"
-      ],
-      "2": [
-        "minenicknick",
-        "Iglo"
-      ],
-      "45": [
-        "iurie"
-      ]
-    }
+  "killed": {
+    "1": [
+      "Makishi25",
+      "Warhazarder",
+      "imabaldman",
+      "leekcookie"
+    ],
+    "16": [
+      "nitram1572"
+    ],
+    "2": [
+      "Iglo",
+      "minenicknick"
+    ],
+    "45": [
+      "iurie"
+    ]
   }
 }

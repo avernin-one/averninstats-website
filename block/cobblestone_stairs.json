@@ -1,154 +1,150 @@
 {
-  "name": "cobblestone_stairs",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "112": [
-        "Mandahaya"
-      ],
-      "120": [
-        "Cpt_looper"
-      ],
-      "1208": [
-        "Mamuschkaz"
-      ],
-      "121": [
-        "Warhazarder"
-      ],
-      "136": [
-        "lu0de"
-      ],
-      "156": [
-        "Makishi25"
-      ],
-      "201": [
-        "leekcookie"
-      ],
-      "264": [
-        "TrashSuperstar"
-      ],
-      "68": [
-        "PopCat007"
-      ],
-      "72": [
-        "Lord_HoruS"
-      ]
-    },
-    "dropped": {
-      "198": [
-        "Mamuschkaz"
-      ],
-      "216": [
-        "__kreck"
-      ],
-      "3": [
-        "Sayder13xr",
-        "Warhazarder"
-      ],
-      "43": [
-        "nitram1572"
-      ],
-      "6": [
-        "lodoss2011"
-      ]
-    },
-    "mined": {
-      "110": [
-        "leekcookie"
-      ],
-      "139": [
-        "Warhazarder"
-      ],
-      "22": [
-        "TrashSuperstar",
-        "Cpt_looper"
-      ],
-      "305": [
-        "Mamuschkaz"
-      ],
-      "32": [
-        "JonasderGamer"
-      ],
-      "36": [
-        "chaos1989"
-      ],
-      "49": [
-        "Makishi25"
-      ],
-      "50": [
-        "lodoss2011"
-      ],
-      "70": [
-        "Mandahaya"
-      ],
-      "93": [
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "115": [
-        "nitram1572"
-      ],
-      "140": [
-        "Warhazarder"
-      ],
-      "241": [
-        "__kreck"
-      ],
-      "34": [
-        "chaos1989"
-      ],
-      "448": [
-        "Mamuschkaz"
-      ],
-      "60": [
-        "lodoss2011"
-      ],
-      "67": [
-        "lu0de"
-      ],
-      "85": [
-        "leekcookie"
-      ],
-      "94": [
-        "Makishi25"
-      ],
-      "96": [
-        "Mandahaya"
-      ]
-    },
-    "used": {
-      "101": [
-        "leekcookie"
-      ],
-      "110": [
-        "lodoss2011"
-      ],
-      "113": [
-        "lu0de"
-      ],
-      "127": [
-        "imabaldman"
-      ],
-      "1386": [
-        "Mamuschkaz"
-      ],
-      "140": [
-        "chaos1989"
-      ],
-      "166": [
-        "Mandahaya",
-        "Makishi25"
-      ],
-      "228": [
-        "TrashSuperstar"
-      ],
-      "97": [
-        "Cpt_looper"
-      ],
-      "997": [
-        "Warhazarder"
-      ]
-    }
+  "crafted": {
+    "112": [
+      "Mandahaya"
+    ],
+    "120": [
+      "Cpt_looper"
+    ],
+    "1208": [
+      "Mamuschkaz"
+    ],
+    "121": [
+      "Warhazarder"
+    ],
+    "136": [
+      "lu0de"
+    ],
+    "156": [
+      "Makishi25"
+    ],
+    "201": [
+      "leekcookie"
+    ],
+    "264": [
+      "TrashSuperstar"
+    ],
+    "68": [
+      "PopCat007"
+    ],
+    "72": [
+      "Lord_HoruS"
+    ]
+  },
+  "dropped": {
+    "198": [
+      "Mamuschkaz"
+    ],
+    "216": [
+      "__kreck"
+    ],
+    "3": [
+      "Sayder13xr",
+      "Warhazarder"
+    ],
+    "43": [
+      "nitram1572"
+    ],
+    "6": [
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "110": [
+      "leekcookie"
+    ],
+    "139": [
+      "Warhazarder"
+    ],
+    "22": [
+      "Cpt_looper",
+      "TrashSuperstar"
+    ],
+    "305": [
+      "Mamuschkaz"
+    ],
+    "32": [
+      "JonasderGamer"
+    ],
+    "36": [
+      "chaos1989"
+    ],
+    "49": [
+      "Makishi25"
+    ],
+    "50": [
+      "lodoss2011"
+    ],
+    "70": [
+      "Mandahaya"
+    ],
+    "93": [
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "115": [
+      "nitram1572"
+    ],
+    "140": [
+      "Warhazarder"
+    ],
+    "241": [
+      "__kreck"
+    ],
+    "34": [
+      "chaos1989"
+    ],
+    "448": [
+      "Mamuschkaz"
+    ],
+    "60": [
+      "lodoss2011"
+    ],
+    "67": [
+      "lu0de"
+    ],
+    "85": [
+      "leekcookie"
+    ],
+    "94": [
+      "Makishi25"
+    ],
+    "96": [
+      "Mandahaya"
+    ]
+  },
+  "used": {
+    "101": [
+      "leekcookie"
+    ],
+    "110": [
+      "lodoss2011"
+    ],
+    "113": [
+      "lu0de"
+    ],
+    "127": [
+      "imabaldman"
+    ],
+    "1386": [
+      "Mamuschkaz"
+    ],
+    "140": [
+      "chaos1989"
+    ],
+    "166": [
+      "Makishi25",
+      "Mandahaya"
+    ],
+    "228": [
+      "TrashSuperstar"
+    ],
+    "97": [
+      "Cpt_looper"
+    ],
+    "997": [
+      "Warhazarder"
+    ]
   }
 }

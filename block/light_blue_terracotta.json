@@ -1,43 +1,39 @@
 {
-  "name": "light_blue_terracotta",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "7": [
-        "owac"
-      ]
-    },
-    "dropped": {
-      "7": [
-        "owac"
-      ]
-    },
-    "mined": {
-      "2": [
-        "KleeneEle"
-      ],
-      "3": [
-        "DornDasBrot"
-      ],
-      "4": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "KleeneEle"
-      ],
-      "3": [
-        "DornDasBrot"
-      ],
-      "4": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "2": [
-        "KleeneEle"
-      ]
-    }
+  "crafted": {
+    "7": [
+      "owac"
+    ]
+  },
+  "dropped": {
+    "7": [
+      "owac"
+    ]
+  },
+  "mined": {
+    "2": [
+      "KleeneEle"
+    ],
+    "3": [
+      "DornDasBrot"
+    ],
+    "4": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "KleeneEle"
+    ],
+    "3": [
+      "DornDasBrot"
+    ],
+    "4": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "2": [
+      "KleeneEle"
+    ]
   }
 }

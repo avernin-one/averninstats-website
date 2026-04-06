@@ -1,38 +1,34 @@
 {
-  "name": "furnace_minecart",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "leekcookie",
-        "owac",
-        "Cpt_looper",
-        "DornDasBrot"
-      ],
-      "10": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "30": [
-        "iurie"
-      ],
-      "4": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1": [
-        "owac",
-        "Cpt_looper",
-        "DornDasBrot"
-      ],
-      "3": [
-        "leekcookie"
-      ],
-      "38": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Cpt_looper",
+      "DornDasBrot",
+      "leekcookie",
+      "owac"
+    ],
+    "10": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "30": [
+      "iurie"
+    ],
+    "4": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1": [
+      "Cpt_looper",
+      "DornDasBrot",
+      "owac"
+    ],
+    "3": [
+      "leekcookie"
+    ],
+    "38": [
+      "iurie"
+    ]
   }
 }

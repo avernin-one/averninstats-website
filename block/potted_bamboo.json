@@ -1,15 +1,11 @@
 {
-  "name": "potted_bamboo",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "leekcookie",
-        "SuperXXLProfi"
-      ],
-      "2": [
-        "philxpx"
-      ]
-    }
+  "mined": {
+    "1": [
+      "SuperXXLProfi",
+      "leekcookie"
+    ],
+    "2": [
+      "philxpx"
+    ]
   }
 }

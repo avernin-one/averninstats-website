@@ -1,101 +1,97 @@
 {
-  "name": "brown_terracotta",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "2296": [
-        "chaos1989"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Iglo"
-      ],
-      "2": [
-        "philxpx"
-      ],
-      "27": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Iglo"
-      ],
-      "154": [
-        "Warhazarder"
-      ],
-      "176": [
-        "nitram1572"
-      ],
-      "2": [
-        "philxpx",
-        "Lord_HoruS"
-      ],
-      "22": [
-        "owac"
-      ],
-      "291": [
-        "SnuvomBodensatz"
-      ],
-      "466": [
-        "chaos1989"
-      ],
-      "48": [
-        "Cpt_looper"
-      ],
-      "6": [
-        "KleeneEle"
-      ],
-      "65": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Iglo"
-      ],
-      "154": [
-        "Warhazarder"
-      ],
-      "176": [
-        "nitram1572"
-      ],
-      "2": [
-        "philxpx"
-      ],
-      "22": [
-        "owac"
-      ],
-      "276": [
-        "SnuvomBodensatz"
-      ],
-      "29": [
-        "__kreck"
-      ],
-      "45": [
-        "Cpt_looper"
-      ],
-      "456": [
-        "chaos1989"
-      ],
-      "6": [
-        "KleeneEle"
-      ]
-    },
-    "used": {
-      "1": [
-        "__kreck"
-      ],
-      "105": [
-        "Warhazarder"
-      ],
-      "13": [
-        "nitram1572"
-      ],
-      "1874": [
-        "chaos1989"
-      ]
-    }
+  "crafted": {
+    "2296": [
+      "chaos1989"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Iglo"
+    ],
+    "2": [
+      "philxpx"
+    ],
+    "27": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Iglo"
+    ],
+    "154": [
+      "Warhazarder"
+    ],
+    "176": [
+      "nitram1572"
+    ],
+    "2": [
+      "Lord_HoruS",
+      "philxpx"
+    ],
+    "22": [
+      "owac"
+    ],
+    "291": [
+      "SnuvomBodensatz"
+    ],
+    "466": [
+      "chaos1989"
+    ],
+    "48": [
+      "Cpt_looper"
+    ],
+    "6": [
+      "KleeneEle"
+    ],
+    "65": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Iglo"
+    ],
+    "154": [
+      "Warhazarder"
+    ],
+    "176": [
+      "nitram1572"
+    ],
+    "2": [
+      "philxpx"
+    ],
+    "22": [
+      "owac"
+    ],
+    "276": [
+      "SnuvomBodensatz"
+    ],
+    "29": [
+      "__kreck"
+    ],
+    "45": [
+      "Cpt_looper"
+    ],
+    "456": [
+      "chaos1989"
+    ],
+    "6": [
+      "KleeneEle"
+    ]
+  },
+  "used": {
+    "1": [
+      "__kreck"
+    ],
+    "105": [
+      "Warhazarder"
+    ],
+    "13": [
+      "nitram1572"
+    ],
+    "1874": [
+      "chaos1989"
+    ]
   }
 }

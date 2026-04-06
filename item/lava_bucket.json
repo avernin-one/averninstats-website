@@ -1,91 +1,87 @@
 {
-  "name": "lava_bucket",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "1": [
-        "ScimMLG",
-        "Mamuschkaz",
-        "Iglo",
-        "Makishi25",
-        "__Iglo"
-      ],
-      "6": [
-        "Temeraiere"
-      ],
-      "8": [
-        "leekcookie"
-      ],
-      "9": [
-        "JonasderGamer",
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "owac"
-      ],
-      "17": [
-        "__Iglo"
-      ],
-      "23": [
-        "lodoss2011"
-      ],
-      "26": [
-        "__kreck"
-      ],
-      "4": [
-        "santemjocko",
-        "nitram1572",
-        "Makishi25"
-      ],
-      "5": [
-        "Teayo"
-      ],
-      "6": [
-        "Temeraiere"
-      ],
-      "72": [
-        "leekcookie"
-      ],
-      "8": [
-        "Cpt_looper"
-      ],
-      "9": [
-        "Mamuschkaz"
-      ]
-    },
-    "used": {
-      "118": [
-        "SuperXXLProfi"
-      ],
-      "144": [
-        "owac"
-      ],
-      "160": [
-        "Mamuschkaz"
-      ],
-      "190": [
-        "nitram1572"
-      ],
-      "2235": [
-        "Teayo"
-      ],
-      "267": [
-        "iurie"
-      ],
-      "2745": [
-        "lodoss2011"
-      ],
-      "58": [
-        "Sayder13xr"
-      ],
-      "689": [
-        "leekcookie"
-      ],
-      "70": [
-        "Lord_HoruS"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "Iglo",
+      "Makishi25",
+      "Mamuschkaz",
+      "ScimMLG",
+      "__Iglo"
+    ],
+    "6": [
+      "Temeraiere"
+    ],
+    "8": [
+      "leekcookie"
+    ],
+    "9": [
+      "JonasderGamer",
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "owac"
+    ],
+    "17": [
+      "__Iglo"
+    ],
+    "23": [
+      "lodoss2011"
+    ],
+    "26": [
+      "__kreck"
+    ],
+    "4": [
+      "Makishi25",
+      "nitram1572",
+      "santemjocko"
+    ],
+    "5": [
+      "Teayo"
+    ],
+    "6": [
+      "Temeraiere"
+    ],
+    "72": [
+      "leekcookie"
+    ],
+    "8": [
+      "Cpt_looper"
+    ],
+    "9": [
+      "Mamuschkaz"
+    ]
+  },
+  "used": {
+    "118": [
+      "SuperXXLProfi"
+    ],
+    "144": [
+      "owac"
+    ],
+    "160": [
+      "Mamuschkaz"
+    ],
+    "190": [
+      "nitram1572"
+    ],
+    "2235": [
+      "Teayo"
+    ],
+    "267": [
+      "iurie"
+    ],
+    "2745": [
+      "lodoss2011"
+    ],
+    "58": [
+      "Sayder13xr"
+    ],
+    "689": [
+      "leekcookie"
+    ],
+    "70": [
+      "Lord_HoruS"
+    ]
   }
 }

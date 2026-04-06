@@ -1,144 +1,140 @@
 {
-  "name": "fletching_table",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "Cpt_looper",
-        "Makishi25"
-      ],
-      "2": [
-        "Telinnor",
-        "Sayder13xr",
-        "Teayo"
-      ],
-      "20": [
-        "owac",
-        "iurie"
-      ],
-      "3": [
-        "Warhazarder"
-      ],
-      "30": [
-        "__kreck"
-      ],
-      "4": [
-        "obvBasti",
-        "leekcookie",
-        "StofftierAnabol"
-      ],
-      "5": [
-        "lodoss2011",
-        "nitram1572",
-        "Lord_HoruS"
-      ]
-    },
-    "dropped": {
-      "2": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "107": [
-        "owac"
-      ],
-      "20": [
-        "obvBasti"
-      ],
-      "25": [
-        "lodoss2011"
-      ],
-      "3": [
-        "Warhazarder"
-      ],
-      "37": [
-        "nitram1572"
-      ],
-      "4": [
-        "Teayo"
-      ],
-      "7": [
-        "Telinnor"
-      ],
-      "8": [
-        "leekcookie",
-        "Lord_HoruS",
-        "Sayder13xr"
-      ],
-      "82": [
-        "iurie"
-      ],
-      "9": [
-        "Makishi25"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "DornDasBrot"
-      ],
-      "106": [
-        "owac"
-      ],
-      "20": [
-        "obvBasti"
-      ],
-      "25": [
-        "lodoss2011"
-      ],
-      "3": [
-        "Warhazarder"
-      ],
-      "37": [
-        "nitram1572"
-      ],
-      "4": [
-        "Teayo"
-      ],
-      "8": [
-        "Telinnor",
-        "Lord_HoruS",
-        "Sayder13xr"
-      ],
-      "82": [
-        "iurie"
-      ],
-      "9": [
-        "leekcookie",
-        "Makishi25"
-      ]
-    },
-    "used": {
-      "10": [
-        "Makishi25"
-      ],
-      "102": [
-        "iurie"
-      ],
-      "106": [
-        "owac"
-      ],
-      "13": [
-        "Lord_HoruS"
-      ],
-      "24": [
-        "obvBasti"
-      ],
-      "25": [
-        "lodoss2011"
-      ],
-      "30": [
-        "__kreck"
-      ],
-      "37": [
-        "nitram1572"
-      ],
-      "8": [
-        "Telinnor"
-      ],
-      "9": [
-        "leekcookie",
-        "Sayder13xr"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Cpt_looper",
+      "Makishi25"
+    ],
+    "2": [
+      "Sayder13xr",
+      "Teayo",
+      "Telinnor"
+    ],
+    "20": [
+      "iurie",
+      "owac"
+    ],
+    "3": [
+      "Warhazarder"
+    ],
+    "30": [
+      "__kreck"
+    ],
+    "4": [
+      "StofftierAnabol",
+      "leekcookie",
+      "obvBasti"
+    ],
+    "5": [
+      "Lord_HoruS",
+      "lodoss2011",
+      "nitram1572"
+    ]
+  },
+  "dropped": {
+    "2": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "107": [
+      "owac"
+    ],
+    "20": [
+      "obvBasti"
+    ],
+    "25": [
+      "lodoss2011"
+    ],
+    "3": [
+      "Warhazarder"
+    ],
+    "37": [
+      "nitram1572"
+    ],
+    "4": [
+      "Teayo"
+    ],
+    "7": [
+      "Telinnor"
+    ],
+    "8": [
+      "Lord_HoruS",
+      "Sayder13xr",
+      "leekcookie"
+    ],
+    "82": [
+      "iurie"
+    ],
+    "9": [
+      "Makishi25"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "DornDasBrot"
+    ],
+    "106": [
+      "owac"
+    ],
+    "20": [
+      "obvBasti"
+    ],
+    "25": [
+      "lodoss2011"
+    ],
+    "3": [
+      "Warhazarder"
+    ],
+    "37": [
+      "nitram1572"
+    ],
+    "4": [
+      "Teayo"
+    ],
+    "8": [
+      "Lord_HoruS",
+      "Sayder13xr",
+      "Telinnor"
+    ],
+    "82": [
+      "iurie"
+    ],
+    "9": [
+      "Makishi25",
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "10": [
+      "Makishi25"
+    ],
+    "102": [
+      "iurie"
+    ],
+    "106": [
+      "owac"
+    ],
+    "13": [
+      "Lord_HoruS"
+    ],
+    "24": [
+      "obvBasti"
+    ],
+    "25": [
+      "lodoss2011"
+    ],
+    "30": [
+      "__kreck"
+    ],
+    "37": [
+      "nitram1572"
+    ],
+    "8": [
+      "Telinnor"
+    ],
+    "9": [
+      "Sayder13xr",
+      "leekcookie"
+    ]
   }
 }

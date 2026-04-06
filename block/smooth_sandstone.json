@@ -1,97 +1,93 @@
 {
-  "name": "smooth_sandstone",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "Temeraiere"
-      ],
-      "128": [
-        "__Iglo"
-      ],
-      "35": [
-        "KleeneEle"
-      ],
-      "570": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "5": [
-        "__Iglo"
-      ],
-      "7": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "1": [
-        "SuperXXLProfi",
-        "XeonVirus"
-      ],
-      "10": [
-        "Lord_HoruS"
-      ],
-      "12": [
-        "KleeneEle"
-      ],
-      "2": [
-        "nitram1572"
-      ],
-      "30": [
-        "Makishi25"
-      ],
-      "4": [
-        "imabaldman"
-      ],
-      "4277": [
-        "iurie"
-      ],
-      "6": [
-        "__Iglo"
-      ],
-      "9": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "12": [
-        "KleeneEle"
-      ],
-      "20": [
-        "Lord_HoruS"
-      ],
-      "31": [
-        "Makishi25"
-      ],
-      "4935": [
-        "iurie"
-      ],
-      "5": [
-        "nitram1572"
-      ],
-      "6": [
-        "__Iglo"
-      ],
-      "8": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "1": [
-        "nitram1572",
-        "__Iglo",
-        "__kreck"
-      ],
-      "2": [
-        "KleeneEle"
-      ],
-      "242": [
-        "Makishi25"
-      ],
-      "323": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Temeraiere"
+    ],
+    "128": [
+      "__Iglo"
+    ],
+    "35": [
+      "KleeneEle"
+    ],
+    "570": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "5": [
+      "__Iglo"
+    ],
+    "7": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "1": [
+      "SuperXXLProfi",
+      "XeonVirus"
+    ],
+    "10": [
+      "Lord_HoruS"
+    ],
+    "12": [
+      "KleeneEle"
+    ],
+    "2": [
+      "nitram1572"
+    ],
+    "30": [
+      "Makishi25"
+    ],
+    "4": [
+      "imabaldman"
+    ],
+    "4277": [
+      "iurie"
+    ],
+    "6": [
+      "__Iglo"
+    ],
+    "9": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "12": [
+      "KleeneEle"
+    ],
+    "20": [
+      "Lord_HoruS"
+    ],
+    "31": [
+      "Makishi25"
+    ],
+    "4935": [
+      "iurie"
+    ],
+    "5": [
+      "nitram1572"
+    ],
+    "6": [
+      "__Iglo"
+    ],
+    "8": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "1": [
+      "__Iglo",
+      "__kreck",
+      "nitram1572"
+    ],
+    "2": [
+      "KleeneEle"
+    ],
+    "242": [
+      "Makishi25"
+    ],
+    "323": [
+      "iurie"
+    ]
   }
 }

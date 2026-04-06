@@ -1,11 +1,7 @@
 {
-  "name": "reinforced_deepslate",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "XeonVirus"
-      ]
-    }
+  "mined": {
+    "1": [
+      "XeonVirus"
+    ]
   }
 }

@@ -1,26 +1,22 @@
 {
-  "name": "mangrove_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "132": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "11": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "11": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "87": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "132": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "11": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "11": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "87": [
+      "leekcookie"
+    ]
   }
 }

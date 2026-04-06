@@ -1,39 +1,35 @@
 {
-  "name": "magenta_dye",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "2": [
-        "Iglo"
-      ],
-      "250": [
-        "SuperXXLProfi"
-      ],
-      "31": [
-        "santemjocko"
-      ],
-      "4": [
-        "Mandahaya",
-        "Mamuschkaz",
-        "nitram1572"
-      ],
-      "40": [
-        "iurie"
-      ],
-      "454": [
-        "leekcookie"
-      ],
-      "50": [
-        "Teayo"
-      ],
-      "842": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "3": [
-        "Mamuschkaz"
-      ]
-    }
+  "crafted": {
+    "2": [
+      "Iglo"
+    ],
+    "250": [
+      "SuperXXLProfi"
+    ],
+    "31": [
+      "santemjocko"
+    ],
+    "4": [
+      "Mamuschkaz",
+      "Mandahaya",
+      "nitram1572"
+    ],
+    "40": [
+      "iurie"
+    ],
+    "454": [
+      "leekcookie"
+    ],
+    "50": [
+      "Teayo"
+    ],
+    "842": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "3": [
+      "Mamuschkaz"
+    ]
   }
 }

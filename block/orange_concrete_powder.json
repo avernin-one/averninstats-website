@@ -1,26 +1,22 @@
 {
-  "name": "orange_concrete_powder",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "192": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "4": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "5": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "197": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "192": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "4": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "5": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "197": [
+      "leekcookie"
+    ]
   }
 }

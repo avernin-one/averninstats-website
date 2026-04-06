@@ -1,34 +1,30 @@
 {
-  "name": "dragon_wall_head",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "santemjocko",
-        "lodoss2011",
-        "TrashSuperstar",
-        "Cpt_looper",
-        "Lord_HoruS",
-        "Warhazarder"
-      ],
-      "138": [
-        "owac"
-      ],
-      "2": [
-        "XeonVirus"
-      ],
-      "23": [
-        "iurie"
-      ],
-      "3": [
-        "imabaldman"
-      ],
-      "6": [
-        "DornDasBrot"
-      ],
-      "7": [
-        "SnuvomBodensatz"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Cpt_looper",
+      "Lord_HoruS",
+      "TrashSuperstar",
+      "Warhazarder",
+      "lodoss2011",
+      "santemjocko"
+    ],
+    "138": [
+      "owac"
+    ],
+    "2": [
+      "XeonVirus"
+    ],
+    "23": [
+      "iurie"
+    ],
+    "3": [
+      "imabaldman"
+    ],
+    "6": [
+      "DornDasBrot"
+    ],
+    "7": [
+      "SnuvomBodensatz"
+    ]
   }
 }

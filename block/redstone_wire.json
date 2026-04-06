@@ -1,38 +1,34 @@
 {
-  "name": "redstone_wire",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "111": [
-        "Iglo"
-      ],
-      "112": [
-        "Lord_HoruS"
-      ],
-      "117": [
-        "DornDasBrot"
-      ],
-      "1234": [
-        "iurie"
-      ],
-      "148": [
-        "Cpt_looper"
-      ],
-      "155": [
-        "owac"
-      ],
-      "214": [
-        "__kreck"
-      ],
-      "409": [
-        "leekcookie"
-      ],
-      "974": [
-        "nitram1572"
-      ],
-      "98": [
-        "Sayder13xr"
-      ]
-    }
+  "mined": {
+    "111": [
+      "Iglo"
+    ],
+    "112": [
+      "Lord_HoruS"
+    ],
+    "117": [
+      "DornDasBrot"
+    ],
+    "1234": [
+      "iurie"
+    ],
+    "148": [
+      "Cpt_looper"
+    ],
+    "155": [
+      "owac"
+    ],
+    "214": [
+      "__kreck"
+    ],
+    "409": [
+      "leekcookie"
+    ],
+    "974": [
+      "nitram1572"
+    ],
+    "98": [
+      "Sayder13xr"
+    ]
   }
 }

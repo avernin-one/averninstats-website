@@ -1,153 +1,149 @@
 {
-  "name": "iron_trapdoor",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "124": [
-        "iurie"
-      ],
-      "144": [
-        "SuperXXLProfi"
-      ],
-      "15": [
-        "SnuvomBodensatz"
-      ],
-      "156": [
-        "leekcookie"
-      ],
-      "18": [
-        "chaos1989",
-        "Sayder13xr"
-      ],
-      "2565": [
-        "__kreck"
-      ],
-      "27": [
-        "Iglo"
-      ],
-      "452": [
-        "minenicknick"
-      ],
-      "55": [
-        "owac"
-      ],
-      "68": [
-        "santemjocko"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "iurie",
-        "Cpt_looper",
-        "__Iglo"
-      ],
-      "275": [
-        "Iglo"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "31": [
-        "minenicknick"
-      ]
-    },
-    "mined": {
-      "10": [
-        "SuperXXLProfi"
-      ],
-      "105": [
-        "iurie"
-      ],
-      "11": [
-        "imabaldman"
-      ],
-      "13": [
-        "chaos1989"
-      ],
-      "14": [
-        "minenicknick"
-      ],
-      "30": [
-        "__Iglo"
-      ],
-      "43": [
-        "owac"
-      ],
-      "72": [
-        "Iglo"
-      ],
-      "77": [
-        "leekcookie"
-      ],
-      "91": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "103": [
-        "iurie"
-      ],
-      "11": [
-        "imabaldman"
-      ],
-      "121": [
-        "leekcookie"
-      ],
-      "13": [
-        "chaos1989"
-      ],
-      "14": [
-        "minenicknick"
-      ],
-      "18": [
-        "Sayder13xr"
-      ],
-      "31": [
-        "__Iglo"
-      ],
-      "343": [
-        "__kreck"
-      ],
-      "346": [
-        "Iglo"
-      ],
-      "41": [
-        "owac"
-      ]
-    },
-    "used": {
-      "125": [
-        "iurie"
-      ],
-      "151": [
-        "leekcookie"
-      ],
-      "2144": [
-        "__kreck"
-      ],
-      "26": [
-        "chaos1989",
-        "Sayder13xr"
-      ],
-      "28": [
-        "imabaldman"
-      ],
-      "39": [
-        "SuperXXLProfi"
-      ],
-      "435": [
-        "minenicknick"
-      ],
-      "555": [
-        "Iglo"
-      ],
-      "8": [
-        "SnuvomBodensatz",
-        "nitram1572"
-      ],
-      "91": [
-        "owac"
-      ]
-    }
+  "crafted": {
+    "124": [
+      "iurie"
+    ],
+    "144": [
+      "SuperXXLProfi"
+    ],
+    "15": [
+      "SnuvomBodensatz"
+    ],
+    "156": [
+      "leekcookie"
+    ],
+    "18": [
+      "Sayder13xr",
+      "chaos1989"
+    ],
+    "2565": [
+      "__kreck"
+    ],
+    "27": [
+      "Iglo"
+    ],
+    "452": [
+      "minenicknick"
+    ],
+    "55": [
+      "owac"
+    ],
+    "68": [
+      "santemjocko"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Cpt_looper",
+      "__Iglo",
+      "iurie"
+    ],
+    "275": [
+      "Iglo"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "31": [
+      "minenicknick"
+    ]
+  },
+  "mined": {
+    "10": [
+      "SuperXXLProfi"
+    ],
+    "105": [
+      "iurie"
+    ],
+    "11": [
+      "imabaldman"
+    ],
+    "13": [
+      "chaos1989"
+    ],
+    "14": [
+      "minenicknick"
+    ],
+    "30": [
+      "__Iglo"
+    ],
+    "43": [
+      "owac"
+    ],
+    "72": [
+      "Iglo"
+    ],
+    "77": [
+      "leekcookie"
+    ],
+    "91": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "103": [
+      "iurie"
+    ],
+    "11": [
+      "imabaldman"
+    ],
+    "121": [
+      "leekcookie"
+    ],
+    "13": [
+      "chaos1989"
+    ],
+    "14": [
+      "minenicknick"
+    ],
+    "18": [
+      "Sayder13xr"
+    ],
+    "31": [
+      "__Iglo"
+    ],
+    "343": [
+      "__kreck"
+    ],
+    "346": [
+      "Iglo"
+    ],
+    "41": [
+      "owac"
+    ]
+  },
+  "used": {
+    "125": [
+      "iurie"
+    ],
+    "151": [
+      "leekcookie"
+    ],
+    "2144": [
+      "__kreck"
+    ],
+    "26": [
+      "Sayder13xr",
+      "chaos1989"
+    ],
+    "28": [
+      "imabaldman"
+    ],
+    "39": [
+      "SuperXXLProfi"
+    ],
+    "435": [
+      "minenicknick"
+    ],
+    "555": [
+      "Iglo"
+    ],
+    "8": [
+      "SnuvomBodensatz",
+      "nitram1572"
+    ],
+    "91": [
+      "owac"
+    ]
   }
 }

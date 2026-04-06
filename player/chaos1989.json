@@ -2,9 +2,9 @@
   "name": "chaos1989",
   "uuid": "15c6f712-2fd5-4b38-bc3e-65d035474798",
   "medals": {
-    "gold": 0,
-    "silver": 1,
-    "bronze": 1
+    "gold": 8,
+    "silver": 10,
+    "bronze": 15
   },
   "stats": {
     "animals_bred": 42,
@@ -149,46 +149,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1": [
-          "birch_boat"
-        ],
-        "1239": [
-          "firework_rocket"
-        ],
-        "2": [
-          "item_frame",
-          "minecart"
-        ],
-        "24": [
-          "arrow"
-        ],
-        "3": [
-          "oak_boat"
-        ]
-      },
-      "dropped": {
-        "1": [
-          "firework_rocket",
-          "minecart",
-          "potion",
-          "trident"
-        ],
-        "12": [
-          "pufferfish"
-        ],
-        "2": [
-          "birch_boat",
-          "egg",
-          "tropical_fish"
-        ],
-        "3": [
-          "arrow"
-        ],
-        "3152": [
-          "ender_pearl"
-        ]
-      },
       "killed": {
         "189": [
           "blaze"
@@ -210,45 +170,6 @@
         "1": [
           "skeleton",
           "zombie"
-        ]
-      },
-      "mined": {
-        "18": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "118": [
-          "firework_rocket"
-        ],
-        "216": [
-          "cod"
-        ],
-        "273": [
-          "arrow"
-        ],
-        "3514": [
-          "ender_pearl"
-        ],
-        "52": [
-          "pufferfish"
-        ]
-      },
-      "used": {
-        "10": [
-          "birch_boat"
-        ],
-        "1171": [
-          "firework_rocket"
-        ],
-        "13": [
-          "potion"
-        ],
-        "20": [
-          "minecart"
-        ],
-        "381": [
-          "trident"
         ]
       }
     },
@@ -307,14 +228,6 @@
         ],
         "74": [
           "wheat_seeds"
-        ]
-      },
-      "mined": {
-        "377": [
-          "wheat"
-        ],
-        "420": [
-          "nether_wart"
         ]
       },
       "picked_up": {

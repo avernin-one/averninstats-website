@@ -1,11 +1,7 @@
 {
-  "name": "armadillo",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "__kreck"
-      ]
-    }
+  "killed": {
+    "1": [
+      "__kreck"
+    ]
   }
 }

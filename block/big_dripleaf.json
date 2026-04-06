@@ -1,61 +1,57 @@
 {
-  "name": "big_dripleaf",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "SuperXXLProfi"
-      ]
-    },
-    "mined": {
-      "1": [
-        "imabaldman"
-      ],
-      "10": [
-        "SuperXXLProfi"
-      ],
-      "2": [
-        "chaos1989",
-        "iurie"
-      ],
-      "5": [
-        "philxpx"
-      ],
-      "6": [
-        "santemjocko"
-      ],
-      "7": [
-        "TrashSuperstar"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "chaos1989",
-        "imabaldman"
-      ],
-      "15": [
-        "philxpx"
-      ],
-      "17": [
-        "iurie"
-      ],
-      "24": [
-        "TrashSuperstar"
-      ],
-      "28": [
-        "santemjocko"
-      ],
-      "51": [
-        "SuperXXLProfi"
-      ]
-    },
-    "used": {
-      "24": [
-        "TrashSuperstar"
-      ],
-      "42": [
-        "SuperXXLProfi"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "SuperXXLProfi"
+    ]
+  },
+  "mined": {
+    "1": [
+      "imabaldman"
+    ],
+    "10": [
+      "SuperXXLProfi"
+    ],
+    "2": [
+      "chaos1989",
+      "iurie"
+    ],
+    "5": [
+      "philxpx"
+    ],
+    "6": [
+      "santemjocko"
+    ],
+    "7": [
+      "TrashSuperstar"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "chaos1989",
+      "imabaldman"
+    ],
+    "15": [
+      "philxpx"
+    ],
+    "17": [
+      "iurie"
+    ],
+    "24": [
+      "TrashSuperstar"
+    ],
+    "28": [
+      "santemjocko"
+    ],
+    "51": [
+      "SuperXXLProfi"
+    ]
+  },
+  "used": {
+    "24": [
+      "TrashSuperstar"
+    ],
+    "42": [
+      "SuperXXLProfi"
+    ]
   }
 }

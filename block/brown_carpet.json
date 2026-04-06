@@ -1,49 +1,45 @@
 {
-  "name": "brown_carpet",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1410": [
-        "Warhazarder"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "48": [
-        "owac"
-      ],
-      "6": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "2": [
-        "ScimMLG"
-      ]
-    },
-    "mined": {
-      "48": [
-        "Warhazarder"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Makishi25"
-      ],
-      "2": [
-        "ScimMLG"
-      ],
-      "65": [
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "1276": [
-        "Warhazarder"
-      ],
-      "5": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "1410": [
+      "Warhazarder"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "48": [
+      "owac"
+    ],
+    "6": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "2": [
+      "ScimMLG"
+    ]
+  },
+  "mined": {
+    "48": [
+      "Warhazarder"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Makishi25"
+    ],
+    "2": [
+      "ScimMLG"
+    ],
+    "65": [
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "1276": [
+      "Warhazarder"
+    ],
+    "5": [
+      "Makishi25"
+    ]
   }
 }

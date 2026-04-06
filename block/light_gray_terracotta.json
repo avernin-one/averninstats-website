@@ -1,112 +1,108 @@
 {
-  "name": "light_gray_terracotta",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "320": [
-        "Teayo"
-      ],
-      "4472": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "nitram1572",
-        "Warhazarder"
-      ],
-      "2": [
-        "philxpx"
-      ],
-      "26": [
-        "Telinnor"
-      ],
-      "4": [
-        "JonasderGamer"
-      ]
-    },
-    "mined": {
-      "1": [
-        "philxpx",
-        "Warhazarder",
-        "XeonVirus"
-      ],
-      "1543": [
-        "Cpt_looper"
-      ],
-      "188": [
-        "nitram1572"
-      ],
-      "2": [
-        "chaos1989"
-      ],
-      "2330": [
-        "owac"
-      ],
-      "24": [
-        "iurie"
-      ],
-      "26": [
-        "Telinnor"
-      ],
-      "3137": [
-        "__kreck"
-      ],
-      "3874": [
-        "JonasderGamer"
-      ],
-      "4": [
-        "SnuvomBodensatz"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Warhazarder",
-        "XeonVirus"
-      ],
-      "1533": [
-        "Cpt_looper"
-      ],
-      "182": [
-        "nitram1572"
-      ],
-      "2": [
-        "chaos1989",
-        "philxpx"
-      ],
-      "24": [
-        "iurie"
-      ],
-      "26": [
-        "Telinnor"
-      ],
-      "2812": [
-        "owac"
-      ],
-      "2942": [
-        "__kreck"
-      ],
-      "3181": [
-        "JonasderGamer"
-      ],
-      "4": [
-        "SnuvomBodensatz"
-      ]
-    },
-    "used": {
-      "1": [
-        "__kreck",
-        "XeonVirus"
-      ],
-      "3": [
-        "owac"
-      ],
-      "315": [
-        "Teayo"
-      ],
-      "9": [
-        "nitram1572"
-      ]
-    }
+  "crafted": {
+    "320": [
+      "Teayo"
+    ],
+    "4472": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Warhazarder",
+      "nitram1572"
+    ],
+    "2": [
+      "philxpx"
+    ],
+    "26": [
+      "Telinnor"
+    ],
+    "4": [
+      "JonasderGamer"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Warhazarder",
+      "XeonVirus",
+      "philxpx"
+    ],
+    "1543": [
+      "Cpt_looper"
+    ],
+    "188": [
+      "nitram1572"
+    ],
+    "2": [
+      "chaos1989"
+    ],
+    "2330": [
+      "owac"
+    ],
+    "24": [
+      "iurie"
+    ],
+    "26": [
+      "Telinnor"
+    ],
+    "3137": [
+      "__kreck"
+    ],
+    "3874": [
+      "JonasderGamer"
+    ],
+    "4": [
+      "SnuvomBodensatz"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Warhazarder",
+      "XeonVirus"
+    ],
+    "1533": [
+      "Cpt_looper"
+    ],
+    "182": [
+      "nitram1572"
+    ],
+    "2": [
+      "chaos1989",
+      "philxpx"
+    ],
+    "24": [
+      "iurie"
+    ],
+    "26": [
+      "Telinnor"
+    ],
+    "2812": [
+      "owac"
+    ],
+    "2942": [
+      "__kreck"
+    ],
+    "3181": [
+      "JonasderGamer"
+    ],
+    "4": [
+      "SnuvomBodensatz"
+    ]
+  },
+  "used": {
+    "1": [
+      "XeonVirus",
+      "__kreck"
+    ],
+    "3": [
+      "owac"
+    ],
+    "315": [
+      "Teayo"
+    ],
+    "9": [
+      "nitram1572"
+    ]
   }
 }

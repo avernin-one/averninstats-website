@@ -1,114 +1,110 @@
 {
-  "name": "blackstone_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12": [
-        "Telinnor"
-      ],
-      "124": [
-        "TrashSuperstar"
-      ],
-      "132": [
-        "leekcookie"
-      ],
-      "16": [
-        "imabaldman"
-      ],
-      "18": [
-        "nitram1572",
-        "Makishi25"
-      ],
-      "972": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "imabaldman"
-      ],
-      "2": [
-        "__Iglo"
-      ],
-      "290": [
-        "leekcookie"
-      ],
-      "3": [
-        "Telinnor"
-      ],
-      "45": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "1": [
-        "iurie",
-        "TrashSuperstar",
-        "__Iglo"
-      ],
-      "25": [
-        "__kreck"
-      ],
-      "311": [
-        "leekcookie"
-      ],
-      "5": [
-        "Telinnor",
-        "imabaldman"
-      ],
-      "76": [
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "iurie",
-        "TrashSuperstar"
-      ],
-      "2": [
-        "__Iglo"
-      ],
-      "29": [
-        "__kreck"
-      ],
-      "3": [
-        "Telinnor"
-      ],
-      "4": [
-        "imabaldman"
-      ],
-      "5": [
-        "Makishi25"
-      ],
-      "702": [
-        "leekcookie"
-      ],
-      "84": [
-        "nitram1572"
-      ]
-    },
-    "used": {
-      "10": [
-        "Telinnor"
-      ],
-      "13": [
-        "Makishi25"
-      ],
-      "147": [
-        "imabaldman"
-      ],
-      "31": [
-        "TrashSuperstar"
-      ],
-      "440": [
-        "leekcookie"
-      ],
-      "77": [
-        "nitram1572"
-      ],
-      "956": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "Telinnor"
+    ],
+    "124": [
+      "TrashSuperstar"
+    ],
+    "132": [
+      "leekcookie"
+    ],
+    "16": [
+      "imabaldman"
+    ],
+    "18": [
+      "Makishi25",
+      "nitram1572"
+    ],
+    "972": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "imabaldman"
+    ],
+    "2": [
+      "__Iglo"
+    ],
+    "290": [
+      "leekcookie"
+    ],
+    "3": [
+      "Telinnor"
+    ],
+    "45": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "1": [
+      "TrashSuperstar",
+      "__Iglo",
+      "iurie"
+    ],
+    "25": [
+      "__kreck"
+    ],
+    "311": [
+      "leekcookie"
+    ],
+    "5": [
+      "Telinnor",
+      "imabaldman"
+    ],
+    "76": [
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "TrashSuperstar",
+      "iurie"
+    ],
+    "2": [
+      "__Iglo"
+    ],
+    "29": [
+      "__kreck"
+    ],
+    "3": [
+      "Telinnor"
+    ],
+    "4": [
+      "imabaldman"
+    ],
+    "5": [
+      "Makishi25"
+    ],
+    "702": [
+      "leekcookie"
+    ],
+    "84": [
+      "nitram1572"
+    ]
+  },
+  "used": {
+    "10": [
+      "Telinnor"
+    ],
+    "13": [
+      "Makishi25"
+    ],
+    "147": [
+      "imabaldman"
+    ],
+    "31": [
+      "TrashSuperstar"
+    ],
+    "440": [
+      "leekcookie"
+    ],
+    "77": [
+      "nitram1572"
+    ],
+    "956": [
+      "__kreck"
+    ]
   }
 }

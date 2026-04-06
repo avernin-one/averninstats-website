@@ -1,64 +1,60 @@
 {
-  "name": "chorus_fruit",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "19": [
-        "santemjocko"
-      ],
-      "4": [
-        "DornDasBrot"
-      ]
-    },
-    "picked_up": {
-      "172": [
-        "XeonVirus"
-      ],
-      "226": [
-        "__kreck"
-      ],
-      "232": [
-        "leekcookie"
-      ],
-      "244": [
-        "lodoss2011"
-      ],
-      "40": [
-        "Cpt_looper"
-      ],
-      "44": [
-        "Sayder13xr"
-      ],
-      "52": [
-        "iurie"
-      ],
-      "530": [
-        "Teayo"
-      ],
-      "67": [
-        "santemjocko"
-      ],
-      "84": [
-        "DornDasBrot"
-      ]
-    },
-    "used": {
-      "1": [
-        "santemjocko",
-        "iurie",
-        "Cpt_looper",
-        "Lord_HoruS",
-        "Sayder13xr",
-        "__kreck",
-        "Teayo"
-      ],
-      "20": [
-        "DornDasBrot"
-      ],
-      "4": [
-        "lodoss2011",
-        "owac"
-      ]
-    }
+  "dropped": {
+    "19": [
+      "santemjocko"
+    ],
+    "4": [
+      "DornDasBrot"
+    ]
+  },
+  "picked_up": {
+    "172": [
+      "XeonVirus"
+    ],
+    "226": [
+      "__kreck"
+    ],
+    "232": [
+      "leekcookie"
+    ],
+    "244": [
+      "lodoss2011"
+    ],
+    "40": [
+      "Cpt_looper"
+    ],
+    "44": [
+      "Sayder13xr"
+    ],
+    "52": [
+      "iurie"
+    ],
+    "530": [
+      "Teayo"
+    ],
+    "67": [
+      "santemjocko"
+    ],
+    "84": [
+      "DornDasBrot"
+    ]
+  },
+  "used": {
+    "1": [
+      "Cpt_looper",
+      "Lord_HoruS",
+      "Sayder13xr",
+      "Teayo",
+      "__kreck",
+      "iurie",
+      "santemjocko"
+    ],
+    "20": [
+      "DornDasBrot"
+    ],
+    "4": [
+      "lodoss2011",
+      "owac"
+    ]
   }
 }

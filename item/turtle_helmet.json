@@ -1,14 +1,10 @@
 {
-  "name": "turtle_helmet",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "DornDasBrot"
-      ],
-      "2": [
-        "Iglo"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "DornDasBrot"
+    ],
+    "2": [
+      "Iglo"
+    ]
   }
 }

@@ -3,8 +3,8 @@
   "uuid": "a07e0e6f-f5d1-42a0-bd61-18c484e9dfc2",
   "medals": {
     "gold": 0,
-    "silver": 1,
-    "bronze": 0
+    "silver": 2,
+    "bronze": 1
   },
   "stats": {
     "animals_bred": 46,
@@ -152,42 +152,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1402": [
-          "firework_rocket"
-        ],
-        "28": [
-          "oak_boat"
-        ],
-        "4": [
-          "hopper_minecart"
-        ],
-        "650": [
-          "tnt"
-        ],
-        "9": [
-          "minecart"
-        ]
-      },
-      "dropped": {
-        "1": [
-          "rabbit"
-        ],
-        "14": [
-          "egg"
-        ],
-        "3": [
-          "firework_rocket",
-          "minecart",
-          "oak_boat"
-        ],
-        "40": [
-          "ender_pearl"
-        ],
-        "7": [
-          "arrow"
-        ]
-      },
       "killed": {
         "109": [
           "zombie"
@@ -225,45 +189,6 @@
         ],
         "7": [
           "skeleton"
-        ]
-      },
-      "mined": {
-        "66": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "122": [
-          "oak_boat"
-        ],
-        "389": [
-          "tnt"
-        ],
-        "448": [
-          "ender_pearl"
-        ],
-        "81": [
-          "arrow"
-        ],
-        "813": [
-          "firework_rocket"
-        ]
-      },
-      "used": {
-        "1027": [
-          "firework_rocket"
-        ],
-        "117": [
-          "oak_boat"
-        ],
-        "20": [
-          "minecart"
-        ],
-        "474": [
-          "tnt"
-        ],
-        "88": [
-          "egg"
         ]
       }
     },
@@ -317,14 +242,6 @@
         ],
         "60": [
           "rotten_flesh"
-        ]
-      },
-      "mined": {
-        "4": [
-          "brewing_stand"
-        ],
-        "694": [
-          "wheat"
         ]
       },
       "picked_up": {

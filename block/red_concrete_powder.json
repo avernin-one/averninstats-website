@@ -1,43 +1,39 @@
 {
-  "name": "red_concrete_powder",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "2560": [
-        "__kreck"
-      ],
-      "64": [
-        "leekcookie"
-      ],
-      "96": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "576": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "1": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "1153": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "2561": [
-        "__kreck"
-      ],
-      "64": [
-        "leekcookie"
-      ],
-      "96": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "2560": [
+      "__kreck"
+    ],
+    "64": [
+      "leekcookie"
+    ],
+    "96": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "576": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "1": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "1153": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "2561": [
+      "__kreck"
+    ],
+    "64": [
+      "leekcookie"
+    ],
+    "96": [
+      "Makishi25"
+    ]
   }
 }

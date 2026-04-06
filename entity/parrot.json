@@ -1,18 +1,14 @@
 {
-  "name": "parrot",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "Mandahaya",
-        "owac",
-        "iurie",
-        "Sayder13xr",
-        "__kreck"
-      ],
-      "21": [
-        "chaos1989"
-      ]
-    }
+  "killed": {
+    "1": [
+      "Mandahaya",
+      "Sayder13xr",
+      "__kreck",
+      "iurie",
+      "owac"
+    ],
+    "21": [
+      "chaos1989"
+    ]
   }
 }

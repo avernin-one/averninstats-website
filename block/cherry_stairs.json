@@ -1,11 +1,7 @@
 {
-  "name": "cherry_stairs",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "16": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "16": [
+      "leekcookie"
+    ]
   }
 }

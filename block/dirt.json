@@ -1,134 +1,130 @@
 {
-  "name": "dirt",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1360": [
-        "santemjocko"
-      ],
-      "1473": [
-        "SuperXXLProfi"
-      ],
-      "1640": [
-        "__Iglo"
-      ],
-      "2108": [
-        "leekcookie"
-      ],
-      "2756": [
-        "Warhazarder"
-      ],
-      "3718": [
-        "__kreck"
-      ],
-      "5796": [
-        "Mamuschkaz"
-      ],
-      "887": [
-        "Lord_HoruS"
-      ],
-      "939": [
-        "Teayo"
-      ],
-      "960": [
-        "TrashSuperstar"
-      ]
-    },
-    "mined": {
-      "10033": [
-        "chaos1989"
-      ],
-      "11058": [
-        "__kreck"
-      ],
-      "11366": [
-        "iurie"
-      ],
-      "13552": [
-        "lodoss2011"
-      ],
-      "17946": [
-        "Teayo"
-      ],
-      "18032": [
-        "Mamuschkaz"
-      ],
-      "20504": [
-        "leekcookie"
-      ],
-      "21463": [
-        "SnuvomBodensatz"
-      ],
-      "22439": [
-        "santemjocko"
-      ],
-      "91404": [
-        "Warhazarder"
-      ]
-    },
-    "picked_up": {
-      "14761": [
-        "__kreck"
-      ],
-      "16828": [
-        "iurie"
-      ],
-      "17455": [
-        "chaos1989"
-      ],
-      "25755": [
-        "santemjocko"
-      ],
-      "27418": [
-        "lodoss2011"
-      ],
-      "29346": [
-        "leekcookie"
-      ],
-      "35286": [
-        "Mamuschkaz"
-      ],
-      "35998": [
-        "SnuvomBodensatz"
-      ],
-      "49145": [
-        "Teayo"
-      ],
-      "80557": [
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "13680": [
-        "chaos1989"
-      ],
-      "14127": [
-        "Mamuschkaz"
-      ],
-      "15337": [
-        "leekcookie"
-      ],
-      "26350": [
-        "lodoss2011"
-      ],
-      "33109": [
-        "SnuvomBodensatz"
-      ],
-      "41108": [
-        "Teayo"
-      ],
-      "44947": [
-        "Warhazarder"
-      ],
-      "5133": [
-        "owac"
-      ],
-      "6023": [
-        "Makishi25"
-      ],
-      "8665": [
-        "SuperXXLProfi"
-      ]
-    }
+  "dropped": {
+    "1360": [
+      "santemjocko"
+    ],
+    "1473": [
+      "SuperXXLProfi"
+    ],
+    "1640": [
+      "__Iglo"
+    ],
+    "2108": [
+      "leekcookie"
+    ],
+    "2756": [
+      "Warhazarder"
+    ],
+    "3718": [
+      "__kreck"
+    ],
+    "5796": [
+      "Mamuschkaz"
+    ],
+    "887": [
+      "Lord_HoruS"
+    ],
+    "939": [
+      "Teayo"
+    ],
+    "960": [
+      "TrashSuperstar"
+    ]
+  },
+  "mined": {
+    "10033": [
+      "chaos1989"
+    ],
+    "11058": [
+      "__kreck"
+    ],
+    "11366": [
+      "iurie"
+    ],
+    "13552": [
+      "lodoss2011"
+    ],
+    "17946": [
+      "Teayo"
+    ],
+    "18032": [
+      "Mamuschkaz"
+    ],
+    "20504": [
+      "leekcookie"
+    ],
+    "21463": [
+      "SnuvomBodensatz"
+    ],
+    "22439": [
+      "santemjocko"
+    ],
+    "91404": [
+      "Warhazarder"
+    ]
+  },
+  "picked_up": {
+    "14761": [
+      "__kreck"
+    ],
+    "16828": [
+      "iurie"
+    ],
+    "17455": [
+      "chaos1989"
+    ],
+    "25755": [
+      "santemjocko"
+    ],
+    "27418": [
+      "lodoss2011"
+    ],
+    "29346": [
+      "leekcookie"
+    ],
+    "35286": [
+      "Mamuschkaz"
+    ],
+    "35998": [
+      "SnuvomBodensatz"
+    ],
+    "49145": [
+      "Teayo"
+    ],
+    "80557": [
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "13680": [
+      "chaos1989"
+    ],
+    "14127": [
+      "Mamuschkaz"
+    ],
+    "15337": [
+      "leekcookie"
+    ],
+    "26350": [
+      "lodoss2011"
+    ],
+    "33109": [
+      "SnuvomBodensatz"
+    ],
+    "41108": [
+      "Teayo"
+    ],
+    "44947": [
+      "Warhazarder"
+    ],
+    "5133": [
+      "owac"
+    ],
+    "6023": [
+      "Makishi25"
+    ],
+    "8665": [
+      "SuperXXLProfi"
+    ]
   }
 }

@@ -1,90 +1,86 @@
 {
-  "name": "leather_helmet",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "1": [
-        "DornDasBrot"
-      ]
-    },
-    "crafted": {
-      "1": [
-        "ScimMLG"
-      ],
-      "28": [
-        "Teayo"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Mandahaya",
-        "lodoss2011",
-        "Mamuschkaz",
-        "Iglo",
-        "nitram1572",
-        "DornDasBrot",
-        "Makishi25",
-        "XeonVirus"
-      ],
-      "18": [
-        "TrashSuperstar"
-      ],
-      "2": [
-        "__kreck"
-      ],
-      "3": [
-        "iurie"
-      ],
-      "30": [
-        "leekcookie"
-      ],
-      "47": [
-        "Teayo"
-      ],
-      "5": [
-        "santemjocko"
-      ],
-      "9": [
-        "Sayder13xr"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "chaos1989",
-        "Mamuschkaz",
-        "philxpx",
-        "Ivenor",
-        "Iglo",
-        "Temeraiere",
-        "Cpt_looper",
-        "nitram1572",
-        "Makishi25"
-      ],
-      "2": [
-        "Mandahaya",
-        "DornDasBrot",
-        "Sayder13xr",
-        "__kreck"
-      ],
-      "28": [
-        "leekcookie"
-      ],
-      "3": [
-        "iurie",
-        "TrashSuperstar"
-      ],
-      "30": [
-        "Teayo"
-      ],
-      "7": [
-        "santemjocko",
-        "XeonVirus"
-      ]
-    },
-    "used": {
-      "1": [
-        "santemjocko"
-      ]
-    }
+  "broken": {
+    "1": [
+      "DornDasBrot"
+    ]
+  },
+  "crafted": {
+    "1": [
+      "ScimMLG"
+    ],
+    "28": [
+      "Teayo"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "DornDasBrot",
+      "Iglo",
+      "Makishi25",
+      "Mamuschkaz",
+      "Mandahaya",
+      "XeonVirus",
+      "lodoss2011",
+      "nitram1572"
+    ],
+    "18": [
+      "TrashSuperstar"
+    ],
+    "2": [
+      "__kreck"
+    ],
+    "3": [
+      "iurie"
+    ],
+    "30": [
+      "leekcookie"
+    ],
+    "47": [
+      "Teayo"
+    ],
+    "5": [
+      "santemjocko"
+    ],
+    "9": [
+      "Sayder13xr"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Cpt_looper",
+      "Iglo",
+      "Ivenor",
+      "Makishi25",
+      "Mamuschkaz",
+      "Temeraiere",
+      "chaos1989",
+      "nitram1572",
+      "philxpx"
+    ],
+    "2": [
+      "DornDasBrot",
+      "Mandahaya",
+      "Sayder13xr",
+      "__kreck"
+    ],
+    "28": [
+      "leekcookie"
+    ],
+    "3": [
+      "TrashSuperstar",
+      "iurie"
+    ],
+    "30": [
+      "Teayo"
+    ],
+    "7": [
+      "XeonVirus",
+      "santemjocko"
+    ]
+  },
+  "used": {
+    "1": [
+      "santemjocko"
+    ]
   }
 }

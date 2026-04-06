@@ -1,16 +1,12 @@
 {
-  "name": "jungle_wood",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "9": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "4": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "9": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "4": [
+      "leekcookie"
+    ]
   }
 }

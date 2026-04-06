@@ -1,119 +1,115 @@
 {
-  "name": "polished_deepslate_stairs",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "leekcookie",
-        "SuperXXLProfi"
-      ],
-      "1216": [
-        "iurie"
-      ],
-      "16": [
-        "santemjocko",
-        "philxpx"
-      ],
-      "2": [
-        "imabaldman",
-        "XeonVirus"
-      ],
-      "416": [
-        "__Iglo"
-      ],
-      "488": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "DornDasBrot"
-      ],
-      "113": [
-        "__kreck"
-      ],
-      "20": [
-        "XeonVirus"
-      ],
-      "49": [
-        "iurie"
-      ],
-      "955": [
-        "__Iglo"
-      ]
-    },
-    "mined": {
-      "1": [
-        "santemjocko"
-      ],
-      "10": [
-        "XeonVirus"
-      ],
-      "243": [
-        "iurie"
-      ],
-      "3": [
-        "philxpx",
-        "DornDasBrot",
-        "imabaldman"
-      ],
-      "4": [
-        "leekcookie"
-      ],
-      "7": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "3": [
-        "philxpx",
-        "DornDasBrot",
-        "imabaldman"
-      ],
-      "30": [
-        "XeonVirus"
-      ],
-      "333": [
-        "iurie"
-      ],
-      "4": [
-        "leekcookie"
-      ],
-      "414": [
-        "__kreck"
-      ],
-      "560": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "1": [
-        "SuperXXLProfi"
-      ],
-      "10": [
-        "philxpx"
-      ],
-      "101": [
-        "leekcookie"
-      ],
-      "126": [
-        "DornDasBrot"
-      ],
-      "13": [
-        "santemjocko"
-      ],
-      "1996": [
-        "iurie"
-      ],
-      "33": [
-        "XeonVirus"
-      ],
-      "5": [
-        "imabaldman"
-      ],
-      "832": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "SuperXXLProfi",
+      "leekcookie"
+    ],
+    "1216": [
+      "iurie"
+    ],
+    "16": [
+      "philxpx",
+      "santemjocko"
+    ],
+    "2": [
+      "XeonVirus",
+      "imabaldman"
+    ],
+    "416": [
+      "__Iglo"
+    ],
+    "488": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "DornDasBrot"
+    ],
+    "113": [
+      "__kreck"
+    ],
+    "20": [
+      "XeonVirus"
+    ],
+    "49": [
+      "iurie"
+    ],
+    "955": [
+      "__Iglo"
+    ]
+  },
+  "mined": {
+    "1": [
+      "santemjocko"
+    ],
+    "10": [
+      "XeonVirus"
+    ],
+    "243": [
+      "iurie"
+    ],
+    "3": [
+      "DornDasBrot",
+      "imabaldman",
+      "philxpx"
+    ],
+    "4": [
+      "leekcookie"
+    ],
+    "7": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "3": [
+      "DornDasBrot",
+      "imabaldman",
+      "philxpx"
+    ],
+    "30": [
+      "XeonVirus"
+    ],
+    "333": [
+      "iurie"
+    ],
+    "4": [
+      "leekcookie"
+    ],
+    "414": [
+      "__kreck"
+    ],
+    "560": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "1": [
+      "SuperXXLProfi"
+    ],
+    "10": [
+      "philxpx"
+    ],
+    "101": [
+      "leekcookie"
+    ],
+    "126": [
+      "DornDasBrot"
+    ],
+    "13": [
+      "santemjocko"
+    ],
+    "1996": [
+      "iurie"
+    ],
+    "33": [
+      "XeonVirus"
+    ],
+    "5": [
+      "imabaldman"
+    ],
+    "832": [
+      "__kreck"
+    ]
   }
 }

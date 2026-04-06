@@ -1,93 +1,89 @@
 {
-  "name": "red_bed",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "Mandahaya",
-        "Ivenor",
-        "Warhazarder",
-        "__kreck"
-      ],
-      "12": [
-        "imabaldman"
-      ],
-      "2": [
-        "lodoss2011",
-        "leekcookie",
-        "DornDasBrot"
-      ],
-      "4": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "ScimMLG",
-        "Makishi25"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Mandahaya",
-        "leekcookie",
-        "DornDasBrot",
-        "Marvin1099"
-      ],
-      "10": [
-        "imabaldman"
-      ],
-      "2": [
-        "lodoss2011"
-      ],
-      "21": [
-        "Warhazarder"
-      ],
-      "55": [
-        "Makishi25"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Mandahaya",
-        "ScimMLG",
-        "DornDasBrot",
-        "Marvin1099"
-      ],
-      "10": [
-        "imabaldman"
-      ],
-      "2": [
-        "lodoss2011"
-      ],
-      "21": [
-        "Warhazarder"
-      ],
-      "58": [
-        "Makishi25"
-      ]
-    },
-    "used": {
-      "1": [
-        "Ivenor"
-      ],
-      "2": [
-        "Mandahaya",
-        "leekcookie"
-      ],
-      "22": [
-        "imabaldman",
-        "Warhazarder"
-      ],
-      "3": [
-        "DornDasBrot"
-      ],
-      "4": [
-        "lodoss2011"
-      ],
-      "59": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Ivenor",
+      "Mandahaya",
+      "Warhazarder",
+      "__kreck"
+    ],
+    "12": [
+      "imabaldman"
+    ],
+    "2": [
+      "DornDasBrot",
+      "leekcookie",
+      "lodoss2011"
+    ],
+    "4": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Makishi25",
+      "ScimMLG"
+    ]
+  },
+  "mined": {
+    "1": [
+      "DornDasBrot",
+      "Mandahaya",
+      "Marvin1099",
+      "leekcookie"
+    ],
+    "10": [
+      "imabaldman"
+    ],
+    "2": [
+      "lodoss2011"
+    ],
+    "21": [
+      "Warhazarder"
+    ],
+    "55": [
+      "Makishi25"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "DornDasBrot",
+      "Mandahaya",
+      "Marvin1099",
+      "ScimMLG"
+    ],
+    "10": [
+      "imabaldman"
+    ],
+    "2": [
+      "lodoss2011"
+    ],
+    "21": [
+      "Warhazarder"
+    ],
+    "58": [
+      "Makishi25"
+    ]
+  },
+  "used": {
+    "1": [
+      "Ivenor"
+    ],
+    "2": [
+      "Mandahaya",
+      "leekcookie"
+    ],
+    "22": [
+      "Warhazarder",
+      "imabaldman"
+    ],
+    "3": [
+      "DornDasBrot"
+    ],
+    "4": [
+      "lodoss2011"
+    ],
+    "59": [
+      "Makishi25"
+    ]
   }
 }

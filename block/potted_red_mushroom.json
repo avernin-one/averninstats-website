@@ -1,11 +1,7 @@
 {
-  "name": "potted_red_mushroom",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "__kreck"
-      ]
-    }
+  "mined": {
+    "1": [
+      "__kreck"
+    ]
   }
 }

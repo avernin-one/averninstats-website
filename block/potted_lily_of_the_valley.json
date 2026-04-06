@@ -1,11 +1,7 @@
 {
-  "name": "potted_lily_of_the_valley",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "2": [
-        "nitram1572"
-      ]
-    }
+  "mined": {
+    "2": [
+      "nitram1572"
+    ]
   }
 }

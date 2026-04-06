@@ -1,33 +1,29 @@
 {
-  "name": "pink_petals",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "11": [
-        "leekcookie"
-      ],
-      "15": [
-        "KleeneEle"
-      ],
-      "5": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "16": [
-        "iurie"
-      ],
-      "234": [
-        "leekcookie"
-      ],
-      "52": [
-        "KleeneEle"
-      ]
-    },
-    "used": {
-      "55": [
-        "leekcookie"
-      ]
-    }
+  "mined": {
+    "11": [
+      "leekcookie"
+    ],
+    "15": [
+      "KleeneEle"
+    ],
+    "5": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "16": [
+      "iurie"
+    ],
+    "234": [
+      "leekcookie"
+    ],
+    "52": [
+      "KleeneEle"
+    ]
+  },
+  "used": {
+    "55": [
+      "leekcookie"
+    ]
   }
 }

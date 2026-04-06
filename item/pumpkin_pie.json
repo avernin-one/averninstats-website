@@ -1,79 +1,75 @@
 {
-  "name": "pumpkin_pie",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "12": [
-        "obvBasti"
-      ],
-      "148": [
-        "Teayo"
-      ],
-      "16": [
-        "leekcookie"
-      ],
-      "17": [
-        "iurie"
-      ],
-      "32": [
-        "Mandahaya"
-      ],
-      "4": [
-        "Makishi25"
-      ],
-      "48": [
-        "nitram1572"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "__Iglo"
-      ],
-      "128": [
-        "Teayo"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "philxpx",
-        "__Iglo"
-      ],
-      "108": [
-        "Teayo"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "64": [
-        "PopCat007"
-      ]
-    },
-    "used": {
-      "1": [
-        "philxpx",
-        "JonasderGamer"
-      ],
-      "10": [
-        "leekcookie"
-      ],
-      "2": [
-        "owac"
-      ],
-      "22": [
-        "PopCat007"
-      ],
-      "4": [
-        "Makishi25"
-      ],
-      "5": [
-        "iurie"
-      ],
-      "8": [
-        "Mandahaya"
-      ],
-      "84": [
-        "Teayo"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "obvBasti"
+    ],
+    "148": [
+      "Teayo"
+    ],
+    "16": [
+      "leekcookie"
+    ],
+    "17": [
+      "iurie"
+    ],
+    "32": [
+      "Mandahaya"
+    ],
+    "4": [
+      "Makishi25"
+    ],
+    "48": [
+      "nitram1572"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "__Iglo"
+    ],
+    "128": [
+      "Teayo"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "__Iglo",
+      "philxpx"
+    ],
+    "108": [
+      "Teayo"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "64": [
+      "PopCat007"
+    ]
+  },
+  "used": {
+    "1": [
+      "JonasderGamer",
+      "philxpx"
+    ],
+    "10": [
+      "leekcookie"
+    ],
+    "2": [
+      "owac"
+    ],
+    "22": [
+      "PopCat007"
+    ],
+    "4": [
+      "Makishi25"
+    ],
+    "5": [
+      "iurie"
+    ],
+    "8": [
+      "Mandahaya"
+    ],
+    "84": [
+      "Teayo"
+    ]
   }
 }

@@ -1,16 +1,12 @@
 {
-  "name": "lodestone",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "1": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "1": [
+      "iurie"
+    ]
   }
 }

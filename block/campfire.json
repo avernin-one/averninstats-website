@@ -1,146 +1,142 @@
 {
-  "name": "campfire",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "191": [
-        "Warhazarder"
-      ],
-      "20": [
-        "leekcookie"
-      ],
-      "21": [
-        "SuperXXLProfi",
-        "XeonVirus"
-      ],
-      "23": [
-        "lodoss2011"
-      ],
-      "28": [
-        "owac"
-      ],
-      "32": [
-        "__kreck"
-      ],
-      "33": [
-        "nitram1572"
-      ],
-      "36": [
-        "Makishi25"
-      ],
-      "46": [
-        "santemjocko"
-      ],
-      "77": [
-        "Teayo"
-      ]
-    },
-    "dropped": {
-      "4": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "15": [
-        "iurie"
-      ],
-      "17": [
-        "owac"
-      ],
-      "21": [
-        "Makishi25",
-        "Warhazarder"
-      ],
-      "22": [
-        "XeonVirus"
-      ],
-      "29": [
-        "SuperXXLProfi"
-      ],
-      "3": [
-        "lodoss2011"
-      ],
-      "40": [
-        "nitram1572"
-      ],
-      "5": [
-        "Mamuschkaz",
-        "DornDasBrot"
-      ],
-      "79": [
-        "Teayo"
-      ],
-      "9": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "12": [
-        "leekcookie"
-      ],
-      "14": [
-        "iurie"
-      ],
-      "19": [
-        "Warhazarder"
-      ],
-      "21": [
-        "Makishi25"
-      ],
-      "29": [
-        "SuperXXLProfi"
-      ],
-      "3": [
-        "lodoss2011",
-        "DornDasBrot"
-      ],
-      "33": [
-        "nitram1572"
-      ],
-      "44": [
-        "__kreck"
-      ],
-      "9": [
-        "santemjocko"
-      ],
-      "90": [
-        "Teayo"
-      ]
-    },
-    "used": {
-      "10": [
-        "__kreck"
-      ],
-      "12": [
-        "iurie",
-        "Sayder13xr"
-      ],
-      "133": [
-        "Teayo"
-      ],
-      "18": [
-        "leekcookie"
-      ],
-      "206": [
-        "Warhazarder"
-      ],
-      "23": [
-        "XeonVirus"
-      ],
-      "28": [
-        "lodoss2011",
-        "owac"
-      ],
-      "29": [
-        "santemjocko",
-        "SuperXXLProfi"
-      ],
-      "56": [
-        "Makishi25"
-      ],
-      "63": [
-        "nitram1572"
-      ]
-    }
+  "crafted": {
+    "191": [
+      "Warhazarder"
+    ],
+    "20": [
+      "leekcookie"
+    ],
+    "21": [
+      "SuperXXLProfi",
+      "XeonVirus"
+    ],
+    "23": [
+      "lodoss2011"
+    ],
+    "28": [
+      "owac"
+    ],
+    "32": [
+      "__kreck"
+    ],
+    "33": [
+      "nitram1572"
+    ],
+    "36": [
+      "Makishi25"
+    ],
+    "46": [
+      "santemjocko"
+    ],
+    "77": [
+      "Teayo"
+    ]
+  },
+  "dropped": {
+    "4": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "15": [
+      "iurie"
+    ],
+    "17": [
+      "owac"
+    ],
+    "21": [
+      "Makishi25",
+      "Warhazarder"
+    ],
+    "22": [
+      "XeonVirus"
+    ],
+    "29": [
+      "SuperXXLProfi"
+    ],
+    "3": [
+      "lodoss2011"
+    ],
+    "40": [
+      "nitram1572"
+    ],
+    "5": [
+      "DornDasBrot",
+      "Mamuschkaz"
+    ],
+    "79": [
+      "Teayo"
+    ],
+    "9": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "12": [
+      "leekcookie"
+    ],
+    "14": [
+      "iurie"
+    ],
+    "19": [
+      "Warhazarder"
+    ],
+    "21": [
+      "Makishi25"
+    ],
+    "29": [
+      "SuperXXLProfi"
+    ],
+    "3": [
+      "DornDasBrot",
+      "lodoss2011"
+    ],
+    "33": [
+      "nitram1572"
+    ],
+    "44": [
+      "__kreck"
+    ],
+    "9": [
+      "santemjocko"
+    ],
+    "90": [
+      "Teayo"
+    ]
+  },
+  "used": {
+    "10": [
+      "__kreck"
+    ],
+    "12": [
+      "Sayder13xr",
+      "iurie"
+    ],
+    "133": [
+      "Teayo"
+    ],
+    "18": [
+      "leekcookie"
+    ],
+    "206": [
+      "Warhazarder"
+    ],
+    "23": [
+      "XeonVirus"
+    ],
+    "28": [
+      "lodoss2011",
+      "owac"
+    ],
+    "29": [
+      "SuperXXLProfi",
+      "santemjocko"
+    ],
+    "56": [
+      "Makishi25"
+    ],
+    "63": [
+      "nitram1572"
+    ]
   }
 }

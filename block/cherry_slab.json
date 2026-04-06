@@ -1,29 +1,25 @@
 {
-  "name": "cherry_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1542": [
-        "leekcookie"
-      ],
-      "6": [
-        "KleeneEle"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "13": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1542": [
+      "leekcookie"
+    ],
+    "6": [
+      "KleeneEle"
+    ]
+  },
+  "mined": {
+    "1": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "13": [
+      "leekcookie"
+    ]
   }
 }

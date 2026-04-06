@@ -1,103 +1,99 @@
 {
-  "name": "peony",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "santemjocko"
-      ],
-      "18": [
-        "XeonVirus"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "27": [
-        "philxpx"
-      ]
-    },
-    "mined": {
-      "1": [
-        "SnuvomBodensatz"
-      ],
-      "12": [
-        "santemjocko",
-        "ScimMLG"
-      ],
-      "16": [
-        "leekcookie"
-      ],
-      "2": [
-        "Mandahaya"
-      ],
-      "20": [
-        "Ivenor"
-      ],
-      "23": [
-        "Makishi25"
-      ],
-      "29": [
-        "Teayo"
-      ],
-      "5": [
-        "iurie",
-        "__kreck"
-      ],
-      "67": [
-        "XeonVirus"
-      ],
-      "9": [
-        "philxpx",
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "12": [
-        "ScimMLG"
-      ],
-      "121": [
-        "XeonVirus"
-      ],
-      "13": [
-        "nitram1572"
-      ],
-      "18": [
-        "Ivenor"
-      ],
-      "27": [
-        "philxpx"
-      ],
-      "29": [
-        "Teayo"
-      ],
-      "49": [
-        "Makishi25"
-      ],
-      "5": [
-        "iurie",
-        "Telinnor",
-        "__kreck"
-      ],
-      "806": [
-        "leekcookie"
-      ],
-      "9": [
-        "SuperXXLProfi"
-      ]
-    },
-    "used": {
-      "17": [
-        "Makishi25"
-      ],
-      "32": [
-        "XeonVirus"
-      ],
-      "5": [
-        "Ivenor"
-      ],
-      "8": [
-        "leekcookie"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "santemjocko"
+    ],
+    "18": [
+      "XeonVirus"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "27": [
+      "philxpx"
+    ]
+  },
+  "mined": {
+    "1": [
+      "SnuvomBodensatz"
+    ],
+    "12": [
+      "ScimMLG",
+      "santemjocko"
+    ],
+    "16": [
+      "leekcookie"
+    ],
+    "2": [
+      "Mandahaya"
+    ],
+    "20": [
+      "Ivenor"
+    ],
+    "23": [
+      "Makishi25"
+    ],
+    "29": [
+      "Teayo"
+    ],
+    "5": [
+      "__kreck",
+      "iurie"
+    ],
+    "67": [
+      "XeonVirus"
+    ],
+    "9": [
+      "nitram1572",
+      "philxpx"
+    ]
+  },
+  "picked_up": {
+    "12": [
+      "ScimMLG"
+    ],
+    "121": [
+      "XeonVirus"
+    ],
+    "13": [
+      "nitram1572"
+    ],
+    "18": [
+      "Ivenor"
+    ],
+    "27": [
+      "philxpx"
+    ],
+    "29": [
+      "Teayo"
+    ],
+    "49": [
+      "Makishi25"
+    ],
+    "5": [
+      "Telinnor",
+      "__kreck",
+      "iurie"
+    ],
+    "806": [
+      "leekcookie"
+    ],
+    "9": [
+      "SuperXXLProfi"
+    ]
+  },
+  "used": {
+    "17": [
+      "Makishi25"
+    ],
+    "32": [
+      "XeonVirus"
+    ],
+    "5": [
+      "Ivenor"
+    ],
+    "8": [
+      "leekcookie"
+    ]
   }
 }

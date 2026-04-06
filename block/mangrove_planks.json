@@ -1,29 +1,25 @@
 {
-  "name": "mangrove_planks",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "40": [
-        "lodoss2011"
-      ],
-      "724": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "18": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "20": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "24": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "40": [
+      "lodoss2011"
+    ],
+    "724": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "18": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "20": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "24": [
+      "leekcookie"
+    ]
   }
 }

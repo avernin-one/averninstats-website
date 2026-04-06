@@ -1,14 +1,10 @@
 {
-  "name": "potted_dead_bush",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "4": [
-        "__kreck"
-      ],
-      "9": [
-        "iurie"
-      ]
-    }
+  "mined": {
+    "4": [
+      "__kreck"
+    ],
+    "9": [
+      "iurie"
+    ]
   }
 }

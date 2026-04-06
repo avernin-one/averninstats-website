@@ -1,16 +1,12 @@
 {
-  "name": "mangrove_wood",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "6": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "4": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "6": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "4": [
+      "leekcookie"
+    ]
   }
 }

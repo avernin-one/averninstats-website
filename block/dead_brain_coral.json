@@ -1,20 +1,16 @@
 {
-  "name": "dead_brain_coral",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "leekcookie",
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "iurie"
-      ],
-      "2": [
-        "leekcookie"
-      ]
-    }
+  "mined": {
+    "1": [
+      "iurie",
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "iurie"
+    ],
+    "2": [
+      "leekcookie"
+    ]
   }
 }

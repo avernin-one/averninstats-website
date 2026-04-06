@@ -1,32 +1,28 @@
 {
-  "name": "mud_brick_stairs",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "8": [
-        "lodoss2011"
-      ]
-    },
-    "mined": {
-      "1": [
-        "lodoss2011"
-      ],
-      "5": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "lodoss2011"
-      ],
-      "5": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "6": [
-        "lodoss2011"
-      ]
-    }
+  "crafted": {
+    "8": [
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "1": [
+      "lodoss2011"
+    ],
+    "5": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "lodoss2011"
+    ],
+    "5": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "6": [
+      "lodoss2011"
+    ]
   }
 }

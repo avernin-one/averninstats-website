@@ -1,48 +1,44 @@
 {
-  "name": "pink_shulker_box",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "leekcookie",
-        "iurie"
-      ],
-      "5": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "15": [
-        "santemjocko"
-      ],
-      "191": [
-        "iurie"
-      ],
-      "3": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "15": [
-        "santemjocko"
-      ],
-      "191": [
-        "iurie"
-      ],
-      "4": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "16": [
-        "santemjocko"
-      ],
-      "191": [
-        "iurie"
-      ],
-      "3": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "iurie",
+      "leekcookie"
+    ],
+    "5": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "15": [
+      "santemjocko"
+    ],
+    "191": [
+      "iurie"
+    ],
+    "3": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "15": [
+      "santemjocko"
+    ],
+    "191": [
+      "iurie"
+    ],
+    "4": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "16": [
+      "santemjocko"
+    ],
+    "191": [
+      "iurie"
+    ],
+    "3": [
+      "leekcookie"
+    ]
   }
 }

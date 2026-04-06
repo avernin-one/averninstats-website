@@ -1,25 +1,21 @@
 {
-  "name": "pufferfish_bucket",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "4": [
-        "nitram1572"
-      ],
-      "8": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "1": [
-        "DornDasBrot"
-      ],
-      "2": [
-        "nitram1572"
-      ],
-      "3": [
-        "Lord_HoruS"
-      ]
-    }
+  "crafted": {
+    "4": [
+      "nitram1572"
+    ],
+    "8": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "1": [
+      "DornDasBrot"
+    ],
+    "2": [
+      "nitram1572"
+    ],
+    "3": [
+      "Lord_HoruS"
+    ]
   }
 }

@@ -1,50 +1,46 @@
 {
-  "name": "conduit",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "santemjocko",
-        "leekcookie",
-        "Teayo"
-      ],
-      "2": [
-        "chaos1989",
-        "iurie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie",
-        "iurie"
-      ],
-      "2": [
-        "Lord_HoruS"
-      ],
-      "3": [
-        "chaos1989"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie",
-        "iurie"
-      ],
-      "4": [
-        "chaos1989",
-        "Lord_HoruS"
-      ]
-    },
-    "used": {
-      "1": [
-        "iurie"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "5": [
-        "chaos1989"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Teayo",
+      "leekcookie",
+      "santemjocko"
+    ],
+    "2": [
+      "chaos1989",
+      "iurie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "iurie",
+      "leekcookie"
+    ],
+    "2": [
+      "Lord_HoruS"
+    ],
+    "3": [
+      "chaos1989"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "iurie",
+      "leekcookie"
+    ],
+    "4": [
+      "Lord_HoruS",
+      "chaos1989"
+    ]
+  },
+  "used": {
+    "1": [
+      "iurie"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "5": [
+      "chaos1989"
+    ]
   }
 }

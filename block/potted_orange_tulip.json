@@ -1,11 +1,7 @@
 {
-  "name": "potted_orange_tulip",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "ScimMLG"
-      ]
-    }
+  "mined": {
+    "1": [
+      "ScimMLG"
+    ]
   }
 }

@@ -1,53 +1,49 @@
 {
-  "name": "glow_squid",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "SnuvomBodensatz",
-        "lodoss2011",
-        "minenicknick",
-        "egoplayer_Felix",
-        "SuperXXLProfi",
-        "DornDasBrot",
-        "__Iglo"
-      ],
-      "11": [
-        "santemjocko",
-        "Iglo"
-      ],
-      "2": [
-        "ScimMLG",
-        "PopCat007",
-        "Austriana",
-        "owac",
-        "Makishi25",
-        "__kreck"
-      ],
-      "4": [
-        "Ivenor",
-        "Sayder13xr",
-        "Teayo"
-      ],
-      "42": [
-        "iurie"
-      ],
-      "5": [
-        "chaos1989"
-      ],
-      "6": [
-        "Telinnor"
-      ],
-      "7": [
-        "TrashSuperstar",
-        "XeonVirus"
-      ],
-      "8": [
-        "imabaldman"
-      ],
-      "9": [
-        "leekcookie"
-      ]
-    }
+  "killed": {
+    "1": [
+      "DornDasBrot",
+      "SnuvomBodensatz",
+      "SuperXXLProfi",
+      "__Iglo",
+      "egoplayer_Felix",
+      "lodoss2011",
+      "minenicknick"
+    ],
+    "11": [
+      "Iglo",
+      "santemjocko"
+    ],
+    "2": [
+      "Austriana",
+      "Makishi25",
+      "PopCat007",
+      "ScimMLG",
+      "__kreck",
+      "owac"
+    ],
+    "4": [
+      "Ivenor",
+      "Sayder13xr",
+      "Teayo"
+    ],
+    "42": [
+      "iurie"
+    ],
+    "5": [
+      "chaos1989"
+    ],
+    "6": [
+      "Telinnor"
+    ],
+    "7": [
+      "TrashSuperstar",
+      "XeonVirus"
+    ],
+    "8": [
+      "imabaldman"
+    ],
+    "9": [
+      "leekcookie"
+    ]
   }
 }

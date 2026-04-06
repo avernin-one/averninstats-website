@@ -1,70 +1,66 @@
 {
-  "name": "soul_campfire",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "XeonVirus"
-      ],
-      "157": [
-        "Lord_HoruS"
-      ],
-      "19": [
-        "santemjocko"
-      ],
-      "21": [
-        "leekcookie"
-      ],
-      "25": [
-        "iurie",
-        "Sayder13xr"
-      ],
-      "9": [
-        "Mamuschkaz",
-        "owac"
-      ]
-    },
-    "mined": {
-      "21": [
-        "XeonVirus"
-      ],
-      "26": [
-        "Sayder13xr"
-      ],
-      "9": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "12": [
-        "leekcookie"
-      ],
-      "18": [
-        "XeonVirus"
-      ],
-      "26": [
-        "Lord_HoruS"
-      ]
-    },
-    "used": {
-      "144": [
-        "Lord_HoruS"
-      ],
-      "23": [
-        "XeonVirus"
-      ],
-      "25": [
-        "iurie"
-      ],
-      "27": [
-        "Sayder13xr"
-      ],
-      "9": [
-        "santemjocko",
-        "leekcookie",
-        "Mamuschkaz",
-        "owac"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "XeonVirus"
+    ],
+    "157": [
+      "Lord_HoruS"
+    ],
+    "19": [
+      "santemjocko"
+    ],
+    "21": [
+      "leekcookie"
+    ],
+    "25": [
+      "Sayder13xr",
+      "iurie"
+    ],
+    "9": [
+      "Mamuschkaz",
+      "owac"
+    ]
+  },
+  "mined": {
+    "21": [
+      "XeonVirus"
+    ],
+    "26": [
+      "Sayder13xr"
+    ],
+    "9": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "12": [
+      "leekcookie"
+    ],
+    "18": [
+      "XeonVirus"
+    ],
+    "26": [
+      "Lord_HoruS"
+    ]
+  },
+  "used": {
+    "144": [
+      "Lord_HoruS"
+    ],
+    "23": [
+      "XeonVirus"
+    ],
+    "25": [
+      "iurie"
+    ],
+    "27": [
+      "Sayder13xr"
+    ],
+    "9": [
+      "Mamuschkaz",
+      "leekcookie",
+      "owac",
+      "santemjocko"
+    ]
   }
 }

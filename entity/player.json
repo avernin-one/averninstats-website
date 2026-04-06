@@ -1,35 +1,31 @@
 {
-  "name": "player",
-  "type": "entity",
-  "scores": {
-    "killed_by": {
-      "1": [
-        "ScimMLG",
-        "minenicknick",
-        "PopCat007",
-        "philxpx"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "3": [
-        "obvBasti",
-        "imabaldman"
-      ],
-      "39": [
-        "lodoss2011"
-      ],
-      "4": [
-        "Iglo",
-        "iurie"
-      ],
-      "8": [
-        "santemjocko",
-        "Makishi25"
-      ],
-      "9": [
-        "SuperXXLProfi"
-      ]
-    }
+  "killed_by": {
+    "1": [
+      "PopCat007",
+      "ScimMLG",
+      "minenicknick",
+      "philxpx"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "3": [
+      "imabaldman",
+      "obvBasti"
+    ],
+    "39": [
+      "lodoss2011"
+    ],
+    "4": [
+      "Iglo",
+      "iurie"
+    ],
+    "8": [
+      "Makishi25",
+      "santemjocko"
+    ],
+    "9": [
+      "SuperXXLProfi"
+    ]
   }
 }

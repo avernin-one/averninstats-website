@@ -2,9 +2,9 @@
   "name": "iurie",
   "uuid": "8fc89a2e-be2c-4349-b5f8-cc6f696a9206",
   "medals": {
-    "gold": 29,
-    "silver": 6,
-    "bronze": 6
+    "gold": 35,
+    "silver": 7,
+    "bronze": 11
   },
   "stats": {
     "animals_bred": 405,
@@ -167,40 +167,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "3280": [
-          "arrow"
-        ],
-        "37056": [
-          "firework_rocket"
-        ],
-        "4936": [
-          "tnt"
-        ],
-        "574": [
-          "item_frame"
-        ],
-        "7864": [
-          "experience_bottle"
-        ]
-      },
-      "dropped": {
-        "16": [
-          "snowball"
-        ],
-        "2225": [
-          "arrow"
-        ],
-        "45": [
-          "potion"
-        ],
-        "805": [
-          "firework_rocket"
-        ],
-        "87": [
-          "ender_pearl"
-        ]
-      },
       "killed": {
         "1390": [
           "piglin"
@@ -240,45 +206,6 @@
         ],
         "7": [
           "piglin"
-        ]
-      },
-      "mined": {
-        "473": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "1624": [
-          "firework_rocket"
-        ],
-        "1977": [
-          "arrow"
-        ],
-        "439": [
-          "snowball"
-        ],
-        "496": [
-          "tnt"
-        ],
-        "724": [
-          "ender_pearl"
-        ]
-      },
-      "used": {
-        "1571": [
-          "experience_bottle"
-        ],
-        "23554": [
-          "firework_rocket"
-        ],
-        "382": [
-          "potion"
-        ],
-        "463": [
-          "trident"
-        ],
-        "4746": [
-          "tnt"
         ]
       }
     },
@@ -338,20 +265,6 @@
         ],
         "42489": [
           "gold_nugget"
-        ]
-      },
-      "mined": {
-        "10": [
-          "cauldron"
-        ],
-        "1240": [
-          "wheat"
-        ],
-        "396": [
-          "nether_wart"
-        ],
-        "53": [
-          "brewing_stand"
         ]
       },
       "picked_up": {

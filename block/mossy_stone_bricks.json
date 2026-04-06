@@ -1,125 +1,121 @@
 {
-  "name": "mossy_stone_bricks",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "15": [
-        "nitram1572"
-      ],
-      "215": [
-        "__kreck"
-      ],
-      "23": [
-        "leekcookie"
-      ],
-      "73": [
-        "lodoss2011"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Lord_HoruS"
-      ],
-      "2": [
-        "owac"
-      ],
-      "241": [
-        "__kreck"
-      ],
-      "3": [
-        "leekcookie",
-        "imabaldman"
-      ]
-    },
-    "mined": {
-      "12": [
-        "leekcookie"
-      ],
-      "14": [
-        "Mandahaya"
-      ],
-      "15": [
-        "__kreck"
-      ],
-      "154": [
-        "lodoss2011"
-      ],
-      "16": [
-        "Lord_HoruS"
-      ],
-      "23": [
-        "imabaldman"
-      ],
-      "25": [
-        "chaos1989"
-      ],
-      "264": [
-        "iurie"
-      ],
-      "4": [
-        "nitram1572"
-      ],
-      "6": [
-        "DornDasBrot"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Sayder13xr",
-        "__Iglo"
-      ],
-      "13": [
-        "Mandahaya",
-        "Lord_HoruS"
-      ],
-      "14": [
-        "leekcookie"
-      ],
-      "2": [
-        "owac",
-        "Cpt_looper",
-        "DornDasBrot",
-        "XeonVirus"
-      ],
-      "21": [
-        "imabaldman"
-      ],
-      "224": [
-        "lodoss2011"
-      ],
-      "227": [
-        "iurie"
-      ],
-      "24": [
-        "chaos1989"
-      ],
-      "255": [
-        "__kreck"
-      ],
-      "4": [
-        "nitram1572"
-      ]
-    },
-    "used": {
-      "1": [
-        "__Iglo"
-      ],
-      "107": [
-        "lodoss2011"
-      ],
-      "2": [
-        "Mandahaya",
-        "leekcookie"
-      ],
-      "210": [
-        "__kreck"
-      ],
-      "4": [
-        "nitram1572"
-      ],
-      "40": [
-        "Lord_HoruS"
-      ]
-    }
+  "crafted": {
+    "15": [
+      "nitram1572"
+    ],
+    "215": [
+      "__kreck"
+    ],
+    "23": [
+      "leekcookie"
+    ],
+    "73": [
+      "lodoss2011"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Lord_HoruS"
+    ],
+    "2": [
+      "owac"
+    ],
+    "241": [
+      "__kreck"
+    ],
+    "3": [
+      "imabaldman",
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "12": [
+      "leekcookie"
+    ],
+    "14": [
+      "Mandahaya"
+    ],
+    "15": [
+      "__kreck"
+    ],
+    "154": [
+      "lodoss2011"
+    ],
+    "16": [
+      "Lord_HoruS"
+    ],
+    "23": [
+      "imabaldman"
+    ],
+    "25": [
+      "chaos1989"
+    ],
+    "264": [
+      "iurie"
+    ],
+    "4": [
+      "nitram1572"
+    ],
+    "6": [
+      "DornDasBrot"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Sayder13xr",
+      "__Iglo"
+    ],
+    "13": [
+      "Lord_HoruS",
+      "Mandahaya"
+    ],
+    "14": [
+      "leekcookie"
+    ],
+    "2": [
+      "Cpt_looper",
+      "DornDasBrot",
+      "XeonVirus",
+      "owac"
+    ],
+    "21": [
+      "imabaldman"
+    ],
+    "224": [
+      "lodoss2011"
+    ],
+    "227": [
+      "iurie"
+    ],
+    "24": [
+      "chaos1989"
+    ],
+    "255": [
+      "__kreck"
+    ],
+    "4": [
+      "nitram1572"
+    ]
+  },
+  "used": {
+    "1": [
+      "__Iglo"
+    ],
+    "107": [
+      "lodoss2011"
+    ],
+    "2": [
+      "Mandahaya",
+      "leekcookie"
+    ],
+    "210": [
+      "__kreck"
+    ],
+    "4": [
+      "nitram1572"
+    ],
+    "40": [
+      "Lord_HoruS"
+    ]
   }
 }

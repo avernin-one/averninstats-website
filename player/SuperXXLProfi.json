@@ -2,8 +2,8 @@
   "name": "SuperXXLProfi",
   "uuid": "918ee5f5-bb17-4232-851c-7ab1ec0269b4",
   "medals": {
-    "gold": 1,
-    "silver": 0,
+    "gold": 2,
+    "silver": 1,
     "bronze": 1
   },
   "stats": {
@@ -145,32 +145,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "64": [
-          "arrow"
-        ],
-        "87": [
-          "tnt"
-        ],
-        "888": [
-          "firework_rocket"
-        ]
-      },
-      "dropped": {
-        "1": [
-          "armor_stand",
-          "oak_boat"
-        ],
-        "273": [
-          "ender_pearl"
-        ],
-        "51": [
-          "potion"
-        ],
-        "7": [
-          "arrow"
-        ]
-      },
       "killed": {
         "18": [
           "zombie"
@@ -194,46 +168,6 @@
       "killed_by": {
         "9": [
           "player"
-        ]
-      },
-      "mined": {
-        "2": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "11": [
-          "arrow"
-        ],
-        "23": [
-          "potion"
-        ],
-        "767": [
-          "ender_pearl"
-        ],
-        "768": [
-          "firework_rocket"
-        ],
-        "9": [
-          "minecart"
-        ]
-      },
-      "used": {
-        "298": [
-          "ender_pearl"
-        ],
-        "3": [
-          "armor_stand",
-          "oak_boat"
-        ],
-        "4": [
-          "minecart"
-        ],
-        "848": [
-          "firework_rocket"
-        ],
-        "89": [
-          "tnt"
         ]
       }
     },

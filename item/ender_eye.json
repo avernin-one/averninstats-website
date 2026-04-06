@@ -1,102 +1,98 @@
 {
-  "name": "ender_eye",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "10": [
-        "SnuvomBodensatz"
-      ],
-      "117": [
-        "iurie"
-      ],
-      "16": [
-        "minenicknick",
-        "Cpt_looper"
-      ],
-      "22": [
-        "Sayder13xr"
-      ],
-      "32": [
-        "lodoss2011"
-      ],
-      "41": [
-        "__kreck"
-      ],
-      "49": [
-        "imabaldman"
-      ],
-      "61": [
-        "santemjocko"
-      ],
-      "64": [
-        "Iglo"
-      ],
-      "7": [
-        "leekcookie",
-        "philxpx"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "minenicknick",
-        "Cpt_looper"
-      ],
-      "10": [
-        "santemjocko"
-      ],
-      "7": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Mamuschkaz",
-        "Cpt_looper"
-      ],
-      "19": [
-        "iurie"
-      ],
-      "20": [
-        "leekcookie"
-      ],
-      "29": [
-        "lodoss2011"
-      ],
-      "3": [
-        "Sayder13xr"
-      ],
-      "4": [
-        "imabaldman"
-      ],
-      "7": [
-        "Iglo"
-      ],
-      "8": [
-        "santemjocko"
-      ]
-    },
-    "used": {
-      "13": [
-        "imabaldman"
-      ],
-      "15": [
-        "__kreck"
-      ],
-      "21": [
-        "santemjocko"
-      ],
-      "30": [
-        "lodoss2011"
-      ],
-      "34": [
-        "iurie"
-      ],
-      "7": [
-        "Iglo"
-      ],
-      "8": [
-        "Sayder13xr"
-      ]
-    }
+  "crafted": {
+    "10": [
+      "SnuvomBodensatz"
+    ],
+    "117": [
+      "iurie"
+    ],
+    "16": [
+      "Cpt_looper",
+      "minenicknick"
+    ],
+    "22": [
+      "Sayder13xr"
+    ],
+    "32": [
+      "lodoss2011"
+    ],
+    "41": [
+      "__kreck"
+    ],
+    "49": [
+      "imabaldman"
+    ],
+    "61": [
+      "santemjocko"
+    ],
+    "64": [
+      "Iglo"
+    ],
+    "7": [
+      "leekcookie",
+      "philxpx"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Cpt_looper",
+      "minenicknick"
+    ],
+    "10": [
+      "santemjocko"
+    ],
+    "7": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Cpt_looper",
+      "Mamuschkaz"
+    ],
+    "19": [
+      "iurie"
+    ],
+    "20": [
+      "leekcookie"
+    ],
+    "29": [
+      "lodoss2011"
+    ],
+    "3": [
+      "Sayder13xr"
+    ],
+    "4": [
+      "imabaldman"
+    ],
+    "7": [
+      "Iglo"
+    ],
+    "8": [
+      "santemjocko"
+    ]
+  },
+  "used": {
+    "13": [
+      "imabaldman"
+    ],
+    "15": [
+      "__kreck"
+    ],
+    "21": [
+      "santemjocko"
+    ],
+    "30": [
+      "lodoss2011"
+    ],
+    "34": [
+      "iurie"
+    ],
+    "7": [
+      "Iglo"
+    ],
+    "8": [
+      "Sayder13xr"
+    ]
   }
 }

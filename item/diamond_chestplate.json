@@ -1,139 +1,135 @@
 {
-  "name": "diamond_chestplate",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "1": [
-        "XeonVirus"
-      ]
-    },
-    "crafted": {
-      "1": [
-        "obvBasti",
-        "lodoss2011",
-        "chaos1989",
-        "ScimMLG",
-        "Ivenor",
-        "KleeneEle",
-        "Iglo",
-        "Temeraiere",
-        "egoplayer_Felix",
-        "nitram1572",
-        "DornDasBrot",
-        "imabaldman",
-        "Warhazarder",
-        "Teayo"
-      ],
-      "15": [
-        "iurie"
-      ],
-      "2": [
-        "santemjocko",
-        "Mamuschkaz",
-        "SuperXXLProfi",
-        "TrashSuperstar",
-        "Cpt_looper",
-        "Lord_HoruS"
-      ],
-      "3": [
-        "owac",
-        "Sayder13xr",
-        "XeonVirus"
-      ],
-      "35": [
-        "leekcookie"
-      ],
-      "4": [
-        "philxpx"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "obvBasti",
-        "Ivenor",
-        "TrashSuperstar",
-        "DornDasBrot",
-        "XeonVirus"
-      ],
-      "10": [
-        "leekcookie"
-      ],
-      "2": [
-        "santemjocko",
-        "philxpx",
-        "JonasderGamer"
-      ],
-      "3": [
-        "ScimMLG",
-        "iurie",
-        "imabaldman"
-      ],
-      "5": [
-        "owac"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "obvBasti",
-        "minenicknick",
-        "Iglo",
-        "Temeraiere",
-        "Cpt_looper"
-      ],
-      "12": [
-        "owac",
-        "Sayder13xr"
-      ],
-      "16": [
-        "santemjocko"
-      ],
-      "2": [
-        "ScimMLG",
-        "TrashSuperstar",
-        "Lord_HoruS",
-        "JonasderGamer",
-        "DornDasBrot",
-        "__Iglo",
-        "__kreck"
-      ],
-      "22": [
-        "iurie"
-      ],
-      "28": [
-        "Makishi25"
-      ],
-      "4": [
-        "Ivenor",
-        "Teayo"
-      ],
-      "5": [
-        "nitram1572",
-        "imabaldman",
-        "XeonVirus"
-      ],
-      "52": [
-        "leekcookie"
-      ],
-      "6": [
-        "Telinnor",
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "1": [
-        "obvBasti",
-        "DornDasBrot",
-        "Sayder13xr"
-      ],
-      "2": [
-        "Temeraiere",
-        "Telinnor",
-        "Makishi25",
-        "imabaldman"
-      ],
-      "45": [
-        "leekcookie"
-      ]
-    }
+  "broken": {
+    "1": [
+      "XeonVirus"
+    ]
+  },
+  "crafted": {
+    "1": [
+      "DornDasBrot",
+      "Iglo",
+      "Ivenor",
+      "KleeneEle",
+      "ScimMLG",
+      "Teayo",
+      "Temeraiere",
+      "Warhazarder",
+      "chaos1989",
+      "egoplayer_Felix",
+      "imabaldman",
+      "lodoss2011",
+      "nitram1572",
+      "obvBasti"
+    ],
+    "15": [
+      "iurie"
+    ],
+    "2": [
+      "Cpt_looper",
+      "Lord_HoruS",
+      "Mamuschkaz",
+      "SuperXXLProfi",
+      "TrashSuperstar",
+      "santemjocko"
+    ],
+    "3": [
+      "Sayder13xr",
+      "XeonVirus",
+      "owac"
+    ],
+    "35": [
+      "leekcookie"
+    ],
+    "4": [
+      "philxpx"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "DornDasBrot",
+      "Ivenor",
+      "TrashSuperstar",
+      "XeonVirus",
+      "obvBasti"
+    ],
+    "10": [
+      "leekcookie"
+    ],
+    "2": [
+      "JonasderGamer",
+      "philxpx",
+      "santemjocko"
+    ],
+    "3": [
+      "ScimMLG",
+      "imabaldman",
+      "iurie"
+    ],
+    "5": [
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Cpt_looper",
+      "Iglo",
+      "Temeraiere",
+      "minenicknick",
+      "obvBasti"
+    ],
+    "12": [
+      "Sayder13xr",
+      "owac"
+    ],
+    "16": [
+      "santemjocko"
+    ],
+    "2": [
+      "DornDasBrot",
+      "JonasderGamer",
+      "Lord_HoruS",
+      "ScimMLG",
+      "TrashSuperstar",
+      "__Iglo",
+      "__kreck"
+    ],
+    "22": [
+      "iurie"
+    ],
+    "28": [
+      "Makishi25"
+    ],
+    "4": [
+      "Ivenor",
+      "Teayo"
+    ],
+    "5": [
+      "XeonVirus",
+      "imabaldman",
+      "nitram1572"
+    ],
+    "52": [
+      "leekcookie"
+    ],
+    "6": [
+      "Telinnor",
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "1": [
+      "DornDasBrot",
+      "Sayder13xr",
+      "obvBasti"
+    ],
+    "2": [
+      "Makishi25",
+      "Telinnor",
+      "Temeraiere",
+      "imabaldman"
+    ],
+    "45": [
+      "leekcookie"
+    ]
   }
 }

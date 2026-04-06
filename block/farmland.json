@@ -1,38 +1,34 @@
 {
-  "name": "farmland",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "124": [
-        "nitram1572"
-      ],
-      "139": [
-        "Teayo"
-      ],
-      "185": [
-        "egoplayer_Felix"
-      ],
-      "257": [
-        "DornDasBrot"
-      ],
-      "294": [
-        "iurie"
-      ],
-      "45": [
-        "TrashSuperstar"
-      ],
-      "46": [
-        "__Iglo"
-      ],
-      "48": [
-        "Lord_HoruS"
-      ],
-      "63": [
-        "Sayder13xr"
-      ],
-      "945": [
-        "Warhazarder"
-      ]
-    }
+  "mined": {
+    "124": [
+      "nitram1572"
+    ],
+    "139": [
+      "Teayo"
+    ],
+    "185": [
+      "egoplayer_Felix"
+    ],
+    "257": [
+      "DornDasBrot"
+    ],
+    "294": [
+      "iurie"
+    ],
+    "45": [
+      "TrashSuperstar"
+    ],
+    "46": [
+      "__Iglo"
+    ],
+    "48": [
+      "Lord_HoruS"
+    ],
+    "63": [
+      "Sayder13xr"
+    ],
+    "945": [
+      "Warhazarder"
+    ]
   }
 }

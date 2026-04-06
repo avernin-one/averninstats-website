@@ -1,14 +1,10 @@
 {
-  "name": "dead_brain_coral_wall_fan",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "Makishi25"
-      ],
-      "193": [
-        "iurie"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Makishi25"
+    ],
+    "193": [
+      "iurie"
+    ]
   }
 }

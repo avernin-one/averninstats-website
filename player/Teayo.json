@@ -153,28 +153,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1338": [
-          "firework_rocket"
-        ],
-        "2": [
-          "oak_boat"
-        ],
-        "6": [
-          "birch_boat"
-        ],
-        "64": [
-          "tnt"
-        ],
-        "7": [
-          "ender_pearl"
-        ]
-      },
-      "dropped": {
-        "621": [
-          "arrow"
-        ]
-      },
       "killed": {
         "116": [
           "skeleton"
@@ -200,40 +178,6 @@
         ],
         "2": [
           "creeper"
-        ]
-      },
-      "picked_up": {
-        "14": [
-          "oak_boat"
-        ],
-        "2588": [
-          "arrow"
-        ],
-        "36": [
-          "birch_boat"
-        ],
-        "51": [
-          "cod"
-        ],
-        "73": [
-          "firework_rocket"
-        ]
-      },
-      "used": {
-        "2": [
-          "tropical_fish"
-        ],
-        "347": [
-          "firework_rocket"
-        ],
-        "41": [
-          "birch_boat"
-        ],
-        "5": [
-          "egg"
-        ],
-        "9": [
-          "oak_boat"
         ]
       }
     },
@@ -287,20 +231,6 @@
         ],
         "621": [
           "arrow"
-        ]
-      },
-      "mined": {
-        "13": [
-          "cauldron"
-        ],
-        "4418": [
-          "wheat"
-        ],
-        "5": [
-          "brewing_stand"
-        ],
-        "9": [
-          "nether_wart"
         ]
       },
       "picked_up": {

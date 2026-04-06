@@ -1,168 +1,164 @@
 {
-  "name": "oak_fence",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1119": [
-        "Warhazarder"
-      ],
-      "138": [
-        "TrashSuperstar"
-      ],
-      "144": [
-        "DornDasBrot"
-      ],
-      "150": [
-        "Mamuschkaz"
-      ],
-      "168": [
-        "Lord_HoruS"
-      ],
-      "171": [
-        "santemjocko",
-        "Ivenor"
-      ],
-      "270": [
-        "chaos1989",
-        "iurie"
-      ],
-      "3012": [
-        "Teayo"
-      ],
-      "315": [
-        "leekcookie"
-      ],
-      "339": [
-        "XeonVirus"
-      ]
-    },
-    "dropped": {
-      "10": [
-        "Sayder13xr"
-      ],
-      "124": [
-        "leekcookie"
-      ],
-      "16": [
-        "Mamuschkaz"
-      ],
-      "181": [
-        "__kreck"
-      ],
-      "2": [
-        "imabaldman"
-      ],
-      "3": [
-        "Teayo"
-      ],
-      "34": [
-        "Lord_HoruS"
-      ],
-      "6": [
-        "owac"
-      ],
-      "61": [
-        "santemjocko"
-      ],
-      "8": [
-        "__Iglo"
-      ]
-    },
-    "mined": {
-      "1051": [
-        "Teayo"
-      ],
-      "111": [
-        "leekcookie"
-      ],
-      "113": [
-        "Ivenor"
-      ],
-      "149": [
-        "Cpt_looper"
-      ],
-      "205": [
-        "Sayder13xr"
-      ],
-      "225": [
-        "chaos1989"
-      ],
-      "578": [
-        "Mandahaya"
-      ],
-      "63": [
-        "Warhazarder"
-      ],
-      "71": [
-        "TrashSuperstar"
-      ],
-      "92": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "114": [
-        "XeonVirus"
-      ],
-      "1178": [
-        "Teayo"
-      ],
-      "145": [
-        "Cpt_looper"
-      ],
-      "165": [
-        "Ivenor"
-      ],
-      "199": [
-        "__kreck"
-      ],
-      "223": [
-        "chaos1989"
-      ],
-      "225": [
-        "Sayder13xr"
-      ],
-      "506": [
-        "leekcookie"
-      ],
-      "576": [
-        "Mandahaya"
-      ],
-      "87": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "1163": [
-        "Warhazarder"
-      ],
-      "194": [
-        "santemjocko"
-      ],
-      "196": [
-        "leekcookie"
-      ],
-      "201": [
-        "TrashSuperstar"
-      ],
-      "206": [
-        "Cpt_looper"
-      ],
-      "246": [
-        "XeonVirus"
-      ],
-      "278": [
-        "Ivenor"
-      ],
-      "319": [
-        "iurie"
-      ],
-      "362": [
-        "chaos1989"
-      ],
-      "3713": [
-        "Teayo"
-      ]
-    }
+  "crafted": {
+    "1119": [
+      "Warhazarder"
+    ],
+    "138": [
+      "TrashSuperstar"
+    ],
+    "144": [
+      "DornDasBrot"
+    ],
+    "150": [
+      "Mamuschkaz"
+    ],
+    "168": [
+      "Lord_HoruS"
+    ],
+    "171": [
+      "Ivenor",
+      "santemjocko"
+    ],
+    "270": [
+      "chaos1989",
+      "iurie"
+    ],
+    "3012": [
+      "Teayo"
+    ],
+    "315": [
+      "leekcookie"
+    ],
+    "339": [
+      "XeonVirus"
+    ]
+  },
+  "dropped": {
+    "10": [
+      "Sayder13xr"
+    ],
+    "124": [
+      "leekcookie"
+    ],
+    "16": [
+      "Mamuschkaz"
+    ],
+    "181": [
+      "__kreck"
+    ],
+    "2": [
+      "imabaldman"
+    ],
+    "3": [
+      "Teayo"
+    ],
+    "34": [
+      "Lord_HoruS"
+    ],
+    "6": [
+      "owac"
+    ],
+    "61": [
+      "santemjocko"
+    ],
+    "8": [
+      "__Iglo"
+    ]
+  },
+  "mined": {
+    "1051": [
+      "Teayo"
+    ],
+    "111": [
+      "leekcookie"
+    ],
+    "113": [
+      "Ivenor"
+    ],
+    "149": [
+      "Cpt_looper"
+    ],
+    "205": [
+      "Sayder13xr"
+    ],
+    "225": [
+      "chaos1989"
+    ],
+    "578": [
+      "Mandahaya"
+    ],
+    "63": [
+      "Warhazarder"
+    ],
+    "71": [
+      "TrashSuperstar"
+    ],
+    "92": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "114": [
+      "XeonVirus"
+    ],
+    "1178": [
+      "Teayo"
+    ],
+    "145": [
+      "Cpt_looper"
+    ],
+    "165": [
+      "Ivenor"
+    ],
+    "199": [
+      "__kreck"
+    ],
+    "223": [
+      "chaos1989"
+    ],
+    "225": [
+      "Sayder13xr"
+    ],
+    "506": [
+      "leekcookie"
+    ],
+    "576": [
+      "Mandahaya"
+    ],
+    "87": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "1163": [
+      "Warhazarder"
+    ],
+    "194": [
+      "santemjocko"
+    ],
+    "196": [
+      "leekcookie"
+    ],
+    "201": [
+      "TrashSuperstar"
+    ],
+    "206": [
+      "Cpt_looper"
+    ],
+    "246": [
+      "XeonVirus"
+    ],
+    "278": [
+      "Ivenor"
+    ],
+    "319": [
+      "iurie"
+    ],
+    "362": [
+      "chaos1989"
+    ],
+    "3713": [
+      "Teayo"
+    ]
   }
 }

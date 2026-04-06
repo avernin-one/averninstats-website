@@ -1,62 +1,58 @@
 {
-  "name": "polished_blackstone",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1268": [
-        "Iglo"
-      ],
-      "176": [
-        "imabaldman"
-      ],
-      "312": [
-        "__kreck"
-      ],
-      "380": [
-        "Makishi25"
-      ],
-      "4": [
-        "iurie",
-        "nitram1572"
-      ],
-      "52": [
-        "__Iglo"
-      ],
-      "7644": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "61": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "nitram1572"
-      ],
-      "131": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "nitram1572"
-      ],
-      "313": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1148": [
-        "leekcookie"
-      ],
-      "12": [
-        "Makishi25"
-      ],
-      "5": [
-        "nitram1572"
-      ]
-    }
+  "crafted": {
+    "1268": [
+      "Iglo"
+    ],
+    "176": [
+      "imabaldman"
+    ],
+    "312": [
+      "__kreck"
+    ],
+    "380": [
+      "Makishi25"
+    ],
+    "4": [
+      "iurie",
+      "nitram1572"
+    ],
+    "52": [
+      "__Iglo"
+    ],
+    "7644": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "61": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "nitram1572"
+    ],
+    "131": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "nitram1572"
+    ],
+    "313": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1148": [
+      "leekcookie"
+    ],
+    "12": [
+      "Makishi25"
+    ],
+    "5": [
+      "nitram1572"
+    ]
   }
 }

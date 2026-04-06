@@ -1,11 +1,7 @@
 {
-  "name": "potted_poppy",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "XeonVirus"
-      ]
-    }
+  "mined": {
+    "1": [
+      "XeonVirus"
+    ]
   }
 }

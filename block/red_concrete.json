@@ -1,59 +1,55 @@
 {
-  "name": "red_concrete",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "213": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "10": [
-        "santemjocko"
-      ],
-      "129": [
-        "Makishi25"
-      ],
-      "155": [
-        "__kreck"
-      ],
-      "2": [
-        "ScimMLG"
-      ],
-      "66": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "santemjocko"
-      ],
-      "2": [
-        "ScimMLG"
-      ],
-      "205": [
-        "Makishi25"
-      ],
-      "445": [
-        "__kreck"
-      ],
-      "66": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1": [
-        "santemjocko"
-      ],
-      "125": [
-        "Makishi25"
-      ],
-      "1928": [
-        "__kreck"
-      ],
-      "64": [
-        "leekcookie"
-      ]
-    }
+  "dropped": {
+    "213": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "10": [
+      "santemjocko"
+    ],
+    "129": [
+      "Makishi25"
+    ],
+    "155": [
+      "__kreck"
+    ],
+    "2": [
+      "ScimMLG"
+    ],
+    "66": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "santemjocko"
+    ],
+    "2": [
+      "ScimMLG"
+    ],
+    "205": [
+      "Makishi25"
+    ],
+    "445": [
+      "__kreck"
+    ],
+    "66": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1": [
+      "santemjocko"
+    ],
+    "125": [
+      "Makishi25"
+    ],
+    "1928": [
+      "__kreck"
+    ],
+    "64": [
+      "leekcookie"
+    ]
   }
 }

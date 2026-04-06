@@ -1,45 +1,41 @@
 {
-  "name": "lime_terracotta",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "16": [
-        "santemjocko",
-        "ScimMLG"
-      ],
-      "20": [
-        "Makishi25"
-      ],
-      "72": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "ScimMLG"
-      ],
-      "3": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "ScimMLG"
-      ],
-      "3": [
-        "iurie"
-      ],
-      "48": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "15": [
-        "Makishi25"
-      ],
-      "21": [
-        "ScimMLG"
-      ]
-    }
+  "crafted": {
+    "16": [
+      "ScimMLG",
+      "santemjocko"
+    ],
+    "20": [
+      "Makishi25"
+    ],
+    "72": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "ScimMLG"
+    ],
+    "3": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "ScimMLG"
+    ],
+    "3": [
+      "iurie"
+    ],
+    "48": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "15": [
+      "Makishi25"
+    ],
+    "21": [
+      "ScimMLG"
+    ]
   }
 }

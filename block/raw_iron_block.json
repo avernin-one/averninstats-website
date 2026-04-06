@@ -1,50 +1,46 @@
 {
-  "name": "raw_iron_block",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "leekcookie"
-      ],
-      "11": [
-        "Warhazarder"
-      ],
-      "33": [
-        "Temeraiere"
-      ],
-      "52": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie"
-      ],
-      "4": [
-        "chaos1989"
-      ],
-      "5": [
-        "Warhazarder"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie"
-      ],
-      "22": [
-        "Temeraiere"
-      ],
-      "4": [
-        "chaos1989"
-      ],
-      "5": [
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "1": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "leekcookie"
+    ],
+    "11": [
+      "Warhazarder"
+    ],
+    "33": [
+      "Temeraiere"
+    ],
+    "52": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "1": [
+      "leekcookie"
+    ],
+    "4": [
+      "chaos1989"
+    ],
+    "5": [
+      "Warhazarder"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "leekcookie"
+    ],
+    "22": [
+      "Temeraiere"
+    ],
+    "4": [
+      "chaos1989"
+    ],
+    "5": [
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "1": [
+      "leekcookie"
+    ]
   }
 }

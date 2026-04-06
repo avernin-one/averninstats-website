@@ -1,151 +1,147 @@
 {
-  "name": "oak_fence_gate",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "139": [
-        "Warhazarder"
-      ],
-      "140": [
-        "leekcookie"
-      ],
-      "1541": [
-        "Lord_HoruS"
-      ],
-      "39": [
-        "Cpt_looper"
-      ],
-      "40": [
-        "santemjocko"
-      ],
-      "41": [
-        "iurie"
-      ],
-      "49": [
-        "Teayo"
-      ],
-      "56": [
-        "nitram1572"
-      ],
-      "64": [
-        "TrashSuperstar"
-      ],
-      "70": [
-        "Mamuschkaz"
-      ]
-    },
-    "dropped": {
-      "24": [
-        "leekcookie"
-      ],
-      "73": [
-        "Mamuschkaz"
-      ],
-      "8": [
-        "Cpt_looper"
-      ]
-    },
-    "mined": {
-      "1": [
-        "ScimMLG",
-        "Makishi25"
-      ],
-      "18": [
-        "Teayo"
-      ],
-      "21": [
-        "leekcookie"
-      ],
-      "3": [
-        "iurie",
-        "__kreck"
-      ],
-      "4": [
-        "santemjocko"
-      ],
-      "5": [
-        "Cpt_looper",
-        "Sayder13xr"
-      ],
-      "7": [
-        "TrashSuperstar"
-      ],
-      "82": [
-        "Mamuschkaz"
-      ],
-      "9": [
-        "Lord_HoruS"
-      ],
-      "94": [
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "ScimMLG",
-        "Makishi25"
-      ],
-      "11": [
-        "iurie"
-      ],
-      "137": [
-        "Mamuschkaz"
-      ],
-      "18": [
-        "Teayo"
-      ],
-      "3": [
-        "Cpt_looper",
-        "__kreck"
-      ],
-      "4": [
-        "santemjocko",
-        "Sayder13xr"
-      ],
-      "7": [
-        "TrashSuperstar"
-      ],
-      "71": [
-        "leekcookie"
-      ],
-      "9": [
-        "Lord_HoruS"
-      ],
-      "94": [
-        "nitram1572"
-      ]
-    },
-    "used": {
-      "138": [
-        "Warhazarder"
-      ],
-      "141": [
-        "nitram1572"
-      ],
-      "1550": [
-        "Lord_HoruS"
-      ],
-      "27": [
-        "Cpt_looper"
-      ],
-      "39": [
-        "iurie"
-      ],
-      "44": [
-        "santemjocko"
-      ],
-      "55": [
-        "TrashSuperstar"
-      ],
-      "59": [
-        "Teayo"
-      ],
-      "61": [
-        "leekcookie"
-      ],
-      "84": [
-        "Mamuschkaz"
-      ]
-    }
+  "crafted": {
+    "139": [
+      "Warhazarder"
+    ],
+    "140": [
+      "leekcookie"
+    ],
+    "1541": [
+      "Lord_HoruS"
+    ],
+    "39": [
+      "Cpt_looper"
+    ],
+    "40": [
+      "santemjocko"
+    ],
+    "41": [
+      "iurie"
+    ],
+    "49": [
+      "Teayo"
+    ],
+    "56": [
+      "nitram1572"
+    ],
+    "64": [
+      "TrashSuperstar"
+    ],
+    "70": [
+      "Mamuschkaz"
+    ]
+  },
+  "dropped": {
+    "24": [
+      "leekcookie"
+    ],
+    "73": [
+      "Mamuschkaz"
+    ],
+    "8": [
+      "Cpt_looper"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Makishi25",
+      "ScimMLG"
+    ],
+    "18": [
+      "Teayo"
+    ],
+    "21": [
+      "leekcookie"
+    ],
+    "3": [
+      "__kreck",
+      "iurie"
+    ],
+    "4": [
+      "santemjocko"
+    ],
+    "5": [
+      "Cpt_looper",
+      "Sayder13xr"
+    ],
+    "7": [
+      "TrashSuperstar"
+    ],
+    "82": [
+      "Mamuschkaz"
+    ],
+    "9": [
+      "Lord_HoruS"
+    ],
+    "94": [
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Makishi25",
+      "ScimMLG"
+    ],
+    "11": [
+      "iurie"
+    ],
+    "137": [
+      "Mamuschkaz"
+    ],
+    "18": [
+      "Teayo"
+    ],
+    "3": [
+      "Cpt_looper",
+      "__kreck"
+    ],
+    "4": [
+      "Sayder13xr",
+      "santemjocko"
+    ],
+    "7": [
+      "TrashSuperstar"
+    ],
+    "71": [
+      "leekcookie"
+    ],
+    "9": [
+      "Lord_HoruS"
+    ],
+    "94": [
+      "nitram1572"
+    ]
+  },
+  "used": {
+    "138": [
+      "Warhazarder"
+    ],
+    "141": [
+      "nitram1572"
+    ],
+    "1550": [
+      "Lord_HoruS"
+    ],
+    "27": [
+      "Cpt_looper"
+    ],
+    "39": [
+      "iurie"
+    ],
+    "44": [
+      "santemjocko"
+    ],
+    "55": [
+      "TrashSuperstar"
+    ],
+    "59": [
+      "Teayo"
+    ],
+    "61": [
+      "leekcookie"
+    ],
+    "84": [
+      "Mamuschkaz"
+    ]
   }
 }

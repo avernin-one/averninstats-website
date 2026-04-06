@@ -1,40 +1,36 @@
 {
-  "name": "light_blue_glazed_terracotta",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12": [
-        "owac"
-      ],
-      "3": [
-        "DornDasBrot"
-      ]
-    },
-    "dropped": {
-      "12": [
-        "owac"
-      ]
-    },
-    "mined": {
-      "10": [
-        "DornDasBrot"
-      ],
-      "13": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "DornDasBrot"
-      ],
-      "13": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "10": [
-        "DornDasBrot"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "owac"
+    ],
+    "3": [
+      "DornDasBrot"
+    ]
+  },
+  "dropped": {
+    "12": [
+      "owac"
+    ]
+  },
+  "mined": {
+    "10": [
+      "DornDasBrot"
+    ],
+    "13": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "DornDasBrot"
+    ],
+    "13": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "10": [
+      "DornDasBrot"
+    ]
   }
 }

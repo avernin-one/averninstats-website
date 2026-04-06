@@ -4,7 +4,7 @@
   "medals": {
     "gold": 0,
     "silver": 0,
-    "bronze": 0
+    "bronze": 2
   },
   "stats": {
     "aviate_one_cm": 3181,
@@ -136,37 +136,12 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1": [
-          "jungle_boat"
-        ],
-        "3": [
-          "oak_boat"
-        ]
-      },
-      "dropped": {
-        "1007": [
-          "ender_pearl"
-        ],
-        "2": [
-          "oak_boat"
-        ],
-        "31": [
-          "firework_rocket"
-        ],
-        "5": [
-          "egg"
-        ],
-        "68": [
-          "arrow"
-        ]
-      },
       "killed": {
         "101": [
           "zombie"
         ],
-        "35": [
-          "chicken"
+        "28": [
+          "creeper"
         ],
         "51": [
           "sheep",
@@ -186,36 +161,6 @@
         ],
         "4": [
           "creeper"
-        ]
-      },
-      "picked_up": {
-        "101": [
-          "arrow"
-        ],
-        "1027": [
-          "ender_pearl"
-        ],
-        "12": [
-          "chicken"
-        ],
-        "31": [
-          "firework_rocket"
-        ],
-        "42": [
-          "oak_boat"
-        ]
-      },
-      "used": {
-        "1": [
-          "chicken",
-          "egg"
-        ],
-        "2": [
-          "ender_pearl",
-          "jungle_boat"
-        ],
-        "42": [
-          "oak_boat"
         ]
       }
     },
@@ -271,11 +216,6 @@
         ],
         "68": [
           "arrow"
-        ]
-      },
-      "mined": {
-        "10": [
-          "wheat"
         ]
       },
       "picked_up": {

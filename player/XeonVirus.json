@@ -154,38 +154,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1": [
-          "chest_minecart"
-        ],
-        "1014": [
-          "firework_rocket"
-        ],
-        "2": [
-          "hopper_minecart"
-        ],
-        "4": [
-          "minecart"
-        ]
-      },
-      "dropped": {
-        "1426": [
-          "arrow"
-        ],
-        "16": [
-          "snowball"
-        ],
-        "1929": [
-          "ender_pearl"
-        ],
-        "5": [
-          "cod",
-          "salmon"
-        ],
-        "8": [
-          "chicken"
-        ]
-      },
       "killed": {
         "118": [
           "magma_cube"
@@ -214,49 +182,6 @@
         "4": [
           "skeleton",
           "vindicator"
-        ]
-      },
-      "mined": {
-        "27": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "1287": [
-          "arrow"
-        ],
-        "148": [
-          "snowball"
-        ],
-        "2259": [
-          "ender_pearl"
-        ],
-        "58": [
-          "cod"
-        ],
-        "641": [
-          "firework_rocket"
-        ]
-      },
-      "used": {
-        "1185": [
-          "firework_rocket"
-        ],
-        "3": [
-          "birch_boat",
-          "chest_minecart",
-          "item_frame"
-        ],
-        "38": [
-          "snowball"
-        ],
-        "4": [
-          "egg",
-          "potion",
-          "trident"
-        ],
-        "8": [
-          "hopper_minecart"
         ]
       }
     },
@@ -317,11 +242,6 @@
           "rotten_flesh"
         ]
       },
-      "mined": {
-        "879": [
-          "wheat"
-        ]
-      },
       "picked_up": {
         "1287": [
           "arrow"
@@ -335,8 +255,8 @@
         "5276": [
           "raw_copper"
         ],
-        "915": [
-          "wheat"
+        "887": [
+          "potato"
         ]
       },
       "used": {

@@ -1,41 +1,37 @@
 {
-  "name": "candle",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "3": [
-        "lodoss2011"
-      ],
-      "549": [
-        "chaos1989"
-      ]
-    },
-    "mined": {
-      "1": [
-        "chaos1989"
-      ],
-      "15": [
-        "XeonVirus"
-      ]
-    },
-    "picked_up": {
-      "29": [
-        "XeonVirus"
-      ],
-      "36": [
-        "iurie"
-      ],
-      "4": [
-        "chaos1989"
-      ]
-    },
-    "used": {
-      "3": [
-        "lodoss2011"
-      ],
-      "8": [
-        "chaos1989"
-      ]
-    }
+  "crafted": {
+    "3": [
+      "lodoss2011"
+    ],
+    "549": [
+      "chaos1989"
+    ]
+  },
+  "mined": {
+    "1": [
+      "chaos1989"
+    ],
+    "15": [
+      "XeonVirus"
+    ]
+  },
+  "picked_up": {
+    "29": [
+      "XeonVirus"
+    ],
+    "36": [
+      "iurie"
+    ],
+    "4": [
+      "chaos1989"
+    ]
+  },
+  "used": {
+    "3": [
+      "lodoss2011"
+    ],
+    "8": [
+      "chaos1989"
+    ]
   }
 }

@@ -1,67 +1,63 @@
 {
-  "name": "honeycomb",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "1": [
-        "Teayo"
-      ],
-      "12": [
-        "iurie"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "3": [
-        "Makishi25"
-      ]
-    },
-    "picked_up": {
-      "12": [
-        "Sayder13xr"
-      ],
-      "1252": [
-        "Teayo"
-      ],
-      "1452": [
-        "nitram1572"
-      ],
-      "147": [
-        "santemjocko"
-      ],
-      "14706": [
-        "iurie"
-      ],
-      "15": [
-        "Makishi25"
-      ],
-      "40": [
-        "leekcookie"
-      ],
-      "6": [
-        "DornDasBrot"
-      ],
-      "735": [
-        "XeonVirus"
-      ],
-      "9": [
-        "lodoss2011",
-        "chaos1989"
-      ]
-    },
-    "used": {
-      "1": [
-        "iurie"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "3": [
-        "DornDasBrot"
-      ],
-      "60": [
-        "santemjocko"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "Teayo"
+    ],
+    "12": [
+      "iurie"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "3": [
+      "Makishi25"
+    ]
+  },
+  "picked_up": {
+    "12": [
+      "Sayder13xr"
+    ],
+    "1252": [
+      "Teayo"
+    ],
+    "1452": [
+      "nitram1572"
+    ],
+    "147": [
+      "santemjocko"
+    ],
+    "14706": [
+      "iurie"
+    ],
+    "15": [
+      "Makishi25"
+    ],
+    "40": [
+      "leekcookie"
+    ],
+    "6": [
+      "DornDasBrot"
+    ],
+    "735": [
+      "XeonVirus"
+    ],
+    "9": [
+      "chaos1989",
+      "lodoss2011"
+    ]
+  },
+  "used": {
+    "1": [
+      "iurie"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "3": [
+      "DornDasBrot"
+    ],
+    "60": [
+      "santemjocko"
+    ]
   }
 }

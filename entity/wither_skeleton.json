@@ -1,54 +1,50 @@
 {
-  "name": "wither_skeleton",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1375": [
-        "santemjocko"
-      ],
-      "1721": [
-        "leekcookie"
-      ],
-      "1960": [
-        "__Iglo"
-      ],
-      "2396": [
-        "owac"
-      ],
-      "2486": [
-        "iurie"
-      ],
-      "304": [
-        "Mamuschkaz"
-      ],
-      "3123": [
-        "Iglo"
-      ],
-      "383": [
-        "imabaldman"
-      ],
-      "488": [
-        "XeonVirus"
-      ],
-      "7314": [
-        "__kreck"
-      ]
-    },
-    "killed_by": {
-      "1": [
-        "lodoss2011",
-        "TrashSuperstar"
-      ],
-      "2": [
-        "Mamuschkaz",
-        "__kreck"
-      ],
-      "3": [
-        "Iglo"
-      ],
-      "5": [
-        "santemjocko"
-      ]
-    }
+  "killed": {
+    "1375": [
+      "santemjocko"
+    ],
+    "1721": [
+      "leekcookie"
+    ],
+    "1960": [
+      "__Iglo"
+    ],
+    "2396": [
+      "owac"
+    ],
+    "2486": [
+      "iurie"
+    ],
+    "304": [
+      "Mamuschkaz"
+    ],
+    "3123": [
+      "Iglo"
+    ],
+    "383": [
+      "imabaldman"
+    ],
+    "488": [
+      "XeonVirus"
+    ],
+    "7314": [
+      "__kreck"
+    ]
+  },
+  "killed_by": {
+    "1": [
+      "TrashSuperstar",
+      "lodoss2011"
+    ],
+    "2": [
+      "Mamuschkaz",
+      "__kreck"
+    ],
+    "3": [
+      "Iglo"
+    ],
+    "5": [
+      "santemjocko"
+    ]
   }
 }

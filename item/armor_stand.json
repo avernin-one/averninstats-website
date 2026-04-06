@@ -1,121 +1,117 @@
 {
-  "name": "armor_stand",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "santemjocko",
-        "nitram1572"
-      ],
-      "12": [
-        "owac"
-      ],
-      "2": [
-        "Mamuschkaz",
-        "Ivenor",
-        "Makishi25"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "4": [
-        "lodoss2011",
-        "imabaldman"
-      ],
-      "59": [
-        "iurie"
-      ],
-      "6": [
-        "ScimMLG"
-      ],
-      "61": [
-        "Iglo"
-      ],
-      "78": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "SuperXXLProfi",
-        "Sayder13xr"
-      ],
-      "9": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "lodoss2011",
-        "minenicknick",
-        "Mamuschkaz",
-        "Ivenor",
-        "Iglo",
-        "Makishi25",
-        "Sayder13xr",
-        "Teayo"
-      ],
-      "19": [
-        "imabaldman"
-      ],
-      "22": [
-        "leekcookie"
-      ],
-      "3": [
-        "nitram1572",
-        "JonasderGamer"
-      ],
-      "41": [
-        "owac"
-      ],
-      "5": [
-        "SuperXXLProfi"
-      ],
-      "6": [
-        "__kreck"
-      ],
-      "7": [
-        "ScimMLG",
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "1": [
-        "santemjocko",
-        "minenicknick"
-      ],
-      "10": [
-        "leekcookie"
-      ],
-      "13": [
-        "ScimMLG"
-      ],
-      "2": [
-        "Ivenor",
-        "JonasderGamer"
-      ],
-      "20": [
-        "owac"
-      ],
-      "22": [
-        "imabaldman"
-      ],
-      "3": [
-        "Mamuschkaz",
-        "SuperXXLProfi",
-        "nitram1572",
-        "Makishi25"
-      ],
-      "4": [
-        "Iglo",
-        "__Iglo"
-      ],
-      "5": [
-        "lodoss2011"
-      ],
-      "7": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "nitram1572",
+      "santemjocko"
+    ],
+    "12": [
+      "owac"
+    ],
+    "2": [
+      "Ivenor",
+      "Makishi25",
+      "Mamuschkaz"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "4": [
+      "imabaldman",
+      "lodoss2011"
+    ],
+    "59": [
+      "iurie"
+    ],
+    "6": [
+      "ScimMLG"
+    ],
+    "61": [
+      "Iglo"
+    ],
+    "78": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Sayder13xr",
+      "SuperXXLProfi"
+    ],
+    "9": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Iglo",
+      "Ivenor",
+      "Makishi25",
+      "Mamuschkaz",
+      "Sayder13xr",
+      "Teayo",
+      "lodoss2011",
+      "minenicknick"
+    ],
+    "19": [
+      "imabaldman"
+    ],
+    "22": [
+      "leekcookie"
+    ],
+    "3": [
+      "JonasderGamer",
+      "nitram1572"
+    ],
+    "41": [
+      "owac"
+    ],
+    "5": [
+      "SuperXXLProfi"
+    ],
+    "6": [
+      "__kreck"
+    ],
+    "7": [
+      "ScimMLG",
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "1": [
+      "minenicknick",
+      "santemjocko"
+    ],
+    "10": [
+      "leekcookie"
+    ],
+    "13": [
+      "ScimMLG"
+    ],
+    "2": [
+      "Ivenor",
+      "JonasderGamer"
+    ],
+    "20": [
+      "owac"
+    ],
+    "22": [
+      "imabaldman"
+    ],
+    "3": [
+      "Makishi25",
+      "Mamuschkaz",
+      "SuperXXLProfi",
+      "nitram1572"
+    ],
+    "4": [
+      "Iglo",
+      "__Iglo"
+    ],
+    "5": [
+      "lodoss2011"
+    ],
+    "7": [
+      "__kreck"
+    ]
   }
 }

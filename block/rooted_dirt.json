@@ -1,81 +1,77 @@
 {
-  "name": "rooted_dirt",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "10": [
-        "iurie"
-      ],
-      "2": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Lord_HoruS"
-      ],
-      "5": [
-        "lodoss2011"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie",
-        "Lord_HoruS"
-      ],
-      "17": [
-        "KleeneEle"
-      ],
-      "3": [
-        "santemjocko"
-      ],
-      "408": [
-        "iurie"
-      ],
-      "418": [
-        "SuperXXLProfi"
-      ],
-      "45": [
-        "philxpx"
-      ],
-      "5": [
-        "lodoss2011"
-      ],
-      "7": [
-        "imabaldman"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "leekcookie",
-        "Lord_HoruS"
-      ],
-      "17": [
-        "KleeneEle"
-      ],
-      "3": [
-        "santemjocko"
-      ],
-      "403": [
-        "SuperXXLProfi"
-      ],
-      "404": [
-        "iurie"
-      ],
-      "43": [
-        "philxpx"
-      ],
-      "5": [
-        "lodoss2011"
-      ],
-      "7": [
-        "imabaldman"
-      ]
-    },
-    "used": {
-      "224": [
-        "SuperXXLProfi"
-      ]
-    }
+  "crafted": {
+    "10": [
+      "iurie"
+    ],
+    "2": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Lord_HoruS"
+    ],
+    "5": [
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Lord_HoruS",
+      "leekcookie"
+    ],
+    "17": [
+      "KleeneEle"
+    ],
+    "3": [
+      "santemjocko"
+    ],
+    "408": [
+      "iurie"
+    ],
+    "418": [
+      "SuperXXLProfi"
+    ],
+    "45": [
+      "philxpx"
+    ],
+    "5": [
+      "lodoss2011"
+    ],
+    "7": [
+      "imabaldman"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Lord_HoruS",
+      "leekcookie"
+    ],
+    "17": [
+      "KleeneEle"
+    ],
+    "3": [
+      "santemjocko"
+    ],
+    "403": [
+      "SuperXXLProfi"
+    ],
+    "404": [
+      "iurie"
+    ],
+    "43": [
+      "philxpx"
+    ],
+    "5": [
+      "lodoss2011"
+    ],
+    "7": [
+      "imabaldman"
+    ]
+  },
+  "used": {
+    "224": [
+      "SuperXXLProfi"
+    ]
   }
 }

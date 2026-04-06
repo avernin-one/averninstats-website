@@ -1,39 +1,35 @@
 {
-  "name": "iron_horse_armor",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "1": [
-        "owac",
-        "__kreck",
-        "Teayo"
-      ],
-      "2": [
-        "santemjocko",
-        "Mamuschkaz",
-        "Iglo",
-        "iurie"
-      ],
-      "5": [
-        "XeonVirus"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "owac",
-        "DornDasBrot",
-        "__kreck"
-      ],
-      "16": [
-        "iurie"
-      ],
-      "2": [
-        "Iglo",
-        "Teayo"
-      ],
-      "6": [
-        "XeonVirus"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "Teayo",
+      "__kreck",
+      "owac"
+    ],
+    "2": [
+      "Iglo",
+      "Mamuschkaz",
+      "iurie",
+      "santemjocko"
+    ],
+    "5": [
+      "XeonVirus"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "DornDasBrot",
+      "__kreck",
+      "owac"
+    ],
+    "16": [
+      "iurie"
+    ],
+    "2": [
+      "Iglo",
+      "Teayo"
+    ],
+    "6": [
+      "XeonVirus"
+    ]
   }
 }

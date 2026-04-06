@@ -1,127 +1,123 @@
 {
-  "name": "nether_wart_block",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "21": [
-        "santemjocko"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "SnuvomBodensatz",
-        "Makishi25"
-      ],
-      "101": [
-        "iurie"
-      ],
-      "21": [
-        "santemjocko"
-      ],
-      "22": [
-        "imabaldman"
-      ],
-      "24": [
-        "DornDasBrot"
-      ],
-      "332": [
-        "Lord_HoruS"
-      ],
-      "68": [
-        "Iglo"
-      ]
-    },
-    "mined": {
-      "16": [
-        "lodoss2011"
-      ],
-      "21": [
-        "Cpt_looper",
-        "imabaldman"
-      ],
-      "32": [
-        "santemjocko"
-      ],
-      "327": [
-        "Iglo"
-      ],
-      "334": [
-        "__kreck"
-      ],
-      "3446": [
-        "iurie"
-      ],
-      "46": [
-        "Makishi25"
-      ],
-      "818": [
-        "leekcookie"
-      ],
-      "822": [
-        "Lord_HoruS"
-      ],
-      "90": [
-        "DornDasBrot"
-      ]
-    },
-    "picked_up": {
-      "18": [
-        "Cpt_looper"
-      ],
-      "22": [
-        "imabaldman"
-      ],
-      "285": [
-        "Iglo"
-      ],
-      "313": [
-        "__kreck"
-      ],
-      "33": [
-        "santemjocko"
-      ],
-      "333": [
-        "Lord_HoruS"
-      ],
-      "46": [
-        "Makishi25"
-      ],
-      "785": [
-        "leekcookie"
-      ],
-      "944": [
-        "iurie"
-      ],
-      "96": [
-        "DornDasBrot"
-      ]
-    },
-    "used": {
-      "1": [
-        "Cpt_looper",
-        "Warhazarder"
-      ],
-      "2": [
-        "owac"
-      ],
-      "30": [
-        "iurie"
-      ],
-      "31": [
-        "Iglo"
-      ],
-      "36": [
-        "DornDasBrot"
-      ],
-      "53": [
-        "__Iglo"
-      ],
-      "6": [
-        "__kreck"
-      ],
-      "7": [
-        "santemjocko"
-      ]
-    }
+  "crafted": {
+    "21": [
+      "santemjocko"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Makishi25",
+      "SnuvomBodensatz"
+    ],
+    "101": [
+      "iurie"
+    ],
+    "21": [
+      "santemjocko"
+    ],
+    "22": [
+      "imabaldman"
+    ],
+    "24": [
+      "DornDasBrot"
+    ],
+    "332": [
+      "Lord_HoruS"
+    ],
+    "68": [
+      "Iglo"
+    ]
+  },
+  "mined": {
+    "16": [
+      "lodoss2011"
+    ],
+    "21": [
+      "Cpt_looper",
+      "imabaldman"
+    ],
+    "32": [
+      "santemjocko"
+    ],
+    "327": [
+      "Iglo"
+    ],
+    "334": [
+      "__kreck"
+    ],
+    "3446": [
+      "iurie"
+    ],
+    "46": [
+      "Makishi25"
+    ],
+    "818": [
+      "leekcookie"
+    ],
+    "822": [
+      "Lord_HoruS"
+    ],
+    "90": [
+      "DornDasBrot"
+    ]
+  },
+  "picked_up": {
+    "18": [
+      "Cpt_looper"
+    ],
+    "22": [
+      "imabaldman"
+    ],
+    "285": [
+      "Iglo"
+    ],
+    "313": [
+      "__kreck"
+    ],
+    "33": [
+      "santemjocko"
+    ],
+    "333": [
+      "Lord_HoruS"
+    ],
+    "46": [
+      "Makishi25"
+    ],
+    "785": [
+      "leekcookie"
+    ],
+    "944": [
+      "iurie"
+    ],
+    "96": [
+      "DornDasBrot"
+    ]
+  },
+  "used": {
+    "1": [
+      "Cpt_looper",
+      "Warhazarder"
+    ],
+    "2": [
+      "owac"
+    ],
+    "30": [
+      "iurie"
+    ],
+    "31": [
+      "Iglo"
+    ],
+    "36": [
+      "DornDasBrot"
+    ],
+    "53": [
+      "__Iglo"
+    ],
+    "6": [
+      "__kreck"
+    ],
+    "7": [
+      "santemjocko"
+    ]
   }
 }

@@ -1,17 +1,13 @@
 {
-  "name": "globe_banner_pattern",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "iurie",
-        "Teayo"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Teayo",
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "iurie"
+    ]
   }
 }

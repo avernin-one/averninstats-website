@@ -1,39 +1,35 @@
 {
-  "name": "weeping_vines_plant",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "13": [
-        "XeonVirus"
-      ],
-      "17": [
-        "__kreck"
-      ],
-      "2": [
-        "Cpt_looper",
-        "__Iglo"
-      ],
-      "3": [
-        "TrashSuperstar"
-      ],
-      "31": [
-        "santemjocko"
-      ],
-      "4": [
-        "DornDasBrot"
-      ],
-      "5": [
-        "leekcookie"
-      ],
-      "57": [
-        "Lord_HoruS"
-      ],
-      "60": [
-        "iurie"
-      ],
-      "7": [
-        "Iglo"
-      ]
-    }
+  "mined": {
+    "13": [
+      "XeonVirus"
+    ],
+    "17": [
+      "__kreck"
+    ],
+    "2": [
+      "Cpt_looper",
+      "__Iglo"
+    ],
+    "3": [
+      "TrashSuperstar"
+    ],
+    "31": [
+      "santemjocko"
+    ],
+    "4": [
+      "DornDasBrot"
+    ],
+    "5": [
+      "leekcookie"
+    ],
+    "57": [
+      "Lord_HoruS"
+    ],
+    "60": [
+      "iurie"
+    ],
+    "7": [
+      "Iglo"
+    ]
   }
 }

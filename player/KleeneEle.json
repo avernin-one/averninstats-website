@@ -3,8 +3,8 @@
   "uuid": "463f1e66-7416-4962-86f6-7a40c255d076",
   "medals": {
     "gold": 0,
-    "silver": 0,
-    "bronze": 0
+    "silver": 1,
+    "bronze": 2
   },
   "stats": {
     "aviate_one_cm": 24113067,
@@ -137,20 +137,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1": [
-          "minecart",
-          "oak_boat"
-        ],
-        "378": [
-          "firework_rocket"
-        ]
-      },
-      "dropped": {
-        "279": [
-          "ender_pearl"
-        ]
-      },
       "killed": {
         "1210": [
           "enderman"
@@ -171,40 +157,6 @@
       "killed_by": {
         "1": [
           "drowned"
-        ]
-      },
-      "mined": {
-        "9": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "2": [
-          "minecart"
-        ],
-        "27": [
-          "oak_boat"
-        ],
-        "3": [
-          "chicken"
-        ],
-        "310": [
-          "ender_pearl"
-        ],
-        "9": [
-          "arrow",
-          "tnt"
-        ]
-      },
-      "used": {
-        "2": [
-          "minecart"
-        ],
-        "27": [
-          "oak_boat"
-        ],
-        "352": [
-          "firework_rocket"
         ]
       }
     },
@@ -241,7 +193,6 @@
           "iron_chestplate",
           "netherite_axe",
           "rotten_flesh",
-          "wheat",
           "wooden_hoe"
         ],
         "2": [
@@ -252,11 +203,6 @@
         ],
         "279": [
           "ender_pearl"
-        ]
-      },
-      "mined": {
-        "31": [
-          "wheat"
         ]
       },
       "picked_up": {

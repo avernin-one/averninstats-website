@@ -1,70 +1,66 @@
 {
-  "name": "nether_brick_stairs",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "156": [
-        "__kreck"
-      ],
-      "16": [
-        "Makishi25"
-      ]
-    },
-    "dropped": {
-      "2": [
-        "Iglo"
-      ]
-    },
-    "mined": {
-      "1": [
-        "chaos1989",
-        "Makishi25",
-        "Sayder13xr"
-      ],
-      "4": [
-        "Lord_HoruS"
-      ],
-      "5": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "chaos1989",
-        "Sayder13xr"
-      ],
-      "3": [
-        "Iglo"
-      ],
-      "4": [
-        "Lord_HoruS"
-      ],
-      "5": [
-        "__kreck"
-      ],
-      "9": [
-        "Makishi25"
-      ]
-    },
-    "used": {
-      "1": [
-        "Sayder13xr"
-      ],
-      "2": [
-        "Iglo"
-      ],
-      "31": [
-        "__kreck"
-      ],
-      "4": [
-        "Lord_HoruS"
-      ],
-      "43": [
-        "chaos1989"
-      ],
-      "9": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "156": [
+      "__kreck"
+    ],
+    "16": [
+      "Makishi25"
+    ]
+  },
+  "dropped": {
+    "2": [
+      "Iglo"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Makishi25",
+      "Sayder13xr",
+      "chaos1989"
+    ],
+    "4": [
+      "Lord_HoruS"
+    ],
+    "5": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Sayder13xr",
+      "chaos1989"
+    ],
+    "3": [
+      "Iglo"
+    ],
+    "4": [
+      "Lord_HoruS"
+    ],
+    "5": [
+      "__kreck"
+    ],
+    "9": [
+      "Makishi25"
+    ]
+  },
+  "used": {
+    "1": [
+      "Sayder13xr"
+    ],
+    "2": [
+      "Iglo"
+    ],
+    "31": [
+      "__kreck"
+    ],
+    "4": [
+      "Lord_HoruS"
+    ],
+    "43": [
+      "chaos1989"
+    ],
+    "9": [
+      "Makishi25"
+    ]
   }
 }

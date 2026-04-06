@@ -1,102 +1,98 @@
 {
-  "name": "emerald",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "106504": [
-        "iurie"
-      ],
-      "11393": [
-        "owac"
-      ],
-      "16905": [
-        "Iglo"
-      ],
-      "43101": [
-        "leekcookie"
-      ],
-      "4578": [
-        "DornDasBrot"
-      ],
-      "5806": [
-        "SuperXXLProfi"
-      ],
-      "6728": [
-        "__Iglo"
-      ],
-      "7153": [
-        "philxpx"
-      ],
-      "7585": [
-        "nitram1572"
-      ],
-      "7906": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "130": [
-        "obvBasti"
-      ],
-      "135": [
-        "minenicknick"
-      ],
-      "1476": [
-        "leekcookie"
-      ],
-      "260": [
-        "nitram1572"
-      ],
-      "3086": [
-        "owac"
-      ],
-      "3349": [
-        "imabaldman"
-      ],
-      "388": [
-        "lodoss2011"
-      ],
-      "405": [
-        "SuperXXLProfi"
-      ],
-      "482": [
-        "santemjocko"
-      ],
-      "574": [
-        "philxpx"
-      ]
-    },
-    "picked_up": {
-      "2104": [
-        "SuperXXLProfi"
-      ],
-      "2192": [
-        "philxpx"
-      ],
-      "3179": [
-        "imabaldman"
-      ],
-      "375": [
-        "obvBasti"
-      ],
-      "400": [
-        "minenicknick"
-      ],
-      "4489": [
-        "owac"
-      ],
-      "6579": [
-        "leekcookie"
-      ],
-      "692": [
-        "Mamuschkaz"
-      ],
-      "739": [
-        "santemjocko"
-      ],
-      "970": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "106504": [
+      "iurie"
+    ],
+    "11393": [
+      "owac"
+    ],
+    "16905": [
+      "Iglo"
+    ],
+    "43101": [
+      "leekcookie"
+    ],
+    "4578": [
+      "DornDasBrot"
+    ],
+    "5806": [
+      "SuperXXLProfi"
+    ],
+    "6728": [
+      "__Iglo"
+    ],
+    "7153": [
+      "philxpx"
+    ],
+    "7585": [
+      "nitram1572"
+    ],
+    "7906": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "130": [
+      "obvBasti"
+    ],
+    "135": [
+      "minenicknick"
+    ],
+    "1476": [
+      "leekcookie"
+    ],
+    "260": [
+      "nitram1572"
+    ],
+    "3086": [
+      "owac"
+    ],
+    "3349": [
+      "imabaldman"
+    ],
+    "388": [
+      "lodoss2011"
+    ],
+    "405": [
+      "SuperXXLProfi"
+    ],
+    "482": [
+      "santemjocko"
+    ],
+    "574": [
+      "philxpx"
+    ]
+  },
+  "picked_up": {
+    "2104": [
+      "SuperXXLProfi"
+    ],
+    "2192": [
+      "philxpx"
+    ],
+    "3179": [
+      "imabaldman"
+    ],
+    "375": [
+      "obvBasti"
+    ],
+    "400": [
+      "minenicknick"
+    ],
+    "4489": [
+      "owac"
+    ],
+    "6579": [
+      "leekcookie"
+    ],
+    "692": [
+      "Mamuschkaz"
+    ],
+    "739": [
+      "santemjocko"
+    ],
+    "970": [
+      "iurie"
+    ]
   }
 }

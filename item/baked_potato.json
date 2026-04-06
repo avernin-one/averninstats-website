@@ -1,142 +1,138 @@
 {
-  "name": "baked_potato",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1030": [
-        "Makishi25"
-      ],
-      "1479": [
-        "owac"
-      ],
-      "1991": [
-        "lodoss2011"
-      ],
-      "236": [
-        "egoplayer_Felix"
-      ],
-      "247": [
-        "santemjocko"
-      ],
-      "282": [
-        "leekcookie"
-      ],
-      "320": [
-        "Mandahaya"
-      ],
-      "397": [
-        "JonasderGamer"
-      ],
-      "471": [
-        "nitram1572"
-      ],
-      "91": [
-        "KleeneEle"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Mandahaya",
-        "minenicknick",
-        "philxpx",
-        "egoplayer_Felix",
-        "Sayder13xr",
-        "Warhazarder"
-      ],
-      "108": [
-        "leekcookie"
-      ],
-      "2": [
-        "Makishi25",
-        "XeonVirus"
-      ],
-      "22": [
-        "nitram1572"
-      ],
-      "24": [
-        "__kreck"
-      ],
-      "30": [
-        "JonasderGamer"
-      ],
-      "359": [
-        "owac"
-      ],
-      "52": [
-        "lodoss2011",
-        "ScimMLG"
-      ],
-      "6": [
-        "obvBasti"
-      ],
-      "73": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "105": [
-        "egoplayer_Felix"
-      ],
-      "122": [
-        "imabaldman"
-      ],
-      "167": [
-        "nitram1572"
-      ],
-      "176": [
-        "leekcookie"
-      ],
-      "1969": [
-        "lodoss2011"
-      ],
-      "311": [
-        "Mandahaya"
-      ],
-      "454": [
-        "santemjocko"
-      ],
-      "562": [
-        "JonasderGamer"
-      ],
-      "564": [
-        "owac"
-      ],
-      "662": [
-        "Makishi25"
-      ]
-    },
-    "used": {
-      "1037": [
-        "Makishi25"
-      ],
-      "150": [
-        "egoplayer_Felix"
-      ],
-      "1560": [
-        "owac"
-      ],
-      "1767": [
-        "lodoss2011"
-      ],
-      "196": [
-        "santemjocko"
-      ],
-      "224": [
-        "Mandahaya"
-      ],
-      "261": [
-        "leekcookie"
-      ],
-      "262": [
-        "JonasderGamer"
-      ],
-      "337": [
-        "nitram1572"
-      ],
-      "64": [
-        "chaos1989",
-        "SuperXXLProfi"
-      ]
-    }
+  "crafted": {
+    "1030": [
+      "Makishi25"
+    ],
+    "1479": [
+      "owac"
+    ],
+    "1991": [
+      "lodoss2011"
+    ],
+    "236": [
+      "egoplayer_Felix"
+    ],
+    "247": [
+      "santemjocko"
+    ],
+    "282": [
+      "leekcookie"
+    ],
+    "320": [
+      "Mandahaya"
+    ],
+    "397": [
+      "JonasderGamer"
+    ],
+    "471": [
+      "nitram1572"
+    ],
+    "91": [
+      "KleeneEle"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Mandahaya",
+      "Sayder13xr",
+      "Warhazarder",
+      "egoplayer_Felix",
+      "minenicknick",
+      "philxpx"
+    ],
+    "108": [
+      "leekcookie"
+    ],
+    "2": [
+      "Makishi25",
+      "XeonVirus"
+    ],
+    "22": [
+      "nitram1572"
+    ],
+    "24": [
+      "__kreck"
+    ],
+    "30": [
+      "JonasderGamer"
+    ],
+    "359": [
+      "owac"
+    ],
+    "52": [
+      "ScimMLG",
+      "lodoss2011"
+    ],
+    "6": [
+      "obvBasti"
+    ],
+    "73": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "105": [
+      "egoplayer_Felix"
+    ],
+    "122": [
+      "imabaldman"
+    ],
+    "167": [
+      "nitram1572"
+    ],
+    "176": [
+      "leekcookie"
+    ],
+    "1969": [
+      "lodoss2011"
+    ],
+    "311": [
+      "Mandahaya"
+    ],
+    "454": [
+      "santemjocko"
+    ],
+    "562": [
+      "JonasderGamer"
+    ],
+    "564": [
+      "owac"
+    ],
+    "662": [
+      "Makishi25"
+    ]
+  },
+  "used": {
+    "1037": [
+      "Makishi25"
+    ],
+    "150": [
+      "egoplayer_Felix"
+    ],
+    "1560": [
+      "owac"
+    ],
+    "1767": [
+      "lodoss2011"
+    ],
+    "196": [
+      "santemjocko"
+    ],
+    "224": [
+      "Mandahaya"
+    ],
+    "261": [
+      "leekcookie"
+    ],
+    "262": [
+      "JonasderGamer"
+    ],
+    "337": [
+      "nitram1572"
+    ],
+    "64": [
+      "SuperXXLProfi",
+      "chaos1989"
+    ]
   }
 }

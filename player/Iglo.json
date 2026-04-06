@@ -2,9 +2,9 @@
   "name": "Iglo",
   "uuid": "558f133f-76b7-43c3-8cbc-29bc2e04a10a",
   "medals": {
-    "gold": 0,
-    "silver": 3,
-    "bronze": 1
+    "gold": 5,
+    "silver": 5,
+    "bronze": 7
   },
   "stats": {
     "animals_bred": 107,
@@ -145,41 +145,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "14": [
-          "oak_boat"
-        ],
-        "30": [
-          "hopper_minecart"
-        ],
-        "5049": [
-          "firework_rocket"
-        ],
-        "61": [
-          "armor_stand",
-          "minecart"
-        ],
-        "7": [
-          "item_frame"
-        ]
-      },
-      "dropped": {
-        "13824": [
-          "ender_pearl"
-        ],
-        "162": [
-          "arrow"
-        ],
-        "244": [
-          "firework_rocket"
-        ],
-        "7": [
-          "oak_boat"
-        ],
-        "9": [
-          "minecart"
-        ]
-      },
       "killed": {
         "1125": [
           "magma_cube"
@@ -211,40 +176,6 @@
         ],
         "4": [
           "player"
-        ]
-      },
-      "picked_up": {
-        "184": [
-          "minecart"
-        ],
-        "2446": [
-          "ender_pearl"
-        ],
-        "289": [
-          "firework_rocket"
-        ],
-        "300": [
-          "oak_boat"
-        ],
-        "605": [
-          "arrow"
-        ]
-      },
-      "used": {
-        "222": [
-          "minecart"
-        ],
-        "297": [
-          "oak_boat"
-        ],
-        "3079": [
-          "firework_rocket"
-        ],
-        "34": [
-          "jungle_boat"
-        ],
-        "554": [
-          "ender_pearl"
         ]
       }
     },
@@ -308,17 +239,6 @@
         ],
         "9943": [
           "melon_slice"
-        ]
-      },
-      "mined": {
-        "1630": [
-          "wheat"
-        ],
-        "40": [
-          "nether_wart"
-        ],
-        "5": [
-          "brewing_stand"
         ]
       },
       "picked_up": {

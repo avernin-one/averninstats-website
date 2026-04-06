@@ -1,30 +1,26 @@
 {
-  "name": "attached_melon_stem",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "Ivenor",
-        "TrashSuperstar",
-        "Warhazarder"
-      ],
-      "15": [
-        "iurie"
-      ],
-      "2": [
-        "Mandahaya",
-        "SnuvomBodensatz"
-      ],
-      "3": [
-        "leekcookie"
-      ],
-      "7": [
-        "chaos1989"
-      ],
-      "9": [
-        "Iglo",
-        "Telinnor"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Ivenor",
+      "TrashSuperstar",
+      "Warhazarder"
+    ],
+    "15": [
+      "iurie"
+    ],
+    "2": [
+      "Mandahaya",
+      "SnuvomBodensatz"
+    ],
+    "3": [
+      "leekcookie"
+    ],
+    "7": [
+      "chaos1989"
+    ],
+    "9": [
+      "Iglo",
+      "Telinnor"
+    ]
   }
 }

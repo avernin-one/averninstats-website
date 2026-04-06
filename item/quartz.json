@@ -1,78 +1,74 @@
 {
-  "name": "quartz",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "36": [
-        "chaos1989"
-      ],
-      "9": [
-        "Cpt_looper"
-      ]
-    },
-    "dropped": {
-      "1102": [
-        "minenicknick"
-      ],
-      "223": [
-        "obvBasti"
-      ],
-      "252": [
-        "owac"
-      ],
-      "282": [
-        "leekcookie"
-      ],
-      "3251": [
-        "__kreck"
-      ],
-      "43": [
-        "lodoss2011"
-      ],
-      "5080": [
-        "__Iglo"
-      ],
-      "5965": [
-        "imabaldman"
-      ],
-      "64": [
-        "iurie"
-      ],
-      "893": [
-        "philxpx"
-      ]
-    },
-    "picked_up": {
-      "1112": [
-        "minenicknick"
-      ],
-      "1233": [
-        "philxpx"
-      ],
-      "1389": [
-        "iurie"
-      ],
-      "1694": [
-        "__Iglo"
-      ],
-      "1916": [
-        "owac"
-      ],
-      "3217": [
-        "Warhazarder"
-      ],
-      "3881": [
-        "__kreck"
-      ],
-      "4328": [
-        "leekcookie"
-      ],
-      "9619": [
-        "imabaldman"
-      ],
-      "962": [
-        "SnuvomBodensatz"
-      ]
-    }
+  "crafted": {
+    "36": [
+      "chaos1989"
+    ],
+    "9": [
+      "Cpt_looper"
+    ]
+  },
+  "dropped": {
+    "1102": [
+      "minenicknick"
+    ],
+    "223": [
+      "obvBasti"
+    ],
+    "252": [
+      "owac"
+    ],
+    "282": [
+      "leekcookie"
+    ],
+    "3251": [
+      "__kreck"
+    ],
+    "43": [
+      "lodoss2011"
+    ],
+    "5080": [
+      "__Iglo"
+    ],
+    "5965": [
+      "imabaldman"
+    ],
+    "64": [
+      "iurie"
+    ],
+    "893": [
+      "philxpx"
+    ]
+  },
+  "picked_up": {
+    "1112": [
+      "minenicknick"
+    ],
+    "1233": [
+      "philxpx"
+    ],
+    "1389": [
+      "iurie"
+    ],
+    "1694": [
+      "__Iglo"
+    ],
+    "1916": [
+      "owac"
+    ],
+    "3217": [
+      "Warhazarder"
+    ],
+    "3881": [
+      "__kreck"
+    ],
+    "4328": [
+      "leekcookie"
+    ],
+    "9619": [
+      "imabaldman"
+    ],
+    "962": [
+      "SnuvomBodensatz"
+    ]
   }
 }

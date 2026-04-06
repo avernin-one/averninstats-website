@@ -1,143 +1,139 @@
 {
-  "name": "moss_block",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "2": [
-        "santemjocko"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "lodoss2011",
-        "Ivenor",
-        "DornDasBrot",
-        "imabaldman"
-      ],
-      "10": [
-        "Lukas_126"
-      ],
-      "12159": [
-        "__kreck"
-      ],
-      "2": [
-        "santemjocko",
-        "chaos1989"
-      ],
-      "25": [
-        "Temeraiere"
-      ],
-      "52": [
-        "philxpx"
-      ],
-      "554": [
-        "__Iglo"
-      ],
-      "598": [
-        "Iglo"
-      ],
-      "83": [
-        "Sayder13xr"
-      ],
-      "98": [
-        "iurie"
-      ]
-    },
-    "mined": {
-      "105": [
-        "philxpx"
-      ],
-      "1356": [
-        "iurie"
-      ],
-      "141": [
-        "__Iglo"
-      ],
-      "160": [
-        "santemjocko"
-      ],
-      "22851": [
-        "__kreck"
-      ],
-      "25": [
-        "Temeraiere"
-      ],
-      "33": [
-        "Iglo"
-      ],
-      "57": [
-        "TrashSuperstar"
-      ],
-      "631": [
-        "chaos1989"
-      ],
-      "88": [
-        "SuperXXLProfi"
-      ]
-    },
-    "picked_up": {
-      "117": [
-        "philxpx"
-      ],
-      "124": [
-        "Sayder13xr"
-      ],
-      "160": [
-        "santemjocko"
-      ],
-      "1672": [
-        "__Iglo"
-      ],
-      "267": [
-        "leekcookie"
-      ],
-      "49471": [
-        "iurie"
-      ],
-      "508": [
-        "Iglo"
-      ],
-      "586": [
-        "chaos1989"
-      ],
-      "6112": [
-        "__kreck"
-      ],
-      "96": [
-        "SuperXXLProfi"
-      ]
-    },
-    "used": {
-      "114": [
-        "chaos1989"
-      ],
-      "16": [
-        "Iglo"
-      ],
-      "19": [
-        "SuperXXLProfi"
-      ],
-      "22": [
-        "leekcookie"
-      ],
-      "302": [
-        "__Iglo"
-      ],
-      "34": [
-        "Sayder13xr"
-      ],
-      "55": [
-        "philxpx"
-      ],
-      "6758": [
-        "iurie"
-      ],
-      "760": [
-        "__kreck"
-      ],
-      "9": [
-        "TrashSuperstar"
-      ]
-    }
+  "crafted": {
+    "2": [
+      "santemjocko"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "DornDasBrot",
+      "Ivenor",
+      "imabaldman",
+      "lodoss2011"
+    ],
+    "10": [
+      "Lukas_126"
+    ],
+    "12159": [
+      "__kreck"
+    ],
+    "2": [
+      "chaos1989",
+      "santemjocko"
+    ],
+    "25": [
+      "Temeraiere"
+    ],
+    "52": [
+      "philxpx"
+    ],
+    "554": [
+      "__Iglo"
+    ],
+    "598": [
+      "Iglo"
+    ],
+    "83": [
+      "Sayder13xr"
+    ],
+    "98": [
+      "iurie"
+    ]
+  },
+  "mined": {
+    "105": [
+      "philxpx"
+    ],
+    "1356": [
+      "iurie"
+    ],
+    "141": [
+      "__Iglo"
+    ],
+    "160": [
+      "santemjocko"
+    ],
+    "22851": [
+      "__kreck"
+    ],
+    "25": [
+      "Temeraiere"
+    ],
+    "33": [
+      "Iglo"
+    ],
+    "57": [
+      "TrashSuperstar"
+    ],
+    "631": [
+      "chaos1989"
+    ],
+    "88": [
+      "SuperXXLProfi"
+    ]
+  },
+  "picked_up": {
+    "117": [
+      "philxpx"
+    ],
+    "124": [
+      "Sayder13xr"
+    ],
+    "160": [
+      "santemjocko"
+    ],
+    "1672": [
+      "__Iglo"
+    ],
+    "267": [
+      "leekcookie"
+    ],
+    "49471": [
+      "iurie"
+    ],
+    "508": [
+      "Iglo"
+    ],
+    "586": [
+      "chaos1989"
+    ],
+    "6112": [
+      "__kreck"
+    ],
+    "96": [
+      "SuperXXLProfi"
+    ]
+  },
+  "used": {
+    "114": [
+      "chaos1989"
+    ],
+    "16": [
+      "Iglo"
+    ],
+    "19": [
+      "SuperXXLProfi"
+    ],
+    "22": [
+      "leekcookie"
+    ],
+    "302": [
+      "__Iglo"
+    ],
+    "34": [
+      "Sayder13xr"
+    ],
+    "55": [
+      "philxpx"
+    ],
+    "6758": [
+      "iurie"
+    ],
+    "760": [
+      "__kreck"
+    ],
+    "9": [
+      "TrashSuperstar"
+    ]
   }
 }

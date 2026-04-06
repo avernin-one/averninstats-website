@@ -1,152 +1,148 @@
 {
-  "name": "dispenser",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "141": [
-        "__Iglo"
-      ],
-      "211": [
-        "iurie"
-      ],
-      "25": [
-        "Mamuschkaz"
-      ],
-      "26": [
-        "__kreck"
-      ],
-      "318": [
-        "leekcookie"
-      ],
-      "36": [
-        "Iglo"
-      ],
-      "37": [
-        "nitram1572"
-      ],
-      "48": [
-        "lodoss2011"
-      ],
-      "79": [
-        "owac"
-      ],
-      "84": [
-        "santemjocko"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Iglo"
-      ],
-      "18": [
-        "__Iglo"
-      ],
-      "2": [
-        "santemjocko",
-        "leekcookie",
-        "Mamuschkaz"
-      ]
-    },
-    "mined": {
-      "13": [
-        "__Iglo",
-        "XeonVirus"
-      ],
-      "19": [
-        "Sayder13xr"
-      ],
-      "21": [
-        "Cpt_looper"
-      ],
-      "24": [
-        "santemjocko"
-      ],
-      "30": [
-        "owac"
-      ],
-      "34": [
-        "iurie"
-      ],
-      "37": [
-        "nitram1572"
-      ],
-      "65": [
-        "leekcookie"
-      ],
-      "7": [
-        "__kreck"
-      ],
-      "8": [
-        "Mamuschkaz",
-        "Iglo"
-      ]
-    },
-    "picked_up": {
-      "15": [
-        "__kreck"
-      ],
-      "157": [
-        "leekcookie"
-      ],
-      "16": [
-        "Sayder13xr"
-      ],
-      "18": [
-        "Iglo"
-      ],
-      "22": [
-        "__Iglo"
-      ],
-      "25": [
-        "santemjocko"
-      ],
-      "27": [
-        "Cpt_looper"
-      ],
-      "28": [
-        "owac"
-      ],
-      "35": [
-        "iurie"
-      ],
-      "41": [
-        "nitram1572"
-      ]
-    },
-    "used": {
-      "134": [
-        "iurie"
-      ],
-      "137": [
-        "leekcookie"
-      ],
-      "22": [
-        "Mamuschkaz",
-        "__Iglo"
-      ],
-      "26": [
-        "lodoss2011"
-      ],
-      "27": [
-        "XeonVirus"
-      ],
-      "32": [
-        "Cpt_looper",
-        "__kreck"
-      ],
-      "33": [
-        "Iglo",
-        "Sayder13xr"
-      ],
-      "40": [
-        "santemjocko"
-      ],
-      "72": [
-        "nitram1572"
-      ],
-      "93": [
-        "owac"
-      ]
-    }
+  "crafted": {
+    "141": [
+      "__Iglo"
+    ],
+    "211": [
+      "iurie"
+    ],
+    "25": [
+      "Mamuschkaz"
+    ],
+    "26": [
+      "__kreck"
+    ],
+    "318": [
+      "leekcookie"
+    ],
+    "36": [
+      "Iglo"
+    ],
+    "37": [
+      "nitram1572"
+    ],
+    "48": [
+      "lodoss2011"
+    ],
+    "79": [
+      "owac"
+    ],
+    "84": [
+      "santemjocko"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Iglo"
+    ],
+    "18": [
+      "__Iglo"
+    ],
+    "2": [
+      "Mamuschkaz",
+      "leekcookie",
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "13": [
+      "XeonVirus",
+      "__Iglo"
+    ],
+    "19": [
+      "Sayder13xr"
+    ],
+    "21": [
+      "Cpt_looper"
+    ],
+    "24": [
+      "santemjocko"
+    ],
+    "30": [
+      "owac"
+    ],
+    "34": [
+      "iurie"
+    ],
+    "37": [
+      "nitram1572"
+    ],
+    "65": [
+      "leekcookie"
+    ],
+    "7": [
+      "__kreck"
+    ],
+    "8": [
+      "Iglo",
+      "Mamuschkaz"
+    ]
+  },
+  "picked_up": {
+    "15": [
+      "__kreck"
+    ],
+    "157": [
+      "leekcookie"
+    ],
+    "16": [
+      "Sayder13xr"
+    ],
+    "18": [
+      "Iglo"
+    ],
+    "22": [
+      "__Iglo"
+    ],
+    "25": [
+      "santemjocko"
+    ],
+    "27": [
+      "Cpt_looper"
+    ],
+    "28": [
+      "owac"
+    ],
+    "35": [
+      "iurie"
+    ],
+    "41": [
+      "nitram1572"
+    ]
+  },
+  "used": {
+    "134": [
+      "iurie"
+    ],
+    "137": [
+      "leekcookie"
+    ],
+    "22": [
+      "Mamuschkaz",
+      "__Iglo"
+    ],
+    "26": [
+      "lodoss2011"
+    ],
+    "27": [
+      "XeonVirus"
+    ],
+    "32": [
+      "Cpt_looper",
+      "__kreck"
+    ],
+    "33": [
+      "Iglo",
+      "Sayder13xr"
+    ],
+    "40": [
+      "santemjocko"
+    ],
+    "72": [
+      "nitram1572"
+    ],
+    "93": [
+      "owac"
+    ]
   }
 }

@@ -1,81 +1,77 @@
 {
-  "name": "charcoal",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "237": [
-        "owac"
-      ],
-      "297": [
-        "DornDasBrot"
-      ],
-      "303": [
-        "egoplayer_Felix"
-      ],
-      "3812": [
-        "chaos1989"
-      ],
-      "382": [
-        "Telinnor"
-      ],
-      "411": [
-        "Mamuschkaz"
-      ],
-      "4747": [
-        "SnuvomBodensatz"
-      ],
-      "580": [
-        "leekcookie"
-      ],
-      "636": [
-        "Mandahaya"
-      ],
-      "721": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "2": [
-        "santemjocko"
-      ],
-      "4": [
-        "Warhazarder"
-      ],
-      "48": [
-        "Mandahaya"
-      ]
-    },
-    "picked_up": {
-      "120": [
-        "egoplayer_Felix"
-      ],
-      "167": [
-        "iurie"
-      ],
-      "241": [
-        "Mandahaya"
-      ],
-      "350": [
-        "leekcookie"
-      ],
-      "41": [
-        "XeonVirus"
-      ],
-      "46": [
-        "owac"
-      ],
-      "48": [
-        "Mamuschkaz"
-      ],
-      "571": [
-        "chaos1989"
-      ],
-      "62": [
-        "Makishi25"
-      ],
-      "678": [
-        "Lord_HoruS"
-      ]
-    }
+  "crafted": {
+    "237": [
+      "owac"
+    ],
+    "297": [
+      "DornDasBrot"
+    ],
+    "303": [
+      "egoplayer_Felix"
+    ],
+    "3812": [
+      "chaos1989"
+    ],
+    "382": [
+      "Telinnor"
+    ],
+    "411": [
+      "Mamuschkaz"
+    ],
+    "4747": [
+      "SnuvomBodensatz"
+    ],
+    "580": [
+      "leekcookie"
+    ],
+    "636": [
+      "Mandahaya"
+    ],
+    "721": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "2": [
+      "santemjocko"
+    ],
+    "4": [
+      "Warhazarder"
+    ],
+    "48": [
+      "Mandahaya"
+    ]
+  },
+  "picked_up": {
+    "120": [
+      "egoplayer_Felix"
+    ],
+    "167": [
+      "iurie"
+    ],
+    "241": [
+      "Mandahaya"
+    ],
+    "350": [
+      "leekcookie"
+    ],
+    "41": [
+      "XeonVirus"
+    ],
+    "46": [
+      "owac"
+    ],
+    "48": [
+      "Mamuschkaz"
+    ],
+    "571": [
+      "chaos1989"
+    ],
+    "62": [
+      "Makishi25"
+    ],
+    "678": [
+      "Lord_HoruS"
+    ]
   }
 }

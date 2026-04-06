@@ -1,147 +1,143 @@
 {
-  "name": "cauldron",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "10": [
-        "nitram1572"
-      ],
-      "11": [
-        "owac"
-      ],
-      "12": [
-        "Makishi25"
-      ],
-      "120": [
-        "lodoss2011"
-      ],
-      "17": [
-        "Cpt_looper"
-      ],
-      "194": [
-        "iurie"
-      ],
-      "28": [
-        "Warhazarder"
-      ],
-      "5": [
-        "Lord_HoruS",
-        "Teayo"
-      ],
-      "529": [
-        "leekcookie"
-      ],
-      "6": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "2": [
-        "Mamuschkaz"
-      ],
-      "24": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "10": [
-        "iurie"
-      ],
-      "11": [
-        "lodoss2011"
-      ],
-      "13": [
-        "Teayo"
-      ],
-      "17": [
-        "Warhazarder"
-      ],
-      "23": [
-        "StofftierAnabol"
-      ],
-      "28": [
-        "nitram1572"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "4": [
-        "owac"
-      ],
-      "5": [
-        "Lord_HoruS",
-        "Makishi25"
-      ],
-      "8": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "16": [
-        "Teayo"
-      ],
-      "17": [
-        "Warhazarder"
-      ],
-      "19": [
-        "lodoss2011"
-      ],
-      "24": [
-        "StofftierAnabol"
-      ],
-      "31": [
-        "nitram1572"
-      ],
-      "355": [
-        "leekcookie"
-      ],
-      "5": [
-        "Lord_HoruS"
-      ],
-      "6": [
-        "Lukas_126",
-        "Mamuschkaz",
-        "Makishi25"
-      ],
-      "8": [
-        "owac"
-      ],
-      "9": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "10": [
-        "Lord_HoruS"
-      ],
-      "119": [
-        "lodoss2011"
-      ],
-      "12": [
-        "owac"
-      ],
-      "17": [
-        "Cpt_looper",
-        "Makishi25"
-      ],
-      "20": [
-        "StofftierAnabol"
-      ],
-      "201": [
-        "iurie"
-      ],
-      "23": [
-        "Teayo"
-      ],
-      "32": [
-        "Warhazarder"
-      ],
-      "40": [
-        "nitram1572"
-      ],
-      "475": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "10": [
+      "nitram1572"
+    ],
+    "11": [
+      "owac"
+    ],
+    "12": [
+      "Makishi25"
+    ],
+    "120": [
+      "lodoss2011"
+    ],
+    "17": [
+      "Cpt_looper"
+    ],
+    "194": [
+      "iurie"
+    ],
+    "28": [
+      "Warhazarder"
+    ],
+    "5": [
+      "Lord_HoruS",
+      "Teayo"
+    ],
+    "529": [
+      "leekcookie"
+    ],
+    "6": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "2": [
+      "Mamuschkaz"
+    ],
+    "24": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "10": [
+      "iurie"
+    ],
+    "11": [
+      "lodoss2011"
+    ],
+    "13": [
+      "Teayo"
+    ],
+    "17": [
+      "Warhazarder"
+    ],
+    "23": [
+      "StofftierAnabol"
+    ],
+    "28": [
+      "nitram1572"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "4": [
+      "owac"
+    ],
+    "5": [
+      "Lord_HoruS",
+      "Makishi25"
+    ],
+    "8": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "16": [
+      "Teayo"
+    ],
+    "17": [
+      "Warhazarder"
+    ],
+    "19": [
+      "lodoss2011"
+    ],
+    "24": [
+      "StofftierAnabol"
+    ],
+    "31": [
+      "nitram1572"
+    ],
+    "355": [
+      "leekcookie"
+    ],
+    "5": [
+      "Lord_HoruS"
+    ],
+    "6": [
+      "Lukas_126",
+      "Makishi25",
+      "Mamuschkaz"
+    ],
+    "8": [
+      "owac"
+    ],
+    "9": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "10": [
+      "Lord_HoruS"
+    ],
+    "119": [
+      "lodoss2011"
+    ],
+    "12": [
+      "owac"
+    ],
+    "17": [
+      "Cpt_looper",
+      "Makishi25"
+    ],
+    "20": [
+      "StofftierAnabol"
+    ],
+    "201": [
+      "iurie"
+    ],
+    "23": [
+      "Teayo"
+    ],
+    "32": [
+      "Warhazarder"
+    ],
+    "40": [
+      "nitram1572"
+    ],
+    "475": [
+      "leekcookie"
+    ]
   }
 }

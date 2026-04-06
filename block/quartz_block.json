@@ -1,117 +1,113 @@
 {
-  "name": "quartz_block",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "126": [
-        "__Iglo"
-      ],
-      "1422": [
-        "leekcookie"
-      ],
-      "1457": [
-        "owac"
-      ],
-      "152": [
-        "Teayo"
-      ],
-      "212": [
-        "SnuvomBodensatz"
-      ],
-      "214": [
-        "chaos1989"
-      ],
-      "229": [
-        "__kreck"
-      ],
-      "417": [
-        "Makishi25"
-      ],
-      "514": [
-        "Warhazarder"
-      ],
-      "793": [
-        "imabaldman"
-      ]
-    },
-    "dropped": {
-      "12": [
-        "leekcookie",
-        "owac"
-      ],
-      "2": [
-        "ScimMLG"
-      ],
-      "44": [
-        "__Iglo"
-      ],
-      "6": [
-        "imabaldman"
-      ]
-    },
-    "mined": {
-      "1": [
-        "__kreck"
-      ],
-      "10": [
-        "Warhazarder"
-      ],
-      "142": [
-        "owac"
-      ],
-      "181": [
-        "imabaldman"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "4": [
-        "Lukas_126"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "__kreck"
-      ],
-      "107": [
-        "owac"
-      ],
-      "185": [
-        "imabaldman"
-      ],
-      "4": [
-        "Lukas_126"
-      ],
-      "44": [
-        "__Iglo"
-      ],
-      "570": [
-        "leekcookie"
-      ],
-      "7": [
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "1": [
-        "ScimMLG",
-        "__Iglo"
-      ],
-      "123": [
-        "Warhazarder"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "27": [
-        "Lukas_126"
-      ],
-      "366": [
-        "owac"
-      ],
-      "506": [
-        "imabaldman"
-      ]
-    }
+  "crafted": {
+    "126": [
+      "__Iglo"
+    ],
+    "1422": [
+      "leekcookie"
+    ],
+    "1457": [
+      "owac"
+    ],
+    "152": [
+      "Teayo"
+    ],
+    "212": [
+      "SnuvomBodensatz"
+    ],
+    "214": [
+      "chaos1989"
+    ],
+    "229": [
+      "__kreck"
+    ],
+    "417": [
+      "Makishi25"
+    ],
+    "514": [
+      "Warhazarder"
+    ],
+    "793": [
+      "imabaldman"
+    ]
+  },
+  "dropped": {
+    "12": [
+      "leekcookie",
+      "owac"
+    ],
+    "2": [
+      "ScimMLG"
+    ],
+    "44": [
+      "__Iglo"
+    ],
+    "6": [
+      "imabaldman"
+    ]
+  },
+  "mined": {
+    "1": [
+      "__kreck"
+    ],
+    "10": [
+      "Warhazarder"
+    ],
+    "142": [
+      "owac"
+    ],
+    "181": [
+      "imabaldman"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "4": [
+      "Lukas_126"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "__kreck"
+    ],
+    "107": [
+      "owac"
+    ],
+    "185": [
+      "imabaldman"
+    ],
+    "4": [
+      "Lukas_126"
+    ],
+    "44": [
+      "__Iglo"
+    ],
+    "570": [
+      "leekcookie"
+    ],
+    "7": [
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "1": [
+      "ScimMLG",
+      "__Iglo"
+    ],
+    "123": [
+      "Warhazarder"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "27": [
+      "Lukas_126"
+    ],
+    "366": [
+      "owac"
+    ],
+    "506": [
+      "imabaldman"
+    ]
   }
 }

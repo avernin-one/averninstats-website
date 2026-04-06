@@ -1,135 +1,131 @@
 {
-  "name": "bamboo",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1390": [
-        "XeonVirus"
-      ],
-      "224": [
-        "Makishi25"
-      ],
-      "25356": [
-        "leekcookie"
-      ],
-      "304": [
-        "santemjocko"
-      ],
-      "3345": [
-        "Iglo"
-      ],
-      "405": [
-        "iurie"
-      ],
-      "457": [
-        "chaos1989"
-      ],
-      "64": [
-        "__Iglo"
-      ],
-      "98": [
-        "DornDasBrot"
-      ],
-      "99": [
-        "ScimMLG"
-      ]
-    },
-    "mined": {
-      "1086": [
-        "chaos1989"
-      ],
-      "187": [
-        "Warhazarder"
-      ],
-      "191": [
-        "Sayder13xr"
-      ],
-      "236": [
-        "Der_Sani"
-      ],
-      "262": [
-        "XeonVirus"
-      ],
-      "274": [
-        "Teayo"
-      ],
-      "397": [
-        "nitram1572"
-      ],
-      "549": [
-        "santemjocko"
-      ],
-      "857": [
-        "leekcookie"
-      ],
-      "913": [
-        "Makishi25"
-      ]
-    },
-    "picked_up": {
-      "11058": [
-        "Makishi25"
-      ],
-      "13747": [
-        "chaos1989"
-      ],
-      "20194": [
-        "leekcookie"
-      ],
-      "2090": [
-        "Der_Sani"
-      ],
-      "28127": [
-        "iurie"
-      ],
-      "3073": [
-        "Teayo"
-      ],
-      "3108": [
-        "XeonVirus"
-      ],
-      "3299": [
-        "santemjocko"
-      ],
-      "4525": [
-        "nitram1572"
-      ],
-      "7030": [
-        "Iglo"
-      ]
-    },
-    "used": {
-      "104": [
-        "santemjocko"
-      ],
-      "131": [
-        "chaos1989"
-      ],
-      "189": [
-        "leekcookie"
-      ],
-      "278": [
-        "XeonVirus"
-      ],
-      "52": [
-        "Der_Sani"
-      ],
-      "73": [
-        "nitram1572"
-      ],
-      "775": [
-        "Makishi25"
-      ],
-      "84": [
-        "Mandahaya",
-        "iurie"
-      ],
-      "880": [
-        "Teayo"
-      ],
-      "92": [
-        "Iglo"
-      ]
-    }
+  "dropped": {
+    "1390": [
+      "XeonVirus"
+    ],
+    "224": [
+      "Makishi25"
+    ],
+    "25356": [
+      "leekcookie"
+    ],
+    "304": [
+      "santemjocko"
+    ],
+    "3345": [
+      "Iglo"
+    ],
+    "405": [
+      "iurie"
+    ],
+    "457": [
+      "chaos1989"
+    ],
+    "64": [
+      "__Iglo"
+    ],
+    "98": [
+      "DornDasBrot"
+    ],
+    "99": [
+      "ScimMLG"
+    ]
+  },
+  "mined": {
+    "1086": [
+      "chaos1989"
+    ],
+    "187": [
+      "Warhazarder"
+    ],
+    "191": [
+      "Sayder13xr"
+    ],
+    "236": [
+      "Der_Sani"
+    ],
+    "262": [
+      "XeonVirus"
+    ],
+    "274": [
+      "Teayo"
+    ],
+    "397": [
+      "nitram1572"
+    ],
+    "549": [
+      "santemjocko"
+    ],
+    "857": [
+      "leekcookie"
+    ],
+    "913": [
+      "Makishi25"
+    ]
+  },
+  "picked_up": {
+    "11058": [
+      "Makishi25"
+    ],
+    "13747": [
+      "chaos1989"
+    ],
+    "20194": [
+      "leekcookie"
+    ],
+    "2090": [
+      "Der_Sani"
+    ],
+    "28127": [
+      "iurie"
+    ],
+    "3073": [
+      "Teayo"
+    ],
+    "3108": [
+      "XeonVirus"
+    ],
+    "3299": [
+      "santemjocko"
+    ],
+    "4525": [
+      "nitram1572"
+    ],
+    "7030": [
+      "Iglo"
+    ]
+  },
+  "used": {
+    "104": [
+      "santemjocko"
+    ],
+    "131": [
+      "chaos1989"
+    ],
+    "189": [
+      "leekcookie"
+    ],
+    "278": [
+      "XeonVirus"
+    ],
+    "52": [
+      "Der_Sani"
+    ],
+    "73": [
+      "nitram1572"
+    ],
+    "775": [
+      "Makishi25"
+    ],
+    "84": [
+      "Mandahaya",
+      "iurie"
+    ],
+    "880": [
+      "Teayo"
+    ],
+    "92": [
+      "Iglo"
+    ]
   }
 }

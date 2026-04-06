@@ -1,96 +1,92 @@
 {
-  "name": "target",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "192": [
-        "iurie"
-      ],
-      "2": [
-        "TrashSuperstar"
-      ],
-      "305": [
-        "__kreck"
-      ],
-      "312": [
-        "leekcookie"
-      ],
-      "44": [
-        "__Iglo"
-      ],
-      "5": [
-        "Lord_HoruS"
-      ],
-      "6": [
-        "owac",
-        "Sayder13xr"
-      ]
-    },
-    "mined": {
-      "1": [
-        "TrashSuperstar",
-        "__kreck"
-      ],
-      "11": [
-        "__Iglo"
-      ],
-      "14": [
-        "Sayder13xr"
-      ],
-      "15": [
-        "iurie"
-      ],
-      "21": [
-        "leekcookie"
-      ],
-      "5": [
-        "owac"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "TrashSuperstar",
-        "__kreck"
-      ],
-      "11": [
-        "__Iglo"
-      ],
-      "13": [
-        "iurie"
-      ],
-      "14": [
-        "Sayder13xr"
-      ],
-      "21": [
-        "leekcookie"
-      ],
-      "3": [
-        "owac"
-      ]
-    },
-    "used": {
-      "11": [
-        "__Iglo"
-      ],
-      "137": [
-        "iurie"
-      ],
-      "15": [
-        "__kreck"
-      ],
-      "20": [
-        "Sayder13xr"
-      ],
-      "3": [
-        "TrashSuperstar"
-      ],
-      "322": [
-        "leekcookie"
-      ],
-      "5": [
-        "owac",
-        "Lord_HoruS"
-      ]
-    }
+  "crafted": {
+    "192": [
+      "iurie"
+    ],
+    "2": [
+      "TrashSuperstar"
+    ],
+    "305": [
+      "__kreck"
+    ],
+    "312": [
+      "leekcookie"
+    ],
+    "44": [
+      "__Iglo"
+    ],
+    "5": [
+      "Lord_HoruS"
+    ],
+    "6": [
+      "Sayder13xr",
+      "owac"
+    ]
+  },
+  "mined": {
+    "1": [
+      "TrashSuperstar",
+      "__kreck"
+    ],
+    "11": [
+      "__Iglo"
+    ],
+    "14": [
+      "Sayder13xr"
+    ],
+    "15": [
+      "iurie"
+    ],
+    "21": [
+      "leekcookie"
+    ],
+    "5": [
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "TrashSuperstar",
+      "__kreck"
+    ],
+    "11": [
+      "__Iglo"
+    ],
+    "13": [
+      "iurie"
+    ],
+    "14": [
+      "Sayder13xr"
+    ],
+    "21": [
+      "leekcookie"
+    ],
+    "3": [
+      "owac"
+    ]
+  },
+  "used": {
+    "11": [
+      "__Iglo"
+    ],
+    "137": [
+      "iurie"
+    ],
+    "15": [
+      "__kreck"
+    ],
+    "20": [
+      "Sayder13xr"
+    ],
+    "3": [
+      "TrashSuperstar"
+    ],
+    "322": [
+      "leekcookie"
+    ],
+    "5": [
+      "Lord_HoruS",
+      "owac"
+    ]
   }
 }

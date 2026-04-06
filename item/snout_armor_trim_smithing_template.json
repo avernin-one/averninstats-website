@@ -1,11 +1,7 @@
 {
-  "name": "snout_armor_trim_smithing_template",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "2": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "2": [
+      "iurie"
+    ]
   }
 }

@@ -1,43 +1,39 @@
 {
-  "name": "player_wall_head",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "12": [
-        "XeonVirus"
-      ],
-      "16": [
-        "Iglo",
-        "DornDasBrot"
-      ],
-      "2": [
-        "minenicknick",
-        "iurie"
-      ],
-      "24": [
-        "__kreck"
-      ],
-      "27": [
-        "santemjocko"
-      ],
-      "3": [
-        "lodoss2011",
-        "Lord_HoruS"
-      ],
-      "4": [
-        "SuperXXLProfi",
-        "__Iglo"
-      ],
-      "5": [
-        "leekcookie",
-        "imabaldman"
-      ],
-      "6": [
-        "JonasderGamer"
-      ],
-      "8": [
-        "TrashSuperstar"
-      ]
-    }
+  "mined": {
+    "12": [
+      "XeonVirus"
+    ],
+    "16": [
+      "DornDasBrot",
+      "Iglo"
+    ],
+    "2": [
+      "iurie",
+      "minenicknick"
+    ],
+    "24": [
+      "__kreck"
+    ],
+    "27": [
+      "santemjocko"
+    ],
+    "3": [
+      "Lord_HoruS",
+      "lodoss2011"
+    ],
+    "4": [
+      "SuperXXLProfi",
+      "__Iglo"
+    ],
+    "5": [
+      "imabaldman",
+      "leekcookie"
+    ],
+    "6": [
+      "JonasderGamer"
+    ],
+    "8": [
+      "TrashSuperstar"
+    ]
   }
 }

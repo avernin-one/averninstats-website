@@ -1,32 +1,28 @@
 {
-  "name": "stripped_dark_oak_wood",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "9": [
-        "Makishi25"
-      ]
-    },
-    "mined": {
-      "2": [
-        "Makishi25"
-      ],
-      "3": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "Makishi25"
-      ],
-      "3": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "11": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "9": [
+      "Makishi25"
+    ]
+  },
+  "mined": {
+    "2": [
+      "Makishi25"
+    ],
+    "3": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "Makishi25"
+    ],
+    "3": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "11": [
+      "Makishi25"
+    ]
   }
 }

@@ -1,21 +1,17 @@
 {
-  "name": "music_disc_otherside",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "1": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "8": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "2": [
-        "iurie"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "8": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "2": [
+      "iurie"
+    ]
   }
 }

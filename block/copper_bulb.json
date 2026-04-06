@@ -1,26 +1,22 @@
 {
-  "name": "copper_bulb",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "13": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "16": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "22": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "13": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "16": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "22": [
+      "__kreck"
+    ]
   }
 }

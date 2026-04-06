@@ -2,8 +2,8 @@
   "name": "philxpx",
   "uuid": "35add22e-0529-4884-a595-9f4d13e2ca41",
   "medals": {
-    "gold": 1,
-    "silver": 2,
+    "gold": 2,
+    "silver": 6,
     "bronze": 2
   },
   "stats": {
@@ -146,38 +146,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1119": [
-          "firework_rocket"
-        ],
-        "4": [
-          "glow_item_frame"
-        ],
-        "7": [
-          "minecart",
-          "painting"
-        ],
-        "8": [
-          "item_frame"
-        ]
-      },
-      "dropped": {
-        "1680": [
-          "ender_pearl"
-        ],
-        "232": [
-          "potion"
-        ],
-        "26": [
-          "arrow"
-        ],
-        "271": [
-          "firework_rocket"
-        ],
-        "842": [
-          "spectral_arrow"
-        ]
-      },
       "killed": {
         "10067": [
           "pillager"
@@ -204,40 +172,6 @@
         "2": [
           "piglin",
           "vex"
-        ]
-      },
-      "picked_up": {
-        "131": [
-          "arrow"
-        ],
-        "1918": [
-          "ender_pearl"
-        ],
-        "209": [
-          "firework_rocket"
-        ],
-        "727": [
-          "spectral_arrow"
-        ],
-        "90": [
-          "potion"
-        ]
-      },
-      "used": {
-        "23": [
-          "birch_boat"
-        ],
-        "24": [
-          "ender_pearl"
-        ],
-        "32": [
-          "painting"
-        ],
-        "73": [
-          "minecart"
-        ],
-        "731": [
-          "firework_rocket"
         ]
       }
     },
@@ -279,11 +213,6 @@
         ],
         "3745": [
           "stick"
-        ]
-      },
-      "mined": {
-        "7": [
-          "flower_pot"
         ]
       },
       "picked_up": {

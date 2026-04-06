@@ -1,144 +1,140 @@
 {
-  "name": "iron_door",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "15": [
-        "nitram1572",
-        "DornDasBrot"
-      ],
-      "3": [
-        "chaos1989",
-        "TrashSuperstar",
-        "Makishi25",
-        "imabaldman",
-        "__Iglo",
-        "Warhazarder"
-      ],
-      "6": [
-        "leekcookie",
-        "XeonVirus"
-      ],
-      "9": [
-        "santemjocko",
-        "Iglo",
-        "__kreck",
-        "Teayo"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "__Iglo",
-        "__kreck"
-      ],
-      "2": [
-        "XeonVirus"
-      ],
-      "6": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "10": [
-        "Sayder13xr"
-      ],
-      "11": [
-        "nitram1572"
-      ],
-      "13": [
-        "Makishi25"
-      ],
-      "15": [
-        "leekcookie"
-      ],
-      "21": [
-        "DornDasBrot"
-      ],
-      "23": [
-        "__Iglo"
-      ],
-      "29": [
-        "__kreck"
-      ],
-      "56": [
-        "iurie"
-      ],
-      "6": [
-        "Iglo"
-      ],
-      "7": [
-        "XeonVirus"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "Sayder13xr"
-      ],
-      "11": [
-        "nitram1572"
-      ],
-      "14": [
-        "Makishi25"
-      ],
-      "22": [
-        "DornDasBrot"
-      ],
-      "27": [
-        "__Iglo"
-      ],
-      "29": [
-        "leekcookie"
-      ],
-      "36": [
-        "__kreck"
-      ],
-      "55": [
-        "iurie"
-      ],
-      "6": [
-        "Warhazarder",
-        "Teayo"
-      ],
-      "7": [
-        "santemjocko",
-        "Iglo",
-        "XeonVirus"
-      ]
-    },
-    "used": {
-      "10": [
-        "Teayo"
-      ],
-      "13": [
-        "Makishi25",
-        "__kreck"
-      ],
-      "16": [
-        "Iglo"
-      ],
-      "21": [
-        "nitram1572"
-      ],
-      "28": [
-        "DornDasBrot",
-        "__Iglo"
-      ],
-      "3": [
-        "leekcookie"
-      ],
-      "4": [
-        "santemjocko"
-      ],
-      "5": [
-        "imabaldman"
-      ],
-      "6": [
-        "TrashSuperstar",
-        "Warhazarder"
-      ],
-      "7": [
-        "XeonVirus"
-      ]
-    }
+  "crafted": {
+    "15": [
+      "DornDasBrot",
+      "nitram1572"
+    ],
+    "3": [
+      "Makishi25",
+      "TrashSuperstar",
+      "Warhazarder",
+      "__Iglo",
+      "chaos1989",
+      "imabaldman"
+    ],
+    "6": [
+      "XeonVirus",
+      "leekcookie"
+    ],
+    "9": [
+      "Iglo",
+      "Teayo",
+      "__kreck",
+      "santemjocko"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "__Iglo",
+      "__kreck"
+    ],
+    "2": [
+      "XeonVirus"
+    ],
+    "6": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "10": [
+      "Sayder13xr"
+    ],
+    "11": [
+      "nitram1572"
+    ],
+    "13": [
+      "Makishi25"
+    ],
+    "15": [
+      "leekcookie"
+    ],
+    "21": [
+      "DornDasBrot"
+    ],
+    "23": [
+      "__Iglo"
+    ],
+    "29": [
+      "__kreck"
+    ],
+    "56": [
+      "iurie"
+    ],
+    "6": [
+      "Iglo"
+    ],
+    "7": [
+      "XeonVirus"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "Sayder13xr"
+    ],
+    "11": [
+      "nitram1572"
+    ],
+    "14": [
+      "Makishi25"
+    ],
+    "22": [
+      "DornDasBrot"
+    ],
+    "27": [
+      "__Iglo"
+    ],
+    "29": [
+      "leekcookie"
+    ],
+    "36": [
+      "__kreck"
+    ],
+    "55": [
+      "iurie"
+    ],
+    "6": [
+      "Teayo",
+      "Warhazarder"
+    ],
+    "7": [
+      "Iglo",
+      "XeonVirus",
+      "santemjocko"
+    ]
+  },
+  "used": {
+    "10": [
+      "Teayo"
+    ],
+    "13": [
+      "Makishi25",
+      "__kreck"
+    ],
+    "16": [
+      "Iglo"
+    ],
+    "21": [
+      "nitram1572"
+    ],
+    "28": [
+      "DornDasBrot",
+      "__Iglo"
+    ],
+    "3": [
+      "leekcookie"
+    ],
+    "4": [
+      "santemjocko"
+    ],
+    "5": [
+      "imabaldman"
+    ],
+    "6": [
+      "TrashSuperstar",
+      "Warhazarder"
+    ],
+    "7": [
+      "XeonVirus"
+    ]
   }
 }

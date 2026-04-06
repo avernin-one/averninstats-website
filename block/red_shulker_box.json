@@ -1,132 +1,128 @@
 {
-  "name": "red_shulker_box",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "Mamuschkaz",
-        "__Iglo"
-      ],
-      "10": [
-        "__kreck"
-      ],
-      "17": [
-        "leekcookie"
-      ],
-      "2": [
-        "lodoss2011",
-        "imabaldman",
-        "Warhazarder",
-        "XeonVirus"
-      ],
-      "3": [
-        "chaos1989",
-        "Sayder13xr"
-      ],
-      "4": [
-        "iurie"
-      ],
-      "7": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "106": [
-        "santemjocko"
-      ],
-      "12": [
-        "Warhazarder",
-        "__kreck"
-      ],
-      "13": [
-        "Mamuschkaz"
-      ],
-      "141": [
-        "lodoss2011"
-      ],
-      "175": [
-        "iurie"
-      ],
-      "21": [
-        "__Iglo"
-      ],
-      "27": [
-        "Sayder13xr"
-      ],
-      "29": [
-        "imabaldman"
-      ],
-      "45": [
-        "leekcookie"
-      ],
-      "51": [
-        "chaos1989"
-      ]
-    },
-    "picked_up": {
-      "107": [
-        "santemjocko"
-      ],
-      "12": [
-        "Warhazarder",
-        "__kreck"
-      ],
-      "13": [
-        "Mamuschkaz"
-      ],
-      "143": [
-        "lodoss2011"
-      ],
-      "178": [
-        "iurie"
-      ],
-      "21": [
-        "__Iglo"
-      ],
-      "29": [
-        "imabaldman"
-      ],
-      "32": [
-        "Sayder13xr"
-      ],
-      "48": [
-        "leekcookie"
-      ],
-      "51": [
-        "chaos1989"
-      ]
-    },
-    "used": {
-      "107": [
-        "santemjocko"
-      ],
-      "13": [
-        "Mamuschkaz"
-      ],
-      "14": [
-        "Warhazarder"
-      ],
-      "144": [
-        "lodoss2011"
-      ],
-      "174": [
-        "iurie"
-      ],
-      "22": [
-        "__Iglo"
-      ],
-      "29": [
-        "Sayder13xr"
-      ],
-      "30": [
-        "imabaldman"
-      ],
-      "51": [
-        "leekcookie"
-      ],
-      "53": [
-        "chaos1989"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Mamuschkaz",
+      "__Iglo"
+    ],
+    "10": [
+      "__kreck"
+    ],
+    "17": [
+      "leekcookie"
+    ],
+    "2": [
+      "Warhazarder",
+      "XeonVirus",
+      "imabaldman",
+      "lodoss2011"
+    ],
+    "3": [
+      "Sayder13xr",
+      "chaos1989"
+    ],
+    "4": [
+      "iurie"
+    ],
+    "7": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "106": [
+      "santemjocko"
+    ],
+    "12": [
+      "Warhazarder",
+      "__kreck"
+    ],
+    "13": [
+      "Mamuschkaz"
+    ],
+    "141": [
+      "lodoss2011"
+    ],
+    "175": [
+      "iurie"
+    ],
+    "21": [
+      "__Iglo"
+    ],
+    "27": [
+      "Sayder13xr"
+    ],
+    "29": [
+      "imabaldman"
+    ],
+    "45": [
+      "leekcookie"
+    ],
+    "51": [
+      "chaos1989"
+    ]
+  },
+  "picked_up": {
+    "107": [
+      "santemjocko"
+    ],
+    "12": [
+      "Warhazarder",
+      "__kreck"
+    ],
+    "13": [
+      "Mamuschkaz"
+    ],
+    "143": [
+      "lodoss2011"
+    ],
+    "178": [
+      "iurie"
+    ],
+    "21": [
+      "__Iglo"
+    ],
+    "29": [
+      "imabaldman"
+    ],
+    "32": [
+      "Sayder13xr"
+    ],
+    "48": [
+      "leekcookie"
+    ],
+    "51": [
+      "chaos1989"
+    ]
+  },
+  "used": {
+    "107": [
+      "santemjocko"
+    ],
+    "13": [
+      "Mamuschkaz"
+    ],
+    "14": [
+      "Warhazarder"
+    ],
+    "144": [
+      "lodoss2011"
+    ],
+    "174": [
+      "iurie"
+    ],
+    "22": [
+      "__Iglo"
+    ],
+    "29": [
+      "Sayder13xr"
+    ],
+    "30": [
+      "imabaldman"
+    ],
+    "51": [
+      "leekcookie"
+    ],
+    "53": [
+      "chaos1989"
+    ]
   }
 }

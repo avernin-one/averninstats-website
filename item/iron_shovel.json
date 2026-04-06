@@ -1,183 +1,179 @@
 {
-  "name": "iron_shovel",
-  "type": "item",
-  "scores": {
-    "broken": {
-      "12": [
-        "Mamuschkaz"
-      ],
-      "19": [
-        "Telinnor"
-      ],
-      "21": [
-        "Mandahaya"
-      ],
-      "3": [
-        "leekcookie",
-        "Cpt_looper",
-        "nitram1572"
-      ],
-      "4": [
-        "egoplayer_Felix",
-        "DornDasBrot"
-      ],
-      "42": [
-        "SnuvomBodensatz"
-      ],
-      "5": [
-        "__kreck"
-      ],
-      "6": [
-        "Lord_HoruS",
-        "Teayo"
-      ],
-      "7": [
-        "Ivenor"
-      ],
-      "9": [
-        "chaos1989"
-      ]
-    },
-    "crafted": {
-      "10": [
-        "leekcookie",
-        "__Iglo"
-      ],
-      "11": [
-        "Ivenor"
-      ],
-      "14": [
-        "Mamuschkaz"
-      ],
-      "16": [
-        "__kreck"
-      ],
-      "20": [
-        "Mandahaya"
-      ],
-      "21": [
-        "Telinnor"
-      ],
-      "45": [
-        "SnuvomBodensatz"
-      ],
-      "7": [
-        "Iglo",
-        "Teayo"
-      ],
-      "8": [
-        "Lord_HoruS"
-      ],
-      "9": [
-        "chaos1989"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "lodoss2011",
-        "Cpt_looper",
-        "__Iglo",
-        "__kreck"
-      ],
-      "122": [
-        "leekcookie"
-      ],
-      "2": [
-        "KleeneEle"
-      ],
-      "21": [
-        "iurie"
-      ],
-      "3": [
-        "Mandahaya",
-        "santemjocko",
-        "TrashSuperstar",
-        "DornDasBrot"
-      ],
-      "4": [
-        "Lord_HoruS",
-        "imabaldman"
-      ],
-      "5": [
-        "Mamuschkaz"
-      ],
-      "9": [
-        "owac",
-        "Sayder13xr"
-      ]
-    },
-    "picked_up": {
-      "131": [
-        "leekcookie"
-      ],
-      "14": [
-        "santemjocko"
-      ],
-      "20": [
-        "iurie"
-      ],
-      "26": [
-        "Mandahaya"
-      ],
-      "3": [
-        "SnuvomBodensatz",
-        "Mamuschkaz",
-        "egoplayer_Felix",
-        "nitram1572"
-      ],
-      "4": [
-        "lodoss2011",
-        "imabaldman"
-      ],
-      "5": [
-        "DornDasBrot"
-      ],
-      "6": [
-        "Austriana",
-        "Telinnor",
-        "Cpt_looper",
-        "Teayo"
-      ],
-      "7": [
-        "Lord_HoruS"
-      ],
-      "8": [
-        "chaos1989",
-        "owac",
-        "__kreck"
-      ]
-    },
-    "used": {
-      "10927": [
-        "SnuvomBodensatz"
-      ],
-      "1344": [
-        "Cpt_looper"
-      ],
-      "1468": [
-        "__kreck"
-      ],
-      "1982": [
-        "Ivenor"
-      ],
-      "2099": [
-        "Lord_HoruS"
-      ],
-      "2247": [
-        "chaos1989"
-      ],
-      "2525": [
-        "Teayo"
-      ],
-      "3395": [
-        "Mamuschkaz"
-      ],
-      "5090": [
-        "Mandahaya"
-      ],
-      "5802": [
-        "Telinnor"
-      ]
-    }
+  "broken": {
+    "12": [
+      "Mamuschkaz"
+    ],
+    "19": [
+      "Telinnor"
+    ],
+    "21": [
+      "Mandahaya"
+    ],
+    "3": [
+      "Cpt_looper",
+      "leekcookie",
+      "nitram1572"
+    ],
+    "4": [
+      "DornDasBrot",
+      "egoplayer_Felix"
+    ],
+    "42": [
+      "SnuvomBodensatz"
+    ],
+    "5": [
+      "__kreck"
+    ],
+    "6": [
+      "Lord_HoruS",
+      "Teayo"
+    ],
+    "7": [
+      "Ivenor"
+    ],
+    "9": [
+      "chaos1989"
+    ]
+  },
+  "crafted": {
+    "10": [
+      "__Iglo",
+      "leekcookie"
+    ],
+    "11": [
+      "Ivenor"
+    ],
+    "14": [
+      "Mamuschkaz"
+    ],
+    "16": [
+      "__kreck"
+    ],
+    "20": [
+      "Mandahaya"
+    ],
+    "21": [
+      "Telinnor"
+    ],
+    "45": [
+      "SnuvomBodensatz"
+    ],
+    "7": [
+      "Iglo",
+      "Teayo"
+    ],
+    "8": [
+      "Lord_HoruS"
+    ],
+    "9": [
+      "chaos1989"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Cpt_looper",
+      "__Iglo",
+      "__kreck",
+      "lodoss2011"
+    ],
+    "122": [
+      "leekcookie"
+    ],
+    "2": [
+      "KleeneEle"
+    ],
+    "21": [
+      "iurie"
+    ],
+    "3": [
+      "DornDasBrot",
+      "Mandahaya",
+      "TrashSuperstar",
+      "santemjocko"
+    ],
+    "4": [
+      "Lord_HoruS",
+      "imabaldman"
+    ],
+    "5": [
+      "Mamuschkaz"
+    ],
+    "9": [
+      "Sayder13xr",
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "131": [
+      "leekcookie"
+    ],
+    "14": [
+      "santemjocko"
+    ],
+    "20": [
+      "iurie"
+    ],
+    "26": [
+      "Mandahaya"
+    ],
+    "3": [
+      "Mamuschkaz",
+      "SnuvomBodensatz",
+      "egoplayer_Felix",
+      "nitram1572"
+    ],
+    "4": [
+      "imabaldman",
+      "lodoss2011"
+    ],
+    "5": [
+      "DornDasBrot"
+    ],
+    "6": [
+      "Austriana",
+      "Cpt_looper",
+      "Teayo",
+      "Telinnor"
+    ],
+    "7": [
+      "Lord_HoruS"
+    ],
+    "8": [
+      "__kreck",
+      "chaos1989",
+      "owac"
+    ]
+  },
+  "used": {
+    "10927": [
+      "SnuvomBodensatz"
+    ],
+    "1344": [
+      "Cpt_looper"
+    ],
+    "1468": [
+      "__kreck"
+    ],
+    "1982": [
+      "Ivenor"
+    ],
+    "2099": [
+      "Lord_HoruS"
+    ],
+    "2247": [
+      "chaos1989"
+    ],
+    "2525": [
+      "Teayo"
+    ],
+    "3395": [
+      "Mamuschkaz"
+    ],
+    "5090": [
+      "Mandahaya"
+    ],
+    "5802": [
+      "Telinnor"
+    ]
   }
 }

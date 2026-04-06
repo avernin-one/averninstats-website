@@ -115,11 +115,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1": [
-          "oak_boat"
-        ]
-      },
       "killed": {
         "1": [
           "creeper",
@@ -139,19 +134,6 @@
         "2": [
           "skeleton"
         ]
-      },
-      "picked_up": {
-        "4": [
-          "arrow"
-        ],
-        "7": [
-          "oak_boat"
-        ]
-      },
-      "used": {
-        "5": [
-          "oak_boat"
-        ]
       }
     },
     "item": {
@@ -170,8 +152,8 @@
         "44": [
           "stick"
         ],
-        "63": [
-          "wheat"
+        "5": [
+          "iron_pickaxe"
         ],
         "88": [
           "iron_ingot"
@@ -180,11 +162,6 @@
       "dropped": {
         "1": [
           "iron_ingot"
-        ]
-      },
-      "mined": {
-        "4": [
-          "wheat"
         ]
       },
       "picked_up": {

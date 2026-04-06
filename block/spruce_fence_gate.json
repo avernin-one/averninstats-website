@@ -1,137 +1,133 @@
 {
-  "name": "spruce_fence_gate",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "168": [
-        "Mamuschkaz"
-      ],
-      "18": [
-        "owac"
-      ],
-      "216": [
-        "leekcookie"
-      ],
-      "3": [
-        "Makishi25"
-      ],
-      "30": [
-        "__kreck"
-      ],
-      "343": [
-        "lodoss2011"
-      ],
-      "4": [
-        "Telinnor"
-      ],
-      "57": [
-        "Warhazarder"
-      ],
-      "58": [
-        "minenicknick"
-      ],
-      "61": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "leekcookie"
-      ],
-      "15": [
-        "Mamuschkaz"
-      ],
-      "39": [
-        "__kreck"
-      ],
-      "56": [
-        "minenicknick"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Mandahaya",
-        "Makishi25"
-      ],
-      "12": [
-        "Mamuschkaz"
-      ],
-      "2": [
-        "owac"
-      ],
-      "4": [
-        "imabaldman"
-      ],
-      "58": [
-        "lodoss2011",
-        "leekcookie"
-      ],
-      "8": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Mandahaya"
-      ],
-      "2": [
-        "owac"
-      ],
-      "39": [
-        "__kreck"
-      ],
-      "4": [
-        "Makishi25",
-        "imabaldman"
-      ],
-      "56": [
-        "minenicknick"
-      ],
-      "57": [
-        "lodoss2011"
-      ],
-      "6": [
-        "Mamuschkaz"
-      ],
-      "77": [
-        "leekcookie"
-      ],
-      "8": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "165": [
-        "Mamuschkaz"
-      ],
-      "2": [
-        "Mandahaya"
-      ],
-      "20": [
-        "owac"
-      ],
-      "203": [
-        "leekcookie"
-      ],
-      "30": [
-        "__kreck"
-      ],
-      "394": [
-        "lodoss2011"
-      ],
-      "4": [
-        "Telinnor",
-        "Makishi25"
-      ],
-      "56": [
-        "Warhazarder"
-      ],
-      "61": [
-        "imabaldman"
-      ],
-      "70": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "168": [
+      "Mamuschkaz"
+    ],
+    "18": [
+      "owac"
+    ],
+    "216": [
+      "leekcookie"
+    ],
+    "3": [
+      "Makishi25"
+    ],
+    "30": [
+      "__kreck"
+    ],
+    "343": [
+      "lodoss2011"
+    ],
+    "4": [
+      "Telinnor"
+    ],
+    "57": [
+      "Warhazarder"
+    ],
+    "58": [
+      "minenicknick"
+    ],
+    "61": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "leekcookie"
+    ],
+    "15": [
+      "Mamuschkaz"
+    ],
+    "39": [
+      "__kreck"
+    ],
+    "56": [
+      "minenicknick"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Makishi25",
+      "Mandahaya"
+    ],
+    "12": [
+      "Mamuschkaz"
+    ],
+    "2": [
+      "owac"
+    ],
+    "4": [
+      "imabaldman"
+    ],
+    "58": [
+      "leekcookie",
+      "lodoss2011"
+    ],
+    "8": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Mandahaya"
+    ],
+    "2": [
+      "owac"
+    ],
+    "39": [
+      "__kreck"
+    ],
+    "4": [
+      "Makishi25",
+      "imabaldman"
+    ],
+    "56": [
+      "minenicknick"
+    ],
+    "57": [
+      "lodoss2011"
+    ],
+    "6": [
+      "Mamuschkaz"
+    ],
+    "77": [
+      "leekcookie"
+    ],
+    "8": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "165": [
+      "Mamuschkaz"
+    ],
+    "2": [
+      "Mandahaya"
+    ],
+    "20": [
+      "owac"
+    ],
+    "203": [
+      "leekcookie"
+    ],
+    "30": [
+      "__kreck"
+    ],
+    "394": [
+      "lodoss2011"
+    ],
+    "4": [
+      "Makishi25",
+      "Telinnor"
+    ],
+    "56": [
+      "Warhazarder"
+    ],
+    "61": [
+      "imabaldman"
+    ],
+    "70": [
+      "iurie"
+    ]
   }
 }

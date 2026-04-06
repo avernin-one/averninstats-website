@@ -1,105 +1,101 @@
 {
-  "name": "book",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "110": [
-        "Telinnor"
-      ],
-      "121": [
-        "Teayo"
-      ],
-      "125": [
-        "santemjocko"
-      ],
-      "127": [
-        "Sayder13xr"
-      ],
-      "139": [
-        "XeonVirus"
-      ],
-      "144": [
-        "philxpx"
-      ],
-      "245": [
-        "Warhazarder"
-      ],
-      "89": [
-        "SnuvomBodensatz"
-      ],
-      "92": [
-        "iurie"
-      ],
-      "97": [
-        "TrashSuperstar"
-      ]
-    },
-    "dropped": {
-      "10": [
-        "iurie"
-      ],
-      "161": [
-        "leekcookie"
-      ],
-      "17": [
-        "Iglo"
-      ],
-      "19": [
-        "nitram1572"
-      ],
-      "20": [
-        "__kreck"
-      ],
-      "22": [
-        "lodoss2011",
-        "imabaldman"
-      ],
-      "58": [
-        "Mamuschkaz"
-      ],
-      "6": [
-        "DornDasBrot",
-        "Makishi25"
-      ],
-      "7": [
-        "owac",
-        "Cpt_looper"
-      ],
-      "78": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "1346": [
-        "Lord_HoruS"
-      ],
-      "21007": [
-        "iurie"
-      ],
-      "264": [
-        "__kreck"
-      ],
-      "285": [
-        "Iglo"
-      ],
-      "301": [
-        "lodoss2011"
-      ],
-      "3277": [
-        "Mamuschkaz"
-      ],
-      "645": [
-        "owac"
-      ],
-      "6576": [
-        "leekcookie"
-      ],
-      "683": [
-        "Warhazarder"
-      ],
-      "950": [
-        "santemjocko"
-      ]
-    }
+  "crafted": {
+    "110": [
+      "Telinnor"
+    ],
+    "121": [
+      "Teayo"
+    ],
+    "125": [
+      "santemjocko"
+    ],
+    "127": [
+      "Sayder13xr"
+    ],
+    "139": [
+      "XeonVirus"
+    ],
+    "144": [
+      "philxpx"
+    ],
+    "245": [
+      "Warhazarder"
+    ],
+    "89": [
+      "SnuvomBodensatz"
+    ],
+    "92": [
+      "iurie"
+    ],
+    "97": [
+      "TrashSuperstar"
+    ]
+  },
+  "dropped": {
+    "10": [
+      "iurie"
+    ],
+    "161": [
+      "leekcookie"
+    ],
+    "17": [
+      "Iglo"
+    ],
+    "19": [
+      "nitram1572"
+    ],
+    "20": [
+      "__kreck"
+    ],
+    "22": [
+      "imabaldman",
+      "lodoss2011"
+    ],
+    "58": [
+      "Mamuschkaz"
+    ],
+    "6": [
+      "DornDasBrot",
+      "Makishi25"
+    ],
+    "7": [
+      "Cpt_looper",
+      "owac"
+    ],
+    "78": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "1346": [
+      "Lord_HoruS"
+    ],
+    "21007": [
+      "iurie"
+    ],
+    "264": [
+      "__kreck"
+    ],
+    "285": [
+      "Iglo"
+    ],
+    "301": [
+      "lodoss2011"
+    ],
+    "3277": [
+      "Mamuschkaz"
+    ],
+    "645": [
+      "owac"
+    ],
+    "6576": [
+      "leekcookie"
+    ],
+    "683": [
+      "Warhazarder"
+    ],
+    "950": [
+      "santemjocko"
+    ]
   }
 }

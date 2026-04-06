@@ -1,29 +1,25 @@
 {
-  "name": "smooth_quartz_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "180": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "2": [
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "2": [
-        "__Iglo"
-      ],
-      "360": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "180": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "2": [
+      "__Iglo"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "2": [
+      "__Iglo"
+    ],
+    "360": [
+      "__kreck"
+    ]
   }
 }

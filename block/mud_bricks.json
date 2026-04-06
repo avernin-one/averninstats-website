@@ -1,29 +1,25 @@
 {
-  "name": "mud_bricks",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "36": [
-        "Warhazarder"
-      ],
-      "64": [
-        "lodoss2011"
-      ]
-    },
-    "mined": {
-      "446": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "435": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "19": [
-        "lodoss2011"
-      ]
-    }
+  "crafted": {
+    "36": [
+      "Warhazarder"
+    ],
+    "64": [
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "446": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "435": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "19": [
+      "lodoss2011"
+    ]
   }
 }

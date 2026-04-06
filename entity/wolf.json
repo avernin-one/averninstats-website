@@ -1,27 +1,23 @@
 {
-  "name": "wolf",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "Lukas_126",
-        "egoplayer_Felix",
-        "TrashSuperstar",
-        "Warhazarder",
-        "__kreck"
-      ],
-      "2": [
-        "obvBasti",
-        "nitram1572"
-      ],
-      "3": [
-        "santemjocko",
-        "Mamuschkaz",
-        "XeonVirus"
-      ],
-      "5": [
-        "iurie"
-      ]
-    }
+  "killed": {
+    "1": [
+      "Lukas_126",
+      "TrashSuperstar",
+      "Warhazarder",
+      "__kreck",
+      "egoplayer_Felix"
+    ],
+    "2": [
+      "nitram1572",
+      "obvBasti"
+    ],
+    "3": [
+      "Mamuschkaz",
+      "XeonVirus",
+      "santemjocko"
+    ],
+    "5": [
+      "iurie"
+    ]
   }
 }

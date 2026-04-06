@@ -1,61 +1,57 @@
 {
-  "name": "prismarine_brick_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1560": [
-        "__kreck"
-      ],
-      "24": [
-        "Lord_HoruS"
-      ],
-      "498": [
-        "__Iglo"
-      ],
-      "972": [
-        "Teayo"
-      ]
-    },
-    "dropped": {
-      "153": [
-        "__kreck"
-      ],
-      "317": [
-        "__Iglo"
-      ]
-    },
-    "mined": {
-      "107": [
-        "__Iglo"
-      ],
-      "124": [
-        "__kreck"
-      ],
-      "13": [
-        "Lord_HoruS"
-      ]
-    },
-    "picked_up": {
-      "115": [
-        "__Iglo"
-      ],
-      "14": [
-        "Lord_HoruS"
-      ],
-      "289": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "1529": [
-        "__kreck"
-      ],
-      "26": [
-        "Lord_HoruS"
-      ],
-      "296": [
-        "__Iglo"
-      ]
-    }
+  "crafted": {
+    "1560": [
+      "__kreck"
+    ],
+    "24": [
+      "Lord_HoruS"
+    ],
+    "498": [
+      "__Iglo"
+    ],
+    "972": [
+      "Teayo"
+    ]
+  },
+  "dropped": {
+    "153": [
+      "__kreck"
+    ],
+    "317": [
+      "__Iglo"
+    ]
+  },
+  "mined": {
+    "107": [
+      "__Iglo"
+    ],
+    "124": [
+      "__kreck"
+    ],
+    "13": [
+      "Lord_HoruS"
+    ]
+  },
+  "picked_up": {
+    "115": [
+      "__Iglo"
+    ],
+    "14": [
+      "Lord_HoruS"
+    ],
+    "289": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "1529": [
+      "__kreck"
+    ],
+    "26": [
+      "Lord_HoruS"
+    ],
+    "296": [
+      "__Iglo"
+    ]
   }
 }

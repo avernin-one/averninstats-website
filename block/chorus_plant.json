@@ -1,38 +1,34 @@
 {
-  "name": "chorus_plant",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "Lord_HoruS"
-      ],
-      "11": [
-        "DornDasBrot"
-      ],
-      "2": [
-        "leekcookie",
-        "owac"
-      ],
-      "3": [
-        "lodoss2011"
-      ],
-      "4": [
-        "santemjocko"
-      ],
-      "5": [
-        "Iglo"
-      ],
-      "7": [
-        "iurie",
-        "Cpt_looper",
-        "__kreck"
-      ],
-      "8": [
-        "XeonVirus"
-      ],
-      "82": [
-        "Teayo"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Lord_HoruS"
+    ],
+    "11": [
+      "DornDasBrot"
+    ],
+    "2": [
+      "leekcookie",
+      "owac"
+    ],
+    "3": [
+      "lodoss2011"
+    ],
+    "4": [
+      "santemjocko"
+    ],
+    "5": [
+      "Iglo"
+    ],
+    "7": [
+      "Cpt_looper",
+      "__kreck",
+      "iurie"
+    ],
+    "8": [
+      "XeonVirus"
+    ],
+    "82": [
+      "Teayo"
+    ]
   }
 }

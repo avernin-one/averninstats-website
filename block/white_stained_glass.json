@@ -1,139 +1,135 @@
 {
-  "name": "white_stained_glass",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "14856": [
-        "iurie"
-      ],
-      "1896": [
-        "__kreck"
-      ],
-      "2032": [
-        "imabaldman"
-      ],
-      "3232": [
-        "leekcookie"
-      ],
-      "344": [
-        "Iglo"
-      ],
-      "3536": [
-        "Teayo"
-      ],
-      "376": [
-        "santemjocko"
-      ],
-      "488": [
-        "__Iglo"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "iurie"
-      ],
-      "15": [
-        "leekcookie"
-      ],
-      "17": [
-        "santemjocko"
-      ],
-      "194": [
-        "__Iglo"
-      ],
-      "67": [
-        "imabaldman"
-      ],
-      "9": [
-        "Iglo"
-      ]
-    },
-    "mined": {
-      "1": [
-        "obvBasti",
-        "philxpx",
-        "SuperXXLProfi"
-      ],
-      "102": [
-        "__kreck"
-      ],
-      "1332": [
-        "iurie"
-      ],
-      "187": [
-        "__Iglo"
-      ],
-      "216": [
-        "Iglo"
-      ],
-      "269": [
-        "imabaldman"
-      ],
-      "63": [
-        "santemjocko"
-      ],
-      "666": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "obvBasti",
-        "philxpx"
-      ],
-      "1250": [
-        "iurie"
-      ],
-      "127": [
-        "santemjocko"
-      ],
-      "1755": [
-        "leekcookie"
-      ],
-      "221": [
-        "__kreck"
-      ],
-      "240": [
-        "__Iglo"
-      ],
-      "330": [
-        "Iglo"
-      ],
-      "335": [
-        "imabaldman"
-      ]
-    },
-    "used": {
-      "1": [
-        "philxpx"
-      ],
-      "115": [
-        "Teayo"
-      ],
-      "1327": [
-        "__kreck"
-      ],
-      "15749": [
-        "iurie"
-      ],
-      "1757": [
-        "imabaldman"
-      ],
-      "2": [
-        "obvBasti"
-      ],
-      "222": [
-        "__Iglo"
-      ],
-      "2868": [
-        "leekcookie"
-      ],
-      "316": [
-        "santemjocko"
-      ],
-      "602": [
-        "Iglo"
-      ]
-    }
+  "crafted": {
+    "14856": [
+      "iurie"
+    ],
+    "1896": [
+      "__kreck"
+    ],
+    "2032": [
+      "imabaldman"
+    ],
+    "3232": [
+      "leekcookie"
+    ],
+    "344": [
+      "Iglo"
+    ],
+    "3536": [
+      "Teayo"
+    ],
+    "376": [
+      "santemjocko"
+    ],
+    "488": [
+      "__Iglo"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "iurie"
+    ],
+    "15": [
+      "leekcookie"
+    ],
+    "17": [
+      "santemjocko"
+    ],
+    "194": [
+      "__Iglo"
+    ],
+    "67": [
+      "imabaldman"
+    ],
+    "9": [
+      "Iglo"
+    ]
+  },
+  "mined": {
+    "1": [
+      "SuperXXLProfi",
+      "obvBasti",
+      "philxpx"
+    ],
+    "102": [
+      "__kreck"
+    ],
+    "1332": [
+      "iurie"
+    ],
+    "187": [
+      "__Iglo"
+    ],
+    "216": [
+      "Iglo"
+    ],
+    "269": [
+      "imabaldman"
+    ],
+    "63": [
+      "santemjocko"
+    ],
+    "666": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "obvBasti",
+      "philxpx"
+    ],
+    "1250": [
+      "iurie"
+    ],
+    "127": [
+      "santemjocko"
+    ],
+    "1755": [
+      "leekcookie"
+    ],
+    "221": [
+      "__kreck"
+    ],
+    "240": [
+      "__Iglo"
+    ],
+    "330": [
+      "Iglo"
+    ],
+    "335": [
+      "imabaldman"
+    ]
+  },
+  "used": {
+    "1": [
+      "philxpx"
+    ],
+    "115": [
+      "Teayo"
+    ],
+    "1327": [
+      "__kreck"
+    ],
+    "15749": [
+      "iurie"
+    ],
+    "1757": [
+      "imabaldman"
+    ],
+    "2": [
+      "obvBasti"
+    ],
+    "222": [
+      "__Iglo"
+    ],
+    "2868": [
+      "leekcookie"
+    ],
+    "316": [
+      "santemjocko"
+    ],
+    "602": [
+      "Iglo"
+    ]
   }
 }

@@ -1,43 +1,39 @@
 {
-  "name": "polished_blackstone_stairs",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "116": [
-        "Makishi25"
-      ],
-      "688": [
-        "leekcookie"
-      ]
-    },
-    "dropped": {
-      "39": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Makishi25"
-      ],
-      "117": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Makishi25"
-      ],
-      "105": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "69": [
-        "Makishi25"
-      ],
-      "772": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "116": [
+      "Makishi25"
+    ],
+    "688": [
+      "leekcookie"
+    ]
+  },
+  "dropped": {
+    "39": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Makishi25"
+    ],
+    "117": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Makishi25"
+    ],
+    "105": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "69": [
+      "Makishi25"
+    ],
+    "772": [
+      "leekcookie"
+    ]
   }
 }

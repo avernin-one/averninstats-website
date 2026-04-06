@@ -1,11 +1,7 @@
 {
-  "name": "infested_cracked_stone_bricks",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "5": [
-        "lodoss2011"
-      ]
-    }
+  "mined": {
+    "5": [
+      "lodoss2011"
+    ]
   }
 }

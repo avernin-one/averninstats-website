@@ -1,83 +1,79 @@
 {
-  "name": "cyan_bed",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "Mandahaya",
-        "Telinnor",
-        "__kreck"
-      ],
-      "12": [
-        "__Iglo"
-      ],
-      "3": [
-        "DornDasBrot"
-      ]
-    },
-    "mined": {
-      "1": [
-        "__kreck"
-      ],
-      "11": [
-        "iurie"
-      ],
-      "2": [
-        "Telinnor",
-        "Warhazarder"
-      ],
-      "4": [
-        "Mandahaya"
-      ],
-      "5": [
-        "__Iglo"
-      ],
-      "6": [
-        "KleeneEle"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "__kreck"
-      ],
-      "11": [
-        "iurie"
-      ],
-      "2": [
-        "Telinnor"
-      ],
-      "3": [
-        "Warhazarder"
-      ],
-      "5": [
-        "Mandahaya",
-        "KleeneEle",
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "1": [
-        "__kreck"
-      ],
-      "2": [
-        "Telinnor"
-      ],
-      "3": [
-        "DornDasBrot",
-        "Warhazarder"
-      ],
-      "4": [
-        "Mandahaya"
-      ],
-      "5": [
-        "KleeneEle"
-      ],
-      "6": [
-        "iurie"
-      ],
-      "7": [
-        "__Iglo"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Mandahaya",
+      "Telinnor",
+      "__kreck"
+    ],
+    "12": [
+      "__Iglo"
+    ],
+    "3": [
+      "DornDasBrot"
+    ]
+  },
+  "mined": {
+    "1": [
+      "__kreck"
+    ],
+    "11": [
+      "iurie"
+    ],
+    "2": [
+      "Telinnor",
+      "Warhazarder"
+    ],
+    "4": [
+      "Mandahaya"
+    ],
+    "5": [
+      "__Iglo"
+    ],
+    "6": [
+      "KleeneEle"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "__kreck"
+    ],
+    "11": [
+      "iurie"
+    ],
+    "2": [
+      "Telinnor"
+    ],
+    "3": [
+      "Warhazarder"
+    ],
+    "5": [
+      "KleeneEle",
+      "Mandahaya",
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "1": [
+      "__kreck"
+    ],
+    "2": [
+      "Telinnor"
+    ],
+    "3": [
+      "DornDasBrot",
+      "Warhazarder"
+    ],
+    "4": [
+      "Mandahaya"
+    ],
+    "5": [
+      "KleeneEle"
+    ],
+    "6": [
+      "iurie"
+    ],
+    "7": [
+      "__Iglo"
+    ]
   }
 }

@@ -1,52 +1,48 @@
 {
-  "name": "medium_amethyst_bud",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "2": [
-        "santemjocko",
-        "owac"
-      ]
-    },
-    "mined": {
-      "1": [
-        "iurie",
-        "Telinnor",
-        "Lord_HoruS"
-      ],
-      "2": [
-        "TrashSuperstar"
-      ],
-      "3": [
-        "santemjocko",
-        "owac"
-      ],
-      "8": [
-        "Cpt_looper"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Lord_HoruS"
-      ],
-      "2": [
-        "owac",
-        "TrashSuperstar"
-      ],
-      "3": [
-        "santemjocko"
-      ],
-      "6": [
-        "Cpt_looper"
-      ]
-    },
-    "used": {
-      "1": [
-        "Lord_HoruS"
-      ],
-      "2": [
-        "TrashSuperstar"
-      ]
-    }
+  "dropped": {
+    "2": [
+      "owac",
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Lord_HoruS",
+      "Telinnor",
+      "iurie"
+    ],
+    "2": [
+      "TrashSuperstar"
+    ],
+    "3": [
+      "owac",
+      "santemjocko"
+    ],
+    "8": [
+      "Cpt_looper"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Lord_HoruS"
+    ],
+    "2": [
+      "TrashSuperstar",
+      "owac"
+    ],
+    "3": [
+      "santemjocko"
+    ],
+    "6": [
+      "Cpt_looper"
+    ]
+  },
+  "used": {
+    "1": [
+      "Lord_HoruS"
+    ],
+    "2": [
+      "TrashSuperstar"
+    ]
   }
 }

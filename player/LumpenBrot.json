@@ -2,7 +2,7 @@
   "name": "LumpenBrot",
   "uuid": "00d41479-8aa7-4748-9ea9-afab79a745de",
   "medals": {
-    "gold": 0,
+    "gold": 24,
     "silver": 0,
     "bronze": 0
   },
@@ -112,14 +112,8 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1": [
-          "jungle_boat"
-        ]
-      },
       "killed": {
         "1": [
-          "chicken",
           "horse",
           "sheep"
         ],
@@ -128,22 +122,6 @@
         ],
         "3": [
           "pig"
-        ]
-      },
-      "picked_up": {
-        "1": [
-          "chicken"
-        ],
-        "2": [
-          "jungle_boat"
-        ]
-      },
-      "used": {
-        "1": [
-          "chicken"
-        ],
-        "2": [
-          "jungle_boat"
         ]
       }
     },
@@ -175,11 +153,6 @@
           "cooked_porkchop"
         ]
       },
-      "mined": {
-        "4": [
-          "wheat"
-        ]
-      },
       "picked_up": {
         "2": [
           "feather",
@@ -188,8 +161,7 @@
           "raw_iron"
         ],
         "4": [
-          "porkchop",
-          "wheat"
+          "porkchop"
         ],
         "5": [
           "ink_sac"

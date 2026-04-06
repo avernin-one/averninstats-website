@@ -1,41 +1,37 @@
 {
-  "name": "mossy_cobblestone_wall",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "204": [
-        "ScimMLG"
-      ],
-      "6": [
-        "Sayder13xr"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie"
-      ],
-      "185": [
-        "ScimMLG"
-      ],
-      "4": [
-        "Sayder13xr"
-      ]
-    },
-    "picked_up": {
-      "176": [
-        "ScimMLG"
-      ],
-      "4": [
-        "Sayder13xr"
-      ]
-    },
-    "used": {
-      "357": [
-        "ScimMLG"
-      ],
-      "5": [
-        "Sayder13xr"
-      ]
-    }
+  "crafted": {
+    "204": [
+      "ScimMLG"
+    ],
+    "6": [
+      "Sayder13xr"
+    ]
+  },
+  "mined": {
+    "1": [
+      "leekcookie"
+    ],
+    "185": [
+      "ScimMLG"
+    ],
+    "4": [
+      "Sayder13xr"
+    ]
+  },
+  "picked_up": {
+    "176": [
+      "ScimMLG"
+    ],
+    "4": [
+      "Sayder13xr"
+    ]
+  },
+  "used": {
+    "357": [
+      "ScimMLG"
+    ],
+    "5": [
+      "Sayder13xr"
+    ]
   }
 }

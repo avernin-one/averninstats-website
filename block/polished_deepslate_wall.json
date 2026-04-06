@@ -1,41 +1,37 @@
 {
-  "name": "polished_deepslate_wall",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "leekcookie",
-        "SuperXXLProfi"
-      ],
-      "3": [
-        "XeonVirus"
-      ]
-    },
-    "dropped": {
-      "40": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "3": [
-        "XeonVirus"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "XeonVirus"
-      ]
-    },
-    "used": {
-      "1": [
-        "SuperXXLProfi"
-      ],
-      "16": [
-        "XeonVirus"
-      ],
-      "25": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "SuperXXLProfi",
+      "leekcookie"
+    ],
+    "3": [
+      "XeonVirus"
+    ]
+  },
+  "dropped": {
+    "40": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "3": [
+      "XeonVirus"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "XeonVirus"
+    ]
+  },
+  "used": {
+    "1": [
+      "SuperXXLProfi"
+    ],
+    "16": [
+      "XeonVirus"
+    ],
+    "25": [
+      "leekcookie"
+    ]
   }
 }

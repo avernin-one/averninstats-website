@@ -1,11 +1,7 @@
 {
-  "name": "brown_candle",
-  "type": "block",
-  "scores": {
-    "picked_up": {
-      "4": [
-        "iurie"
-      ]
-    }
+  "picked_up": {
+    "4": [
+      "iurie"
+    ]
   }
 }

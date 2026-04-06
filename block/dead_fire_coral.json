@@ -1,27 +1,23 @@
 {
-  "name": "dead_fire_coral",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "Cpt_looper"
-      ],
-      "3": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Cpt_looper"
-      ],
-      "3": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "2": [
-        "__kreck"
-      ]
-    }
+  "mined": {
+    "1": [
+      "Cpt_looper"
+    ],
+    "3": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Cpt_looper"
+    ],
+    "3": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "2": [
+      "__kreck"
+    ]
   }
 }

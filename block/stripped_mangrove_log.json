@@ -1,16 +1,12 @@
 {
-  "name": "stripped_mangrove_log",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "16": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "16": [
-        "leekcookie"
-      ]
-    }
+  "mined": {
+    "16": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "16": [
+      "leekcookie"
+    ]
   }
 }

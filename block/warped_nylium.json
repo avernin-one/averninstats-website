@@ -1,134 +1,130 @@
 {
-  "name": "warped_nylium",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "1": [
-        "SnuvomBodensatz"
-      ],
-      "139": [
-        "Lord_HoruS"
-      ],
-      "15": [
-        "minenicknick"
-      ],
-      "2": [
-        "owac",
-        "iurie",
-        "XeonVirus"
-      ],
-      "23": [
-        "leekcookie"
-      ],
-      "3": [
-        "santemjocko"
-      ],
-      "4": [
-        "imabaldman"
-      ],
-      "6": [
-        "__kreck"
-      ],
-      "7": [
-        "chaos1989"
-      ]
-    },
-    "mined": {
-      "144": [
-        "lodoss2011"
-      ],
-      "1465": [
-        "__kreck"
-      ],
-      "152": [
-        "XeonVirus"
-      ],
-      "197": [
-        "chaos1989"
-      ],
-      "203": [
-        "Lord_HoruS"
-      ],
-      "251": [
-        "Mamuschkaz"
-      ],
-      "69": [
-        "TrashSuperstar"
-      ],
-      "85": [
-        "Warhazarder"
-      ],
-      "90": [
-        "Iglo"
-      ],
-      "946": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "109": [
-        "leekcookie"
-      ],
-      "123": [
-        "XeonVirus"
-      ],
-      "14": [
-        "Makishi25"
-      ],
-      "143": [
-        "Lord_HoruS"
-      ],
-      "15": [
-        "minenicknick",
-        "owac"
-      ],
-      "157": [
-        "chaos1989"
-      ],
-      "18": [
-        "iurie"
-      ],
-      "27": [
-        "Sayder13xr"
-      ],
-      "356": [
-        "__kreck"
-      ],
-      "52": [
-        "Iglo"
-      ]
-    },
-    "used": {
-      "1": [
-        "Iglo",
-        "owac",
-        "XeonVirus"
-      ],
-      "10": [
-        "lodoss2011"
-      ],
-      "11": [
-        "__kreck"
-      ],
-      "27": [
-        "Sayder13xr"
-      ],
-      "3": [
-        "iurie"
-      ],
-      "4": [
-        "Lord_HoruS",
-        "__Iglo"
-      ],
-      "45": [
-        "santemjocko"
-      ],
-      "6": [
-        "Makishi25"
-      ],
-      "89": [
-        "chaos1989"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "SnuvomBodensatz"
+    ],
+    "139": [
+      "Lord_HoruS"
+    ],
+    "15": [
+      "minenicknick"
+    ],
+    "2": [
+      "XeonVirus",
+      "iurie",
+      "owac"
+    ],
+    "23": [
+      "leekcookie"
+    ],
+    "3": [
+      "santemjocko"
+    ],
+    "4": [
+      "imabaldman"
+    ],
+    "6": [
+      "__kreck"
+    ],
+    "7": [
+      "chaos1989"
+    ]
+  },
+  "mined": {
+    "144": [
+      "lodoss2011"
+    ],
+    "1465": [
+      "__kreck"
+    ],
+    "152": [
+      "XeonVirus"
+    ],
+    "197": [
+      "chaos1989"
+    ],
+    "203": [
+      "Lord_HoruS"
+    ],
+    "251": [
+      "Mamuschkaz"
+    ],
+    "69": [
+      "TrashSuperstar"
+    ],
+    "85": [
+      "Warhazarder"
+    ],
+    "90": [
+      "Iglo"
+    ],
+    "946": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "109": [
+      "leekcookie"
+    ],
+    "123": [
+      "XeonVirus"
+    ],
+    "14": [
+      "Makishi25"
+    ],
+    "143": [
+      "Lord_HoruS"
+    ],
+    "15": [
+      "minenicknick",
+      "owac"
+    ],
+    "157": [
+      "chaos1989"
+    ],
+    "18": [
+      "iurie"
+    ],
+    "27": [
+      "Sayder13xr"
+    ],
+    "356": [
+      "__kreck"
+    ],
+    "52": [
+      "Iglo"
+    ]
+  },
+  "used": {
+    "1": [
+      "Iglo",
+      "XeonVirus",
+      "owac"
+    ],
+    "10": [
+      "lodoss2011"
+    ],
+    "11": [
+      "__kreck"
+    ],
+    "27": [
+      "Sayder13xr"
+    ],
+    "3": [
+      "iurie"
+    ],
+    "4": [
+      "Lord_HoruS",
+      "__Iglo"
+    ],
+    "45": [
+      "santemjocko"
+    ],
+    "6": [
+      "Makishi25"
+    ],
+    "89": [
+      "chaos1989"
+    ]
   }
 }

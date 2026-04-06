@@ -1,25 +1,21 @@
 {
-  "name": "jungle_wall_sign",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "10": [
-        "chaos1989"
-      ],
-      "12": [
-        "Iglo"
-      ],
-      "17": [
-        "__kreck"
-      ],
-      "3": [
-        "philxpx",
-        "Cpt_looper",
-        "imabaldman"
-      ],
-      "7": [
-        "__Iglo"
-      ]
-    }
+  "mined": {
+    "10": [
+      "chaos1989"
+    ],
+    "12": [
+      "Iglo"
+    ],
+    "17": [
+      "__kreck"
+    ],
+    "3": [
+      "Cpt_looper",
+      "imabaldman",
+      "philxpx"
+    ],
+    "7": [
+      "__Iglo"
+    ]
   }
 }

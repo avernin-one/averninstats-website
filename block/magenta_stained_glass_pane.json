@@ -1,11 +1,7 @@
 {
-  "name": "magenta_stained_glass_pane",
-  "type": "block",
-  "scores": {
-    "picked_up": {
-      "4": [
-        "iurie"
-      ]
-    }
+  "picked_up": {
+    "4": [
+      "iurie"
+    ]
   }
 }

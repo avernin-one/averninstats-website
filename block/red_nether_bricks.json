@@ -1,26 +1,22 @@
 {
-  "name": "red_nether_bricks",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "2910": [
-        "santemjocko"
-      ]
-    },
-    "mined": {
-      "26": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "26": [
-        "santemjocko"
-      ]
-    },
-    "used": {
-      "173": [
-        "santemjocko"
-      ]
-    }
+  "crafted": {
+    "2910": [
+      "santemjocko"
+    ]
+  },
+  "mined": {
+    "26": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "26": [
+      "santemjocko"
+    ]
+  },
+  "used": {
+    "173": [
+      "santemjocko"
+    ]
   }
 }

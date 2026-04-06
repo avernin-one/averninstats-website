@@ -1,44 +1,40 @@
 {
-  "name": "written_book",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "SnuvomBodensatz"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "minenicknick",
-        "Teayo"
-      ],
-      "2": [
-        "SnuvomBodensatz"
-      ],
-      "3": [
-        "Sayder13xr"
-      ]
-    },
-    "used": {
-      "1": [
-        "minenicknick",
-        "TrashSuperstar"
-      ],
-      "2": [
-        "Sayder13xr",
-        "Teayo"
-      ],
-      "3": [
-        "Lord_HoruS"
-      ],
-      "4": [
-        "SnuvomBodensatz"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "SnuvomBodensatz"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Teayo",
+      "minenicknick"
+    ],
+    "2": [
+      "SnuvomBodensatz"
+    ],
+    "3": [
+      "Sayder13xr"
+    ]
+  },
+  "used": {
+    "1": [
+      "TrashSuperstar",
+      "minenicknick"
+    ],
+    "2": [
+      "Sayder13xr",
+      "Teayo"
+    ],
+    "3": [
+      "Lord_HoruS"
+    ],
+    "4": [
+      "SnuvomBodensatz"
+    ]
   }
 }

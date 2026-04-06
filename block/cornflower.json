@@ -1,125 +1,121 @@
 {
-  "name": "cornflower",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12": [
-        "lodoss2011"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Lukas_126",
-        "ScimMLG",
-        "Iglo",
-        "DornDasBrot",
-        "__Iglo",
-        "__kreck"
-      ],
-      "11": [
-        "santemjocko"
-      ],
-      "2": [
-        "Sayder13xr"
-      ],
-      "9": [
-        "TrashSuperstar"
-      ]
-    },
-    "mined": {
-      "14": [
-        "nitram1572"
-      ],
-      "16": [
-        "Makishi25"
-      ],
-      "179": [
-        "Teayo"
-      ],
-      "2": [
-        "lodoss2011",
-        "Austriana",
-        "Iglo",
-        "Telinnor"
-      ],
-      "26": [
-        "iurie"
-      ],
-      "3": [
-        "Lukas_126",
-        "chaos1989",
-        "DornDasBrot",
-        "Warhazarder"
-      ],
-      "38": [
-        "__kreck"
-      ],
-      "5": [
-        "Ivenor",
-        "TrashSuperstar"
-      ],
-      "6": [
-        "SnuvomBodensatz"
-      ],
-      "9": [
-        "santemjocko",
-        "XeonVirus"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "Telinnor"
-      ],
-      "15": [
-        "SnuvomBodensatz",
-        "owac",
-        "nitram1572"
-      ],
-      "16": [
-        "santemjocko",
-        "TrashSuperstar"
-      ],
-      "186": [
-        "Teayo"
-      ],
-      "22": [
-        "Makishi25"
-      ],
-      "26": [
-        "iurie"
-      ],
-      "4": [
-        "DornDasBrot"
-      ],
-      "48": [
-        "__kreck"
-      ],
-      "5": [
-        "Ivenor"
-      ],
-      "9": [
-        "XeonVirus"
-      ]
-    },
-    "used": {
-      "1": [
-        "Sayder13xr",
-        "Teayo"
-      ],
-      "2": [
-        "Austriana"
-      ],
-      "3": [
-        "chaos1989"
-      ],
-      "4": [
-        "XeonVirus"
-      ],
-      "5": [
-        "santemjocko",
-        "Ivenor",
-        "nitram1572"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "lodoss2011"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "DornDasBrot",
+      "Iglo",
+      "Lukas_126",
+      "ScimMLG",
+      "__Iglo",
+      "__kreck"
+    ],
+    "11": [
+      "santemjocko"
+    ],
+    "2": [
+      "Sayder13xr"
+    ],
+    "9": [
+      "TrashSuperstar"
+    ]
+  },
+  "mined": {
+    "14": [
+      "nitram1572"
+    ],
+    "16": [
+      "Makishi25"
+    ],
+    "179": [
+      "Teayo"
+    ],
+    "2": [
+      "Austriana",
+      "Iglo",
+      "Telinnor",
+      "lodoss2011"
+    ],
+    "26": [
+      "iurie"
+    ],
+    "3": [
+      "DornDasBrot",
+      "Lukas_126",
+      "Warhazarder",
+      "chaos1989"
+    ],
+    "38": [
+      "__kreck"
+    ],
+    "5": [
+      "Ivenor",
+      "TrashSuperstar"
+    ],
+    "6": [
+      "SnuvomBodensatz"
+    ],
+    "9": [
+      "XeonVirus",
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "Telinnor"
+    ],
+    "15": [
+      "SnuvomBodensatz",
+      "nitram1572",
+      "owac"
+    ],
+    "16": [
+      "TrashSuperstar",
+      "santemjocko"
+    ],
+    "186": [
+      "Teayo"
+    ],
+    "22": [
+      "Makishi25"
+    ],
+    "26": [
+      "iurie"
+    ],
+    "4": [
+      "DornDasBrot"
+    ],
+    "48": [
+      "__kreck"
+    ],
+    "5": [
+      "Ivenor"
+    ],
+    "9": [
+      "XeonVirus"
+    ]
+  },
+  "used": {
+    "1": [
+      "Sayder13xr",
+      "Teayo"
+    ],
+    "2": [
+      "Austriana"
+    ],
+    "3": [
+      "chaos1989"
+    ],
+    "4": [
+      "XeonVirus"
+    ],
+    "5": [
+      "Ivenor",
+      "nitram1572",
+      "santemjocko"
+    ]
   }
 }

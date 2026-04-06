@@ -1,40 +1,36 @@
 {
-  "name": "brain_coral",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "leekcookie",
-        "nitram1572"
-      ],
-      "2": [
-        "santemjocko",
-        "Lord_HoruS"
-      ],
-      "20": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "santemjocko",
-        "Lord_HoruS"
-      ],
-      "20": [
-        "iurie"
-      ],
-      "3": [
-        "nitram1572"
-      ]
-    },
-    "used": {
-      "1": [
-        "leekcookie",
-        "iurie"
-      ],
-      "2": [
-        "Lord_HoruS"
-      ]
-    }
+  "mined": {
+    "1": [
+      "leekcookie",
+      "nitram1572"
+    ],
+    "2": [
+      "Lord_HoruS",
+      "santemjocko"
+    ],
+    "20": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "Lord_HoruS",
+      "santemjocko"
+    ],
+    "20": [
+      "iurie"
+    ],
+    "3": [
+      "nitram1572"
+    ]
+  },
+  "used": {
+    "1": [
+      "iurie",
+      "leekcookie"
+    ],
+    "2": [
+      "Lord_HoruS"
+    ]
   }
 }

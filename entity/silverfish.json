@@ -1,35 +1,31 @@
 {
-  "name": "silverfish",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "obvBasti",
-        "Temeraiere",
-        "imabaldman"
-      ],
-      "19": [
-        "iurie"
-      ],
-      "3": [
-        "__kreck"
-      ],
-      "301": [
-        "Lord_HoruS"
-      ],
-      "5": [
-        "chaos1989"
-      ],
-      "53": [
-        "lodoss2011"
-      ],
-      "6": [
-        "SnuvomBodensatz",
-        "santemjocko"
-      ],
-      "9": [
-        "XeonVirus"
-      ]
-    }
+  "killed": {
+    "1": [
+      "Temeraiere",
+      "imabaldman",
+      "obvBasti"
+    ],
+    "19": [
+      "iurie"
+    ],
+    "3": [
+      "__kreck"
+    ],
+    "301": [
+      "Lord_HoruS"
+    ],
+    "5": [
+      "chaos1989"
+    ],
+    "53": [
+      "lodoss2011"
+    ],
+    "6": [
+      "SnuvomBodensatz",
+      "santemjocko"
+    ],
+    "9": [
+      "XeonVirus"
+    ]
   }
 }

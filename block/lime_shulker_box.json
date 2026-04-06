@@ -1,67 +1,63 @@
 {
-  "name": "lime_shulker_box",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "iurie",
-        "__Iglo"
-      ],
-      "11": [
-        "santemjocko"
-      ],
-      "5": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "18": [
-        "leekcookie"
-      ],
-      "24": [
-        "iurie"
-      ],
-      "5": [
-        "__kreck"
-      ],
-      "70": [
-        "santemjocko"
-      ],
-      "8": [
-        "__Iglo"
-      ]
-    },
-    "picked_up": {
-      "21": [
-        "leekcookie"
-      ],
-      "24": [
-        "iurie"
-      ],
-      "6": [
-        "__kreck"
-      ],
-      "70": [
-        "santemjocko"
-      ],
-      "8": [
-        "__Iglo"
-      ]
-    },
-    "used": {
-      "24": [
-        "leekcookie",
-        "iurie"
-      ],
-      "5": [
-        "__kreck"
-      ],
-      "70": [
-        "santemjocko"
-      ],
-      "8": [
-        "__Iglo"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "__Iglo",
+      "iurie"
+    ],
+    "11": [
+      "santemjocko"
+    ],
+    "5": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "18": [
+      "leekcookie"
+    ],
+    "24": [
+      "iurie"
+    ],
+    "5": [
+      "__kreck"
+    ],
+    "70": [
+      "santemjocko"
+    ],
+    "8": [
+      "__Iglo"
+    ]
+  },
+  "picked_up": {
+    "21": [
+      "leekcookie"
+    ],
+    "24": [
+      "iurie"
+    ],
+    "6": [
+      "__kreck"
+    ],
+    "70": [
+      "santemjocko"
+    ],
+    "8": [
+      "__Iglo"
+    ]
+  },
+  "used": {
+    "24": [
+      "iurie",
+      "leekcookie"
+    ],
+    "5": [
+      "__kreck"
+    ],
+    "70": [
+      "santemjocko"
+    ],
+    "8": [
+      "__Iglo"
+    ]
   }
 }

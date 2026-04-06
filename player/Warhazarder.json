@@ -2,7 +2,7 @@
   "name": "Warhazarder",
   "uuid": "eea04aa1-8ae1-4eb2-9f22-2ecfbfca91ac",
   "medals": {
-    "gold": 3,
+    "gold": 4,
     "silver": 5,
     "bronze": 2
   },
@@ -148,40 +148,10 @@
       }
     },
     "entity": {
-      "crafted": {
-        "2": [
-          "oak_boat"
-        ],
-        "20": [
-          "arrow",
-          "tnt"
-        ],
-        "4": [
-          "hopper_minecart",
-          "minecart"
-        ],
-        "4890": [
-          "firework_rocket"
-        ],
-        "500": [
-          "item_frame"
-        ]
-      },
-      "dropped": {
-        "1185": [
-          "ender_pearl"
-        ],
-        "16": [
-          "arrow"
-        ],
-        "2": [
-          "salmon"
-        ],
-        "842": [
-          "egg"
-        ]
-      },
       "killed": {
+        "129": [
+          "creeper"
+        ],
         "17451": [
           "enderman"
         ],
@@ -193,9 +163,6 @@
         ],
         "319": [
           "zombie"
-        ],
-        "577": [
-          "chicken"
         ]
       },
       "killed_by": {
@@ -207,45 +174,6 @@
         ],
         "3": [
           "vex"
-        ]
-      },
-      "mined": {
-        "2": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "1078": [
-          "chicken"
-        ],
-        "1502": [
-          "ender_pearl"
-        ],
-        "270": [
-          "firework_rocket"
-        ],
-        "435": [
-          "arrow"
-        ],
-        "6109": [
-          "egg"
-        ]
-      },
-      "used": {
-        "15": [
-          "potion"
-        ],
-        "16": [
-          "hopper_minecart"
-        ],
-        "4380": [
-          "firework_rocket"
-        ],
-        "565": [
-          "item_frame"
-        ],
-        "5728": [
-          "egg"
         ]
       }
     },
@@ -300,20 +228,6 @@
         ],
         "842": [
           "egg"
-        ]
-      },
-      "mined": {
-        "12": [
-          "brewing_stand"
-        ],
-        "17": [
-          "cauldron"
-        ],
-        "3576": [
-          "wheat"
-        ],
-        "5": [
-          "nether_wart"
         ]
       },
       "picked_up": {

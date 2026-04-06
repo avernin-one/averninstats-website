@@ -1,59 +1,55 @@
 {
-  "name": "acacia_trapdoor",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "158": [
-        "Warhazarder"
-      ],
-      "166": [
-        "Makishi25"
-      ],
-      "2": [
-        "ScimMLG"
-      ],
-      "4": [
-        "Telinnor"
-      ]
-    },
-    "mined": {
-      "4": [
-        "Warhazarder"
-      ],
-      "8": [
-        "ScimMLG"
-      ],
-      "80": [
-        "Makishi25"
-      ]
-    },
-    "picked_up": {
-      "132": [
-        "Makishi25"
-      ],
-      "5": [
-        "owac"
-      ],
-      "8": [
-        "ScimMLG"
-      ],
-      "84": [
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "185": [
-        "Makishi25"
-      ],
-      "4": [
-        "Telinnor"
-      ],
-      "8": [
-        "ScimMLG"
-      ],
-      "82": [
-        "Warhazarder"
-      ]
-    }
+  "crafted": {
+    "158": [
+      "Warhazarder"
+    ],
+    "166": [
+      "Makishi25"
+    ],
+    "2": [
+      "ScimMLG"
+    ],
+    "4": [
+      "Telinnor"
+    ]
+  },
+  "mined": {
+    "4": [
+      "Warhazarder"
+    ],
+    "8": [
+      "ScimMLG"
+    ],
+    "80": [
+      "Makishi25"
+    ]
+  },
+  "picked_up": {
+    "132": [
+      "Makishi25"
+    ],
+    "5": [
+      "owac"
+    ],
+    "8": [
+      "ScimMLG"
+    ],
+    "84": [
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "185": [
+      "Makishi25"
+    ],
+    "4": [
+      "Telinnor"
+    ],
+    "8": [
+      "ScimMLG"
+    ],
+    "82": [
+      "Warhazarder"
+    ]
   }
 }

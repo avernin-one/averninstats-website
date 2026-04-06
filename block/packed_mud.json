@@ -1,24 +1,20 @@
 {
-  "name": "packed_mud",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "38": [
-        "Warhazarder"
-      ],
-      "64": [
-        "lodoss2011"
-      ]
-    },
-    "mined": {
-      "49": [
-        "iurie"
-      ]
-    },
-    "picked_up": {
-      "47": [
-        "iurie"
-      ]
-    }
+  "crafted": {
+    "38": [
+      "Warhazarder"
+    ],
+    "64": [
+      "lodoss2011"
+    ]
+  },
+  "mined": {
+    "49": [
+      "iurie"
+    ]
+  },
+  "picked_up": {
+    "47": [
+      "iurie"
+    ]
   }
 }

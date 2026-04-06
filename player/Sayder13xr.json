@@ -150,40 +150,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1248": [
-          "firework_rocket"
-        ],
-        "17": [
-          "oak_boat"
-        ],
-        "21": [
-          "tnt"
-        ],
-        "26": [
-          "hopper_minecart"
-        ],
-        "28": [
-          "minecart"
-        ]
-      },
-      "dropped": {
-        "1058": [
-          "ender_pearl"
-        ],
-        "1764": [
-          "arrow"
-        ],
-        "2": [
-          "minecart"
-        ],
-        "3": [
-          "rabbit"
-        ],
-        "8": [
-          "chicken"
-        ]
-      },
       "killed": {
         "1247": [
           "skeleton"
@@ -210,45 +176,6 @@
           "enderman",
           "skeleton"
         ]
-      },
-      "mined": {
-        "1": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "1071": [
-          "ender_pearl"
-        ],
-        "1080": [
-          "arrow"
-        ],
-        "144": [
-          "snowball"
-        ],
-        "458": [
-          "firework_rocket"
-        ],
-        "66": [
-          "oak_boat"
-        ]
-      },
-      "used": {
-        "1036": [
-          "firework_rocket"
-        ],
-        "26": [
-          "hopper_minecart"
-        ],
-        "31": [
-          "minecart"
-        ],
-        "70": [
-          "oak_boat"
-        ],
-        "73": [
-          "ender_pearl"
-        ]
       }
     },
     "item": {
@@ -266,11 +193,11 @@
         ]
       },
       "crafted": {
+        "1125": [
+          "gold_nugget"
+        ],
         "1248": [
           "firework_rocket"
-        ],
-        "2308": [
-          "wheat"
         ],
         "3178": [
           "iron_ingot"
@@ -297,17 +224,6 @@
         ],
         "831": [
           "bread"
-        ]
-      },
-      "mined": {
-        "154": [
-          "wheat"
-        ],
-        "20": [
-          "nether_wart"
-        ],
-        "4": [
-          "brewing_stand"
         ]
       },
       "picked_up": {

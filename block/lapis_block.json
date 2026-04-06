@@ -1,70 +1,66 @@
 {
-  "name": "lapis_block",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1144": [
-        "iurie"
-      ],
-      "124": [
-        "DornDasBrot"
-      ],
-      "135": [
-        "Lord_HoruS"
-      ],
-      "147": [
-        "chaos1989"
-      ],
-      "151": [
-        "Iglo"
-      ],
-      "195": [
-        "santemjocko"
-      ],
-      "58": [
-        "Mandahaya"
-      ],
-      "77": [
-        "Temeraiere"
-      ],
-      "80": [
-        "Warhazarder"
-      ],
-      "84": [
-        "Sayder13xr"
-      ]
-    },
-    "dropped": {
-      "35": [
-        "DornDasBrot"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "104": [
-        "Sayder13xr"
-      ],
-      "18": [
-        "__Iglo"
-      ],
-      "2": [
-        "leekcookie"
-      ],
-      "45": [
-        "Cpt_looper"
-      ],
-      "79": [
-        "Temeraiere"
-      ]
-    },
-    "used": {
-      "1": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1144": [
+      "iurie"
+    ],
+    "124": [
+      "DornDasBrot"
+    ],
+    "135": [
+      "Lord_HoruS"
+    ],
+    "147": [
+      "chaos1989"
+    ],
+    "151": [
+      "Iglo"
+    ],
+    "195": [
+      "santemjocko"
+    ],
+    "58": [
+      "Mandahaya"
+    ],
+    "77": [
+      "Temeraiere"
+    ],
+    "80": [
+      "Warhazarder"
+    ],
+    "84": [
+      "Sayder13xr"
+    ]
+  },
+  "dropped": {
+    "35": [
+      "DornDasBrot"
+    ]
+  },
+  "mined": {
+    "1": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "104": [
+      "Sayder13xr"
+    ],
+    "18": [
+      "__Iglo"
+    ],
+    "2": [
+      "leekcookie"
+    ],
+    "45": [
+      "Cpt_looper"
+    ],
+    "79": [
+      "Temeraiere"
+    ]
+  },
+  "used": {
+    "1": [
+      "leekcookie"
+    ]
   }
 }

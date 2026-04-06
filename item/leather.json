@@ -1,75 +1,71 @@
 {
-  "name": "leather",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "106": [
-        "Lord_HoruS"
-      ],
-      "112": [
-        "obvBasti"
-      ],
-      "2107": [
-        "__kreck"
-      ],
-      "262": [
-        "minenicknick"
-      ],
-      "281": [
-        "philxpx"
-      ],
-      "4271": [
-        "__Iglo"
-      ],
-      "61": [
-        "iurie"
-      ],
-      "68": [
-        "imabaldman"
-      ],
-      "75": [
-        "SuperXXLProfi"
-      ],
-      "83": [
-        "owac"
-      ]
-    },
-    "picked_up": {
-      "1267": [
-        "iurie"
-      ],
-      "1597": [
-        "__kreck"
-      ],
-      "1660": [
-        "__Iglo"
-      ],
-      "228": [
-        "Sayder13xr"
-      ],
-      "250": [
-        "Makishi25"
-      ],
-      "261": [
-        "Lord_HoruS"
-      ],
-      "284": [
-        "minenicknick"
-      ],
-      "471": [
-        "XeonVirus"
-      ],
-      "551": [
-        "Warhazarder"
-      ],
-      "582": [
-        "philxpx"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "106": [
+      "Lord_HoruS"
+    ],
+    "112": [
+      "obvBasti"
+    ],
+    "2107": [
+      "__kreck"
+    ],
+    "262": [
+      "minenicknick"
+    ],
+    "281": [
+      "philxpx"
+    ],
+    "4271": [
+      "__Iglo"
+    ],
+    "61": [
+      "iurie"
+    ],
+    "68": [
+      "imabaldman"
+    ],
+    "75": [
+      "SuperXXLProfi"
+    ],
+    "83": [
+      "owac"
+    ]
+  },
+  "picked_up": {
+    "1267": [
+      "iurie"
+    ],
+    "1597": [
+      "__kreck"
+    ],
+    "1660": [
+      "__Iglo"
+    ],
+    "228": [
+      "Sayder13xr"
+    ],
+    "250": [
+      "Makishi25"
+    ],
+    "261": [
+      "Lord_HoruS"
+    ],
+    "284": [
+      "minenicknick"
+    ],
+    "471": [
+      "XeonVirus"
+    ],
+    "551": [
+      "Warhazarder"
+    ],
+    "582": [
+      "philxpx"
+    ]
   }
 }

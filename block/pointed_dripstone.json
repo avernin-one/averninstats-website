@@ -1,136 +1,132 @@
 {
-  "name": "pointed_dripstone",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "10": [
-        "chaos1989",
-        "iurie"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "Iglo"
-      ],
-      "174": [
-        "santemjocko"
-      ],
-      "2": [
-        "owac"
-      ],
-      "35": [
-        "TrashSuperstar"
-      ],
-      "4": [
-        "lodoss2011",
-        "Lord_HoruS"
-      ],
-      "5": [
-        "Lukas_126",
-        "XeonVirus"
-      ],
-      "93": [
-        "Ivenor"
-      ],
-      "98": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "118": [
-        "TrashSuperstar"
-      ],
-      "12": [
-        "Iglo"
-      ],
-      "125": [
-        "lodoss2011"
-      ],
-      "24": [
-        "Ivenor"
-      ],
-      "253": [
-        "nitram1572"
-      ],
-      "328": [
-        "leekcookie"
-      ],
-      "36": [
-        "Cpt_looper"
-      ],
-      "62": [
-        "XeonVirus"
-      ],
-      "67": [
-        "Warhazarder"
-      ],
-      "95": [
-        "santemjocko"
-      ]
-    },
-    "picked_up": {
-      "137": [
-        "Ivenor"
-      ],
-      "145": [
-        "XeonVirus"
-      ],
-      "184": [
-        "lodoss2011"
-      ],
-      "199": [
-        "TrashSuperstar"
-      ],
-      "207": [
-        "Warhazarder"
-      ],
-      "242": [
-        "santemjocko"
-      ],
-      "31": [
-        "Sayder13xr"
-      ],
-      "346": [
-        "nitram1572"
-      ],
-      "61": [
-        "Cpt_looper"
-      ],
-      "665": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "116": [
-        "lodoss2011"
-      ],
-      "14": [
-        "Telinnor"
-      ],
-      "18": [
-        "Cpt_looper"
-      ],
-      "26": [
-        "Iglo"
-      ],
-      "34": [
-        "Warhazarder"
-      ],
-      "367": [
-        "leekcookie"
-      ],
-      "4": [
-        "egoplayer_Felix"
-      ],
-      "45": [
-        "XeonVirus"
-      ],
-      "49": [
-        "nitram1572"
-      ],
-      "7": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "10": [
+      "chaos1989",
+      "iurie"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "Iglo"
+    ],
+    "174": [
+      "santemjocko"
+    ],
+    "2": [
+      "owac"
+    ],
+    "35": [
+      "TrashSuperstar"
+    ],
+    "4": [
+      "Lord_HoruS",
+      "lodoss2011"
+    ],
+    "5": [
+      "Lukas_126",
+      "XeonVirus"
+    ],
+    "93": [
+      "Ivenor"
+    ],
+    "98": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "118": [
+      "TrashSuperstar"
+    ],
+    "12": [
+      "Iglo"
+    ],
+    "125": [
+      "lodoss2011"
+    ],
+    "24": [
+      "Ivenor"
+    ],
+    "253": [
+      "nitram1572"
+    ],
+    "328": [
+      "leekcookie"
+    ],
+    "36": [
+      "Cpt_looper"
+    ],
+    "62": [
+      "XeonVirus"
+    ],
+    "67": [
+      "Warhazarder"
+    ],
+    "95": [
+      "santemjocko"
+    ]
+  },
+  "picked_up": {
+    "137": [
+      "Ivenor"
+    ],
+    "145": [
+      "XeonVirus"
+    ],
+    "184": [
+      "lodoss2011"
+    ],
+    "199": [
+      "TrashSuperstar"
+    ],
+    "207": [
+      "Warhazarder"
+    ],
+    "242": [
+      "santemjocko"
+    ],
+    "31": [
+      "Sayder13xr"
+    ],
+    "346": [
+      "nitram1572"
+    ],
+    "61": [
+      "Cpt_looper"
+    ],
+    "665": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "116": [
+      "lodoss2011"
+    ],
+    "14": [
+      "Telinnor"
+    ],
+    "18": [
+      "Cpt_looper"
+    ],
+    "26": [
+      "Iglo"
+    ],
+    "34": [
+      "Warhazarder"
+    ],
+    "367": [
+      "leekcookie"
+    ],
+    "4": [
+      "egoplayer_Felix"
+    ],
+    "45": [
+      "XeonVirus"
+    ],
+    "49": [
+      "nitram1572"
+    ],
+    "7": [
+      "__kreck"
+    ]
   }
 }

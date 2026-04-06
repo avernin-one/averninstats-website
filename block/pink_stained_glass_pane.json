@@ -1,21 +1,17 @@
 {
-  "name": "pink_stained_glass_pane",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "432": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "2": [
-        "iurie"
-      ]
-    },
-    "used": {
-      "4": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "432": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "2": [
+      "iurie"
+    ]
+  },
+  "used": {
+    "4": [
+      "leekcookie"
+    ]
   }
 }

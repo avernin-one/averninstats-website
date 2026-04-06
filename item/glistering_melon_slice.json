@@ -1,44 +1,40 @@
 {
-  "name": "glistering_melon_slice",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "11": [
-        "Iglo"
-      ],
-      "22": [
-        "chaos1989"
-      ],
-      "3": [
-        "santemjocko",
-        "Teayo"
-      ],
-      "300": [
-        "iurie"
-      ],
-      "5": [
-        "lodoss2011"
-      ],
-      "6": [
-        "nitram1572"
-      ]
-    },
-    "dropped": {
-      "9": [
-        "lodoss2011"
-      ]
-    },
-    "picked_up": {
-      "3": [
-        "lodoss2011",
-        "Lord_HoruS"
-      ],
-      "6": [
-        "chaos1989"
-      ],
-      "9": [
-        "DornDasBrot"
-      ]
-    }
+  "crafted": {
+    "11": [
+      "Iglo"
+    ],
+    "22": [
+      "chaos1989"
+    ],
+    "3": [
+      "Teayo",
+      "santemjocko"
+    ],
+    "300": [
+      "iurie"
+    ],
+    "5": [
+      "lodoss2011"
+    ],
+    "6": [
+      "nitram1572"
+    ]
+  },
+  "dropped": {
+    "9": [
+      "lodoss2011"
+    ]
+  },
+  "picked_up": {
+    "3": [
+      "Lord_HoruS",
+      "lodoss2011"
+    ],
+    "6": [
+      "chaos1989"
+    ],
+    "9": [
+      "DornDasBrot"
+    ]
   }
 }

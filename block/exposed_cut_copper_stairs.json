@@ -1,27 +1,23 @@
 {
-  "name": "exposed_cut_copper_stairs",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "philxpx"
-      ],
-      "17": [
-        "Telinnor"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "philxpx"
-      ],
-      "17": [
-        "Telinnor"
-      ]
-    },
-    "used": {
-      "17": [
-        "Telinnor"
-      ]
-    }
+  "mined": {
+    "1": [
+      "philxpx"
+    ],
+    "17": [
+      "Telinnor"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "philxpx"
+    ],
+    "17": [
+      "Telinnor"
+    ]
+  },
+  "used": {
+    "17": [
+      "Telinnor"
+    ]
   }
 }

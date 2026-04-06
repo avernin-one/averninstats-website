@@ -1,32 +1,28 @@
 {
-  "name": "light_gray_stained_glass_pane",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "24": [
-        "Ivenor"
-      ],
-      "32": [
-        "leekcookie"
-      ]
-    },
-    "mined": {
-      "8": [
-        "Ivenor"
-      ]
-    },
-    "picked_up": {
-      "48": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "24": [
-        "Ivenor"
-      ],
-      "8": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "24": [
+      "Ivenor"
+    ],
+    "32": [
+      "leekcookie"
+    ]
+  },
+  "mined": {
+    "8": [
+      "Ivenor"
+    ]
+  },
+  "picked_up": {
+    "48": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "24": [
+      "Ivenor"
+    ],
+    "8": [
+      "leekcookie"
+    ]
   }
 }

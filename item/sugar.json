@@ -1,102 +1,98 @@
 {
-  "name": "sugar",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "115": [
-        "iurie"
-      ],
-      "128": [
-        "XeonVirus"
-      ],
-      "153": [
-        "santemjocko"
-      ],
-      "181": [
-        "chaos1989"
-      ],
-      "26": [
-        "owac"
-      ],
-      "32": [
-        "Mandahaya"
-      ],
-      "33": [
-        "__kreck"
-      ],
-      "491": [
-        "leekcookie"
-      ],
-      "64": [
-        "Telinnor"
-      ],
-      "82": [
-        "TrashSuperstar"
-      ]
-    },
-    "dropped": {
-      "186": [
-        "imabaldman"
-      ],
-      "19": [
-        "Lord_HoruS"
-      ],
-      "221": [
-        "owac"
-      ],
-      "236": [
-        "leekcookie"
-      ],
-      "320": [
-        "santemjocko"
-      ],
-      "4": [
-        "XeonVirus"
-      ],
-      "43": [
-        "minenicknick"
-      ],
-      "46": [
-        "obvBasti"
-      ],
-      "619": [
-        "philxpx"
-      ],
-      "81": [
-        "JonasderGamer"
-      ]
-    },
-    "picked_up": {
-      "221": [
-        "SuperXXLProfi"
-      ],
-      "271": [
-        "owac"
-      ],
-      "39": [
-        "iurie"
-      ],
-      "472": [
-        "leekcookie"
-      ],
-      "50": [
-        "obvBasti"
-      ],
-      "545": [
-        "philxpx"
-      ],
-      "68": [
-        "XeonVirus"
-      ],
-      "81": [
-        "JonasderGamer"
-      ],
-      "86": [
-        "minenicknick"
-      ],
-      "97": [
-        "imabaldman"
-      ]
-    }
+  "crafted": {
+    "115": [
+      "iurie"
+    ],
+    "128": [
+      "XeonVirus"
+    ],
+    "153": [
+      "santemjocko"
+    ],
+    "181": [
+      "chaos1989"
+    ],
+    "26": [
+      "owac"
+    ],
+    "32": [
+      "Mandahaya"
+    ],
+    "33": [
+      "__kreck"
+    ],
+    "491": [
+      "leekcookie"
+    ],
+    "64": [
+      "Telinnor"
+    ],
+    "82": [
+      "TrashSuperstar"
+    ]
+  },
+  "dropped": {
+    "186": [
+      "imabaldman"
+    ],
+    "19": [
+      "Lord_HoruS"
+    ],
+    "221": [
+      "owac"
+    ],
+    "236": [
+      "leekcookie"
+    ],
+    "320": [
+      "santemjocko"
+    ],
+    "4": [
+      "XeonVirus"
+    ],
+    "43": [
+      "minenicknick"
+    ],
+    "46": [
+      "obvBasti"
+    ],
+    "619": [
+      "philxpx"
+    ],
+    "81": [
+      "JonasderGamer"
+    ]
+  },
+  "picked_up": {
+    "221": [
+      "SuperXXLProfi"
+    ],
+    "271": [
+      "owac"
+    ],
+    "39": [
+      "iurie"
+    ],
+    "472": [
+      "leekcookie"
+    ],
+    "50": [
+      "obvBasti"
+    ],
+    "545": [
+      "philxpx"
+    ],
+    "68": [
+      "XeonVirus"
+    ],
+    "81": [
+      "JonasderGamer"
+    ],
+    "86": [
+      "minenicknick"
+    ],
+    "97": [
+      "imabaldman"
+    ]
   }
 }

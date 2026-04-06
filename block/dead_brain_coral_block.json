@@ -1,30 +1,26 @@
 {
-  "name": "dead_brain_coral_block",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "11": [
-        "Makishi25",
-        "__kreck"
-      ],
-      "2": [
-        "TrashSuperstar"
-      ]
-    },
-    "picked_up": {
-      "11": [
-        "Makishi25",
-        "__kreck"
-      ],
-      "2": [
-        "TrashSuperstar"
-      ]
-    },
-    "used": {
-      "11": [
-        "Makishi25",
-        "__kreck"
-      ]
-    }
+  "mined": {
+    "11": [
+      "Makishi25",
+      "__kreck"
+    ],
+    "2": [
+      "TrashSuperstar"
+    ]
+  },
+  "picked_up": {
+    "11": [
+      "Makishi25",
+      "__kreck"
+    ],
+    "2": [
+      "TrashSuperstar"
+    ]
+  },
+  "used": {
+    "11": [
+      "Makishi25",
+      "__kreck"
+    ]
   }
 }

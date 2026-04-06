@@ -1,106 +1,102 @@
 {
-  "name": "melon_slice",
-  "type": "item",
-  "scores": {
-    "dropped": {
-      "1": [
-        "ScimMLG",
-        "SuperXXLProfi"
-      ],
-      "179274": [
-        "iurie"
-      ],
-      "2": [
-        "Lord_HoruS",
-        "Warhazarder"
-      ],
-      "213": [
-        "leekcookie"
-      ],
-      "3": [
-        "SnuvomBodensatz",
-        "santemjocko",
-        "__kreck"
-      ],
-      "5": [
-        "DornDasBrot"
-      ],
-      "50": [
-        "philxpx"
-      ],
-      "64": [
-        "__Iglo"
-      ],
-      "837": [
-        "Telinnor"
-      ],
-      "9943": [
-        "Iglo"
-      ]
-    },
-    "picked_up": {
-      "11287": [
-        "Iglo"
-      ],
-      "1728": [
-        "Mandahaya"
-      ],
-      "180198": [
-        "iurie"
-      ],
-      "3458": [
-        "leekcookie"
-      ],
-      "413": [
-        "__kreck"
-      ],
-      "4405": [
-        "chaos1989"
-      ],
-      "445": [
-        "Telinnor"
-      ],
-      "506": [
-        "Warhazarder"
-      ],
-      "784": [
-        "SnuvomBodensatz"
-      ],
-      "971": [
-        "DornDasBrot"
-      ]
-    },
-    "used": {
-      "152": [
-        "philxpx"
-      ],
-      "17": [
-        "nitram1572"
-      ],
-      "171": [
-        "Mandahaya"
-      ],
-      "192": [
-        "leekcookie"
-      ],
-      "23": [
-        "chaos1989"
-      ],
-      "43": [
-        "ScimMLG"
-      ],
-      "542": [
-        "iurie"
-      ],
-      "63": [
-        "Iglo"
-      ],
-      "69": [
-        "Telinnor"
-      ],
-      "90": [
-        "Lord_HoruS"
-      ]
-    }
+  "dropped": {
+    "1": [
+      "ScimMLG",
+      "SuperXXLProfi"
+    ],
+    "179274": [
+      "iurie"
+    ],
+    "2": [
+      "Lord_HoruS",
+      "Warhazarder"
+    ],
+    "213": [
+      "leekcookie"
+    ],
+    "3": [
+      "SnuvomBodensatz",
+      "__kreck",
+      "santemjocko"
+    ],
+    "5": [
+      "DornDasBrot"
+    ],
+    "50": [
+      "philxpx"
+    ],
+    "64": [
+      "__Iglo"
+    ],
+    "837": [
+      "Telinnor"
+    ],
+    "9943": [
+      "Iglo"
+    ]
+  },
+  "picked_up": {
+    "11287": [
+      "Iglo"
+    ],
+    "1728": [
+      "Mandahaya"
+    ],
+    "180198": [
+      "iurie"
+    ],
+    "3458": [
+      "leekcookie"
+    ],
+    "413": [
+      "__kreck"
+    ],
+    "4405": [
+      "chaos1989"
+    ],
+    "445": [
+      "Telinnor"
+    ],
+    "506": [
+      "Warhazarder"
+    ],
+    "784": [
+      "SnuvomBodensatz"
+    ],
+    "971": [
+      "DornDasBrot"
+    ]
+  },
+  "used": {
+    "152": [
+      "philxpx"
+    ],
+    "17": [
+      "nitram1572"
+    ],
+    "171": [
+      "Mandahaya"
+    ],
+    "192": [
+      "leekcookie"
+    ],
+    "23": [
+      "chaos1989"
+    ],
+    "43": [
+      "ScimMLG"
+    ],
+    "542": [
+      "iurie"
+    ],
+    "63": [
+      "Iglo"
+    ],
+    "69": [
+      "Telinnor"
+    ],
+    "90": [
+      "Lord_HoruS"
+    ]
   }
 }

@@ -1,53 +1,49 @@
 {
-  "name": "map",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "1": [
-        "Mamuschkaz"
-      ],
-      "16": [
-        "nitram1572"
-      ],
-      "2": [
-        "iurie",
-        "XeonVirus"
-      ],
-      "33": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "Mandahaya",
-        "chaos1989",
-        "Telinnor",
-        "__Iglo"
-      ],
-      "2": [
-        "owac",
-        "Makishi25"
-      ],
-      "3": [
-        "Warhazarder"
-      ]
-    },
-    "used": {
-      "1": [
-        "Mandahaya",
-        "santemjocko",
-        "Mamuschkaz",
-        "iurie",
-        "Telinnor",
-        "Lord_HoruS",
-        "XeonVirus"
-      ],
-      "15": [
-        "nitram1572"
-      ],
-      "3": [
-        "__kreck"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "Mamuschkaz"
+    ],
+    "16": [
+      "nitram1572"
+    ],
+    "2": [
+      "XeonVirus",
+      "iurie"
+    ],
+    "33": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "Mandahaya",
+      "Telinnor",
+      "__Iglo",
+      "chaos1989"
+    ],
+    "2": [
+      "Makishi25",
+      "owac"
+    ],
+    "3": [
+      "Warhazarder"
+    ]
+  },
+  "used": {
+    "1": [
+      "Lord_HoruS",
+      "Mamuschkaz",
+      "Mandahaya",
+      "Telinnor",
+      "XeonVirus",
+      "iurie",
+      "santemjocko"
+    ],
+    "15": [
+      "nitram1572"
+    ],
+    "3": [
+      "__kreck"
+    ]
   }
 }

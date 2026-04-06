@@ -1,110 +1,106 @@
 {
-  "name": "cookie",
-  "type": "item",
-  "scores": {
-    "crafted": {
-      "126": [
-        "leekcookie"
-      ],
-      "144": [
-        "obvBasti"
-      ],
-      "16": [
-        "Mandahaya"
-      ],
-      "162": [
-        "TrashSuperstar"
-      ],
-      "200": [
-        "santemjocko"
-      ],
-      "216": [
-        "owac"
-      ],
-      "26": [
-        "iurie"
-      ],
-      "468": [
-        "Teayo"
-      ],
-      "80": [
-        "DornDasBrot"
-      ],
-      "90": [
-        "nitram1572"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "KleeneEle"
-      ],
-      "11": [
-        "Iglo"
-      ],
-      "144": [
-        "obvBasti"
-      ],
-      "15": [
-        "santemjocko"
-      ],
-      "164": [
-        "Teayo"
-      ],
-      "64": [
-        "__Iglo"
-      ],
-      "70": [
-        "DornDasBrot"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "philxpx"
-      ],
-      "14": [
-        "Iglo"
-      ],
-      "30": [
-        "DornDasBrot"
-      ],
-      "39": [
-        "Cpt_looper"
-      ],
-      "64": [
-        "KleeneEle"
-      ],
-      "7": [
-        "lodoss2011"
-      ],
-      "71": [
-        "santemjocko"
-      ],
-      "79": [
-        "Teayo"
-      ],
-      "93": [
-        "PopCat007"
-      ]
-    },
-    "used": {
-      "1": [
-        "philxpx"
-      ],
-      "18": [
-        "PopCat007"
-      ],
-      "19": [
-        "iurie"
-      ],
-      "37": [
-        "Cpt_looper"
-      ],
-      "45": [
-        "KleeneEle"
-      ],
-      "450": [
-        "Teayo"
-      ]
-    }
+  "crafted": {
+    "126": [
+      "leekcookie"
+    ],
+    "144": [
+      "obvBasti"
+    ],
+    "16": [
+      "Mandahaya"
+    ],
+    "162": [
+      "TrashSuperstar"
+    ],
+    "200": [
+      "santemjocko"
+    ],
+    "216": [
+      "owac"
+    ],
+    "26": [
+      "iurie"
+    ],
+    "468": [
+      "Teayo"
+    ],
+    "80": [
+      "DornDasBrot"
+    ],
+    "90": [
+      "nitram1572"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "KleeneEle"
+    ],
+    "11": [
+      "Iglo"
+    ],
+    "144": [
+      "obvBasti"
+    ],
+    "15": [
+      "santemjocko"
+    ],
+    "164": [
+      "Teayo"
+    ],
+    "64": [
+      "__Iglo"
+    ],
+    "70": [
+      "DornDasBrot"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "philxpx"
+    ],
+    "14": [
+      "Iglo"
+    ],
+    "30": [
+      "DornDasBrot"
+    ],
+    "39": [
+      "Cpt_looper"
+    ],
+    "64": [
+      "KleeneEle"
+    ],
+    "7": [
+      "lodoss2011"
+    ],
+    "71": [
+      "santemjocko"
+    ],
+    "79": [
+      "Teayo"
+    ],
+    "93": [
+      "PopCat007"
+    ]
+  },
+  "used": {
+    "1": [
+      "philxpx"
+    ],
+    "18": [
+      "PopCat007"
+    ],
+    "19": [
+      "iurie"
+    ],
+    "37": [
+      "Cpt_looper"
+    ],
+    "45": [
+      "KleeneEle"
+    ],
+    "450": [
+      "Teayo"
+    ]
   }
 }

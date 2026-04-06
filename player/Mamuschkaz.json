@@ -2,9 +2,9 @@
   "name": "Mamuschkaz",
   "uuid": "34dbe2b4-2688-4174-ace3-776ab36b6608",
   "medals": {
-    "gold": 1,
-    "silver": 0,
-    "bronze": 1
+    "gold": 2,
+    "silver": 4,
+    "bronze": 8
   },
   "stats": {
     "animals_bred": 11,
@@ -144,41 +144,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "35": [
-          "item_frame"
-        ],
-        "4392": [
-          "firework_rocket"
-        ],
-        "5": [
-          "hopper_minecart"
-        ],
-        "6": [
-          "tnt"
-        ],
-        "9": [
-          "minecart"
-        ]
-      },
-      "dropped": {
-        "104": [
-          "arrow"
-        ],
-        "2": [
-          "cod",
-          "spruce_boat"
-        ],
-        "335": [
-          "ender_pearl"
-        ],
-        "396": [
-          "firework_rocket"
-        ],
-        "6": [
-          "item_frame"
-        ]
-      },
       "killed": {
         "120": [
           "skeleton"
@@ -209,45 +174,6 @@
         ],
         "4": [
           "zombified_piglin"
-        ]
-      },
-      "mined": {
-        "1": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "355": [
-          "arrow"
-        ],
-        "385": [
-          "ender_pearl"
-        ],
-        "437": [
-          "firework_rocket"
-        ],
-        "49": [
-          "chicken"
-        ],
-        "96": [
-          "minecart"
-        ]
-      },
-      "used": {
-        "13": [
-          "hopper_minecart"
-        ],
-        "18": [
-          "spruce_boat"
-        ],
-        "29": [
-          "splash_potion"
-        ],
-        "3831": [
-          "firework_rocket"
-        ],
-        "54": [
-          "item_frame"
         ]
       }
     },
@@ -302,17 +228,6 @@
         ],
         "405": [
           "rotten_flesh"
-        ]
-      },
-      "mined": {
-        "136": [
-          "wheat"
-        ],
-        "2": [
-          "nether_wart"
-        ],
-        "6": [
-          "brewing_stand"
         ]
       },
       "picked_up": {

@@ -1,75 +1,71 @@
 {
-  "name": "glow_lichen",
-  "type": "block",
-  "scores": {
-    "dropped": {
-      "7": [
-        "Temeraiere"
-      ]
-    },
-    "mined": {
-      "17": [
-        "Teayo"
-      ],
-      "25": [
-        "Cpt_looper"
-      ],
-      "3": [
-        "Sayder13xr"
-      ],
-      "30": [
-        "XeonVirus"
-      ],
-      "4": [
-        "santemjocko"
-      ],
-      "5": [
-        "Lord_HoruS",
-        "__Iglo"
-      ],
-      "51": [
-        "Mandahaya"
-      ],
-      "7": [
-        "TrashSuperstar",
-        "nitram1572"
-      ],
-      "8": [
-        "iurie",
-        "__kreck"
-      ],
-      "9": [
-        "leekcookie"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "SuperXXLProfi"
-      ],
-      "25": [
-        "Cpt_looper"
-      ],
-      "32": [
-        "XeonVirus"
-      ],
-      "6": [
-        "leekcookie",
-        "nitram1572"
-      ],
-      "66": [
-        "Mandahaya"
-      ],
-      "7": [
-        "Temeraiere"
-      ]
-    },
-    "used": {
-      "2": [
-        "leekcookie"
-      ],
-      "32": [
-        "XeonVirus"
-      ]
-    }
+  "dropped": {
+    "7": [
+      "Temeraiere"
+    ]
+  },
+  "mined": {
+    "17": [
+      "Teayo"
+    ],
+    "25": [
+      "Cpt_looper"
+    ],
+    "3": [
+      "Sayder13xr"
+    ],
+    "30": [
+      "XeonVirus"
+    ],
+    "4": [
+      "santemjocko"
+    ],
+    "5": [
+      "Lord_HoruS",
+      "__Iglo"
+    ],
+    "51": [
+      "Mandahaya"
+    ],
+    "7": [
+      "TrashSuperstar",
+      "nitram1572"
+    ],
+    "8": [
+      "__kreck",
+      "iurie"
+    ],
+    "9": [
+      "leekcookie"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "SuperXXLProfi"
+    ],
+    "25": [
+      "Cpt_looper"
+    ],
+    "32": [
+      "XeonVirus"
+    ],
+    "6": [
+      "leekcookie",
+      "nitram1572"
+    ],
+    "66": [
+      "Mandahaya"
+    ],
+    "7": [
+      "Temeraiere"
+    ]
+  },
+  "used": {
+    "2": [
+      "leekcookie"
+    ],
+    "32": [
+      "XeonVirus"
+    ]
   }
 }

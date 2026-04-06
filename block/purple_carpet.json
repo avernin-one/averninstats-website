@@ -1,57 +1,53 @@
 {
-  "name": "purple_carpet",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "15": [
-        "lodoss2011"
-      ],
-      "2328": [
-        "__kreck"
-      ],
-      "3": [
-        "Mandahaya",
-        "Iglo"
-      ],
-      "52": [
-        "philxpx"
-      ]
-    },
-    "dropped": {
-      "29": [
-        "__kreck"
-      ]
-    },
-    "mined": {
-      "2": [
-        "Iglo"
-      ],
-      "56": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "104": [
-        "__kreck"
-      ],
-      "2": [
-        "Iglo",
-        "Sayder13xr"
-      ]
-    },
-    "used": {
-      "2": [
-        "Sayder13xr"
-      ],
-      "2369": [
-        "__kreck"
-      ],
-      "4": [
-        "Iglo"
-      ],
-      "7": [
-        "lodoss2011"
-      ]
-    }
+  "crafted": {
+    "15": [
+      "lodoss2011"
+    ],
+    "2328": [
+      "__kreck"
+    ],
+    "3": [
+      "Iglo",
+      "Mandahaya"
+    ],
+    "52": [
+      "philxpx"
+    ]
+  },
+  "dropped": {
+    "29": [
+      "__kreck"
+    ]
+  },
+  "mined": {
+    "2": [
+      "Iglo"
+    ],
+    "56": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "104": [
+      "__kreck"
+    ],
+    "2": [
+      "Iglo",
+      "Sayder13xr"
+    ]
+  },
+  "used": {
+    "2": [
+      "Sayder13xr"
+    ],
+    "2369": [
+      "__kreck"
+    ],
+    "4": [
+      "Iglo"
+    ],
+    "7": [
+      "lodoss2011"
+    ]
   }
 }

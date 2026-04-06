@@ -1,33 +1,29 @@
 {
-  "name": "tube_coral_block",
-  "type": "block",
-  "scores": {
-    "mined": {
-      "1": [
-        "leekcookie"
-      ],
-      "29": [
-        "Lord_HoruS"
-      ],
-      "36": [
-        "__kreck"
-      ]
-    },
-    "picked_up": {
-      "29": [
-        "Lord_HoruS"
-      ],
-      "36": [
-        "__kreck"
-      ]
-    },
-    "used": {
-      "18": [
-        "Lord_HoruS"
-      ],
-      "7": [
-        "__kreck"
-      ]
-    }
+  "mined": {
+    "1": [
+      "leekcookie"
+    ],
+    "29": [
+      "Lord_HoruS"
+    ],
+    "36": [
+      "__kreck"
+    ]
+  },
+  "picked_up": {
+    "29": [
+      "Lord_HoruS"
+    ],
+    "36": [
+      "__kreck"
+    ]
+  },
+  "used": {
+    "18": [
+      "Lord_HoruS"
+    ],
+    "7": [
+      "__kreck"
+    ]
   }
 }

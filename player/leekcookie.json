@@ -2,9 +2,9 @@
   "name": "leekcookie",
   "uuid": "2dab308b-451a-4984-b9db-498f5403b815",
   "medals": {
-    "gold": 16,
-    "silver": 13,
-    "bronze": 12
+    "gold": 44,
+    "silver": 7,
+    "bronze": 2
   },
   "stats": {
     "animals_bred": 165,
@@ -157,40 +157,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1141": [
-          "experience_bottle"
-        ],
-        "18645": [
-          "firework_rocket"
-        ],
-        "1991": [
-          "tnt"
-        ],
-        "204": [
-          "minecart"
-        ],
-        "890": [
-          "arrow"
-        ]
-      },
-      "dropped": {
-        "2340": [
-          "ender_pearl"
-        ],
-        "719": [
-          "firework_rocket"
-        ],
-        "820": [
-          "salmon"
-        ],
-        "852": [
-          "cod"
-        ],
-        "917": [
-          "arrow"
-        ]
-      },
       "killed": {
         "160571": [
           "witch"
@@ -223,45 +189,6 @@
         ],
         "8": [
           "vindicator"
-        ]
-      },
-      "mined": {
-        "174": [
-          "tnt"
-        ]
-      },
-      "picked_up": {
-        "11903": [
-          "firework_rocket"
-        ],
-        "1256": [
-          "arrow"
-        ],
-        "2654": [
-          "ender_pearl"
-        ],
-        "557": [
-          "snowball"
-        ],
-        "946": [
-          "tnt"
-        ]
-      },
-      "used": {
-        "1012": [
-          "experience_bottle"
-        ],
-        "140": [
-          "ender_pearl"
-        ],
-        "15188": [
-          "firework_rocket"
-        ],
-        "336": [
-          "minecart"
-        ],
-        "433": [
-          "tnt"
         ]
       }
     },
@@ -318,20 +245,6 @@
         ],
         "7735": [
           "stick"
-        ]
-      },
-      "mined": {
-        "31": [
-          "brewing_stand"
-        ],
-        "79": [
-          "nether_wart"
-        ],
-        "8": [
-          "cauldron"
-        ],
-        "809": [
-          "wheat"
         ]
       },
       "picked_up": {

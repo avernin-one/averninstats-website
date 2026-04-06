@@ -3,8 +3,8 @@
   "uuid": "9494e46c-1253-4971-ae3a-cbf7adb4b762",
   "medals": {
     "gold": 0,
-    "silver": 0,
-    "bronze": 0
+    "silver": 1,
+    "bronze": 1
   },
   "stats": {
     "animals_bred": 236,
@@ -150,28 +150,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "2": [
-          "acacia_boat",
-          "hopper_minecart",
-          "minecart"
-        ],
-        "8": [
-          "item_frame"
-        ]
-      },
-      "dropped": {
-        "1": [
-          "acacia_boat"
-        ],
-        "17": [
-          "arrow"
-        ],
-        "2": [
-          "ender_pearl",
-          "firework_rocket"
-        ]
-      },
       "killed": {
         "112": [
           "magma_cube"
@@ -196,42 +174,6 @@
           "skeleton",
           "trader_llama",
           "zombie"
-        ]
-      },
-      "picked_up": {
-        "11": [
-          "minecart"
-        ],
-        "161": [
-          "arrow"
-        ],
-        "21": [
-          "ender_pearl"
-        ],
-        "222": [
-          "firework_rocket"
-        ],
-        "37": [
-          "acacia_boat"
-        ]
-      },
-      "used": {
-        "2": [
-          "hopper_minecart",
-          "oak_boat"
-        ],
-        "3": [
-          "splash_potion"
-        ],
-        "33": [
-          "acacia_boat"
-        ],
-        "60": [
-          "firework_rocket"
-        ],
-        "8": [
-          "item_frame",
-          "minecart"
         ]
       }
     },
@@ -297,26 +239,15 @@
           "melon_slice"
         ]
       },
-      "mined": {
-        "1": [
-          "brewing_stand"
-        ],
-        "2049": [
-          "wheat"
-        ],
-        "22": [
-          "nether_wart"
-        ]
-      },
       "picked_up": {
         "1438": [
           "carrot"
         ],
-        "1808": [
-          "wheat"
-        ],
         "5551": [
           "wheat_seeds"
+        ],
+        "702": [
+          "raw_copper"
         ],
         "717": [
           "stick"

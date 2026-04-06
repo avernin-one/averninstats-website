@@ -1,86 +1,82 @@
 {
-  "name": "polished_basalt",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "1": [
-        "XeonVirus"
-      ],
-      "1032": [
-        "leekcookie"
-      ],
-      "12": [
-        "Makishi25"
-      ],
-      "2": [
-        "nitram1572"
-      ],
-      "5": [
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "iurie",
-        "__kreck"
-      ],
-      "121": [
-        "leekcookie"
-      ],
-      "3": [
-        "XeonVirus"
-      ]
-    },
-    "mined": {
-      "1": [
-        "santemjocko"
-      ],
-      "2": [
-        "iurie"
-      ],
-      "4": [
-        "XeonVirus"
-      ],
-      "456": [
-        "leekcookie"
-      ],
-      "6": [
-        "nitram1572"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "santemjocko"
-      ],
-      "2": [
-        "iurie"
-      ],
-      "5": [
-        "XeonVirus"
-      ],
-      "6": [
-        "nitram1572"
-      ],
-      "958": [
-        "leekcookie"
-      ]
-    },
-    "used": {
-      "1": [
-        "santemjocko"
-      ],
-      "12": [
-        "Makishi25"
-      ],
-      "2": [
-        "XeonVirus"
-      ],
-      "6": [
-        "nitram1572"
-      ],
-      "665": [
-        "leekcookie"
-      ]
-    }
+  "crafted": {
+    "1": [
+      "XeonVirus"
+    ],
+    "1032": [
+      "leekcookie"
+    ],
+    "12": [
+      "Makishi25"
+    ],
+    "2": [
+      "nitram1572"
+    ],
+    "5": [
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "__kreck",
+      "iurie"
+    ],
+    "121": [
+      "leekcookie"
+    ],
+    "3": [
+      "XeonVirus"
+    ]
+  },
+  "mined": {
+    "1": [
+      "santemjocko"
+    ],
+    "2": [
+      "iurie"
+    ],
+    "4": [
+      "XeonVirus"
+    ],
+    "456": [
+      "leekcookie"
+    ],
+    "6": [
+      "nitram1572"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "santemjocko"
+    ],
+    "2": [
+      "iurie"
+    ],
+    "5": [
+      "XeonVirus"
+    ],
+    "6": [
+      "nitram1572"
+    ],
+    "958": [
+      "leekcookie"
+    ]
+  },
+  "used": {
+    "1": [
+      "santemjocko"
+    ],
+    "12": [
+      "Makishi25"
+    ],
+    "2": [
+      "XeonVirus"
+    ],
+    "6": [
+      "nitram1572"
+    ],
+    "665": [
+      "leekcookie"
+    ]
   }
 }

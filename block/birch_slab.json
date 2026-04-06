@@ -1,152 +1,148 @@
 {
-  "name": "birch_slab",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "114": [
-        "Teayo"
-      ],
-      "1414": [
-        "leekcookie"
-      ],
-      "288": [
-        "Mandahaya"
-      ],
-      "36": [
-        "Lord_HoruS"
-      ],
-      "372": [
-        "imabaldman"
-      ],
-      "432": [
-        "santemjocko",
-        "lodoss2011"
-      ],
-      "48": [
-        "Warhazarder"
-      ],
-      "570": [
-        "DornDasBrot"
-      ],
-      "66": [
-        "__Iglo"
-      ],
-      "90": [
-        "Makishi25",
-        "__kreck"
-      ]
-    },
-    "dropped": {
-      "128": [
-        "santemjocko"
-      ],
-      "267": [
-        "leekcookie"
-      ],
-      "29": [
-        "Iglo"
-      ],
-      "44": [
-        "DornDasBrot"
-      ],
-      "5": [
-        "__Iglo"
-      ]
-    },
-    "mined": {
-      "1": [
-        "Teayo"
-      ],
-      "10": [
-        "Mandahaya"
-      ],
-      "11": [
-        "Makishi25"
-      ],
-      "189": [
-        "DornDasBrot"
-      ],
-      "23": [
-        "ScimMLG"
-      ],
-      "295": [
-        "lodoss2011"
-      ],
-      "43": [
-        "imabaldman"
-      ],
-      "6": [
-        "owac"
-      ],
-      "7": [
-        "Iglo"
-      ]
-    },
-    "picked_up": {
-      "10": [
-        "Mandahaya"
-      ],
-      "11": [
-        "Makishi25"
-      ],
-      "18": [
-        "__kreck"
-      ],
-      "250": [
-        "DornDasBrot"
-      ],
-      "278": [
-        "leekcookie"
-      ],
-      "293": [
-        "lodoss2011"
-      ],
-      "37": [
-        "Warhazarder"
-      ],
-      "40": [
-        "Iglo"
-      ],
-      "48": [
-        "imabaldman"
-      ],
-      "6": [
-        "owac"
-      ]
-    },
-    "used": {
-      "1": [
-        "ScimMLG"
-      ],
-      "11": [
-        "Iglo"
-      ],
-      "2": [
-        "Lord_HoruS"
-      ],
-      "285": [
-        "Mandahaya"
-      ],
-      "308": [
-        "lodoss2011"
-      ],
-      "325": [
-        "imabaldman"
-      ],
-      "6": [
-        "owac",
-        "SuperXXLProfi",
-        "__kreck"
-      ],
-      "64": [
-        "Teayo"
-      ],
-      "755": [
-        "DornDasBrot"
-      ],
-      "99": [
-        "Makishi25"
-      ]
-    }
+  "crafted": {
+    "114": [
+      "Teayo"
+    ],
+    "1414": [
+      "leekcookie"
+    ],
+    "288": [
+      "Mandahaya"
+    ],
+    "36": [
+      "Lord_HoruS"
+    ],
+    "372": [
+      "imabaldman"
+    ],
+    "432": [
+      "lodoss2011",
+      "santemjocko"
+    ],
+    "48": [
+      "Warhazarder"
+    ],
+    "570": [
+      "DornDasBrot"
+    ],
+    "66": [
+      "__Iglo"
+    ],
+    "90": [
+      "Makishi25",
+      "__kreck"
+    ]
+  },
+  "dropped": {
+    "128": [
+      "santemjocko"
+    ],
+    "267": [
+      "leekcookie"
+    ],
+    "29": [
+      "Iglo"
+    ],
+    "44": [
+      "DornDasBrot"
+    ],
+    "5": [
+      "__Iglo"
+    ]
+  },
+  "mined": {
+    "1": [
+      "Teayo"
+    ],
+    "10": [
+      "Mandahaya"
+    ],
+    "11": [
+      "Makishi25"
+    ],
+    "189": [
+      "DornDasBrot"
+    ],
+    "23": [
+      "ScimMLG"
+    ],
+    "295": [
+      "lodoss2011"
+    ],
+    "43": [
+      "imabaldman"
+    ],
+    "6": [
+      "owac"
+    ],
+    "7": [
+      "Iglo"
+    ]
+  },
+  "picked_up": {
+    "10": [
+      "Mandahaya"
+    ],
+    "11": [
+      "Makishi25"
+    ],
+    "18": [
+      "__kreck"
+    ],
+    "250": [
+      "DornDasBrot"
+    ],
+    "278": [
+      "leekcookie"
+    ],
+    "293": [
+      "lodoss2011"
+    ],
+    "37": [
+      "Warhazarder"
+    ],
+    "40": [
+      "Iglo"
+    ],
+    "48": [
+      "imabaldman"
+    ],
+    "6": [
+      "owac"
+    ]
+  },
+  "used": {
+    "1": [
+      "ScimMLG"
+    ],
+    "11": [
+      "Iglo"
+    ],
+    "2": [
+      "Lord_HoruS"
+    ],
+    "285": [
+      "Mandahaya"
+    ],
+    "308": [
+      "lodoss2011"
+    ],
+    "325": [
+      "imabaldman"
+    ],
+    "6": [
+      "SuperXXLProfi",
+      "__kreck",
+      "owac"
+    ],
+    "64": [
+      "Teayo"
+    ],
+    "755": [
+      "DornDasBrot"
+    ],
+    "99": [
+      "Makishi25"
+    ]
   }
 }

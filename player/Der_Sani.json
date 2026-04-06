@@ -2,9 +2,9 @@
   "name": "Der_Sani",
   "uuid": "0bf62b7a-bc9d-4771-88d9-1090fafcd3c4",
   "medals": {
-    "gold": 0,
-    "silver": 0,
-    "bronze": 0
+    "gold": 1,
+    "silver": 8,
+    "bronze": 16
   },
   "stats": {
     "boat_one_cm": 983475,
@@ -109,11 +109,6 @@
       }
     },
     "entity": {
-      "crafted": {
-        "1": [
-          "birch_boat"
-        ]
-      },
       "killed": {
         "1": [
           "creeper",
@@ -125,19 +120,6 @@
         ],
         "3": [
           "zombie"
-        ]
-      },
-      "picked_up": {
-        "1": [
-          "egg"
-        ],
-        "2": [
-          "birch_boat"
-        ]
-      },
-      "used": {
-        "3": [
-          "birch_boat"
         ]
       }
     },
@@ -164,6 +146,9 @@
         ]
       },
       "crafted": {
+        "12": [
+          "iron_ingot"
+        ],
         "36": [
           "bread"
         ],
@@ -175,14 +160,6 @@
         ],
         "72": [
           "bone_meal"
-        ],
-        "81": [
-          "wheat"
-        ]
-      },
-      "mined": {
-        "8": [
-          "wheat"
         ]
       },
       "picked_up": {

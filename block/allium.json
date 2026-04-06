@@ -1,47 +1,43 @@
 {
-  "name": "allium",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "36": [
-        "iurie"
-      ]
-    },
-    "mined": {
-      "1": [
-        "iurie"
-      ],
-      "11": [
-        "Makishi25"
-      ],
-      "3": [
-        "Mandahaya"
-      ],
-      "36": [
-        "XeonVirus"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "iurie"
-      ],
-      "22": [
-        "Makishi25"
-      ],
-      "3": [
-        "Mandahaya"
-      ],
-      "36": [
-        "XeonVirus"
-      ]
-    },
-    "used": {
-      "1": [
-        "iurie"
-      ],
-      "16": [
-        "XeonVirus"
-      ]
-    }
+  "crafted": {
+    "36": [
+      "iurie"
+    ]
+  },
+  "mined": {
+    "1": [
+      "iurie"
+    ],
+    "11": [
+      "Makishi25"
+    ],
+    "3": [
+      "Mandahaya"
+    ],
+    "36": [
+      "XeonVirus"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "iurie"
+    ],
+    "22": [
+      "Makishi25"
+    ],
+    "3": [
+      "Mandahaya"
+    ],
+    "36": [
+      "XeonVirus"
+    ]
+  },
+  "used": {
+    "1": [
+      "iurie"
+    ],
+    "16": [
+      "XeonVirus"
+    ]
   }
 }

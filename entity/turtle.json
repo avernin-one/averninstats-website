@@ -1,32 +1,28 @@
 {
-  "name": "turtle",
-  "type": "entity",
-  "scores": {
-    "killed": {
-      "1": [
-        "iurie",
-        "nitram1572"
-      ],
-      "13": [
-        "chaos1989"
-      ],
-      "2": [
-        "SnuvomBodensatz",
-        "lodoss2011",
-        "TrashSuperstar"
-      ],
-      "27": [
-        "DornDasBrot"
-      ],
-      "4": [
-        "obvBasti"
-      ],
-      "6": [
-        "XeonVirus"
-      ],
-      "8": [
-        "Iglo"
-      ]
-    }
+  "killed": {
+    "1": [
+      "iurie",
+      "nitram1572"
+    ],
+    "13": [
+      "chaos1989"
+    ],
+    "2": [
+      "SnuvomBodensatz",
+      "TrashSuperstar",
+      "lodoss2011"
+    ],
+    "27": [
+      "DornDasBrot"
+    ],
+    "4": [
+      "obvBasti"
+    ],
+    "6": [
+      "XeonVirus"
+    ],
+    "8": [
+      "Iglo"
+    ]
   }
 }

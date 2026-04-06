@@ -1,124 +1,120 @@
 {
-  "name": "polished_granite",
-  "type": "block",
-  "scores": {
-    "crafted": {
-      "12": [
-        "nitram1572"
-      ],
-      "120": [
-        "SnuvomBodensatz"
-      ],
-      "1296": [
-        "leekcookie"
-      ],
-      "196": [
-        "owac"
-      ],
-      "60": [
-        "XeonVirus"
-      ],
-      "992": [
-        "Mamuschkaz"
-      ]
-    },
-    "dropped": {
-      "1": [
-        "iurie",
-        "DornDasBrot"
-      ],
-      "11": [
-        "XeonVirus"
-      ],
-      "196": [
-        "owac"
-      ],
-      "4": [
-        "Austriana"
-      ],
-      "73": [
-        "Mamuschkaz"
-      ]
-    },
-    "mined": {
-      "1": [
-        "leekcookie",
-        "KleeneEle",
-        "DornDasBrot",
-        "XeonVirus"
-      ],
-      "102": [
-        "Mamuschkaz"
-      ],
-      "14": [
-        "Der_Sani"
-      ],
-      "2": [
-        "Austriana"
-      ],
-      "22": [
-        "iurie"
-      ],
-      "3": [
-        "Mandahaya",
-        "chaos1989"
-      ],
-      "5": [
-        "SnuvomBodensatz"
-      ]
-    },
-    "picked_up": {
-      "1": [
-        "KleeneEle",
-        "DornDasBrot",
-        "XeonVirus"
-      ],
-      "130": [
-        "Mamuschkaz"
-      ],
-      "14": [
-        "Der_Sani"
-      ],
-      "17": [
-        "iurie"
-      ],
-      "28": [
-        "leekcookie"
-      ],
-      "3": [
-        "Mandahaya",
-        "chaos1989"
-      ],
-      "5": [
-        "SnuvomBodensatz"
-      ],
-      "6": [
-        "Austriana"
-      ]
-    },
-    "used": {
-      "1": [
-        "KleeneEle"
-      ],
-      "1080": [
-        "Mamuschkaz"
-      ],
-      "174": [
-        "Der_Sani"
-      ],
-      "2": [
-        "Mandahaya"
-      ],
-      "28": [
-        "SnuvomBodensatz"
-      ],
-      "3": [
-        "leekcookie"
-      ],
-      "50": [
-        "chaos1989",
-        "XeonVirus"
-      ]
-    }
+  "crafted": {
+    "12": [
+      "nitram1572"
+    ],
+    "120": [
+      "SnuvomBodensatz"
+    ],
+    "1296": [
+      "leekcookie"
+    ],
+    "196": [
+      "owac"
+    ],
+    "60": [
+      "XeonVirus"
+    ],
+    "992": [
+      "Mamuschkaz"
+    ]
+  },
+  "dropped": {
+    "1": [
+      "DornDasBrot",
+      "iurie"
+    ],
+    "11": [
+      "XeonVirus"
+    ],
+    "196": [
+      "owac"
+    ],
+    "4": [
+      "Austriana"
+    ],
+    "73": [
+      "Mamuschkaz"
+    ]
+  },
+  "mined": {
+    "1": [
+      "DornDasBrot",
+      "KleeneEle",
+      "XeonVirus",
+      "leekcookie"
+    ],
+    "102": [
+      "Mamuschkaz"
+    ],
+    "14": [
+      "Der_Sani"
+    ],
+    "2": [
+      "Austriana"
+    ],
+    "22": [
+      "iurie"
+    ],
+    "3": [
+      "Mandahaya",
+      "chaos1989"
+    ],
+    "5": [
+      "SnuvomBodensatz"
+    ]
+  },
+  "picked_up": {
+    "1": [
+      "DornDasBrot",
+      "KleeneEle",
+      "XeonVirus"
+    ],
+    "130": [
+      "Mamuschkaz"
+    ],
+    "14": [
+      "Der_Sani"
+    ],
+    "17": [
+      "iurie"
+    ],
+    "28": [
+      "leekcookie"
+    ],
+    "3": [
+      "Mandahaya",
+      "chaos1989"
+    ],
+    "5": [
+      "SnuvomBodensatz"
+    ],
+    "6": [
+      "Austriana"
+    ]
+  },
+  "used": {
+    "1": [
+      "KleeneEle"
+    ],
+    "1080": [
+      "Mamuschkaz"
+    ],
+    "174": [
+      "Der_Sani"
+    ],
+    "2": [
+      "Mandahaya"
+    ],
+    "28": [
+      "SnuvomBodensatz"
+    ],
+    "3": [
+      "leekcookie"
+    ],
+    "50": [
+      "XeonVirus",
+      "chaos1989"
+    ]
   }
 }

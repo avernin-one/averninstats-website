@@ -1,11 +1,7 @@
 {
-  "name": "skull_pottery_sherd",
-  "type": "item",
-  "scores": {
-    "picked_up": {
-      "3": [
-        "iurie"
-      ]
-    }
+  "picked_up": {
+    "3": [
+      "iurie"
+    ]
   }
 }
