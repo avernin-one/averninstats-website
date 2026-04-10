@@ -1,16 +1,1 @@
-{
-  "crafted": {
-    "1": [
-      "iurie"
-    ],
-    "10": [
-      "Teayo"
-    ]
-  },
-  "used": {
-    "1": [
-      "Teayo",
-      "iurie"
-    ]
-  }
-}
+{"crafted":{"1":["iurie"],"10":["Teayo"]},"used":{"1":["Teayo","iurie"]}}

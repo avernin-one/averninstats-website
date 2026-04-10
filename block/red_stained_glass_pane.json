@@ -1,17 +1,1 @@
-{
-  "crafted": {
-    "16": [
-      "__kreck"
-    ]
-  },
-  "picked_up": {
-    "3": [
-      "iurie"
-    ]
-  },
-  "used": {
-    "16": [
-      "__kreck"
-    ]
-  }
-}
+{"crafted":{"16":["__kreck"]},"picked_up":{"3":["iurie"]},"used":{"16":["__kreck"]}}

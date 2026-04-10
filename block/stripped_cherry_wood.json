@@ -1,17 +1,1 @@
-{
-  "mined": {
-    "385": [
-      "leekcookie"
-    ]
-  },
-  "picked_up": {
-    "385": [
-      "leekcookie"
-    ]
-  },
-  "used": {
-    "1": [
-      "leekcookie"
-    ]
-  }
-}
+{"mined":{"385":["leekcookie"]},"picked_up":{"385":["leekcookie"]},"used":{"1":["leekcookie"]}}

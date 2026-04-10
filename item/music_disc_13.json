@@ -1,17 +1,1 @@
-{
-  "dropped": {
-    "2": [
-      "__Iglo",
-      "leekcookie"
-    ]
-  },
-  "picked_up": {
-    "16": [
-      "iurie"
-    ],
-    "3": [
-      "Temeraiere",
-      "leekcookie"
-    ]
-  }
-}
+{"dropped":{"2":["__Iglo","leekcookie"]},"picked_up":{"16":["iurie"],"3":["Temeraiere","leekcookie"]}}

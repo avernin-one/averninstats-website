@@ -1,15 +1,1 @@
-{
-  "picked_up": {
-    "6": [
-      "leekcookie"
-    ]
-  },
-  "used": {
-    "15": [
-      "leekcookie"
-    ],
-    "17": [
-      "iurie"
-    ]
-  }
-}
+{"picked_up":{"6":["leekcookie"]},"used":{"15":["leekcookie"],"17":["iurie"]}}

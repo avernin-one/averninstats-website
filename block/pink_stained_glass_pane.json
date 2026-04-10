@@ -1,17 +1,1 @@
-{
-  "crafted": {
-    "432": [
-      "leekcookie"
-    ]
-  },
-  "picked_up": {
-    "2": [
-      "iurie"
-    ]
-  },
-  "used": {
-    "4": [
-      "leekcookie"
-    ]
-  }
-}
+{"crafted":{"432":["leekcookie"]},"picked_up":{"2":["iurie"]},"used":{"4":["leekcookie"]}}

@@ -1,12 +1,1 @@
-{
-  "mined": {
-    "60": [
-      "santemjocko"
-    ]
-  },
-  "picked_up": {
-    "60": [
-      "santemjocko"
-    ]
-  }
-}
+{"mined":{"60":["santemjocko"]},"picked_up":{"60":["santemjocko"]}}

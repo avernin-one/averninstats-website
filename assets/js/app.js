@@ -1,52 +1,7 @@
-// app.js - entry point
-"use strict";
-
-import { on, start } from "./router.js";
-import { initI18n } from "./i18n.js";
-import { loadTemplates } from "./templates.js";
-import {
-  renderIndex,
-  renderStats,
-  renderPlayers,
-  renderHighscore,
-} from "./views.js";
-
-const ANNOYING_BANNER = `
+"use strict";import{on,start}from"./router.js";import{initI18n}from"./i18n.js";import{loadTemplates}from"./templates.js";import{renderIndex,renderStats,renderPlayers,renderHighscore,}from"./views.js";const ANNOYING_BANNER=`
                                 ▀▀               ██         ██          
    ▀▀█▄ ██ ██ ▄█▀█▄ ████▄ ████▄ ██  ████▄ ▄█▀▀▀ ▀██▀▀ ▀▀█▄ ▀██▀▀ ▄█▀▀▀  
   ▄█▀██ ██▄██ ██▄█▀ ██ ▀▀ ██ ██ ██  ██ ██ ▀███▄  ██  ▄█▀██  ██   ▀███▄  
   ▀█▄██  ▀█▀  ▀█▄▄▄ ██    ██ ██ ██▄ ██ ██ ▄▄▄█▀  ██  ▀█▄██  ██   ▄▄▄█▀  
                                                                         
-`;
-
-async function bootstrap() {
-  console.log(ANNOYING_BANNER);
-
-  // Load templates and translations in parallel before the router starts.
-  try {
-    await Promise.all([loadTemplates(), initI18n()]);
-  } catch (err) {
-    console.error("Bootstrap failed:", err);
-    document.getElementById("app").innerHTML =
-      `<div style="padding:2rem;color:#e94560">⚠️ Failed to load: ${err.message}</div>`;
-    return;
-  }
-
-  renderIndex();
-
-  // Register routes.
-  on("/highscore", () => renderHighscore(null));
-  on("/highscore/:stat", ({ stat }) => renderHighscore(stat));
-  on("/block", () => renderStats("block", null));
-  on("/block/:stat", ({ stat }) => renderStats("block", stat));
-  on("/item", () => renderStats("item", null));
-  on("/item/:stat", ({ stat }) => renderStats("item", stat));
-  on("/entity", () => renderStats("entity", null));
-  on("/entity/:stat", ({ stat }) => renderStats("entity", stat));
-  on("/player", () => renderPlayers());
-  on("/player/:name", ({ name }) => renderPlayers(name));
-
-  start();
-}
-
-await bootstrap();
+`;async function bootstrap(){console.log(ANNOYING_BANNER);try{await Promise.all([loadTemplates(),initI18n()])}catch(e){console.error("Bootstrap failed:",e),document.getElementById("app").innerHTML=`<div style="padding:2rem;color:#e94560">⚠️ Failed to load: ${e.message}</div>`;return}renderIndex(),on("/highscore",()=>renderHighscore(null)),on("/highscore/:stat",({stat:e})=>renderHighscore(e)),on("/block",()=>renderStats("block",null)),on("/block/:stat",({stat:e})=>renderStats("block",e)),on("/item",()=>renderStats("item",null)),on("/item/:stat",({stat:e})=>renderStats("item",e)),on("/entity",()=>renderStats("entity",null)),on("/entity/:stat",({stat:e})=>renderStats("entity",e)),on("/player",()=>renderPlayers()),on("/player/:name",({name:e})=>renderPlayers(e)),start()}await bootstrap()

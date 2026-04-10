@@ -1,17 +1,1 @@
-{
-  "dropped": {
-    "1": [
-      "Iglo"
-    ]
-  },
-  "picked_up": {
-    "1": [
-      "owac"
-    ]
-  },
-  "used": {
-    "1": [
-      "owac"
-    ]
-  }
-}
+{"dropped":{"1":["Iglo"]},"picked_up":{"1":["owac"]},"used":{"1":["owac"]}}

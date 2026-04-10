@@ -1,17 +1,1 @@
-{
-  "mined": {
-    "6": [
-      "chaos1989"
-    ]
-  },
-  "picked_up": {
-    "5": [
-      "chaos1989"
-    ]
-  },
-  "used": {
-    "68": [
-      "chaos1989"
-    ]
-  }
-}
+{"mined":{"6":["chaos1989"]},"picked_up":{"5":["chaos1989"]},"used":{"68":["chaos1989"]}}

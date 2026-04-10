@@ -1,17 +1,1 @@
-{
-  "mined": {
-    "1": [
-      "__kreck"
-    ]
-  },
-  "picked_up": {
-    "1": [
-      "__kreck"
-    ]
-  },
-  "used": {
-    "1": [
-      "__kreck"
-    ]
-  }
-}
+{"mined":{"1":["__kreck"]},"picked_up":{"1":["__kreck"]},"used":{"1":["__kreck"]}}

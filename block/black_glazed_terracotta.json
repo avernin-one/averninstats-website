@@ -1,17 +1,1 @@
-{
-  "crafted": {
-    "7": [
-      "Teayo"
-    ]
-  },
-  "mined": {
-    "22": [
-      "iurie"
-    ]
-  },
-  "picked_up": {
-    "22": [
-      "iurie"
-    ]
-  }
-}
+{"crafted":{"7":["Teayo"]},"mined":{"22":["iurie"]},"picked_up":{"22":["iurie"]}}

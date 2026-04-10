@@ -1,16 +1,1 @@
-{
-  "dropped": {
-    "1": [
-      "iurie",
-      "lodoss2011"
-    ]
-  },
-  "picked_up": {
-    "1": [
-      "iurie"
-    ],
-    "2": [
-      "lodoss2011"
-    ]
-  }
-}
+{"dropped":{"1":["iurie","lodoss2011"]},"picked_up":{"1":["iurie"],"2":["lodoss2011"]}}

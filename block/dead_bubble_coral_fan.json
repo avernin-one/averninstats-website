@@ -1,17 +1,1 @@
-{
-  "mined": {
-    "40": [
-      "iurie"
-    ]
-  },
-  "picked_up": {
-    "84": [
-      "iurie"
-    ]
-  },
-  "used": {
-    "65": [
-      "iurie"
-    ]
-  }
-}
+{"mined":{"40":["iurie"]},"picked_up":{"84":["iurie"]},"used":{"65":["iurie"]}}

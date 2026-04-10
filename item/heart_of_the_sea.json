@@ -1,15 +1,1 @@
-{
-  "dropped": {
-    "8": [
-      "iurie"
-    ]
-  },
-  "picked_up": {
-    "1": [
-      "Austriana"
-    ],
-    "12": [
-      "iurie"
-    ]
-  }
-}
+{"dropped":{"8":["iurie"]},"picked_up":{"1":["Austriana"],"12":["iurie"]}}
